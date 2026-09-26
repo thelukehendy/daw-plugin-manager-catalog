@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-26T16:17:22Z",
+  "updatedAt": "2026-09-26T21:10:14Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -4187,7 +4187,7 @@
         "SlateAudio",
         "VSX"
       ],
-      "portalApp": "Slate RME",
+      "portalApp": "Complete Access Hub",
       "appleSilicon": "native",
       "versionScheme": "semver4",
       "versionExample": "1.2.6.0",
@@ -22955,6 +22955,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneAccess"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "ATac"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -22981,6 +22992,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneLive"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "VST ",
+            "subtype": "ATxL"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23029,6 +23051,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneEFXPlus"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Vefx"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23055,6 +23088,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneHDX"
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23081,6 +23119,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTune"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "VST ",
+            "subtype": "AT81"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23107,6 +23156,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneSlice"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Slce"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23133,6 +23193,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.SoundsoapPro"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "SoSP"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23159,6 +23230,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocalCompressor"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Vxcp"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23185,6 +23267,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocalEQ"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Vxeq"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23211,6 +23304,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocodist"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Ec2w"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -23288,6 +23392,17 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneCore"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Core"
+          }
+        ]
+      },
       "portalApp": "AutoTune Central",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -30546,6 +30661,11 @@
       ],
       "updatePortalUrl": "https://www.bitwig.com/download/",
       "notes": "KVR product https://www.kvraudio.com/product/bitwig-studio-16-track-by-bitwig",
+      "identityKeys": {
+        "bundleIds": [
+          "com.bitwig.studio"
+        ]
+      },
       "notesForUser": "Bitwig Studio DAW edition — hub app, not a discrete plugin installer semver.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -30574,6 +30694,11 @@
       ],
       "updatePortalUrl": "https://www.bitwig.com/download/",
       "notes": "KVR product https://www.kvraudio.com/product/bitwig-studio-6-by-bitwig",
+      "identityKeys": {
+        "bundleIds": [
+          "com.bitwig.studio"
+        ]
+      },
       "notesForUser": "Bitwig Studio DAW edition — hub app, not a discrete plugin installer semver.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -30603,6 +30728,11 @@
       ],
       "updatePortalUrl": "https://www.bitwig.com/download/",
       "notes": "KVR product https://www.kvraudio.com/product/bitwig-studio-essentials-by-bitwig",
+      "identityKeys": {
+        "bundleIds": [
+          "com.bitwig.studio"
+        ]
+      },
       "notesForUser": "Bitwig Studio DAW edition — hub app, not a discrete plugin installer semver.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -30631,6 +30761,11 @@
       ],
       "updatePortalUrl": "https://www.bitwig.com/download/",
       "notes": "KVR product https://www.kvraudio.com/product/bitwig-studio-producer-by-bitwig",
+      "identityKeys": {
+        "bundleIds": [
+          "com.bitwig.studio"
+        ]
+      },
       "notesForUser": "Bitwig Studio DAW edition — hub app, not a discrete plugin installer semver.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -49408,6 +49543,11 @@
       ],
       "updatePortalUrl": "https://www.steinberg.net/download/",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-artist-15-by-steinberg",
+      "identityKeys": {
+        "bundleIds": [
+          "com.steinberg.cubase15"
+        ]
+      },
       "notesForUser": "Steinberg DAW/editor/hub (Cubase Artist 15).",
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
@@ -49436,6 +49576,11 @@
       ],
       "updatePortalUrl": "https://www.steinberg.net/download/",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-elements-15-by-steinberg",
+      "identityKeys": {
+        "bundleIds": [
+          "com.steinberg.cubase15"
+        ]
+      },
       "notesForUser": "Steinberg DAW/editor/hub (Cubase Elements 15).",
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
@@ -49464,6 +49609,11 @@
       ],
       "updatePortalUrl": "https://www.steinberg.net/download/",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-pro-15-by-steinberg",
+      "identityKeys": {
+        "bundleIds": [
+          "com.steinberg.cubase15"
+        ]
+      },
       "notesForUser": "Steinberg DAW/editor/hub (Cubase Pro 15).",
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
@@ -68647,6 +68797,11 @@
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
       "notes": "KVR product https://www.kvraudio.com/product/fl-studio-all-plugins-edition-by-image-line",
+      "identityKeys": {
+        "bundleIds": [
+          "com.image-line.flstudio"
+        ]
+      },
       "notesForUser": "FL Studio edition (FL Studio All Plugins Edition) — DAW hub, not a discrete FX installer.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -68675,6 +68830,11 @@
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
       "notes": "KVR product https://www.kvraudio.com/product/fl-studio-fruity-edition-by-image-line",
+      "identityKeys": {
+        "bundleIds": [
+          "com.image-line.flstudio"
+        ]
+      },
       "notesForUser": "FL Studio edition (FL Studio Fruity Edition) — DAW hub, not a discrete FX installer.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -68703,6 +68863,11 @@
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
       "notes": "KVR product https://www.kvraudio.com/product/fl-studio-mobile-by-image-line",
+      "identityKeys": {
+        "bundleIds": [
+          "com.imageline.FLStudioMobileHD"
+        ]
+      },
       "notesForUser": "FL Studio edition (FL Studio Mobile) — DAW hub, not a discrete FX installer.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -68732,6 +68897,11 @@
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
       "notes": "KVR product https://www.kvraudio.com/product/fl-studio-producer-edition-by-image-line",
+      "identityKeys": {
+        "bundleIds": [
+          "com.image-line.flstudio"
+        ]
+      },
       "notesForUser": "FL Studio edition (FL Studio Producer Edition) — DAW hub, not a discrete FX installer.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -68761,6 +68931,11 @@
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
       "notes": "KVR product https://www.kvraudio.com/product/fl-studio-signature-bundle-by-image-line",
+      "identityKeys": {
+        "bundleIds": [
+          "com.image-line.flstudio"
+        ]
+      },
       "notesForUser": "FL Studio edition (FL Studio Signature Bundle) — DAW hub, not a discrete FX installer.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -70839,6 +71014,11 @@
       "notes": "Replaces the Studio One line (Pro 7 and Artist editions); Studio One Pro 7 owners explicitly eligible for the Fender Studio Pro upgrade (fender.com).",
       "generation": "8",
       "predecessorPluginId": "presonus--studio-one-pro",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fender.studioapp"
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -83166,7 +83346,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83191,7 +83371,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.20",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83216,7 +83396,7 @@
       "popularityTier": 1,
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83241,7 +83421,7 @@
       "popularityTier": 1,
       "latestVersion": "5.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83266,7 +83446,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83291,7 +83471,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83316,7 +83496,7 @@
       "popularityTier": 1,
       "latestVersion": "5.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83341,7 +83521,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83366,7 +83546,7 @@
       "popularityTier": 1,
       "latestVersion": "5.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83391,7 +83571,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83416,7 +83596,7 @@
       "popularityTier": 1,
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83441,7 +83621,7 @@
       "popularityTier": 1,
       "latestVersion": "5.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83466,7 +83646,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:36Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83491,7 +83671,7 @@
       "popularityTier": 1,
       "latestVersion": "4.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -83516,7 +83696,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -106048,10 +106228,12 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "discontinued": true,
+      "notes": "Junk seed row: manufacturer id \"con\" is not a real vendor. Lurssen Mastering Console is an IK Multimedia product; canonical row is ik-multimedia--lurssen-mastering-console. Retired 2026-09-26 after Luke's scan matched this duplicate.",
+      "supersededByPluginId": "ik-multimedia--lurssen-mastering-console",
       "notesForUser": "IK Multimedia product (not Plugin Alliance). Catalog manufacturer_id=con is misfile; see also ik-multimedia--lurssen-mastering-console @ 1.2.0.",
       "popularityTier": 3,
-      "latestVersion": "1.2.0",
+      "finalVersion": "1.2.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/lurssen-mastering-console-by-ik-multimedia",
       "versionVerifiedAt": "2026-09-10T06:29:45Z",
       "versionEvidence": "page-confirmed",
@@ -128325,6 +128507,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/od-ancora-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://www.tokyodawn.net/od-ancora/",
@@ -128350,6 +128539,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/od-deedger-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.5.3",
       "versionSourceUrl": "https://www.tokyodawn.net/od-deedger/",
@@ -128375,6 +128571,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/od-finesse-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://www.tokyodawn.net/od-finesse/",
@@ -128400,6 +128603,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/od-limen-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.tokyodawn.net/od-limen/",
@@ -132369,7 +132579,7 @@
       "popularityTier": 1,
       "latestVersion": "2.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132400,7 +132610,7 @@
       "popularityTier": 1,
       "latestVersion": "1.03.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132567,7 +132777,7 @@
       "popularityTier": 1,
       "latestVersion": "4.03.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132597,7 +132807,7 @@
       "popularityTier": 1,
       "latestVersion": "4.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132696,7 +132906,7 @@
       "popularityTier": 1,
       "latestVersion": "4.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -148437,7 +148647,7 @@
       "popularityTier": 1,
       "latestVersion": "3.11.5",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Quadravox",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -170365,6 +170575,17 @@
       ],
       "updatePortalUrl": "https://www.soundsonline.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/spaces-ii-by-eastwest",
+      "identityKeys": {
+        "bundleIds": [
+          "com.eastwest.EWSpacesII"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "-EW-",
+            "subtype": "EWS2"
+          }
+        ]
+      },
       "notesForUser": "EastWest PLAY/Opus library product (universe identity; not a versioned effect plugin)",
       "identityKind": "soundset",
       "appleSilicon": "native",
@@ -172320,8 +172541,10 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://splice.com/",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.1@https://splice.com/ flash:heuristic",
+      "notes": "Legacy seed entry, retired 2026-09-26. The real product row is splice--splice-desktop-app (standalone_app); bare \"Splice\" scans were mis-binding to this versionless seed (Cursor advisory 2026-09-26).",
+      "supersededByPluginId": "splice--splice-desktop-app",
       "portalApp": "Splice",
+      "identityKind": "discontinued",
       "appleSilicon": "native",
       "popularityTier": 2
     },
@@ -172334,18 +172557,23 @@
       ],
       "updatePortalUrl": "https://splice.com/download",
       "notes": "Splice desktop app (standalone). Split 2026-09-25 from splice--splice: the 5.4.12 observation was sourced from the desktop CDN (desktop.splice.com), not the plugin.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.splice.Splice"
+        ]
+      },
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "5.4.12",
-      "versionSourceUrl": "https://desktop.splice.com/conveyor/stable/splice-5.4.12-mac-aarch64.zip",
-      "versionVerifiedAt": "2026-09-10T07:46:43Z",
+      "latestVersion": "5.4.13",
+      "versionSourceUrl": "https://desktop.splice.com/conveyor/stable/splice-5.4.13-mac-aarch64.zip",
+      "versionVerifiedAt": "2026-09-26T16:20:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manufacturer desktop.splice.com CDN installer filename embeds 5.4.12",
-        "CDN HEAD 200 corroborates live package",
-        "Homebrew cask splice.json version 5.4.12 matches CDN"
+        "manufacturer desktop.splice.com CDN installer filename embeds 5.4.13",
+        "CDN HEAD 200 on both arch packages corroborates live package",
+        "Homebrew cask splice.rb version 5.4.13 matches CDN"
       ]
     },
     {
@@ -175774,9 +176002,9 @@
       "matchPatterns": [
         "Studio One 5"
       ],
-      "notes": "Last documented 5.x release (build 86528). No 5.x release since; Studio One 6 launched Sept 2022. Treated as final @75. Note: v6 exists as an intermediate paid generation with no catalog row yet.",
+      "notes": "Last documented 5.x release (build 86528). No 5.x release since; Studio One 6 launched Sept 2022. Treated as final @75.",
       "generation": "5",
-      "successorPluginId": "presonus--studio-one-pro",
+      "successorPluginId": "presonus--studio-one-6",
       "identityKeys": {
         "bundleIds": [
           "com.presonus.studioone2"
@@ -175799,6 +176027,40 @@
       "versionConfidence": 75,
       "versionConfidenceReasons": [
         "version confirmed as a real release; final-of-generation inferred from release history silence (see notes)"
+      ]
+    },
+    {
+      "id": "presonus--studio-one-6",
+      "manufacturerId": "presonus",
+      "name": "Studio One 6",
+      "matchPatterns": [
+        "Studio One 6"
+      ],
+      "notes": "Final 6.x release 6.6.3 (September 24, 2024, per PreSonus release notes PDF). Studio One 7 launched Oct 9, 2024; no further 6.x releases. @90.",
+      "generation": "6",
+      "successorPluginId": "presonus--studio-one-pro",
+      "identityKeys": {
+        "bundleIds": [
+          "com.presonus.studioone2"
+        ]
+      },
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix"
+        ],
+        "compareSegments": 3
+      },
+      "identityKind": "standalone_app",
+      "appleSilicon": "universal",
+      "popularityTier": 1,
+      "latestVersion": "6.6.3",
+      "versionSourceUrl": "https://www.fmicassets.com/sites/presonus.com/img/studio-one-pro-7/PDFs/Studio%20One%206%20-%20Release%20Notes_6-6-3.pdf",
+      "versionVerifiedAt": "2026-09-26T16:34:49Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party vendor release notes; final-of-generation confirmed by v7 launch with no intervening 6.x"
       ]
     },
     {
@@ -182257,7 +182519,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.3",
       "versionSourceUrl": "https://tal-software.com/products/tal-chorus-lx",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182824,7 +183086,7 @@
       "popularityTier": 1,
       "latestVersion": "4.0.4",
       "versionSourceUrl": "https://tal-software.com/products/tal-reverb-4",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-26T18:04:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -184126,6 +184388,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-arbiter-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-arbiter/",
@@ -184152,6 +184421,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-collector-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.0.10",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-collector/",
@@ -184178,6 +184454,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-elliptical-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-elliptical/",
@@ -184205,6 +184488,13 @@
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-feedback-compressor-by-tokyo-dawn-labs",
       "successorPluginId": "tokyo-dawn-labs--tdr-kotelnikov",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "notesForUser": "TDR Feedback Compressor (legacy freeware) — product page directs new projects to TDR Kotelnikov successor; no public Latest version string.",
       "identityKind": "discontinued",
       "popularityTier": 1
@@ -184226,6 +184516,13 @@
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-feedback-compressor-ii-by-tokyo-dawn-labs",
       "successorPluginId": "tokyo-dawn-labs--tdr-kotelnikov",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "notesForUser": "TDR Feedback Compressor (legacy freeware) — product page directs new projects to TDR Kotelnikov successor; no public Latest version string.",
       "identityKind": "discontinued",
       "popularityTier": 1,
@@ -184254,6 +184551,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-infrasonic-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-infrasonic/",
@@ -184285,6 +184589,13 @@
           }
         ]
       },
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.6.7",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-kotelnikov/",
@@ -184304,6 +184615,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-kotelnikov-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-kotelnikov-ge-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.6.5",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-kotelnikov-ge/",
@@ -184323,6 +184641,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-limiter6-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-limiter-6-ge-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-limiter6-ge/",
@@ -184342,6 +184667,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-molot-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-molot-ge-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-molot-ge/",
@@ -184362,6 +184694,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-molotok/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-molotok/",
@@ -184382,6 +184721,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-nova/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "2.2.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-nova/",
@@ -184401,6 +184747,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-nova-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-nova-ge-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "2.2.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-nova-ge/",
@@ -184421,6 +184774,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-prism/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-prism/",
@@ -184447,6 +184807,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-simulathe-cut-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-simulathe-cut/",
@@ -184473,6 +184840,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-simulathe-ref-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-simulathe-ref/",
@@ -184492,6 +184866,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-slickeq-m/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-slickeq-m-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "2.1.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-slickeq-m/",
@@ -184518,6 +184899,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tokyo-dawn-labs/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-ultrasonic-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-ultrasonic/",
@@ -184538,6 +184926,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-vos-slickeq/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.3.9",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-vos-slickeq/",
@@ -184557,6 +184952,13 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-vos-slickeq-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-vos-slickeq-ge-by-tokyo-dawn-labs",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
       "popularityTier": 1,
       "latestVersion": "1.3.9",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-vos-slickeq-ge/",
@@ -223576,7 +223978,9 @@
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
-        "transforms": [],
+        "transforms": [
+          "semver-first-3"
+        ],
         "compareSegments": 3
       },
       "identityKind": "hub_app",
