@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-26T21:58:04Z",
+  "updatedAt": "2026-09-27T00:41:54Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -11803,15 +11803,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "12.4",
+      "latestVersion": "12.4.6",
       "versionSourceUrl": "https://www.ableton.com/en/release-notes/live-12/",
-      "versionVerifiedAt": "2026-09-26T15:36:03Z",
+      "versionVerifiedAt": "2026-09-27T00:39:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party vendor confirms the 12.4 line",
-        "no newer line announced",
-        "patch level not published on a retrievable vendor page"
+        "first-party release notes page"
       ]
     },
     {
@@ -21295,7 +21293,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "universal",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.12.0.3157",
+      "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/asc",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party downloads page prints version; pkg href agrees"
+      ]
     },
     {
       "id": "strezov-sampling--arva-children-choir",
@@ -23035,7 +23041,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.0.2",
+      "versionSourceUrl": "https://www.antarestech.com/software-download",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "first-party CDN href on download page"
+      ]
     },
     {
       "id": "antares--auto-tune-efx",
@@ -40078,7 +40092,7 @@
       "updatePortalUrl": "https://www.celemony.com/cgi-bin/WebObjects/LicenseApp",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/celemony-melodyne-4-studio-by-celemony",
-      "successorPluginId": "celemony--melodyne",
+      "successorPluginId": "celemony--melodyne-4",
       "notesForUser": "Melodyne 4 Studio is a prior generation vs current Melodyne 5 line — leave discontinued; do not stamp Melodyne 5 version.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
@@ -69802,6 +69816,18 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "fabfilter--fabfilter-pro-c-3",
       "supersededByPluginId": "fabfilter--fabfilter-pro-c-3",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fabfilter.Pro-C.AU.2",
+          "com.fabfilter.Pro-C.Vst3.2"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "FabF",
+            "subtype": "FC2p"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [],
@@ -69839,6 +69865,18 @@
       "updateClass": "free_current",
       "predecessorPluginId": "fabfilter--fabfilter-pro-c-2",
       "supersedesPluginId": "fabfilter--fabfilter-pro-c-2",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fabfilter.Pro-C.AU.3",
+          "com.fabfilter.Pro-C.Vst3.3"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "FabF",
+            "subtype": "FC3p"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [],
@@ -70017,6 +70055,18 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "fabfilter--fabfilter-pro-q-4",
       "supersededByPluginId": "fabfilter--fabfilter-pro-q-4",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fabfilter.Pro-Q.AU.3",
+          "com.fabfilter.Pro-Q.Vst3.3"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "FabF",
+            "subtype": "FQ3p"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [],
@@ -70054,6 +70104,18 @@
       "updateClass": "free_current",
       "predecessorPluginId": "fabfilter--fabfilter-pro-q-3",
       "supersedesPluginId": "fabfilter--fabfilter-pro-q-3",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fabfilter.Pro-Q.AU.4",
+          "com.fabfilter.Pro-Q.Vst3.4"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "FabF",
+            "subtype": "FQ4p"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [],
@@ -97798,9 +97860,69 @@
       "popularityTier": 2
     },
     {
+      "id": "native-instruments--kontakt-6",
+      "manufacturerId": "native-instruments",
+      "name": "Kontakt 6",
+      "matchPatterns": [
+        "Kontakt",
+        "Kontakt 6",
+        "Kontakt 7",
+        "Kontakt 8"
+      ],
+      "generation": "6",
+      "generationRank": 6,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "native-instruments--kontakt-7",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "notesForUser": "Kontakt 7 and 8 are paid updates. NI installs Kontakt 8 as a separate application.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
+      "id": "native-instruments--kontakt-7",
+      "manufacturerId": "native-instruments",
+      "name": "Kontakt 7",
+      "matchPatterns": [
+        "Kontakt",
+        "Kontakt 6",
+        "Kontakt 7",
+        "Kontakt 8"
+      ],
+      "generation": "7",
+      "generationRank": 7,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "native-instruments--kontakt",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "notesForUser": "Kontakt 8 is a paid update and installs beside Kontakt 7.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "7.10.7",
+      "versionSourceUrl": "https://community.native-instruments.com/discussion/39/official-update-status-kontakt-current-version-8-13-0",
+      "versionVerifiedAt": "2026-09-27T00:39:53Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "NI official update-status discussion, first-party"
+      ]
+    },
+    {
       "id": "native-instruments--kontakt",
       "manufacturerId": "native-instruments",
-      "name": "Kontakt",
+      "name": "Kontakt 8",
       "matchPatterns": [
         "Kontakt",
         "Kontakt 6",
@@ -97816,6 +97938,9 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "8",
+      "generationRank": 8,
+      "predecessorPluginId": "native-instruments--kontakt-7",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -116578,44 +116703,19 @@
       ]
     },
     {
-      "id": "celemony--melodyne",
+      "id": "celemony--melodyne-4",
       "manufacturerId": "celemony",
-      "name": "Melodyne",
+      "name": "Melodyne 4",
       "matchPatterns": [
-        "MelodyneBridge",
         "Melodyne"
       ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "productLine": "Melodyne",
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.celemony.melodyne.aax",
-          "com.celemony.melodyne.au",
-          "com.celemony.melodyne.vst3"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "CLMY",
-            "subtype": "MPLG"
-          }
-        ]
-      },
+      "generation": "4",
+      "generationRank": 4,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "celemony--melodyne",
+      "notesForUser": "Melodyne 5 is a paid major update for assistant, editor, and studio. Melodyne essential major updates are free.",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "5.4.2",
-      "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "celemony--melodyne-4-essential",
@@ -116643,6 +116743,49 @@
       "versionConfidence": 65,
       "versionConfidenceReasons": [
         "Celemony's own site no longer publishes the Melodyne 4 version history. Quote is Celemony's own release notes for 4.2.4 (Oct 2019), the terminal 4.x release; all Melodyne 4 editions shared the release"
+      ]
+    },
+    {
+      "id": "celemony--melodyne",
+      "manufacturerId": "celemony",
+      "name": "Melodyne 5",
+      "matchPatterns": [
+        "MelodyneBridge",
+        "Melodyne"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "productLine": "Melodyne",
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "5",
+      "generationRank": 5,
+      "predecessorPluginId": "celemony--melodyne-4",
+      "identityKeys": {
+        "bundleIds": [
+          "com.celemony.melodyne.aax",
+          "com.celemony.melodyne.au",
+          "com.celemony.melodyne.vst3"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "CLMY",
+            "subtype": "MPLG"
+          }
+        ]
+      },
+      "appleSilicon": "universal",
+      "popularityTier": 1,
+      "latestVersion": "5.4.2",
+      "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
+      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -127941,6 +128084,9 @@
       ],
       "updatePortalUrl": "https://www.steinberg.net/download/",
       "notes": "KVR product https://www.kvraudio.com/product/nuendo-by-steinberg",
+      "generation": "15",
+      "generationRank": 15,
+      "predecessorPluginId": "steinberg--nuendo-14",
       "notesForUser": "Steinberg DAW/editor/hub (Nuendo).",
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
@@ -127953,6 +128099,21 @@
       "versionConfidenceReasons": [
         "Steinberg Nuendo 15.0.30 public installer exact match KVR"
       ]
+    },
+    {
+      "id": "steinberg--nuendo-14",
+      "manufacturerId": "steinberg",
+      "name": "Nuendo 14",
+      "matchPatterns": [
+        "Nuendo"
+      ],
+      "generation": "14",
+      "generationRank": 14,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--nuendo",
+      "notesForUser": "Nuendo 15 is a paid update from Nuendo 14. A grace-period license can be free.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "plugin-alliance--nvelope-500-series",
@@ -129731,6 +129892,20 @@
       ],
       "updatePortalUrl": "https://www.voxengo.com/downloads/",
       "notes": "Listed on voxengo.com/products",
+      "identityKeys": {
+        "bundleIds": [
+          "com.voxengo.audio-plugins.audiounit.OldSkoolVerb",
+          "com.voxengo.audio-plugins.VST3.OldSkoolVerb",
+          "com.voxengo.audio-plugins.VST2.OldSkoolVerb",
+          "com.voxengo.audio-plugins.AAX.OldSkoolVerb"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Vxng",
+            "subtype": "25w3"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.14",
@@ -129759,6 +129934,20 @@
       ],
       "updatePortalUrl": "https://www.voxengo.com/downloads/",
       "notes": "Listed on voxengo.com/products",
+      "identityKeys": {
+        "bundleIds": [
+          "com.voxengo.audio-plugins.audiounit.OldSkoolVerbPlus",
+          "com.voxengo.audio-plugins.VST3.OldSkoolVerbPlus",
+          "com.voxengo.audio-plugins.VST2.OldSkoolVerbPlus",
+          "com.voxengo.audio-plugins.AAX.OldSkoolVerbPlus"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Vxng",
+            "subtype": "norc"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.7",
@@ -130069,9 +130258,24 @@
       ]
     },
     {
+      "id": "spectrasonics--omnisphere-2",
+      "manufacturerId": "spectrasonics",
+      "name": "Omnisphere 2",
+      "matchPatterns": [
+        "Omnisphere"
+      ],
+      "generation": "2",
+      "generationRank": 2,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "spectrasonics--omnisphere",
+      "notesForUser": "Omnisphere 3 is a paid upgrade for Omnisphere 1 and 2 owners. Installing it replaces the Omnisphere plug-in.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "spectrasonics--omnisphere",
       "manufacturerId": "spectrasonics",
-      "name": "Omnisphere",
+      "name": "Omnisphere 3",
       "matchPatterns": [
         "Omnisphere"
       ],
@@ -130082,9 +130286,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "3",
+      "generationRank": 3,
+      "predecessorPluginId": "spectrasonics--omnisphere-2",
       "portalApp": "Spectrasonics account",
       "notesForUser": "Omnisphere generation-ambiguous (Omnisphere 1 vs current major line) — KVR redirect is not a safe latestVersion map.",
-      "identityKind": "gen_ambiguous",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.0.2c",
@@ -158762,6 +158968,19 @@
       ],
       "updatePortalUrl": "https://www.voxengo.com/downloads/",
       "notes": "Listed on voxengo.com/products",
+      "identityKeys": {
+        "bundleIds": [
+          "com.voxengo.audio-plugins.audiounit.SPAN",
+          "com.voxengo.audio-plugins.VST3.SPAN",
+          "com.voxengo.audio-plugins.VST2.SPAN"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Vxng",
+            "subtype": "4vo6"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.24",
@@ -158790,6 +159009,20 @@
       ],
       "updatePortalUrl": "https://www.voxengo.com/downloads/",
       "notes": "Listed on voxengo.com/products",
+      "identityKeys": {
+        "bundleIds": [
+          "com.voxengo.audio-plugins.audiounit.SPANPlus",
+          "com.voxengo.audio-plugins.VST3.SPANPlus",
+          "com.voxengo.audio-plugins.VST2.SPANPlus",
+          "com.voxengo.audio-plugins.AAX.SPANPlus"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Vxng",
+            "subtype": "f9c2"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.25",
@@ -160245,7 +160478,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.6.10",
+      "versionSourceUrl": "https://solidstatelogic.com/ssl-download-manager",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-party product page href"
+      ]
     },
     {
       "id": "ssl--ssl-e-series-dynamics",
@@ -162702,15 +162943,7 @@
       },
       "portalApp": "Softube Central",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "denise--saturator",
@@ -164979,21 +165212,14 @@
       "successorPluginId": "cableguys--shaperbox-2",
       "supersededByPluginId": "cableguys--shaperbox-2",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "3.6.3",
-      "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-ShaperBox-3-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:18:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "cableguys--shaperbox-2",
       "manufacturerId": "cableguys",
       "name": "ShaperBox 2",
       "matchPatterns": [
+        "ShaperBox",
         "ShaperBox 2"
       ],
       "formats": [
@@ -165006,10 +165232,11 @@
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "generation": "2",
       "generationRank": 2,
-      "updateClass": "free_current",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "cableguys--shaperbox-3",
       "predecessorPluginId": "cableguys--shaperbox",
       "supersedesPluginId": "cableguys--shaperbox",
-      "notesForUser": "ShaperBox 2 is a prior major generation — do not map newer ShaperBox line versions onto this SKU.",
+      "notesForUser": "ShaperBox 3 is a paid upgrade. Cableguys shows the price in the logged-in account.",
       "identityKind": "gen_ambiguous",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -165019,9 +165246,8 @@
       "manufacturerId": "cableguys",
       "name": "ShaperBox 3",
       "matchPatterns": [
-        "ShaperBox 3",
-        "ShaperBox3",
-        "Cableguys ShaperBox 3"
+        "ShaperBox",
+        "ShaperBox 3"
       ],
       "formats": [
         "VST2",
@@ -165032,6 +165258,9 @@
       "productLine": "ShaperBox",
       "updatePortalUrl": "https://www.cableguys.com/shaperbox",
       "notes": "Cableguys ShaperBox 3 current generation; expand11 plugin.",
+      "generation": "3",
+      "generationRank": 3,
+      "predecessorPluginId": "cableguys--shaperbox-2",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.6.3",
@@ -170538,7 +170767,8 @@
       "manufacturerId": "eastwest",
       "name": "Spaces",
       "matchPatterns": [
-        "Spaces"
+        "Spaces",
+        "Spaces II"
       ],
       "formats": [
         "AAX",
@@ -170548,7 +170778,12 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.soundsonline.com/account/",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:2@https://www.soundsonline.com/account/ flash:cheap:gemini-3.1-flash-lite",
+      "generation": "1",
+      "generationRank": 1,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "eastwest--spaces-ii",
       "portalApp": "Sounds Online",
+      "notesForUser": "Spaces II is a paid upgrade from Spaces. Updates inside Spaces II, including 2.5, are free for Spaces II owners.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.26",
@@ -170565,6 +170800,7 @@
       "manufacturerId": "eastwest",
       "name": "Spaces II",
       "matchPatterns": [
+        "Spaces",
         "Spaces II"
       ],
       "formats": [
@@ -170575,6 +170811,9 @@
       ],
       "updatePortalUrl": "https://www.soundsonline.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/spaces-ii-by-eastwest",
+      "generation": "2",
+      "generationRank": 2,
+      "predecessorPluginId": "eastwest--spaces",
       "identityKeys": {
         "bundleIds": [
           "com.eastwest.EWSpacesII"
@@ -174231,7 +174470,15 @@
         "compareSegments": 3
       },
       "identityKind": "hub_app",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.4",
+      "versionSourceUrl": "https://sac.stevenslateaudio.com/mac",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "vendor redirect lands on versioned dmg"
+      ]
     },
     {
       "id": "full-bucket-music--stigma",
@@ -184614,6 +184861,17 @@
       ],
       "updatePortalUrl": "https://www.tokyodawn.net/tdr-kotelnikov-ge/",
       "notes": "KVR product https://www.kvraudio.com/product/tdr-kotelnikov-ge-by-tokyo-dawn-labs",
+      "identityKeys": {
+        "bundleIds": [
+          "com.TokyoDawnLabs.TDRKotelnikovGE"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Tdrl",
+            "subtype": "Td97"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -202462,7 +202720,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "3.0.15",
+      "versionSourceUrl": "https://www.uvi.net/dl-portal.php?p=mac",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
+      "versionConfidenceReasons": [
+        "vendor redirect path carries version; filename itself unversioned"
+      ]
     },
     {
       "id": "uvi--uvi-workstation",
@@ -205048,7 +205314,7 @@
       "matchPatterns": [
         "UnitedPluginsManager"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "United publishes the INSTALLER version 02.20 (unitedplugins.com/download, 2026-09-26), not a kernel version. Scan-detected 17.09 is the Melda-kernel-line string, not the installer number: do NOT compare 02.20 against 17.09 in either direction. latestVersion stays empty until installedVersionRule reads the same 02.20 installer string. Do not copy Melda kernel 17.10.01 onto this row.",
       "identityKind": "hub_app",
       "popularityTier": 2
     },
@@ -214476,6 +214742,9 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "13",
+      "generationRank": 13,
+      "predecessorPluginId": "steinberg--wavelab-12",
       "portalApp": "Steinberg Download Assistant",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -214488,6 +214757,21 @@
         "page-confirmed manufacturer downloadsPage with clear version (92)",
         "live HTML content hash corroboration (+3)"
       ]
+    },
+    {
+      "id": "steinberg--wavelab-12",
+      "manufacturerId": "steinberg",
+      "name": "WaveLab 12",
+      "matchPatterns": [
+        "WaveLab"
+      ],
+      "generation": "12",
+      "generationRank": 12,
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--wavelab",
+      "notesForUser": "WaveLab 13 is a paid update from WaveLab 12.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "steinberg--wavelab-cast",
@@ -221144,13 +221428,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_limiter-true-peak",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "latestVersion": "1.16.1",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_limiter",
+      "versionVerifiedAt": "2026-09-27T00:39:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "first-party product changelog; wrong-SKU stamp corrected"
       ]
     },
     {
@@ -224089,7 +224373,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.4.9",
+      "versionSourceUrl": "https://www.izotope.com/in-app/pp/download/mac",
+      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "vendor in-app download redirect names versioned dmg"
+      ]
     },
     {
       "id": "izotope--izotope-trash-2",
@@ -227506,6 +227798,17 @@
       "predecessorPluginId": "oeksound--soothe",
       "supersedesPluginId": "oeksound--soothe",
       "supersededByPluginId": "oeksound--soothe3",
+      "identityKeys": {
+        "bundleIds": [
+          "com.oeksound.soothe2"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "OekS",
+            "subtype": "SthB"
+          }
+        ]
+      },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
