@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-27T01:30:41Z",
+  "updatedAt": "2026-09-27T13:00:20Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -9557,7 +9557,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969143783956-Articulator-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9583,7 +9583,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969208008980-Aspire-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9609,7 +9609,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969216549012-Choir-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9635,7 +9635,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969232133780-Duo-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9661,7 +9661,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969241981844-Mutator-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9687,7 +9687,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969237400340-Punch-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9713,7 +9713,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47995200466196-Sybil-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9739,7 +9739,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969283082132-Throat-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -9765,7 +9765,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969258718228-Warm-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -16531,7 +16531,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/svt-vr",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -16559,7 +16559,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/svt-vr",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -22940,7 +22940,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41116876682772-Auto-Key-2-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22977,7 +22977,7 @@
       "popularityTier": 1,
       "latestVersion": "10.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117275952020-Auto-Tune-Access-10-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23014,7 +23014,7 @@
       "popularityTier": 1,
       "latestVersion": "9.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968044541076-Auto-Tune-Artist-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23081,7 +23081,7 @@
       "popularityTier": 1,
       "latestVersion": "10.6.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41116824103700-Auto-Tune-EFX-10-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23112,7 +23112,7 @@
       "popularityTier": 1,
       "latestVersion": "9.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47967906101268-Auto-Tune-Hybrid-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23149,7 +23149,7 @@
       "popularityTier": 1,
       "latestVersion": "11.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117430548628-AutoTune-Pro-11-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23186,7 +23186,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969246801044-Slice-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23223,7 +23223,7 @@
       "popularityTier": 1,
       "latestVersion": "6.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41115437724436-SoundSoap-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23260,7 +23260,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117241499028-Vocal-Compressor-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23297,7 +23297,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968793385620-Vocal-EQ-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23334,7 +23334,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969287023764-Vocodist-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -44444,7 +44444,7 @@
       "popularityTier": 1,
       "latestVersion": "2.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:02Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -74708,7 +74708,15 @@
       },
       "portalApp": "iLok License Manager / Sonnox installers",
       "notesForUser": "Public CSV Mac pkg v4.02.0 ≠ Win exe v4.01.0 dual mismatch — skip.",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "4.02.0",
+      "versionSourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xQQaeJnzlI4TY_FXNA8Uccx5iAGmF78_EELOC1_5ak42VvLtVzjcvu7CaVqL3x7WwmG0IFk6UHaL/pub?gid=0&single=true&output=csv",
+      "versionVerifiedAt": "2026-09-27T05:30:12Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor-published installer sheet (Google Sheets CSV embedded in sonnox.com/installers page JS; sheet ID confirmed first-hand in page HTML). Version Number column + Mac installer filename agree. Windows installer one build behind (v4.01.0); version-column + Mac installer agree."
+      ]
     },
     {
       "id": "audio-assault--freaq-305",
@@ -83254,7 +83262,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969228097300-Harmony-Engine-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -97886,7 +97894,15 @@
       },
       "notesForUser": "Kontakt 7 and 8 are paid updates. NI installs Kontakt 8 as a separate application.",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "6.8.0",
+      "versionSourceUrl": "https://community.native-instruments.com/discussion/comment/195155",
+      "versionVerifiedAt": "2026-09-27T05:23:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "NI community moderator (PoorFellow, Accepted Answer 2024-12-02) points users to the Kontakt 6.8.0 PC/Mac installer as the Kontakt 6 line release; corroborated by NI 6.8.0 changelog (final K6 maintenance release, June 2023) and version trackers showing no 6.8.1+ exists"
+      ]
     },
     {
       "id": "native-instruments--kontakt-7",
@@ -99649,7 +99665,7 @@
       "popularityTier": 1,
       "latestVersion": "1.02.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -113459,7 +113475,7 @@
       "popularityTier": 1,
       "latestVersion": "1.16.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq4",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -116718,7 +116734,15 @@
       "successorPluginId": "celemony--melodyne",
       "notesForUser": "Melodyne 5 is a paid major update for assistant, editor, and studio. Melodyne essential major updates are free.",
       "appleSilicon": "universal",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "4.2.4",
+      "versionSourceUrl": "https://dshowmusic.com/melodyne-424-compatible-macos-catalina/",
+      "versionVerifiedAt": "2026-09-27T05:27:09Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 70,
+      "versionConfidenceReasons": [
+        "Vendor-authored Celemony press release (2019-10-08) quoted verbatim: 'version 4.2.4 of Melodyne … all four editions of Melodyne 4'; corroborated by Celemony in-app update notes verbatim ('Improvements in the current Version 4.2.4') and installer sequence ending at 4.2.4.001; Celemony helpcenter confirms Melodyne 4 retired May 2020 with no 4.2.5 ever published. Vendor text hosted on third-party pages — not first-hand URL, hence 70."
+      ]
     },
     {
       "id": "celemony--melodyne-4-essential",
@@ -116784,7 +116808,7 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -117596,7 +117620,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968984877204-Metamorph-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -117919,7 +117943,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969213903252-Mic-Mod-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -128097,7 +128121,15 @@
       "successorPluginId": "steinberg--nuendo",
       "notesForUser": "Nuendo 15 is a paid update from Nuendo 14. A grace-period license can be free.",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "14.0.41",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/nuendo_14.html",
+      "versionVerifiedAt": "2026-09-27T05:21:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Official Steinberg legacy downloads page names Nuendo 14.0.41 as current installer (2025-12-03), superseding 14.0.32/14.0.30/14.0.20 in older-installers table"
+      ]
     },
     {
       "id": "plugin-alliance--nvelope-500-series",
@@ -130254,7 +130286,15 @@
       "successorPluginId": "spectrasonics--omnisphere",
       "notesForUser": "Omnisphere 3 is a paid upgrade for Omnisphere 1 and 2 owners. Installing it replaces the Omnisphere plug-in.",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.8.7c",
+      "versionSourceUrl": "https://support.spectrasonics.net/manual/Omnisphere2/25/en/topic/get-started-index",
+      "versionVerifiedAt": "2026-09-27T05:23:59Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 75,
+      "versionConfidenceReasons": [
+        "Spectrasonics' own Omnisphere 2 reference guide (vendor domain, search-cache copy crawled ~2026-09-10; direct fetch blocked by Cloudflare bot challenge) documents 2.8.7c as current Omnisphere 2 software; corroborated by independent verbatim quote of vendor 2.8.7c release notes. No 2.8.8/2.9.x exists. Amber: raise on live vendor fetch."
+      ]
     },
     {
       "id": "spectrasonics--omnisphere",
@@ -132680,7 +132720,15 @@
       },
       "portalApp": "iLok License Manager / Sonnox installers",
       "notesForUser": "Restore Mac 3.02.0 ≠ Win 3.01.0 dual mismatch — skip.",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "3.02.0",
+      "versionSourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xQQaeJnzlI4TY_FXNA8Uccx5iAGmF78_EELOC1_5ak42VvLtVzjcvu7CaVqL3x7WwmG0IFk6UHaL/pub?gid=0&single=true&output=csv",
+      "versionVerifiedAt": "2026-09-27T05:30:12Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor-published installer sheet (Google Sheets CSV embedded in sonnox.com/installers page JS; sheet ID confirmed first-hand in page HTML). Version Number column + Mac installer filename agree. Windows installer one build behind (v3.01.0); version-column + Mac installer agree."
+      ]
     },
     {
       "id": "sonnox--oxford-declicker",
@@ -132706,7 +132754,15 @@
       },
       "portalApp": "iLok License Manager / Sonnox installers",
       "notesForUser": "Restore Mac 3.02.0 ≠ Win 3.01.0 dual mismatch — skip.",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "3.02.0",
+      "versionSourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xQQaeJnzlI4TY_FXNA8Uccx5iAGmF78_EELOC1_5ak42VvLtVzjcvu7CaVqL3x7WwmG0IFk6UHaL/pub?gid=0&single=true&output=csv",
+      "versionVerifiedAt": "2026-09-27T05:30:12Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor-published installer sheet (Google Sheets CSV embedded in sonnox.com/installers page JS; sheet ID confirmed first-hand in page HTML). Version Number column + Mac installer filename agree. Windows installer one build behind (v3.01.0); version-column + Mac installer agree."
+      ]
     },
     {
       "id": "sonnox--oxford-denoiser",
@@ -132732,7 +132788,15 @@
       },
       "portalApp": "iLok License Manager / Sonnox installers",
       "notesForUser": "Restore Mac 3.02.0 ≠ Win 3.01.0 dual mismatch — skip.",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "3.02.0",
+      "versionSourceUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR-xQQaeJnzlI4TY_FXNA8Uccx5iAGmF78_EELOC1_5ak42VvLtVzjcvu7CaVqL3x7WwmG0IFk6UHaL/pub?gid=0&single=true&output=csv",
+      "versionVerifiedAt": "2026-09-27T05:30:12Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor-published installer sheet (Google Sheets CSV embedded in sonnox.com/installers page JS; sheet ID confirmed first-hand in page HTML). Version Number column + Mac installer filename agree. Windows installer one build behind (v3.01.0); version-column + Mac installer agree."
+      ]
     },
     {
       "id": "sonnox--oxford-drum-gate",
@@ -132769,7 +132833,7 @@
       "popularityTier": 1,
       "latestVersion": "2.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132800,7 +132864,7 @@
       "popularityTier": 1,
       "latestVersion": "1.03.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132832,7 +132896,7 @@
       "popularityTier": 1,
       "latestVersion": "2.03.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:02Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132866,7 +132930,7 @@
       "popularityTier": 1,
       "latestVersion": "4.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:02Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132900,7 +132964,7 @@
       "popularityTier": 1,
       "latestVersion": "4.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132934,7 +132998,7 @@
       "popularityTier": 1,
       "latestVersion": "2.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:02Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132967,7 +133031,7 @@
       "popularityTier": 1,
       "latestVersion": "4.03.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132997,7 +133061,7 @@
       "popularityTier": 1,
       "latestVersion": "4.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -133029,7 +133093,7 @@
       "popularityTier": 1,
       "latestVersion": "4.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -133063,7 +133127,7 @@
       "popularityTier": 1,
       "latestVersion": "4.04.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -133096,7 +133160,7 @@
       "popularityTier": 1,
       "latestVersion": "4.05.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -159251,7 +159315,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/spl-big",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159747,7 +159811,7 @@
       "popularityTier": 1,
       "latestVersion": "1.16.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/passeq",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159775,7 +159839,7 @@
       "popularityTier": 1,
       "latestVersion": "1.16.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/passeq",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159809,7 +159873,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159862,7 +159926,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -161542,7 +161606,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.17",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-25 17:22:41",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -161569,7 +161633,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-25 17:22:41",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -161596,7 +161660,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.41",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-25 17:22:41",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -172872,7 +172936,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.5",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=SplitEQ",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -172973,7 +173037,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/spread",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -203994,7 +204058,7 @@
       "popularityTier": 1,
       "latestVersion": "3.11.4",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=UltraChannel",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -212551,7 +212615,7 @@
       "popularityTier": 1,
       "latestVersion": "1.02.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -212717,7 +212781,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968350562196-Vocal-De-Esser-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -212830,7 +212894,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968668073236-Vocal-Reverb-Release-Notes",
-      "versionVerifiedAt": "2026-09-10T03:49:37Z",
+      "versionVerifiedAt": "2026-09-27T05:24:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -213858,7 +213922,7 @@
       "popularityTier": 1,
       "latestVersion": "2.02.0",
       "versionSourceUrl": "https://sonnox.com/installers",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215180,7 +215244,15 @@
       "successorPluginId": "steinberg--wavelab",
       "notesForUser": "WaveLab 13 is a paid update from WaveLab 12.",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "12.0.51",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/wavelab_12.html",
+      "versionVerifiedAt": "2026-09-27T05:21:53Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Official Steinberg legacy downloads page names WaveLab Pro 12.0.51 as latest installer (2024-12-17); WaveLab Elements 12.0.50 also listed; 12.0.51 is highest 12.x on page"
+      ]
     },
     {
       "id": "steinberg--wavelab-cast",
@@ -221104,7 +221176,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_boom-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:14Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221138,7 +221210,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_boom-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221278,7 +221350,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_console-amek-9099",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221362,7 +221434,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-e",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221559,7 +221631,7 @@
       "popularityTier": 1,
       "latestVersion": "3.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_digital-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221587,7 +221659,7 @@
       "popularityTier": 1,
       "latestVersion": "3.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_digital-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221643,7 +221715,7 @@
       "popularityTier": 1,
       "latestVersion": "2.18.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_dyneq-v2",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221671,7 +221743,7 @@
       "popularityTier": 1,
       "latestVersion": "2.18.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_dyneq-v2",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221811,7 +221883,7 @@
       "popularityTier": 1,
       "latestVersion": "2.14.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_hybrid-v2",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224355,7 +224427,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/nvelope",
-      "versionVerifiedAt": "2026-09-10T04:07:14Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224383,7 +224455,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/phils-cascade",
-      "versionVerifiedAt": "2026-09-10T04:07:14Z",
+      "versionVerifiedAt": "2026-09-27T05:30:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
