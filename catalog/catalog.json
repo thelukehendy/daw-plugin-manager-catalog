@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-28T18:34:15Z",
+  "updatedAt": "2026-09-28T20:13:52Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -16613,7 +16613,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/v-4b",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -24919,7 +24919,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bde",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -36619,13 +36619,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.70.71",
-      "versionSourceUrl": "https://www.kvraudio.com/product/cla-classic-compressors-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "17.1.42.50",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "bundle parent raised to the shell its components ship in, per vendor offline installer (82)"
       ]
     },
     {
@@ -42672,13 +42672,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.70.71",
-      "versionSourceUrl": "https://www.kvraudio.com/product/chris-lord-alge-artist-signature-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "17.1.42.50",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "bundle parent raised to the shell its components ship in, per vendor offline installer (82)"
       ]
     },
     {
@@ -55037,7 +55037,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/vh4",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -62513,13 +62513,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.70.71",
-      "versionSourceUrl": "https://www.kvraudio.com/product/eddie-kramer-signature-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "17.1.42.50",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "bundle parent raised to the shell its components ship in, per vendor offline installer (82)"
       ]
     },
     {
@@ -84224,16 +84224,16 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. Catalog 3.1.0 is the support-article row label (2026-09-28); installer pkg is v3.0.1.",
       "portalApp": "SSL Download Manager",
       "popularityTier": 1,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://store.harrisonaudio.com/all-products/harrison-vocal-flow",
-      "versionVerifiedAt": "2026-09-10T04:25:12Z",
+      "latestVersion": "3.1.0",
+      "versionSourceUrl": "https://support.harrisonaudio.com/api/v2/help_center/en-gb/articles/15986119874845.json",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "vendor support article row label v3.1.0 (92)"
       ]
     },
     {
@@ -84249,18 +84249,17 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. Catalog 2.1.0 is the support-article row label (2026-09-28); installer pkg is v2.0.0.",
       "portalApp": "SSL Download Manager",
       "notesForUser": "Installer filename on Harrison downloads is v2.0.0.39457821 (page label v2.1.0 mismatched).",
       "popularityTier": 1,
-      "latestVersion": "2.0.0",
-      "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-10T06:29:45Z",
+      "latestVersion": "2.1.0",
+      "versionSourceUrl": "https://support.harrisonaudio.com/api/v2/help_center/en-gb/articles/15986119874845.json",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Official Harrison downloads page CDN installer filename v2.0.0.39457821",
-        "Display text v2.1.0 mismatched filename; accepted artifact version 2.0.0"
+        "vendor support article row label v2.1.0 (88)"
       ]
     },
     {
@@ -95179,13 +95178,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.70.71",
-      "versionSourceUrl": "https://www.kvraudio.com/product/jack-joseph-puig-signature-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "17.1.42.50",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "bundle parent raised to the shell its components ship in, per vendor offline installer (82)"
       ]
     },
     {
@@ -99298,7 +99297,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.spitfireaudio.com/en-us/account/login?return_url=%2Faccount",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:13.0006@https://www.spitfireaudio.com/en-us/account/login?return_url=%2Faccount flash:heuristic",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:13.0006@https://www.spitfireaudio.com/en-us/account/login?return_url=%2Faccount flash:heuristic Spitfire sunset: LABS and LABS+ updates end 2026-10-31 per support article 12247087 (2026-09-02); installed copies keep working; new content moves to Splice INSTRUMENT. Row not marked discontinued (future date).",
       "identityKeys": {
         "bundleIds": [
           "com.spitfireaudio.Labs"
@@ -102609,7 +102608,7 @@
         "UADx LUNA Digital Audio Workstation"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/luna-digital-audio-workstation-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/luna-digital-audio-workstation-by-universal-audio LUNA Free and LUNA Studio are the same DAW; Studio is a paid license layer (FAQ 20177942369044, 2026-09-24). Install via UA Connect. Single row, single version.",
       "portalApp": "UA Connect",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -108987,7 +108986,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products/mega_sampler.html",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. Source URL dead as of 2026-09-28 (/products/mega-sampler 404; legacy URL lands on online-sample-player, no version). 1.1.1 kept as last-observed figure at 55; do not refresh from that URL. Scan clue 1.2.0 is not vendor evidence.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -108996,9 +108995,9 @@
       "versionSourceUrl": "https://www.plugin-alliance.com/en/products/mega_sampler.html",
       "versionVerifiedAt": "2026-09-15T14:50:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 95,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=95)"
+        "last observed on PA product page; source URL now dead (2026-09-28): /products/mega-sampler 404, legacy URL redirects to online-sample-player page with no version string. 1.1.1 retained as historical figure (55)"
       ]
     },
     {
@@ -124946,7 +124945,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/u17",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -124974,7 +124973,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/u2a",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -159837,20 +159836,19 @@
       ],
       "updatePortalUrl": "https://www.plugin-alliance.com/blogs/news/download-and-install-plugin-alliance-plugins",
       "discontinued": true,
-      "notes": "verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "successorPluginId": "plugin-alliance--spl-eq-ranger-plus",
       "portalApp": "PA Installation Manager",
       "notesForUser": "Discontinued legacy SPL module; replaced by Plus line (free update path via Plugin Alliance). Legacy installer still published on PA files CDN.",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "finalVersion": "1.9",
-      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_win_x64_1_9.zip",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "finalVersion": "1.9.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_mac_1_9_1.zip",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "legacy CDN filename oracle: 1_9_1 zip newer than 1_9 zip (88)"
       ]
     },
     {
@@ -159895,7 +159893,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -159923,7 +159921,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -160085,7 +160083,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/free-ranger",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -160132,20 +160130,19 @@
       ],
       "updatePortalUrl": "https://www.plugin-alliance.com/blogs/news/download-and-install-plugin-alliance-plugins",
       "discontinued": true,
-      "notes": "verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "successorPluginId": "plugin-alliance--spl-eq-ranger-plus",
       "portalApp": "PA Installation Manager",
       "notesForUser": "Discontinued legacy SPL module; replaced by Plus line (free update path via Plugin Alliance). Legacy installer still published on PA files CDN.",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "finalVersion": "1.9",
-      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_win_x64_1_9.zip",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "finalVersion": "1.9.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_mac_1_9_1.zip",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "legacy CDN filename oracle: 1_9_1 zip newer than 1_9 zip (88)"
       ]
     },
     {
@@ -160554,7 +160551,7 @@
       "productLine": "SPL Vitalizer",
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/vitalizer-mk2-t",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. 1.0.0 retracted 2026-09-28: source URL 301s to the MK3 page; 1.0.0 was MK3's installer label. Row superseded by plugin-alliance--spl-vitalizer-mk3-t.",
       "generation": "MK2-T",
       "generationRank": 2,
       "updateClass": "paid_upgrade",
@@ -160563,15 +160560,7 @@
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.0.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/vitalizer-mk2-t",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
-      "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "plugin-alliance--spl-vitalizer-mk3-t",
@@ -160621,20 +160610,19 @@
       ],
       "updatePortalUrl": "https://www.plugin-alliance.com/blogs/news/download-and-install-plugin-alliance-plugins",
       "discontinued": true,
-      "notes": "verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "successorPluginId": "plugin-alliance--spl-eq-ranger-plus",
       "portalApp": "PA Installation Manager",
       "notesForUser": "Discontinued legacy SPL module; replaced by Plus line (free update path via Plugin Alliance). Legacy installer still published on PA files CDN.",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "finalVersion": "1.9",
-      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_win_x64_1_9.zip",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "finalVersion": "1.9.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/legacy/spl_eq_rangers_vol_1_mac_1_9_1.zip",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "legacy CDN filename oracle: 1_9_1 zip newer than 1_9 zip (88)"
       ]
     },
     {
@@ -164257,7 +164245,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_double_ms.html",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -164316,7 +164304,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_mono_upmix.html",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -164346,7 +164334,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_mono_upmix.html",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "updateClass": "discontinued",
       "portalApp": "PA Installation Manager",
       "notesForUser": "PA product page 404; 1to3 SKU unresolved/discontinued (1to2 remains live). No safe latestVersion.",
@@ -179606,7 +179594,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "updateClass": "discontinued",
       "portalApp": "PA Installation Manager",
       "notesForUser": "PA product page 404; discontinued or renamed — no public successor receipt; no latestVersion.",
@@ -193161,13 +193149,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.70.71",
-      "versionSourceUrl": "https://www.kvraudio.com/product/tony-maserati-signature-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "17.1.42.50",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "bundle parent raised to the shell its components ship in, per vendor offline installer (82)"
       ]
     },
     {
@@ -194260,6 +194248,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
+      "notes": "3.11.1 is the newest 3.x heading on the Pro 4 staff update thread (2026-09-28); Pro 4's 4.5.1 was not copied down.",
       "generation": "3",
       "updateClass": "paid_upgrade",
       "successorPluginId": "native-instruments--traktor-pro",
@@ -194273,7 +194262,15 @@
       },
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "3.11.1",
+      "versionSourceUrl": "https://community.native-instruments.com/api/v2/discussions/43",
+      "versionVerifiedAt": "2026-09-28T19:54:43Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "NI staff update thread: newest 3.x heading 3.11.1 (2024-01-30) (88)"
+      ]
     },
     {
       "id": "ik-multimedia--trance",
@@ -213065,16 +213062,8 @@
         "Vitalizer MK2-T"
       ],
       "updatePortalUrl": "https://spl.audio/en/spl-produkt-kategorien/plugins-en/",
-      "notes": "KVR product https://www.kvraudio.com/product/vitalizer-mk2-t-by-spl",
-      "popularityTier": 3,
-      "latestVersion": "1.0.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/vitalizer-mk2-t",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
-      "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
-      ]
+      "notes": "KVR product https://www.kvraudio.com/product/vitalizer-mk2-t-by-spl 1.0.0 retracted 2026-09-28: source URL 301s to the MK3 page; 1.0.0 was MK3's installer label. Row superseded by plugin-alliance--spl-vitalizer-mk3-t.",
+      "popularityTier": 3
     },
     {
       "id": "waves--vitamin-sonic-enhancer",
@@ -221681,7 +221670,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "generation": "V2",
       "generationRank": 2,
       "updateClass": "paid_upgrade",
@@ -221798,7 +221787,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_blackdist2",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -221826,7 +221815,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_bluechorus2",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -221950,7 +221939,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_cleansweep-v2",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -222230,7 +222219,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_crispytuner",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "notesForUser": "Updates via PA Installation Manager (hub-walled — no public installer semver).",
       "requiresIlok": true,
@@ -222371,7 +222360,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_distorange",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -222511,7 +222500,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_greenscreamer",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -222791,7 +222780,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_megasingle",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -222819,7 +222808,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_metal2",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -222847,7 +222836,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_meter",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -223251,7 +223240,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_solo",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -223307,7 +223296,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_subfilter",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -223419,7 +223408,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_tuner",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -223447,7 +223436,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_yellowdrive",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -224892,7 +224881,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "updateClass": "discontinued",
       "successorPluginId": "plugin-alliance--elysia-alpha-compressor-v2",
       "supersededByPluginId": "plugin-alliance--elysia-alpha-compressor-v2",
@@ -224918,7 +224907,7 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
       "discontinued": true,
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "updateClass": "discontinued",
       "successorPluginId": "plugin-alliance--elysia-alpha-compressor-v2",
       "supersededByPluginId": "plugin-alliance--elysia-alpha-compressor-v2",
@@ -225083,7 +225072,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/niveau-filter",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
