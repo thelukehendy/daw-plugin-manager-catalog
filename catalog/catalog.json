@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-28T18:27:07Z",
+  "updatedAt": "2026-09-28T18:34:15Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -80354,6 +80354,26 @@
       ]
     },
     {
+      "id": "avid--groovecell",
+      "manufacturerId": "avid",
+      "name": "GrooveCell",
+      "matchPatterns": [
+        "GrooveCell"
+      ],
+      "formats": [
+        "AAX"
+      ],
+      "bundled": true,
+      "notes": "Pro Tools stock drum instrument (bundled). Row created versionless from opted-in Bethel Studio scan (feedback 2026-09-28-31); installed 25.3.39 observed on scan. Version needs first-hand vendor evidence.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Avid.GrooveCell"
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "airwindows--groovewear",
       "manufacturerId": "airwindows",
       "name": "GrooveWear",
@@ -146425,6 +146445,26 @@
       ]
     },
     {
+      "id": "avid--procompressor",
+      "manufacturerId": "avid",
+      "name": "ProCompressor",
+      "matchPatterns": [
+        "ProCompressor"
+      ],
+      "formats": [
+        "AAX"
+      ],
+      "bundled": true,
+      "notes": "Pro Tools stock compressor (bundled). Row created versionless from opted-in Bethel Studio scan (feedback 2026-09-28-31); installed 22.12.0.7 observed on scan. Version needs first-hand vendor evidence.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.AVID.plugin.ProCompressor"
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "eastwest--prodrummer-volume-1",
       "manufacturerId": "eastwest",
       "name": "ProDrummer Volume 1",
@@ -157008,6 +157048,27 @@
       "popularityTier": 2
     },
     {
+      "id": "avid--reverbone",
+      "manufacturerId": "avid",
+      "name": "ReverbOne",
+      "matchPatterns": [
+        "ReverbOne",
+        "Reverb One"
+      ],
+      "formats": [
+        "AAX"
+      ],
+      "bundled": true,
+      "notes": "Pro Tools stock reverb (bundled; Avid official name \"Reverb One\"). Row created versionless from opted-in Bethel Studio scan (feedback 2026-09-28-31); installed 22.12.0.7 observed on scan. Version needs first-hand vendor evidence.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.AVID.plugin.ReverbOne"
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "cableguys--reverbshaper",
       "manufacturerId": "cableguys",
       "name": "ReverbShaper",
@@ -160673,6 +160734,34 @@
       "updatePortalUrl": "https://mercuriall.com",
       "notes": "Ampbox module (in-app purchase). Preamp.",
       "popularityTier": 4
+    },
+    {
+      "id": "steven-slate--ssdsampler5",
+      "manufacturerId": "steven-slate",
+      "name": "SSDSampler5",
+      "matchPatterns": [
+        "SSDSampler5"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST",
+        "VST3"
+      ],
+      "notes": "Steven Slate Drums 5 sampler instrument. Row created versionless from opted-in Bethel Studio scan (feedback 2026-09-28-31); installed 1.4.4 observed on scan. Version needs first-hand vendor evidence.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.stevenslate.SSDSampler5"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "StSl",
+            "subtype": "SSD5",
+            "type": "aumu"
+          }
+        ]
+      },
+      "popularityTier": 2
     },
     {
       "id": "sixth-sample--ssf",
