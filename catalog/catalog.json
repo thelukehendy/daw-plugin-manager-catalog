@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-27T13:00:20Z",
+  "updatedAt": "2026-09-28T13:00:12Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -7508,13 +7508,13 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
       "notes": "KVR product https://www.kvraudio.com/product/acme-audio-opticom-xla-3-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.11.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -7714,7 +7714,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/hype",
       "notes": "KVR product https://www.kvraudio.com/product/adptr-audio-hype-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -7741,7 +7741,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.adptraudio.com/products/metric-ab/",
       "notes": "KVR product https://www.kvraudio.com/product/adptr-audio-metric-ab-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -7768,7 +7768,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/sculpt",
       "notes": "KVR product https://www.kvraudio.com/product/adptr-audio-sculpt-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -7795,7 +7795,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/streamliner",
       "notes": "KVR product https://www.kvraudio.com/product/adptr-audio-streamliner-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -7822,7 +7822,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/utopia",
       "notes": "KVR product https://www.kvraudio.com/product/adptr-audio-utopia-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -8728,7 +8728,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq2",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq-200",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.5.0@https://www.plugin-alliance.com/products/eq-200",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -8736,7 +8736,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq-200",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -8756,7 +8756,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq2",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq-250",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.2.0@https://www.plugin-alliance.com/products/eq-250",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -8764,7 +8764,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq-250",
-      "versionVerifiedAt": "2026-09-10T04:09:08Z",
+      "versionVerifiedAt": "2026-09-27T18:15:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -8784,7 +8784,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/mastering-compressor-class-a",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/mastering-compressor-amek",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.17.0@https://www.plugin-alliance.com/products/mpressor",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -8792,7 +8792,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mastering-compressor-amek",
-      "versionVerifiedAt": "2026-09-10T04:09:09Z",
+      "versionVerifiedAt": "2026-09-27T18:15:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -11896,7 +11896,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/absolute-7-by-steinberg",
       "notesForUser": "Steinberg Absolute bundle (Absolute 7).",
       "identityKind": "bundle",
@@ -12969,7 +12969,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/adaptiverb-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -16610,7 +16610,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/v-4b",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -16618,7 +16618,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/v-4b",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -22642,7 +22642,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/aura-by-zynaptiq",
       "successorPluginId": "zynaptiq--spectre",
@@ -24896,7 +24896,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bde",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -24904,7 +24904,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bde",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -24934,7 +24934,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/7deadlysnares-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=7deadlysnares",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -24961,7 +24961,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/cheat-code-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=cheat-code",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -24988,7 +24988,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/lunchtable-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=lunchtable",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -25015,7 +25015,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/random-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=random",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -25042,7 +25042,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/random-metal-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=random-metal",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -25069,7 +25069,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.kvraudio.com/product/beatfader-by-beatsurfing",
       "notes": "Plugin Alliance Shopify product handle=beatfader",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -25851,7 +25851,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/backbone-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -26002,7 +26002,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/balance-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -29250,7 +29250,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bus-compressor",
       "notes": "KVR product https://www.kvraudio.com/product/bettermaker-bus-compressor-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -29296,7 +29296,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/c502v",
       "notes": "KVR product https://www.kvraudio.com/product/bettermaker-c502v-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -29370,7 +29370,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq232d",
       "notes": "KVR product https://www.kvraudio.com/product/bettermaker-eq232d-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -29396,7 +29396,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bettermaker-mastering-compressor",
       "notes": "KVR product https://www.kvraudio.com/product/bettermaker-mastering-compressor-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -29466,7 +29466,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/passive-equalizer",
       "notes": "KVR product https://www.kvraudio.com/product/bettermaker-passive-equalizer-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -34261,7 +34261,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_townhouse-buss-compressor",
       "notes": "KVR product https://www.kvraudio.com/product/brainworx-bx_townhouse-by-plugin-alliance",
       "notesForUser": "bx_townhouse vs bx_townhouse Buss Compressor SKU ambiguity — prefer the specific Buss Compressor row.",
       "identityKind": "gen_ambiguous",
@@ -40859,7 +40859,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "Restored after over-aggressive cross-mfr norm collision on short residual token",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -40885,7 +40885,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/chameleonsurround-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -49558,7 +49558,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-artist-15-by-steinberg",
       "identityKeys": {
         "bundleIds": [
@@ -49591,7 +49591,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-elements-15-by-steinberg",
       "identityKeys": {
         "bundleIds": [
@@ -49624,7 +49624,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-pro-15-by-steinberg",
       "identityKeys": {
         "bundleIds": [
@@ -49657,7 +49657,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubasis-2-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Cubasis 2).",
       "identityKind": "hub_app",
@@ -49685,7 +49685,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubasis-3-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Cubasis 3).",
       "identityKind": "hub_app",
@@ -50287,7 +50287,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/dcota-by-steinberg",
       "notesForUser": "Legacy Steinberg title (D'cota).",
       "identityKind": "discontinued",
@@ -51170,7 +51170,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/tantra-2",
       "notes": "KVR product https://www.kvraudio.com/product/ds-audio-tantra-2-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -51197,7 +51197,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/thorn",
       "notes": "KVR product https://www.kvraudio.com/product/ds-audio-thorn-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -51260,7 +51260,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/thorn",
-      "versionVerifiedAt": "2026-09-10T04:09:12Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -51824,7 +51824,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/dangerous_bax_eq.html",
       "notes": "KVR product https://www.kvraudio.com/product/dangerous-music-bax-eq-by-plugin-alliance",
       "notesForUser": "Dangerous BAX EQ umbrella vs Master/Mix edition SKUs already versioned — do not invent a unified version.",
       "identityKind": "gen_ambiguous",
@@ -51928,7 +51928,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/dark-planet-by-steinberg",
       "notesForUser": "Steinberg library/content (Dark Planet).",
       "identityKind": "soundset",
@@ -52724,7 +52724,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/deroom-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -52751,7 +52751,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/deroom-pro-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -54491,7 +54491,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/dialogueenhance-by-accentize",
       "notesForUser": "KVR Mac≠Win dual — leave unversioned; do not unilateral stamp. No public Version History on product page this pass.",
       "appleSilicon": "native",
@@ -54801,7 +54801,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/vh4",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -54809,7 +54809,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/vh4",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -56619,7 +56619,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/dorico-elements-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Elements).",
       "identityKind": "hub_app",
@@ -56647,7 +56647,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/dorico-pro-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Pro).",
       "identityKind": "hub_app",
@@ -63713,7 +63713,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/electric-bass-by-steinberg",
       "notesForUser": "Steinberg library/content (Electric Bass).",
       "identityKind": "soundset",
@@ -64542,7 +64542,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/karacter",
       "notes": "KVR product https://www.kvraudio.com/product/elysia-karacter-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -64568,7 +64568,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/museq",
       "notes": "KVR product https://www.kvraudio.com/product/elysia-museq-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -79881,7 +79881,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/groove-agent-3-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Groove Agent 3).",
       "identityKind": "discontinued",
@@ -79909,7 +79909,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/groove-agent-6-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81646,7 +81646,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-7-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81674,7 +81674,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-player-by-steinberg",
       "notesForUser": "Legacy Steinberg title (HALion Player).",
       "identityKind": "discontinued",
@@ -81702,7 +81702,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-7-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81730,7 +81730,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-7-collection-by-steinberg",
       "notesForUser": "HALion Sonic 7 Collection is a content/library pack for HALion Sonic 7 — not a discrete installer with public per-SKU semver. Use HALion Sonic 7 current for the instrument host.",
       "identityKind": "soundset",
@@ -81750,7 +81750,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-se-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81776,7 +81776,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-string-edition-by-steinberg",
       "notesForUser": "Steinberg library/content (HALion String Edition).",
       "identityKind": "soundset",
@@ -81804,7 +81804,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-symphonic-orchestra-by-steinberg",
       "notesForUser": "Steinberg library/content (HALion Symphonic Orchestra).",
       "identityKind": "soundset",
@@ -90394,7 +90394,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/hypnotic-dance-by-steinberg",
       "notesForUser": "Steinberg library/content (Hypnotic Dance).",
       "identityKind": "soundset",
@@ -91588,7 +91588,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/iconica-sections-and-players-by-steinberg",
       "notesForUser": "Steinberg library/content (Iconica Sections & Players).",
       "identityKind": "soundset",
@@ -93186,7 +93186,7 @@
         "Installation Manager",
         "PA-InstallationManager"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/",
+      "updatePortalUrl": "https://support.plugin-alliance.com/hc/en-us/articles/30226496102813-Plugin-Alliance-Installation-Manager",
       "identityKeys": {
         "bundleIds": [
           "com.plugin-alliance.plugins.PAInstallationManager"
@@ -93521,7 +93521,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/intensity-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -96280,7 +96280,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/wavesurfer",
       "notes": "KVR product https://www.kvraudio.com/product/karanyi-sounds-wavesurfer-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -96323,7 +96323,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/karlette-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -96787,7 +96787,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/tape-face",
       "notes": "KVR product https://www.kvraudio.com/product/kiive-tape-face-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -96814,7 +96814,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/xtcomp",
       "notes": "KVR product https://www.kvraudio.com/product/kiive-xt-comp-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -99687,7 +99687,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm-4-by-steinberg",
       "notesForUser": "Legacy Steinberg title (LM-4).",
       "identityKind": "discontinued",
@@ -99707,7 +99707,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm_4_markii_by_steinberg",
       "notesForUser": "Legacy Steinberg title (LM-4 MarkII).",
       "identityKind": "discontinued",
@@ -99735,7 +99735,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm_9_by_steinberg",
       "notesForUser": "Legacy Cubase-bundled LM-9 drum machine (pre-SX2). Not in modern Cubase; incompatible with later hosts. No public standalone installer semver — do not invent.",
       "identityKind": "discontinued",
@@ -102064,7 +102064,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/chop-shop",
       "notes": "KVR product https://www.kvraudio.com/product/ltl-chop-shop-eq-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -102093,7 +102093,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/silver-bullet-mk2",
       "notes": "KVR product https://www.kvraudio.com/product/ltl-silver-bullet-mk2-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103544,7 +103544,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/69-series",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-69-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103690,7 +103690,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/902-de-esser",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-902-de-esser-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103717,7 +103717,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/254e",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-254e-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -103755,7 +103755,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/354e",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-354e-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -103792,7 +103792,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/50-series",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-50-series-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103819,7 +103819,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/6x-500",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-6x-500-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -103857,7 +103857,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/7x-500",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-7x-500-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -103894,7 +103894,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/80-series",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-80-series-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103921,7 +103921,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/channelx",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-channelx-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -103958,7 +103958,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/lindell-audio-eq825",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-eq825-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -103984,7 +103984,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/mbc",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-mbc-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -104011,7 +104011,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/pex-500",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-pex-500-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -104048,7 +104048,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/sbc",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-sbc-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -104075,7 +104075,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/te-100",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-audio-te-100-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
@@ -104184,7 +104184,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/mu-66",
       "notes": "KVR product https://www.kvraudio.com/product/lindell-mu-66-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -105592,7 +105592,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/loop-editor-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -105699,7 +105699,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/loopmash-by-steinberg",
       "notesForUser": "Legacy Steinberg title (LoopMash).",
       "identityKind": "discontinued",
@@ -108513,7 +108513,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/mega_sampler.html",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -109116,7 +109116,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "Modern Steinberg/Acousticsamples HALion Sonic SE instrument (Martin HD28 guitar, released ~2021); NOT a legacy-era Steinberg VST. Identity verified 2026-09-15 via KVR product page (mguitar-by-steinberg, Product Version 1.0).",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -113447,7 +113447,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq2",
-      "versionVerifiedAt": "2026-09-10T04:07:16Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -113495,7 +113495,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq4",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq4-ms",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.0.0@https://www.plugin-alliance.com/products/eq4-ms",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -113503,7 +113503,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq4-ms",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -114818,7 +114818,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/the-oven",
       "notes": "KVR product https://www.kvraudio.com/product/maor-appelbaum-mastering-and-hendyamps-the-oven-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -116039,7 +116039,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/materials---metal-and-ice-by-steinberg",
       "notesForUser": "Steinberg library/content (Materials - Metal & Ice).",
       "identityKind": "soundset",
@@ -116059,7 +116059,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/materials-wood-and-water-by-steinberg",
       "notesForUser": "Steinberg library/content (Materials: Wood and Water).",
       "identityKind": "soundset",
@@ -118804,7 +118804,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq2",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/nseq-2",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.12.0@https://www.plugin-alliance.com/products/nseq-2",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -118812,7 +118812,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/nseq-2",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -120339,7 +120339,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/vac-attack",
       "notes": "KVR product https://www.kvraudio.com/product/mixland-vac-attack-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -120914,7 +120914,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/model-e-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -122243,7 +122243,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/morph-3-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -122270,7 +122270,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/morph-3-pro-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -123739,7 +123739,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/myriad-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -123912,7 +123912,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq2",
       "notes": "KVR product https://www.kvraudio.com/product/maeag-audio-eq2-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -123938,13 +123938,13 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq4",
       "notes": "KVR product https://www.kvraudio.com/product/maeag-audio-eq4-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.16.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq4",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -123964,7 +123964,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/eq4-ms",
       "notes": "KVR product https://www.kvraudio.com/product/maeag-audio-eq4-ms-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -123990,7 +123990,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/magnum-k",
       "notes": "KVR product https://www.kvraudio.com/product/maeag-audio-magnum-k-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -124345,7 +124345,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/spl-big",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/big-al",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.4.0@https://www.plugin-alliance.com/products/big-al",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -124353,7 +124353,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/big-al",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -124401,7 +124401,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/rz062",
       "notes": "KVR product https://www.kvraudio.com/product/neold-rz062-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -124427,7 +124427,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/u17",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -124435,7 +124435,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/u17",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -124455,7 +124455,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/u2a",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -124463,7 +124463,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/u2a",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -125102,7 +125102,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/nanologue-by-steinberg",
       "notesForUser": "Nanologue is an iOS synth app (Retrologue-lite); not a desktop DAW plugin. Presets export to Retrologue. No desktop installer semver.",
       "identityKind": "hub_app",
@@ -125178,7 +125178,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/nashville-drums-by-steinberg",
       "notesForUser": "Steinberg library/content (Nashville Drums).",
       "identityKind": "soundset",
@@ -125600,7 +125600,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/neo-soul-keys-by-steinberg",
       "notesForUser": "Steinberg library/content (Neo Soul Keys).",
       "identityKind": "soundset",
@@ -125620,7 +125620,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/neon-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -126146,7 +126146,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126178,7 +126178,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126210,7 +126210,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126242,7 +126242,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126274,7 +126274,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126306,7 +126306,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126338,7 +126338,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126370,7 +126370,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126402,7 +126402,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126434,7 +126434,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126466,7 +126466,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126498,7 +126498,7 @@
       "popularityTier": 1,
       "latestVersion": "5.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neutron",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128090,7 +128090,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/nuendo-by-steinberg",
       "generation": "15",
       "generationRank": 15,
@@ -130341,7 +130341,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/omnivocal-by-yamaha",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -130950,7 +130950,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/orange-vocoder-au-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -130977,7 +130977,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/orange-vocoder-iv-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -131004,7 +131004,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/orange-vocoder-nano-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -133234,7 +133234,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133266,7 +133266,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133300,7 +133300,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133334,7 +133334,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133368,7 +133368,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133402,7 +133402,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133436,7 +133436,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133468,7 +133468,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133502,7 +133502,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133536,7 +133536,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133570,7 +133570,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133604,7 +133604,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133638,7 +133638,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133670,7 +133670,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133704,7 +133704,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133738,7 +133738,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133772,7 +133772,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133806,7 +133806,7 @@
       "popularityTier": 1,
       "latestVersion": "11.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -138447,7 +138447,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/padshop-2-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -138474,7 +138474,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/padshop-pro-by-steinberg",
       "appleSilicon": "mixed",
@@ -142784,7 +142784,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/pitchmap-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -142811,7 +142811,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/pitchmap-colors-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -142880,7 +142880,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/pitchshift-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -142907,7 +142907,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/pitchshift-pro-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -144065,7 +144065,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/polarities-by-steinberg",
       "notesForUser": "Steinberg library/content (Polarities).",
       "identityKind": "soundset",
@@ -144940,7 +144940,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/prefet-by-accentize",
       "notesForUser": "KVR Mac≠Win dual — leave unversioned; do not unilateral stamp. Product page 404 this pass.",
       "appleSilicon": "native",
@@ -144959,7 +144959,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/pretube-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -145910,7 +145910,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/dsm-v3",
       "notes": "KVR product https://www.kvraudio.com/product/proaudiodsp-dsm-by-plugin-alliance",
       "successorPluginId": "plugin-alliance--pro-audio-dsp-dsm-v3",
       "notesForUser": "ProAudioDSP DSM (gen-ambiguous) vs DSM V3 — do not stamp V3 onto this id.",
@@ -147276,7 +147276,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/punch-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -149966,7 +149966,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/rnd-portico-5033-equalizer-by-steinberg",
       "appleSilicon": "mixed",
@@ -149993,7 +149993,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/rnd-portico-5043-compressor-by-steinberg",
       "appleSilicon": "mixed",
@@ -150479,7 +150479,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150513,7 +150513,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150547,7 +150547,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150581,7 +150581,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150615,7 +150615,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150649,7 +150649,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150683,7 +150683,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150717,7 +150717,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150751,7 +150751,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150785,7 +150785,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150819,7 +150819,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150853,7 +150853,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:41Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150887,7 +150887,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150921,7 +150921,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150955,7 +150955,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150989,7 +150989,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -151021,7 +151021,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -151055,7 +151055,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -151087,7 +151087,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -151121,7 +151121,7 @@
       "popularityTier": 1,
       "latestVersion": "11.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -156079,7 +156079,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/retrologue-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -159315,7 +159315,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/spl-big",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159335,7 +159335,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -159343,7 +159343,7 @@
       "popularityTier": 1,
       "latestVersion": "1.17.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
-      "versionVerifiedAt": "2026-09-10T04:11:06Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159363,7 +159363,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -159371,7 +159371,7 @@
       "popularityTier": 1,
       "latestVersion": "1.17.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/de-esser-collection",
-      "versionVerifiedAt": "2026-09-10T04:11:06Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159525,7 +159525,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/free-ranger",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -159533,7 +159533,7 @@
       "popularityTier": 1,
       "latestVersion": "1.19.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/free-ranger",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159720,7 +159720,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/machine-head",
       "notes": "KVR product https://www.kvraudio.com/product/spl-machine-head-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -159994,7 +159994,7 @@
       ],
       "productLine": "SPL Vitalizer",
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/vitalizer-mk2-t",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "generation": "MK2-T",
       "generationRank": 2,
@@ -163668,13 +163668,14 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_double_ms.html",
+      "discontinued": true,
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.0",
+      "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_double_ms/schoeps_double_ms_manual.pdf",
       "versionVerifiedAt": "2026-09-10T07:24:44Z",
       "versionEvidence": "page-confirmed",
@@ -163697,11 +163698,12 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_mono_upmix.html",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/schoeps-mono-upmix-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.0",
+      "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_mono_upmix/schoeps_mono_upmix_manual.pdf",
       "versionVerifiedAt": "2026-09-10T08:40:23Z",
       "versionEvidence": "page-confirmed",
@@ -163725,13 +163727,14 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_mono_upmix.html",
+      "discontinued": true,
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.0",
+      "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_mono_upmix/schoeps_mono_upmix_manual.pdf",
       "versionVerifiedAt": "2026-09-10T07:24:44Z",
       "versionEvidence": "page-confirmed",
@@ -163754,7 +163757,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/en/products/schoeps_mono_upmix.html",
       "discontinued": true,
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "updateClass": "discontinued",
@@ -163985,7 +163988,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/scoring-percussion-by-steinberg",
       "notesForUser": "Steinberg library/content (Scoring Percussion).",
       "identityKind": "soundset",
@@ -164315,7 +164318,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/sequel-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Sequel).",
       "identityKind": "hub_app",
@@ -164993,7 +164996,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mastering-compressor-class-a",
-      "versionVerifiedAt": "2026-09-10T04:07:16Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -165013,7 +165016,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/mastering-compressor-class-a",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/mastering-compressor",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.5.0@https://www.plugin-alliance.com/products/mastering-compressor-class-a flash:heuristic",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -165021,7 +165024,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mastering-compressor",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -165041,7 +165044,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/mastering-compressor-class-a",
       "notes": "KVR product https://www.kvraudio.com/product/shadow-hills-mastering-compressor-class-a-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -166663,7 +166666,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/simon-phillips-studio-drums-by-steinberg",
       "notesForUser": "Steinberg library/content (Simon Phillips Studio Drums).",
       "identityKind": "soundset",
@@ -171348,7 +171351,7 @@
       "popularityTier": 1,
       "latestVersion": "13.0.20",
       "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/spectralayers_13.html",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-27T17:55:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171369,7 +171372,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-elements-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -171396,7 +171399,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-pro-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -171423,7 +171426,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-pro-7-by-steinberg",
       "notesForUser": "Legacy Steinberg title (SpectraLayers Pro 7).",
       "identityKind": "discontinued",
@@ -171451,7 +171454,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-pro-8-by-steinberg",
       "notesForUser": "Legacy Steinberg title (SpectraLayers Pro 8).",
       "identityKind": "discontinued",
@@ -171577,7 +171580,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/spectralbalance-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -171628,7 +171631,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/spectre-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -177543,7 +177546,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/subspace-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -178850,7 +178853,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bde",
       "notes": "KVR product https://www.kvraudio.com/product/swivel-audio-bde---big-distortion-engine-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -178876,7 +178879,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/click-boom",
       "notes": "KVR product https://www.kvraudio.com/product/swivel-audio-click-boom-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -178902,7 +178905,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/hitstrip",
       "notes": "KVR product https://www.kvraudio.com/product/swivel-audio-hitstrip-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -178928,7 +178931,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/knocktonal",
       "notes": "KVR product https://www.kvraudio.com/product/swivel-audio-knocktonal-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -178954,7 +178957,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/spread",
       "notes": "KVR product https://www.kvraudio.com/product/swivel-audio-spread-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -183335,7 +183338,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://tal-software.com/products/tal-reverb-4",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-27T18:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -183358,7 +183361,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://tal-software.com/products/tal-reverb-4",
-      "versionVerifiedAt": "2026-09-10T03:56:59Z",
+      "versionVerifiedAt": "2026-09-27T18:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -183383,7 +183386,7 @@
       "popularityTier": 1,
       "latestVersion": "4.0.4",
       "versionSourceUrl": "https://tal-software.com/products/tal-reverb-4",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-27T18:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -185945,7 +185948,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/spatial-creator",
       "notes": "KVR product https://www.kvraudio.com/product/thx-spatial-creator-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -189240,7 +189243,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/the-grand-by-steinberg",
       "notesForUser": "Steinberg library/content (The Grand).",
       "identityKind": "soundset",
@@ -190609,7 +190612,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/cenozoix-compressor",
       "notes": "KVR product https://www.kvraudio.com/product/three-body-technology-cenozoix-compressor-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -190636,7 +190639,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/kirchhoff-eq",
       "notes": "KVR product https://www.kvraudio.com/product/three-body-technology-kirchhoff-eq-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -190663,7 +190666,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/trinity-shaper",
       "notes": "KVR product https://www.kvraudio.com/product/three-body-technology-trinity-shaper-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -190890,7 +190893,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/time-factory-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -194732,7 +194735,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/triebwerk-by-steinberg",
       "notesForUser": "Steinberg library/content (Triebwerk).",
       "identityKind": "soundset",
@@ -194967,7 +194970,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/triumph-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -202846,7 +202849,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/unchirp-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -202873,7 +202876,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/unfilter-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -202900,7 +202903,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/unmix-drums-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -203015,7 +203018,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/unveil-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -204600,7 +204603,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/byome",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-byome-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -204663,7 +204666,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bass-mint",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-bass-mint-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -204714,7 +204717,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/battalion",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-battalion-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -204877,7 +204880,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/fault",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-fault-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -204928,7 +204931,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/g8",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-g8-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205046,7 +205049,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/instant-delay",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-instant-delay-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205097,7 +205100,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/lion",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-lion-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205123,7 +205126,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/lo-fi-af",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-lo-fi-af-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205174,7 +205177,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/needlepoint",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-needlepoint-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205200,7 +205203,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/silo",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-silo-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205251,7 +205254,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/sandman",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-sandman-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205352,7 +205355,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/specops",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-specops-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205378,7 +205381,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/tails",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-tails-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205454,7 +205457,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/triad",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-triad-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205505,7 +205508,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/zip",
       "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-zip-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -205804,7 +205807,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/universal-sound-module-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Universal Sound Module).",
       "identityKind": "discontinued",
@@ -206740,7 +206743,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/v-stack-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (V-Stack).",
       "identityKind": "hub_app",
@@ -206799,7 +206802,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/vb-1-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -208481,7 +208484,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-connect-pro-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -208507,7 +208510,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-live-elements-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (VST Live Elements).",
       "identityKind": "standalone_app",
@@ -208535,7 +208538,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-live-pro-3-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (VST Live Pro 3).",
       "identityKind": "standalone_app",
@@ -211343,7 +211346,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual-bassist-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Bassist).",
       "identityKind": "discontinued",
@@ -211815,7 +211818,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual-guitarist-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Guitarist).",
       "identityKind": "discontinued",
@@ -211939,7 +211942,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual_guitarist_electric_edition_by_steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Guitarist Electric Edition).",
       "identityKind": "discontinued",
@@ -213383,7 +213386,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/voicegate-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -214197,7 +214200,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.wedgeforce.com/hydro-synth-download/",
       "notes": "KVR product https://www.kvraudio.com/product/wedge-force-hydro-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -214248,7 +214251,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.wedgeforce.com/keemun-synth-download/",
       "notes": "KVR product https://www.kvraudio.com/product/wedge-force-keemun-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -214323,7 +214326,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.wedgeforce.com/oolong-synth-download/",
       "notes": "KVR product https://www.kvraudio.com/product/wedge-force-oolong-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -215223,7 +215226,7 @@
       "popularityTier": 1,
       "latestVersion": "13.0.30",
       "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/wavelab_13.html",
-      "versionVerifiedAt": "2026-09-10T04:17:40Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -215267,7 +215270,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-cast-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Cast).",
       "identityKind": "hub_app",
@@ -215295,7 +215298,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-elements-13-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Elements 13).",
       "identityKind": "hub_app",
@@ -215324,7 +215327,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-pro-13-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Pro 13).",
       "identityKind": "hub_app",
@@ -215892,7 +215895,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.wedgeforce.com/updates-matcha/",
       "notes": "KVR product https://www.kvraudio.com/product/wedge-force-matcha-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -217217,7 +217220,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.zynaptiq.com/downloads/",
+      "updatePortalUrl": "https://www.zynaptiq.com/products/",
       "notes": "KVR product https://www.kvraudio.com/product/wormhole-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -218296,7 +218299,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/xphraze-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Xphraze).",
       "identityKind": "discontinued",
@@ -218685,7 +218688,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-channel-strip-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -218711,7 +218714,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-open-deck-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -218737,7 +218740,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.steinberg.net/download/",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-stomp-pack-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -221106,7 +221109,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_blackdist2",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221134,7 +221137,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_bluechorus2",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221258,7 +221261,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_cleansweep-v2",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221266,7 +221269,7 @@
       "popularityTier": 1,
       "latestVersion": "2.17.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_cleansweep-v2",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221314,7 +221317,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-amek-9099",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-amek-200",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.1.3@https://www.plugin-alliance.com/products/bx_console-amek-200",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221322,7 +221325,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_console-amek-200",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221434,7 +221437,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-e",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "versionVerifiedAt": "2026-09-27T18:10:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221454,7 +221457,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-e",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-g",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.8.0@https://www.plugin-alliance.com/products/bx_console-ssl-4000-g",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221462,7 +221465,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-g",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221482,7 +221485,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-4000-e",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_console-ssl-9000-j",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.5.0@https://www.plugin-alliance.com/products/bx_console-ssl-9000-j",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221538,7 +221541,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_crispytuner",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "notesForUser": "Updates via PA Installation Manager (hub-walled — no public installer semver).",
@@ -221679,7 +221682,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_distorange",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221687,7 +221690,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_distorange",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221819,7 +221822,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_greenscreamer",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221827,7 +221830,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_greenscreamer",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221855,7 +221858,7 @@
       "popularityTier": 1,
       "latestVersion": "2.14.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_hybrid-v2",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221903,7 +221906,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_limiter-true-peak",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_limiter",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.16.1@https://www.plugin-alliance.com/products/bx_limiter",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221939,7 +221942,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_limiter-true-peak",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221959,7 +221962,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/brainworx-bx_masterdesk-pro",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_masterdesk",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.8.0@https://www.plugin-alliance.com/products/bx_masterdesk",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221967,7 +221970,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_masterdesk",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221987,7 +221990,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/brainworx-bx_masterdesk-pro",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_masterdesk-classic",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.8.0@https://www.plugin-alliance.com/products/bx_masterdesk",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -221995,7 +221998,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_masterdesk-classic",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222023,7 +222026,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/brainworx-bx_masterdesk-pro",
-      "versionVerifiedAt": "2026-09-10T04:07:16Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222043,7 +222046,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/brainworx-bx_masterdesk-pro",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_masterdesk-true-peak",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.8.0@https://www.plugin-alliance.com/products/bx_masterdesk",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222051,7 +222054,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_masterdesk-true-peak",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222099,7 +222102,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_megasingle",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222107,7 +222110,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_megasingle",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222127,7 +222130,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_metal2",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222135,7 +222138,7 @@
       "popularityTier": 1,
       "latestVersion": "1.10.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_metal2",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222155,7 +222158,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_meter",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222163,7 +222166,7 @@
       "popularityTier": 1,
       "latestVersion": "1.18.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_meter",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-28T05:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222219,7 +222222,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_opto",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222247,7 +222250,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_opto",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222337,7 +222340,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_refinement-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222371,7 +222374,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_refinement-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222427,7 +222430,7 @@
       "popularityTier": 1,
       "latestVersion": "3.10.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_rockrack-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222455,7 +222458,7 @@
       "popularityTier": 1,
       "latestVersion": "3.10.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_rockrack-v3",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222531,7 +222534,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/spread",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_shredspread",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.3.0@https://www.plugin-alliance.com/products/spread",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222539,7 +222542,7 @@
       "popularityTier": 1,
       "latestVersion": "1.19.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_shredspread",
-      "versionVerifiedAt": "2026-09-10T04:09:06Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222559,7 +222562,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_solo",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222567,7 +222570,7 @@
       "popularityTier": 1,
       "latestVersion": "1.16.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_solo",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222615,7 +222618,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_subfilter",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222623,7 +222626,7 @@
       "popularityTier": 1,
       "latestVersion": "1.10.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_subfilter",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222727,7 +222730,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_tuner",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222735,7 +222738,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_tuner",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -222755,7 +222758,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/bx_yellowdrive",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -222763,7 +222766,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_yellowdrive",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -223445,7 +223448,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.sennheiser.com/en-us/immersive/dear-reality",
       "notes": "KVR product https://www.kvraudio.com/product/dearvr-music-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -223927,7 +223930,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/dxlevel-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -223953,7 +223956,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/dxrevive-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -224015,7 +224018,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/dxsplit-by-accentize",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -224259,7 +224262,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/karacter",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224287,7 +224290,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/karacter",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224343,7 +224346,7 @@
       "popularityTier": 1,
       "latestVersion": "1.15.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/museq",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224371,7 +224374,7 @@
       "popularityTier": 1,
       "latestVersion": "1.15.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/museq",
-      "versionVerifiedAt": "2026-09-10T04:07:15Z",
+      "versionVerifiedAt": "2026-09-27T18:20:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224391,7 +224394,7 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "updatePortalUrl": "https://www.plugin-alliance.com/products/opticom-xla-3",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/niveau-filter",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:10.14.5@https://www.plugin-alliance.com/products/opticom-xla-3",
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
@@ -224399,7 +224402,7 @@
       "popularityTier": 1,
       "latestVersion": "1.18.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/niveau-filter",
-      "versionVerifiedAt": "2026-09-10T04:09:07Z",
+      "versionVerifiedAt": "2026-09-27T18:35:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -224552,7 +224555,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/splat",
       "notes": "KVR product https://www.kvraudio.com/product/fiedler-audio-splat-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -224578,7 +224581,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/stage",
       "notes": "KVR product https://www.kvraudio.com/product/fiedler-audio-stage-by-plugin-alliance",
       "identityKeys": {
         "bundleIds": [
