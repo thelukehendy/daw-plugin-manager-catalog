@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-28T13:00:12Z",
+  "updatedAt": "2026-09-28T18:27:07Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -65,6 +65,16 @@
       "versionExample": "1.1.0",
       "notes": "Update via manufacturer account / downloads portal. Installers are user-driven.",
       "popularityTier": 2
+    },
+    {
+      "id": "amiaudio",
+      "name": "AM I AUDIO",
+      "updatePortalUrl": "https://amiaudio.io",
+      "websiteUrl": "https://amiaudio.io",
+      "aliases": [
+        "AmIAudio"
+      ],
+      "notes": "Added 2026-09-28 via feedback triage (opted-in Bethel Studio scan). Small AI-choir vendor; product page / update channel not yet verified first-hand."
     },
     {
       "id": "oas--auditive",
@@ -2526,24 +2536,16 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
-      "id": "kiive",
+      "id": "kiive-audio",
       "name": "Kiive Audio",
-      "updatePortalUrl": "https://www.kiiveaudio.com/account",
+      "updatePortalUrl": "https://www.kiiveaudio.com",
       "websiteUrl": "https://www.kiiveaudio.com",
       "aliases": [
         "myCompany",
         "Kiive"
       ],
-      "notes": "Some older builds use placeholder bundle vendor myCompany",
-      "popularityTier": 3
-    },
-    {
-      "id": "kiive-audio",
-      "name": "Kiive Audio",
-      "updatePortalUrl": "https://www.kiiveaudio.com",
-      "websiteUrl": "https://www.kiiveaudio.com",
       "appleSilicon": "native",
-      "notes": "Added 2026-09-14 via research-engine-10x universe expansion.\nApple Silicon: native. Own FAQ repeated across product pages: all current plugins native on Apple Silicon, no Rosetta. Evidence: https://www.kiiveaudio.com/products/complete-collection",
+      "notes": "Added 2026-09-14 via research-engine-10x universe expansion.\nApple Silicon: native. Own FAQ repeated across product pages: all current plugins native on Apple Silicon, no Rosetta. Evidence: https://www.kiiveaudio.com/products/complete-collection\nMerged 2026-09-28: absorbed legacy `kiive` manufacturer row (3 plugins: XTComp, Tape Face, Xtressor). Legacy note carried over: some older Kiive builds use placeholder bundle vendor \"myCompany\" — bundle-id identity keys from those builds are weak; prefer AU component (vendor Kiiv) for matching.",
       "popularityTier": 2
     },
     {
@@ -11896,7 +11898,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/absolute-7-by-steinberg",
       "notesForUser": "Steinberg Absolute bundle (Absolute 7).",
       "identityKind": "bundle",
@@ -23133,6 +23135,8 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "11",
+      "predecessorPluginId": "antares--auto-tune-pro-10",
       "identityKeys": {
         "bundleIds": [
           "com.Antares.AutoTune"
@@ -23155,6 +23159,24 @@
       "versionConfidenceReasons": [
         "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
+    },
+    {
+      "id": "antares--auto-tune-pro-10",
+      "manufacturerId": "antares",
+      "name": "Auto-Tune Pro 10",
+      "matchPatterns": [
+        "Auto-Tune Pro"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "generation": "10",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "antares--auto-tune-pro",
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "antares--auto-tune-slice",
@@ -25851,7 +25873,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/backbone-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -30694,6 +30716,67 @@
       ]
     },
     {
+      "id": "bitwig--bitwig-studio-4",
+      "manufacturerId": "bitwig",
+      "name": "Bitwig Studio 4",
+      "matchPatterns": [
+        "Bitwig Studio 4"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.bitwig.com/download/",
+      "generation": "4",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "bitwig--bitwig-studio-5",
+      "notesForUser": "Bitwig Studio 4 needs an upgrade license once the 12-month Upgrade Plan on the older license has expired. Versions released inside an active plan are free.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.4.10",
+      "versionSourceUrl": "https://www.bitwig.com/previous_releases/",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
+      "id": "bitwig--bitwig-studio-5",
+      "manufacturerId": "bitwig",
+      "name": "Bitwig Studio 5",
+      "matchPatterns": [
+        "Bitwig Studio 5"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.bitwig.com/download/",
+      "generation": "5",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "bitwig--bitwig-studio-6",
+      "predecessorPluginId": "bitwig--bitwig-studio-4",
+      "notesForUser": "Bitwig Studio 5 needs an upgrade license once the 12-month Upgrade Plan on the older license has expired. Versions released inside an active plan are free.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "5.3.13",
+      "versionSourceUrl": "https://www.bitwig.com/previous_releases/",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "bitwig--bitwig-studio-6",
       "manufacturerId": "bitwig",
       "name": "Bitwig Studio 6",
@@ -30708,6 +30791,8 @@
       ],
       "updatePortalUrl": "https://www.bitwig.com/download/",
       "notes": "KVR product https://www.kvraudio.com/product/bitwig-studio-6-by-bitwig",
+      "generation": "6",
+      "predecessorPluginId": "bitwig--bitwig-studio-5",
       "identityKeys": {
         "bundleIds": [
           "com.bitwig.studio"
@@ -40099,15 +40184,7 @@
       "notesForUser": "Melodyne 4 Studio is a prior generation vs current Melodyne 5 line — leave discontinued; do not stamp Melodyne 5 version.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "finalVersion": "4.2.4",
-      "versionSourceUrl": "https://discuss.cakewalk.com/topic/7353-melodyne-version-424-is-out/",
-      "versionVerifiedAt": "2026-09-15T05:31:34Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 65,
-      "versionConfidenceReasons": [
-        "Celemony's own site no longer publishes the Melodyne 4 version history. The quoted text is Celemony's own release notes (quoted from the update notice) for 4.2.4 (Oct 2019), the last release before Me"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "modartt--celesta-glockenspiel-toy-piano-and-kalimba",
@@ -49546,6 +49623,36 @@
       "popularityTier": 1
     },
     {
+      "id": "steinberg--cubase-artist-14",
+      "manufacturerId": "steinberg",
+      "name": "Cubase Artist 14",
+      "matchPatterns": [
+        "Cubase Artist 14"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "14",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--cubase-artist-15",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "14.0.41",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/cubase_14.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "steinberg--cubase-artist-15",
       "manufacturerId": "steinberg",
       "name": "Cubase Artist 15",
@@ -49558,8 +49665,10 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-artist-15-by-steinberg",
+      "generation": "15",
+      "predecessorPluginId": "steinberg--cubase-artist-14",
       "identityKeys": {
         "bundleIds": [
           "com.steinberg.cubase15"
@@ -49579,6 +49688,36 @@
       ]
     },
     {
+      "id": "steinberg--cubase-elements-14",
+      "manufacturerId": "steinberg",
+      "name": "Cubase Elements 14",
+      "matchPatterns": [
+        "Cubase Elements 14"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "14",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--cubase-elements-15",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "14.0.41",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/cubase_14.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "steinberg--cubase-elements-15",
       "manufacturerId": "steinberg",
       "name": "Cubase Elements 15",
@@ -49591,8 +49730,10 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-elements-15-by-steinberg",
+      "generation": "15",
+      "predecessorPluginId": "steinberg--cubase-elements-14",
       "identityKeys": {
         "bundleIds": [
           "com.steinberg.cubase15"
@@ -49612,6 +49753,98 @@
       ]
     },
     {
+      "id": "steinberg--cubase-pro-12",
+      "manufacturerId": "steinberg",
+      "name": "Cubase Pro 12",
+      "matchPatterns": [
+        "Cubase Pro 12"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "12",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--cubase-pro-13",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "12.0.70",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/unsupported_software/cubase/cubase_12/cubase_pro_12.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
+      "id": "steinberg--cubase-pro-13",
+      "manufacturerId": "steinberg",
+      "name": "Cubase Pro 13",
+      "matchPatterns": [
+        "Cubase Pro 13"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "13",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--cubase-pro-14",
+      "predecessorPluginId": "steinberg--cubase-pro-12",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "13.0.55",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/unsupported_software/cubase/cubase_13/cubase_pro_13.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
+      "id": "steinberg--cubase-pro-14",
+      "manufacturerId": "steinberg",
+      "name": "Cubase Pro 14",
+      "matchPatterns": [
+        "Cubase Pro 14"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "14",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--cubase-pro-15",
+      "predecessorPluginId": "steinberg--cubase-pro-13",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "standalone_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "14.0.41",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/cubase_14.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "steinberg--cubase-pro-15",
       "manufacturerId": "steinberg",
       "name": "Cubase Pro 15",
@@ -49624,8 +49857,10 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubase-pro-15-by-steinberg",
+      "generation": "15",
+      "predecessorPluginId": "steinberg--cubase-pro-14",
       "identityKeys": {
         "bundleIds": [
           "com.steinberg.cubase15"
@@ -49657,7 +49892,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubasis-2-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Cubasis 2).",
       "identityKind": "hub_app",
@@ -49685,7 +49920,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/cubasis-3-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Cubasis 3).",
       "identityKind": "hub_app",
@@ -50287,7 +50522,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/dcota-by-steinberg",
       "notesForUser": "Legacy Steinberg title (D'cota).",
       "identityKind": "discontinued",
@@ -51928,7 +52163,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/dark-planet-by-steinberg",
       "notesForUser": "Steinberg library/content (Dark Planet).",
       "identityKind": "soundset",
@@ -54968,6 +55203,8 @@
         "Digital Performer"
       ],
       "notes": "MOTU flagship DAW.",
+      "generation": "12",
+      "predecessorPluginId": "motu--digital-performer-11",
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
@@ -54978,6 +55215,27 @@
       "versionConfidence": 85,
       "versionConfidenceReasons": [
         "vendor product page, major version only"
+      ]
+    },
+    {
+      "id": "motu--digital-performer-11",
+      "manufacturerId": "motu",
+      "name": "Digital Performer 11",
+      "matchPatterns": [
+        "Digital Performer"
+      ],
+      "generation": "11",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "motu--digital-performer",
+      "identityKind": "standalone_app",
+      "popularityTier": 1,
+      "latestVersion": "11.36",
+      "versionSourceUrl": "https://motu.com/en-us/download/product/489/",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
       ]
     },
     {
@@ -56619,8 +56877,10 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/dorico-elements-by-steinberg",
+      "generation": "6",
+      "predecessorPluginId": "steinberg--dorico-elements-5",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Elements).",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
@@ -56635,6 +56895,59 @@
       ]
     },
     {
+      "id": "steinberg--dorico-elements-4",
+      "manufacturerId": "steinberg",
+      "name": "Dorico Elements 4",
+      "matchPatterns": [
+        "Dorico Elements"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "4",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--dorico-elements-5",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "4.3.30",
+      "versionSourceUrl": "https://o.steinberg.net/index.php?L=1&id=15264",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
+      "id": "steinberg--dorico-elements-5",
+      "manufacturerId": "steinberg",
+      "name": "Dorico Elements 5",
+      "matchPatterns": [
+        "Dorico Elements"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "5",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--dorico-elements",
+      "predecessorPluginId": "steinberg--dorico-elements-4",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
       "id": "steinberg--dorico-pro",
       "manufacturerId": "steinberg",
       "name": "Dorico Pro",
@@ -56647,8 +56960,10 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/dorico-pro-by-steinberg",
+      "generation": "6",
+      "predecessorPluginId": "steinberg--dorico-pro-5",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Pro).",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
@@ -56660,6 +56975,67 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "Steinberg Dorico 6.2.30 public installer exact match KVR"
+      ]
+    },
+    {
+      "id": "steinberg--dorico-pro-4",
+      "manufacturerId": "steinberg",
+      "name": "Dorico Pro 4",
+      "matchPatterns": [
+        "Dorico Pro"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "4",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--dorico-pro-5",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "4.3.30",
+      "versionSourceUrl": "https://o.steinberg.net/index.php?L=1&id=15264",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
+      "id": "steinberg--dorico-pro-5",
+      "manufacturerId": "steinberg",
+      "name": "Dorico Pro 5",
+      "matchPatterns": [
+        "Dorico Pro"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "5",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "steinberg--dorico-pro",
+      "predecessorPluginId": "steinberg--dorico-pro-4",
+      "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "5.1.81",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/dorico_5/dorico_pro_5.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
       ]
     },
     {
@@ -63713,7 +64089,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/electric-bass-by-steinberg",
       "notesForUser": "Steinberg library/content (Electric Bass).",
       "identityKind": "soundset",
@@ -79881,7 +80257,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/groove-agent-3-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Groove Agent 3).",
       "identityKind": "discontinued",
@@ -79909,7 +80285,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/groove-agent-6-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -80281,6 +80657,43 @@
       ]
     },
     {
+      "id": "native-instruments--guitar-rig-6",
+      "manufacturerId": "native-instruments",
+      "name": "Guitar Rig 6",
+      "matchPatterns": [
+        "Guitar Rig 6",
+        "Guitar Rig Pro"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
+      "generation": "6",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "native-instruments--guitar-rig-pro",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "6.4.0",
+      "versionSourceUrl": "https://community.native-instruments.com/discussion/53/official-update-status-guitar-rig-7-current-version-7-0-2",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "native-instruments--guitar-rig-pro",
       "manufacturerId": "native-instruments",
       "name": "Guitar Rig Pro",
@@ -80295,6 +80708,8 @@
       ],
       "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
       "notes": "KVR product https://www.kvraudio.com/product/guitar-rig-pro-by-native-instruments",
+      "generation": "7",
+      "predecessorPluginId": "native-instruments--guitar-rig-6",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -81646,7 +82061,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-7-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81674,7 +82089,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-player-by-steinberg",
       "notesForUser": "Legacy Steinberg title (HALion Player).",
       "identityKind": "discontinued",
@@ -81702,7 +82117,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-7-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81730,7 +82145,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-7-collection-by-steinberg",
       "notesForUser": "HALion Sonic 7 Collection is a content/library pack for HALion Sonic 7 — not a discrete installer with public per-SKU semver. Use HALion Sonic 7 current for the instrument host.",
       "identityKind": "soundset",
@@ -81750,7 +82165,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-sonic-se-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -81776,7 +82191,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-string-edition-by-steinberg",
       "notesForUser": "Steinberg library/content (HALion String Edition).",
       "identityKind": "soundset",
@@ -81804,7 +82219,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/halion-symphonic-orchestra-by-steinberg",
       "notesForUser": "Steinberg library/content (HALion Symphonic Orchestra).",
       "identityKind": "soundset",
@@ -90394,7 +90809,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/hypnotic-dance-by-steinberg",
       "notesForUser": "Steinberg library/content (Hypnotic Dance).",
       "identityKind": "soundset",
@@ -90485,6 +90900,32 @@
       "versionConfidenceReasons": [
         "Glitchmachines product page USER GUIDE Version 1.4.0"
       ]
+    },
+    {
+      "id": "amiaudio--iamchoir",
+      "manufacturerId": "amiaudio",
+      "name": "I AM CHOIR",
+      "matchPatterns": [
+        "IAmChoir",
+        "I AM CHOIR"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Added 2026-09-28 via feedback triage. AI choir plugin (sings lyrics/melody), released ~Aug 2026, $169. No vendor version source found yet — no observation recorded (installed 1.0.2 not usable as latestVersion per zero-trust).",
+      "identityKeys": {
+        "bundleIds": [
+          "com.AmIAudio.IAmChoir"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "AMIA",
+            "subtype": "Iamc"
+          }
+        ]
+      }
     },
     {
       "id": "baby-audio--i-heart-ny",
@@ -91588,7 +92029,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/iconica-sections-and-players-by-steinberg",
       "notesForUser": "Steinberg library/content (Iconica Sections & Players).",
       "identityKind": "soundset",
@@ -96323,7 +96764,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/karlette-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -96753,7 +97194,7 @@
     },
     {
       "id": "kiive--tape-face",
-      "manufacturerId": "kiive",
+      "manufacturerId": "kiive-audio",
       "name": "Kiive Tape Face",
       "matchPatterns": [
         "Kiive Tape Face",
@@ -96764,7 +97205,8 @@
         "AU",
         "VST3"
       ],
-      "popularityTier": 3,
+      "appleSilicon": "native",
+      "popularityTier": 2,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/tape-face",
       "versionVerifiedAt": "2026-09-10T04:02:35Z",
@@ -96829,7 +97271,7 @@
     },
     {
       "id": "kiive--kiive-xtcomp",
-      "manufacturerId": "kiive",
+      "manufacturerId": "kiive-audio",
       "name": "Kiive XTComp",
       "matchPatterns": [
         "Kiive XTComp"
@@ -96842,7 +97284,8 @@
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "predecessorPluginId": "kiive--xtressor",
-      "popularityTier": 3,
+      "appleSilicon": "native",
+      "popularityTier": 2,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/xtcomp",
       "versionVerifiedAt": "2026-09-10T04:02:35Z",
@@ -96854,7 +97297,7 @@
     },
     {
       "id": "kiive--xtressor",
-      "manufacturerId": "kiive",
+      "manufacturerId": "kiive-audio",
       "name": "Kiive Xtressor",
       "matchPatterns": [
         "Kiive Xtressor",
@@ -96866,10 +97309,20 @@
         "VST3"
       ],
       "discontinued": true,
+      "notes": "\n2026-09-28: manufacturer row merged kiive -> kiive-audio (dupes); plugin id unchanged.",
       "successorPluginId": "kiive--kiive-xtcomp",
+      "identityKeys": {
+        "auComponents": [
+          {
+            "manufacturer": "Kiiv",
+            "subtype": "Kadx"
+          }
+        ]
+      },
       "notesForUser": "Xtressor renamed/reskinned to XTComp (IP). Successor kiive--kiive-xtcomp already accepted @ 1.0.4 from PA https://www.plugin-alliance.com/products/xtcomp. Do not map XTComp version onto Xtressor SKU. Probes: PA products.json (xtcomp only), Reddit/PA forum rename confirmation, no live Xtressor PA page.",
       "identityKind": "discontinued",
-      "popularityTier": 3
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "oas--mm-rnd-kiln",
@@ -99687,7 +100140,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm-4-by-steinberg",
       "notesForUser": "Legacy Steinberg title (LM-4).",
       "identityKind": "discontinued",
@@ -99707,7 +100160,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm_4_markii_by_steinberg",
       "notesForUser": "Legacy Steinberg title (LM-4 MarkII).",
       "identityKind": "discontinued",
@@ -99735,7 +100188,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/lm_9_by_steinberg",
       "notesForUser": "Legacy Cubase-bundled LM-9 drum machine (pre-SX2). Not in modern Cubase; incompatible with later hosts. No public standalone installer semver — do not invent.",
       "identityKind": "discontinued",
@@ -105699,7 +106152,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/loopmash-by-steinberg",
       "notesForUser": "Legacy Steinberg title (LoopMash).",
       "identityKind": "discontinued",
@@ -109116,7 +109569,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "Modern Steinberg/Acousticsamples HALion Sonic SE instrument (Martin HD28 guitar, released ~2021); NOT a legacy-era Steinberg VST. Identity verified 2026-09-15 via KVR product page (mguitar-by-steinberg, Product Version 1.0).",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -115279,6 +115732,8 @@
       ],
       "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
       "notes": "KVR product https://www.kvraudio.com/product/maschine-by-native-instruments",
+      "generation": "3",
+      "predecessorPluginId": "native-instruments--maschine-2",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -115291,14 +115746,44 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "3.6.0",
+      "latestVersion": "3.7.0",
       "versionSourceUrl": "https://community.native-instruments.com/discussion/40/official-update-status-maschine-3-current-version-3-6-0",
-      "versionVerifiedAt": "2026-09-10T11:31:47Z",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "NI community Official update status public thread: currently available software version is 3.6.0"
+        "NI community Official update status public thread, body read 2026-09-28"
       ]
+    },
+    {
+      "id": "native-instruments--maschine-2",
+      "manufacturerId": "native-instruments",
+      "name": "Maschine 2",
+      "matchPatterns": [
+        "Maschine"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
+      "generation": "2",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "native-instruments--maschine",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "notesForUser": "A Maschine 2 purchase or registration on or after 2024-10-06 can be a complimentary Maschine 3 upgrade.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--maschine-central",
@@ -116039,7 +116524,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/materials---metal-and-ice-by-steinberg",
       "notesForUser": "Steinberg library/content (Materials - Metal & Ice).",
       "identityKind": "soundset",
@@ -116059,7 +116544,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/materials-wood-and-water-by-steinberg",
       "notesForUser": "Steinberg library/content (Materials: Wood and Water).",
       "identityKind": "soundset",
@@ -116734,15 +117219,7 @@
       "successorPluginId": "celemony--melodyne",
       "notesForUser": "Melodyne 5 is a paid major update for assistant, editor, and studio. Melodyne essential major updates are free.",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "4.2.4",
-      "versionSourceUrl": "https://dshowmusic.com/melodyne-424-compatible-macos-catalina/",
-      "versionVerifiedAt": "2026-09-27T05:27:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "Vendor-authored Celemony press release (2019-10-08) quoted verbatim: 'version 4.2.4 of Melodyne … all four editions of Melodyne 4'; corroborated by Celemony in-app update notes verbatim ('Improvements in the current Version 4.2.4') and installer sequence ending at 4.2.4.001; Celemony helpcenter confirms Melodyne 4 retired May 2020 with no 4.2.5 ever published. Vendor text hosted on third-party pages — not first-hand URL, hence 70."
-      ]
+      "popularityTier": 1
     },
     {
       "id": "celemony--melodyne-4-essential",
@@ -116762,15 +117239,7 @@
       "notesForUser": "Melodyne edition / tier SKU (same engine family)",
       "identityKind": "suite_component",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "4.2.4",
-      "versionSourceUrl": "https://discuss.cakewalk.com/topic/7353-melodyne-version-424-is-out/",
-      "versionVerifiedAt": "2026-09-15T05:31:35Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 65,
-      "versionConfidenceReasons": [
-        "Celemony's own site no longer publishes the Melodyne 4 version history. Quote is Celemony's own release notes for 4.2.4 (Oct 2019), the terminal 4.x release; all Melodyne 4 editions shared the release"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "celemony--melodyne",
@@ -120254,6 +120723,8 @@
         "Mixbus"
       ],
       "notes": "Harrison flagship DAW.",
+      "generation": "12",
+      "predecessorPluginId": "harrison--mixbus-11",
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
@@ -120265,6 +120736,33 @@
       "versionConfidenceReasons": [
         "Harrison staff announcement on Harrison's own forum"
       ]
+    },
+    {
+      "id": "harrison--mixbus-10",
+      "manufacturerId": "harrison",
+      "name": "Mixbus 10",
+      "matchPatterns": [
+        "Mixbus"
+      ],
+      "generation": "10",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "harrison--mixbus-11",
+      "identityKind": "standalone_app",
+      "popularityTier": 1
+    },
+    {
+      "id": "harrison--mixbus-11",
+      "manufacturerId": "harrison",
+      "name": "Mixbus 11",
+      "matchPatterns": [
+        "Mixbus"
+      ],
+      "generation": "11",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "harrison--mixbus",
+      "predecessorPluginId": "harrison--mixbus-10",
+      "identityKind": "standalone_app",
+      "popularityTier": 1
     },
     {
       "id": "mixed-in-key--mixed-in-key-studio-edition",
@@ -120914,7 +121412,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/model-e-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -125102,7 +125600,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/nanologue-by-steinberg",
       "notesForUser": "Nanologue is an iOS synth app (Retrologue-lite); not a desktop DAW plugin. Presets export to Retrologue. No desktop installer semver.",
       "identityKind": "hub_app",
@@ -125178,7 +125676,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/nashville-drums-by-steinberg",
       "notesForUser": "Steinberg library/content (Nashville Drums).",
       "identityKind": "soundset",
@@ -125600,7 +126098,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/neo-soul-keys-by-steinberg",
       "notesForUser": "Steinberg library/content (Neo Soul Keys).",
       "identityKind": "soundset",
@@ -125620,7 +126118,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/neon-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -128090,7 +128588,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/nuendo-by-steinberg",
       "generation": "15",
       "generationRank": 15,
@@ -130341,7 +130839,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/omnivocal-by-yamaha",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -138447,7 +138945,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/padshop-2-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -138474,7 +138972,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/padshop-pro-by-steinberg",
       "appleSilicon": "mixed",
@@ -144065,7 +144563,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/polarities-by-steinberg",
       "notesForUser": "Steinberg library/content (Polarities).",
       "identityKind": "soundset",
@@ -149966,7 +150464,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/rnd-portico-5033-equalizer-by-steinberg",
       "appleSilicon": "mixed",
@@ -149993,7 +150491,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/rnd-portico-5043-compressor-by-steinberg",
       "appleSilicon": "mixed",
@@ -156079,7 +156577,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/retrologue-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -163988,7 +164486,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/scoring-percussion-by-steinberg",
       "notesForUser": "Steinberg library/content (Scoring Percussion).",
       "identityKind": "soundset",
@@ -164318,7 +164816,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/sequel-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (Sequel).",
       "identityKind": "hub_app",
@@ -166666,7 +167164,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/simon-phillips-studio-drums-by-steinberg",
       "notesForUser": "Steinberg library/content (Simon Phillips Studio Drums).",
       "identityKind": "soundset",
@@ -170169,6 +170667,41 @@
       ]
     },
     {
+      "id": "sonarworks--soundid-voiceai",
+      "manufacturerId": "sonarworks",
+      "name": "SoundID VoiceAI",
+      "matchPatterns": [
+        "SoundIDVoiceAI",
+        "SoundID VoiceAI"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Added 2026-09-28 via feedback triage. AI voice-transformation plugin; Perpetual (local processing) and Pay-as-you-go tiers. Installed 2.5.1.7557 on Bethel Studio Mac -> update_available vs vendor 2.6.7.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.sonarworks.SoundIDVoiceAI"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Sowk",
+            "subtype": "Svai"
+          }
+        ]
+      },
+      "popularityTier": 3,
+      "latestVersion": "2.6.7",
+      "versionSourceUrl": "https://www.sonarworks.com/soundid-produce/voiceai/release-notes",
+      "versionVerifiedAt": "2026-09-28T17:20:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "vendor release-notes page, first-hand (88)"
+      ]
+    },
+    {
       "id": "waves--soundshifter",
       "manufacturerId": "waves",
       "name": "SoundShifter",
@@ -171372,7 +171905,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-elements-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -171399,7 +171932,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-pro-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -171426,7 +171959,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-pro-7-by-steinberg",
       "notesForUser": "Legacy Steinberg title (SpectraLayers Pro 7).",
       "identityKind": "discontinued",
@@ -171454,7 +171987,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-pro-8-by-steinberg",
       "notesForUser": "Legacy Steinberg title (SpectraLayers Pro 8).",
       "identityKind": "discontinued",
@@ -171474,7 +172007,6 @@
       "manufacturerId": "steinberg",
       "name": "SpectraLayers-Bridge",
       "matchPatterns": [
-        "SpectraLayers",
         "SpectraLayers-Bridge"
       ],
       "formats": [
@@ -189243,7 +189775,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/the-grand-by-steinberg",
       "notesForUser": "Steinberg library/content (The Grand).",
       "identityKind": "soundset",
@@ -190364,10 +190896,22 @@
       "manufacturerId": "audiothing",
       "name": "Things - Flip EQ",
       "matchPatterns": [
-        "Things - Flip EQ"
+        "Things - Flip EQ",
+        "Things Flip EQ"
       ],
       "updatePortalUrl": "https://www.audiothing.net/account/",
       "notes": "KVR product https://www.kvraudio.com/product/things---flip-eq-by-audiothing",
+      "identityKeys": {
+        "bundleIds": [
+          "com.AudioThing.ThingsTilt"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "AdTg",
+            "subtype": "tT2L"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.1",
@@ -193588,6 +194132,8 @@
       ],
       "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
       "notes": "NI soundset/expansion fill; expand6.",
+      "generation": "4",
+      "predecessorPluginId": "native-instruments--traktor-pro-3",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -193608,6 +194154,37 @@
         "NI community Official update status for Traktor Pro 4",
         "First accepted current for native-instruments--traktor-pro"
       ]
+    },
+    {
+      "id": "native-instruments--traktor-pro-3",
+      "manufacturerId": "native-instruments",
+      "name": "Traktor Pro 3",
+      "matchPatterns": [
+        "Traktor Pro"
+      ],
+      "formats": [
+        "NKS",
+        "Kontakt",
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.native-instruments.com/en/specials/native-access-2/",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "native-instruments--traktor-pro",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "ik-multimedia--trance",
@@ -194735,7 +195312,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/triebwerk-by-steinberg",
       "notesForUser": "Steinberg library/content (Triebwerk).",
       "identityKind": "soundset",
@@ -205807,7 +206384,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/universal-sound-module-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Universal Sound Module).",
       "identityKind": "discontinued",
@@ -206743,7 +207320,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/v-stack-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (V-Stack).",
       "identityKind": "hub_app",
@@ -206802,7 +207379,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/vb-1-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -208484,7 +209061,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-connect-pro-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -208510,7 +209087,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-live-elements-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (VST Live Elements).",
       "identityKind": "standalone_app",
@@ -208538,7 +209115,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/vst-live-pro-3-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (VST Live Pro 3).",
       "identityKind": "standalone_app",
@@ -211346,7 +211923,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual-bassist-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Bassist).",
       "identityKind": "discontinued",
@@ -211818,7 +212395,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual-guitarist-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Guitarist).",
       "identityKind": "discontinued",
@@ -211942,7 +212519,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/virtual_guitarist_electric_edition_by_steinberg",
       "notesForUser": "Legacy Steinberg title (Virtual Guitarist Electric Edition).",
       "identityKind": "discontinued",
@@ -215245,7 +215822,7 @@
       "generationRank": 12,
       "updateClass": "paid_upgrade",
       "successorPluginId": "steinberg--wavelab",
-      "notesForUser": "WaveLab 13 is a paid update from WaveLab 12.",
+      "notesForUser": "WaveLab Pro 12's installer is 12.0.51. WaveLab Elements 12's installer on the same page is 12.0.50.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "12.0.51",
@@ -215270,7 +215847,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-cast-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Cast).",
       "identityKind": "hub_app",
@@ -215286,6 +215863,34 @@
       ]
     },
     {
+      "id": "steinberg--wavelab-elements-12",
+      "manufacturerId": "steinberg",
+      "name": "WaveLab Elements 12",
+      "matchPatterns": [
+        "WaveLab Elements"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "generation": "12",
+      "updateClass": "paid_upgrade",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "12.0.50",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/wavelab_12.html",
+      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand vendor page fetch by operator 2026-09-28"
+      ]
+    },
+    {
       "id": "steinberg--wavelab-elements-13",
       "manufacturerId": "steinberg",
       "name": "WaveLab Elements 13",
@@ -215298,7 +215903,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-elements-13-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Elements 13).",
       "identityKind": "hub_app",
@@ -215327,7 +215932,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/wavelab-pro-13-by-steinberg",
       "notesForUser": "Steinberg DAW/editor/hub (WaveLab Pro 13).",
       "identityKind": "hub_app",
@@ -215497,6 +216102,8 @@
         "Waveform"
       ],
       "notes": "Tracktion flagship DAW. Edition rows carry no version; this row carries the generation version.",
+      "generation": "14",
+      "predecessorPluginId": "tracktion--waveform-pro-13",
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
@@ -215556,21 +216163,13 @@
       ],
       "updatePortalUrl": "https://www.tracktion.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/waveform-pro-13-by-tracktion-software",
-      "supersededByPluginId": "tracktion--waveform",
+      "generation": "13",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "tracktion--waveform",
       "notesForUser": "Tracktion Waveform DAW edition — hub app.",
       "identityKind": "standalone_app",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "13.3.13",
-      "versionSourceUrl": "https://www.kvraudio.com/product/waveform-pro-13-by-tracktion-software",
-      "versionVerifiedAt": "2026-09-26T05:25:23Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "KVR verwin first-hand, exact page-title identity match",
-        "same 13.3.13 on Waveform Free 13 page - two agreeing KVR pages",
-        "shadow: KVR forum thread shows 13.5.6 builds existed 2025-07 but no authoritative public source; re-probe if tracktion.com release notes become reachable"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--waveframe-transwave-synthesis-of-the-ensoniq-fizmo",
@@ -218299,7 +218898,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/xphraze-by-steinberg",
       "notesForUser": "Legacy Steinberg title (Xphraze).",
       "identityKind": "discontinued",
@@ -218688,7 +219287,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-channel-strip-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -218714,7 +219313,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-open-deck-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -218740,7 +219339,7 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads.html",
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
       "notes": "KVR product https://www.kvraudio.com/product/yamaha-vintage-stomp-pack-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
