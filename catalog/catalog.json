@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-28T20:13:52Z",
+  "updatedAt": "2026-09-29T13:01:25Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -23176,7 +23176,15 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "antares--auto-tune-pro",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "10.5",
+      "versionSourceUrl": "https://antaresaudiotechnologies.my.site.com/s/article/Auto-Tune-Pro-X-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T05:24:12Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Official Antares knowledge-base release-notes article 'Auto-Tune Pro X Release Notes' (Auto-Tune Pro X is the 10.x generation). The article's latest entry is 'Auto-Tune Pro X (Version 10.5)' (license copy-protection update, Wibu->iLok migration via Auto-Tune Central); entries listed in order 10.5, 10.3.2, 10.3.1, 10.2, 10.1, 10.0. No later 10.x listed; Auto-Tune Pro 11 (successor generation) exists as a separate product."
+      ]
     },
     {
       "id": "antares--auto-tune-slice",
@@ -56945,7 +56953,15 @@
       "notesForUser": "A same-edition major is a paid update. A grace-period license can be free; the Steinberg shop is the source for that.",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "5.1.81",
+      "versionSourceUrl": "https://forums.steinberg.net/t/dorico-5-1-80-update-now-available/965776",
+      "versionVerifiedAt": "2026-09-29T05:23:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official Steinberg forum announcement names all three Dorico 5 editions (Pro 5, Elements 5, SE 5) for the 5.1.80 update, then states the 5.1.81 hotfix was released 2025-01-16. Dorico 6 supersedes; 5.1.81 is the final 5.x maintenance release for all named editions."
+      ]
     },
     {
       "id": "steinberg--dorico-pro",
@@ -80371,7 +80387,15 @@
         ]
       },
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2026.4.1",
+      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
+      "versionVerifiedAt": "2026-09-29T05:26:29Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 70,
+      "versionConfidenceReasons": [
+        "Bundle-train versioning: Avid publishes no per-component version for this bundled plugin; catalog convention (matching sibling bundled Avid rows) versions it at the current Pro Tools release. Official Avid 'What's new in Pro Tools' page (title verified first-hand via rendered browser, no WAF gate) heads its newest release 'PRO TOOLS 2026.4.1 (JULY 2026)'. Yellow band reflects bundle-train rather than component-published versioning."
+      ]
     },
     {
       "id": "airwindows--groovewear",
@@ -115802,7 +115826,15 @@
       "notesForUser": "A Maschine 2 purchase or registration on or after 2024-10-06 can be a complimentary Maschine 3 upgrade.",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.18.4",
+      "versionSourceUrl": "https://community.native-instruments.com/discussion/40/official-update-status-maschine-2-current-version-2-18-1",
+      "versionVerifiedAt": "2026-09-29T05:23:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official NI update-status thread: although the thread title was retitled for Maschine 3, the retained changelog explicitly lists 'Maschine 2.18.4 — 2024-07-23' as the final Maschine 2 release. Generation separation kept: Maschine 3 is a separate product row."
+      ]
     },
     {
       "id": "native-instruments--maschine-central",
@@ -120767,7 +120799,15 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "harrison--mixbus-11",
       "identityKind": "standalone_app",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "10.2.3",
+      "versionSourceUrl": "https://forum.harrisonconsoles.com/forum-9.html",
+      "versionVerifiedAt": "2026-09-29T05:23:24Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "Official staff thread 'Mixbus v10.2 is out!' by Ben@Home, 2024-11-25 is the last 10.x staff release (no 10.3 exists; Mixbus 11 released 2025-04-15). GearNews reported the 'Mixbus 10.2.3 Update' (2024-12-02) adding Region Effects; multiple forum user signatures and AUR mixbus10 10.2.3-1 confirm 10.2.3 as the final 10.x build."
+      ]
     },
     {
       "id": "harrison--mixbus-11",
@@ -120781,7 +120821,15 @@
       "successorPluginId": "harrison--mixbus",
       "predecessorPluginId": "harrison--mixbus-10",
       "identityKind": "standalone_app",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "11.3",
+      "versionSourceUrl": "https://forum.harrisonconsoles.com/thread-12977.html",
+      "versionVerifiedAt": "2026-09-29T05:23:24Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official staff release thread 'Mixbus 11.3 Release' by Nathan@Harrison, 2026-03-19: 'Today 11.3 is released'. Latest 11.x official thread in Releases & Updates forum; user signatures show 11.3.0; no 11.4 exists (users asking when); Mixbus 12 (2026-06-30) supersedes 11."
+      ]
     },
     {
       "id": "mixed-in-key--mixed-in-key-studio-edition",
@@ -146461,7 +146509,15 @@
         ]
       },
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2026.4.1",
+      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
+      "versionVerifiedAt": "2026-09-29T05:26:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 70,
+      "versionConfidenceReasons": [
+        "Bundle-train versioning: Avid publishes no per-component version for this bundled plugin; catalog convention (matching sibling bundled Avid rows) versions it at the current Pro Tools release. Official Avid 'What's new in Pro Tools' page (title verified first-hand via rendered browser, no WAF gate) heads its newest release 'PRO TOOLS 2026.4.1 (JULY 2026)'. Yellow band reflects bundle-train rather than component-published versioning."
+      ]
     },
     {
       "id": "eastwest--prodrummer-volume-1",
@@ -157065,7 +157121,15 @@
         ]
       },
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2026.4.1",
+      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
+      "versionVerifiedAt": "2026-09-29T05:26:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 70,
+      "versionConfidenceReasons": [
+        "Bundle-train versioning: Avid publishes no per-component version for this bundled plugin; catalog convention (matching sibling bundled Avid rows) versions it at the current Pro Tools release. Official Avid 'What's new in Pro Tools' page (title verified first-hand via rendered browser, no WAF gate) heads its newest release 'PRO TOOLS 2026.4.1 (JULY 2026)'. Yellow band reflects bundle-train rather than component-published versioning."
+      ]
     },
     {
       "id": "cableguys--reverbshaper",
