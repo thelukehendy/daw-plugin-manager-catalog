@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-30T20:52:30Z",
+  "updatedAt": "2026-09-30T21:04:06Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -106590,34 +106590,6 @@
       "popularityTier": 1
     },
     {
-      "id": "con--lurssen-mastering-console",
-      "manufacturerId": "con",
-      "name": "Lurssen Mastering Console",
-      "matchPatterns": [
-        "Lurssen Mastering Console"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "discontinued": true,
-      "notes": "Junk seed row: manufacturer id \"con\" is not a real vendor. Lurssen Mastering Console is an IK Multimedia product; canonical row is ik-multimedia--lurssen-mastering-console. Retired 2026-09-26 after Luke's scan matched this duplicate.",
-      "supersededByPluginId": "ik-multimedia--lurssen-mastering-console",
-      "notesForUser": "IK Multimedia product (not Plugin Alliance). Catalog manufacturer_id=con is misfile; see also ik-multimedia--lurssen-mastering-console @ 1.2.0.",
-      "popularityTier": 3,
-      "finalVersion": "1.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/lurssen-mastering-console-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T06:29:45Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "KVR product page verwin 1.2.0",
-        "PA products.json has no Lurssen; manufacturer is IK Multimedia (catalog manufacturer_id=con is misfile)"
-      ]
-    },
-    {
       "id": "ik-multimedia--lurssen-mastering-console",
       "manufacturerId": "ik-multimedia",
       "name": "Lurssen Mastering Console",
@@ -109497,7 +109469,15 @@
       "successorPluginId": "metric-halo--channelstrip",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--channelstrip",
@@ -109541,7 +109521,15 @@
       "successorPluginId": "metric-halo--character",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--character",
@@ -109585,7 +109573,15 @@
       "successorPluginId": "metric-halo--dirty-delay-v4",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--dirty-delay-v4",
@@ -109616,7 +109612,15 @@
       "successorPluginId": "metric-halo--haloverb",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--haloverb",
@@ -109660,7 +109664,15 @@
       "successorPluginId": "metric-halo--multiband-dynamics-v4",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--multiband-dynamics-v4",
@@ -109692,7 +109704,15 @@
       "successorPluginId": "metric-halo--multiband-expander-v4",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--multiband-expander-v4",
@@ -109724,7 +109744,15 @@
       "successorPluginId": "metric-halo--precision-deesser-v4",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--precision-deesser-v4",
@@ -109783,7 +109811,15 @@
       "successorPluginId": "metric-halo--transientcontrol",
       "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.2.18",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--transientcontrol",
@@ -109853,32 +109889,6 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "metric-halo--mhchannelstrip",
-      "manufacturerId": "metric-halo",
-      "name": "MHChannelStrip",
-      "matchPatterns": [
-        "MHChannelStrip"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Duplicate of metric-halo--channelstrip (same product, same 4.1.12 observation). Retired 2026-09-30.",
-      "supersededByPluginId": "metric-halo--channelstrip",
-      "appleSilicon": "native",
-      "popularityTier": 2,
-      "latestVersion": "4.1.12",
-      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
       ]
     },
     {
