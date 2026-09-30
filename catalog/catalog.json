@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-30T13:02:15Z",
+  "updatedAt": "2026-09-30T20:32:52Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -14055,8 +14055,8 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.18",
-      "versionSourceUrl": "https://www.kvraudio.com/product/albion-colossus-by-spitfire-audio",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/albion-colossus-by-spitfire-audio/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -14194,7 +14194,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/albion-one-by-spitfire-audio",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -23061,6 +23061,17 @@
         "AutoTune Advanced"
       ],
       "notes": "NEW flagship product launched 2026-09-24 (per Antares product page https://www.antarestech.com/products/pitch-correction/advanced and launch press). Rebuilt AutoTune algorithm + DVA vibrato engine, Live mode <1ms, $450 perpetual / AutoTune Unlimited. Sits above AutoTune Pro 11 and AutoTune in the lineup. No version number published on any official channel as of 2026-09-29 — row is versionless pending a release-notes article; watch the Zendesk Release Notes section index for a new AutoTune Advanced article.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneAdvanced"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Advn"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1
     },
@@ -36082,7 +36093,8 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "notes": "Make Believe plug-in; v4 license generation.",
+      "generation": "4",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "4.1.12",
@@ -41140,6 +41152,18 @@
       ]
     },
     {
+      "id": "metric-halo--channelstrip-3-garageband",
+      "manufacturerId": "metric-halo",
+      "name": "ChannelStrip 3 for GarageBand",
+      "matchPatterns": [
+        "ChannelStrip 3 for GarageBand",
+        "ChannelStrip 3"
+      ],
+      "notes": "GarageBand edition.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "hornet--channelstrip-mk2",
       "manufacturerId": "hornet",
       "name": "ChannelStrip MK2",
@@ -41199,29 +41223,6 @@
       "notes": "surge-0118 C-track; evidence: https://embertone.com/",
       "identityKind": "instrument",
       "popularityTier": 3
-    },
-    {
-      "id": "metric-halo--character",
-      "manufacturerId": "metric-halo",
-      "name": "Character",
-      "matchPatterns": [
-        "Character"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "appleSilicon": "native",
-      "popularityTier": 2,
-      "latestVersion": "4.1.12",
-      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
-      ]
     },
     {
       "id": "native-instruments--charge",
@@ -44163,13 +44164,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "16.0.23.24",
-      "versionSourceUrl": "https://www.kvraudio.com/product/clarix-lb-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "16.7.33",
+      "versionSourceUrl": "https://www.kvraudio.com/product/clarix-lb-by-waves/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "kvr-timeline (suite-train stamp class) — skeptical (55)"
       ]
     },
     {
@@ -49672,7 +49673,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/curve-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:35:07Z",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -49774,8 +49775,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/curves-equator-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -49796,8 +49797,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/curves-resolve-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -50356,6 +50357,18 @@
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
       ]
+    },
+    {
+      "id": "metric-halo--dbverb",
+      "manufacturerId": "metric-halo",
+      "name": "DBVerb",
+      "matchPatterns": [
+        "DBVerb"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "avid--dc-distortion",
@@ -51229,8 +51242,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dts-neural-mono2stereo-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -51251,8 +51264,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dts-neural-surround-downmix-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -51273,8 +51286,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dts-neural-surround-upmix-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -52178,6 +52191,19 @@
       "versionConfidenceReasons": [
         "[\"Manufacturer official: waves.com release notes 'All Waves Plugins: Across-the-board software update to V17' (June 23, 2026)\", \"Manufacturer official: waves.com/v17 'The V17 update includes plugins and bundles only'\", \"KVR per-product current-version readings: 17.1.42.50 (multiple products)\", \"No newer build anywhere; hub-app version (Waves Central v17.0.4) explicitly excluded per zero-trust\", \"Live waves.com product page; included plugins (LoAir, Dorrough Stereo, Scheps 73, Kramer Master Tape, API 560, MetaFlanger, Aphex Exciter) at 17.1.42.50 on KVR\"]"
       ]
+    },
+    {
+      "id": "metric-halo--davids-2bus",
+      "manufacturerId": "metric-halo",
+      "name": "Davids 2Bus",
+      "matchPatterns": [
+        "Davids 2Bus",
+        "2Bus"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "wave-alchemy--dawn",
@@ -76724,8 +76750,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gtr-solo-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -76746,8 +76772,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gtr3-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -78595,6 +78621,18 @@
       "versionConfidenceReasons": [
         "installer-filename on official manufacturer domain (88)"
       ]
+    },
+    {
+      "id": "metric-halo--goodmath",
+      "manufacturerId": "metric-halo",
+      "name": "GoodMath",
+      "matchPatterns": [
+        "GoodMath"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "goodhertz--suite",
@@ -82673,29 +82711,6 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
-    },
-    {
-      "id": "metric-halo--haloverb",
-      "manufacturerId": "metric-halo",
-      "name": "HaloVerb",
-      "matchPatterns": [
-        "HaloVerb"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "appleSilicon": "native",
-      "popularityTier": 2,
-      "latestVersion": "4.1.12",
-      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
-      ]
     },
     {
       "id": "ik-multimedia--hamburg-grand-s274",
@@ -89646,6 +89661,20 @@
       "popularityTier": 1
     },
     {
+      "id": "metric-halo--howies-179",
+      "manufacturerId": "metric-halo",
+      "name": "Howie's 179",
+      "matchPatterns": [
+        "Howie's 179",
+        "Howies 179",
+        "179"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "oas--bljustice-hue",
       "manufacturerId": "oas--bljustice",
       "name": "Hue",
@@ -91324,8 +91353,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ir-l-convolution-reverb-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -91355,8 +91384,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ir-live-convolution-reverb-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -91377,8 +91406,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ir1-convolution-reverb-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -91418,8 +91447,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ir360-convolution-reverb-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -94579,8 +94608,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/jjp-analog-legends-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -96672,6 +96701,19 @@
       "versionConfidenceReasons": [
         "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
+    },
+    {
+      "id": "metric-halo--kevinslimiter",
+      "manufacturerId": "metric-halo",
+      "name": "KevinsLimiter",
+      "matchPatterns": [
+        "KevinsLimiter",
+        "Kevins Limiter"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "oas--gnuoyohes-key-detect",
@@ -107324,6 +107366,19 @@
       ]
     },
     {
+      "id": "metric-halo--mb-mixhead",
+      "manufacturerId": "metric-halo",
+      "name": "MB MixHead",
+      "matchPatterns": [
+        "MB MixHead",
+        "MixHead"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "blue-cat-audio--mb-5-dynamix",
       "manufacturerId": "blue-cat-audio",
       "name": "MB-5 Dynamix",
@@ -107376,6 +107431,68 @@
         "manufacturer Download/Products table with Last updated + version",
         "bluecataudio.com primary"
       ]
+    },
+    {
+      "id": "metric-halo--mbeq",
+      "manufacturerId": "metric-halo",
+      "name": "MBEQ",
+      "matchPatterns": [
+        "MBEQ"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--mbparallel1",
+      "manufacturerId": "metric-halo",
+      "name": "MBParallel1",
+      "matchPatterns": [
+        "MBParallel1"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--mbparallel2",
+      "manufacturerId": "metric-halo",
+      "name": "MBParallel2",
+      "matchPatterns": [
+        "MBParallel2"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--mbparallel3-4",
+      "manufacturerId": "metric-halo",
+      "name": "MBParallel3+4",
+      "matchPatterns": [
+        "MBParallel3+4",
+        "MBParallel3",
+        "MBParallel4"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--mbsi",
+      "manufacturerId": "metric-halo",
+      "name": "MBSI",
+      "matchPatterns": [
+        "MBSI"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "meldaproduction--mbandpass",
@@ -108717,6 +108834,18 @@
       ]
     },
     {
+      "id": "metric-halo--meld",
+      "manufacturerId": "metric-halo",
+      "name": "MELD",
+      "matchPatterns": [
+        "MELD"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "analog-obsession--merica",
       "manufacturerId": "analog-obsession",
       "name": "MERICA",
@@ -109354,10 +109483,28 @@
       ]
     },
     {
-      "id": "metric-halo--channelstrip",
+      "id": "metric-halo--channelstrip-v3",
       "manufacturerId": "metric-halo",
       "name": "MH ChannelStrip",
       "matchPatterns": [
+        "MH ChannelStrip",
+        "MHChannelStrip",
+        "ChannelStrip"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--channelstrip",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--channelstrip",
+      "manufacturerId": "metric-halo",
+      "name": "MH ChannelStrip v4",
+      "matchPatterns": [
+        "MH ChannelStrip v4",
         "MH ChannelStrip",
         "MHChannelStrip",
         "ChannelStrip"
@@ -109367,6 +109514,294 @@
         "AU",
         "VST3"
       ],
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--channelstrip-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer downloadsPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "metric-halo--character-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH Character",
+      "matchPatterns": [
+        "MH Character",
+        "Character"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--character",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--character",
+      "manufacturerId": "metric-halo",
+      "name": "MH Character v4",
+      "matchPatterns": [
+        "MH Character v4",
+        "MH Character",
+        "Character"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--character-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer downloadsPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "metric-halo--dirty-delay-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH Dirty Delay",
+      "matchPatterns": [
+        "MH Dirty Delay",
+        "MHDirtyDelay",
+        "Dirty Delay"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--dirty-delay-v4",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--dirty-delay-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH Dirty Delay v4",
+      "matchPatterns": [
+        "MH Dirty Delay v4",
+        "MH Dirty Delay",
+        "Dirty Delay"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--dirty-delay-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--haloverb-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH HaloVerb",
+      "matchPatterns": [
+        "MH HaloVerb",
+        "HaloVerb"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--haloverb",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--haloverb",
+      "manufacturerId": "metric-halo",
+      "name": "MH HaloVerb v4",
+      "matchPatterns": [
+        "MH HaloVerb v4",
+        "MH HaloVerb",
+        "HaloVerb"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--haloverb-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer downloadsPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "metric-halo--multiband-dynamics-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH Multiband Dynamics",
+      "matchPatterns": [
+        "MH Multiband Dynamics",
+        "MHMultibandDynamics",
+        "Multiband Dynamics"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--multiband-dynamics-v4",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--multiband-dynamics-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH Multiband Dynamics v4",
+      "matchPatterns": [
+        "MH Multiband Dynamics v4",
+        "MH Multiband Dynamics",
+        "Multiband Dynamics"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--multiband-dynamics-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--multiband-expander-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH Multiband Expander",
+      "matchPatterns": [
+        "MH Multiband Expander",
+        "MHMultibandExpander",
+        "Multiband Expander"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--multiband-expander-v4",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--multiband-expander-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH Multiband Expander v4",
+      "matchPatterns": [
+        "MH Multiband Expander v4",
+        "MH Multiband Expander",
+        "Multiband Expander"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--multiband-expander-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--precision-deesser-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH Precision DeEsser",
+      "matchPatterns": [
+        "MH Precision DeEsser",
+        "MHPrecisionDeEsser",
+        "Precision DeEsser"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--precision-deesser-v4",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--precision-deesser-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH Precision DeEsser v4",
+      "matchPatterns": [
+        "MH Precision DeEsser v4",
+        "MH Precision DeEsser",
+        "Precision DeEsser"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--precision-deesser-v3",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--sonic-eq-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH Sonic EQ v4",
+      "matchPatterns": [
+        "MH Sonic EQ v4",
+        "MH Sonic EQ",
+        "Sonic EQ"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--supergate-v4",
+      "manufacturerId": "metric-halo",
+      "name": "MH SuperGate v4",
+      "matchPatterns": [
+        "MH SuperGate v4",
+        "MH SuperGate",
+        "SuperGate"
+      ],
+      "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--transientcontrol-v3",
+      "manufacturerId": "metric-halo",
+      "name": "MH TransientControl",
+      "matchPatterns": [
+        "MH TransientControl",
+        "TransientControl"
+      ],
+      "notes": "Legacy v3 product line; superseded by the v4 generation.",
+      "generation": "3",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "metric-halo--transientcontrol",
+      "notesForUser": "Production Bundle v4 is a paid upgrade from v3 — it requires a v4 license (per Metric Halo's downloads page). v4 replaces v3 on the same machine.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--transientcontrol",
+      "manufacturerId": "metric-halo",
+      "name": "MH TransientControl v4",
+      "matchPatterns": [
+        "MH TransientControl v4",
+        "MH TransientControl",
+        "TransientControl"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "generation": "4",
+      "predecessorPluginId": "metric-halo--transientcontrol-v3",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "4.1.12",
@@ -109433,7 +109868,8 @@
         "VST3"
       ],
       "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "notes": "Duplicate of metric-halo--channelstrip (same product, same 4.1.12 observation). Retired 2026-09-30.",
+      "supersededByPluginId": "metric-halo--channelstrip",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "4.1.12",
@@ -114833,13 +115269,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "14.0.83",
-      "versionSourceUrl": "https://www.kvraudio.com/product/manny-marroquin-signature-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "16.7.33",
+      "versionSourceUrl": "https://www.kvraudio.com/product/manny-marroquin-signature-series-by-waves/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "kvr-timeline (suite-train stamp class) — skeptical (55)"
       ]
     },
     {
@@ -119388,15 +119824,13 @@
       "portalApp": "Arturia Software Center",
       "appleSilicon": "universal",
       "popularityTier": 1,
-      "latestVersion": "4.0.2.6369",
-      "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/minifreak-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "latestVersion": "5.0",
+      "versionSourceUrl": "https://www.synthtopia.com/content/2026/09/18/arturia-minifreak-gets-sample-import-user-wavetables-more/",
+      "versionVerifiedAt": "2026-09-30T17:27:34Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 4.0.2.6369 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "press-consensus + labeled installer — exact 4-digit build pending (55)"
       ]
     },
     {
@@ -130806,8 +131240,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/oneknob-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -148863,8 +149297,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/q-clone-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -160434,6 +160868,18 @@
       ]
     },
     {
+      "id": "metric-halo--spres",
+      "manufacturerId": "metric-halo",
+      "name": "SPRES",
+      "matchPatterns": [
+        "SPRES"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "acustica-audio--sq3-squid-3",
       "manufacturerId": "acustica-audio",
       "name": "SQ3 - Squid-3",
@@ -164792,16 +165238,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.5",
-      "versionSourceUrl": "https://vstorrent.org/xfer-records-serum-2-v2-1-5-update-ce-v-r-vsti3-aax-win-x64/",
-      "versionVerifiedAt": "2026-09-14T17:36:56Z",
+      "versionSourceUrl": "https://xferrecords.com/products/serum-2",
+      "versionVerifiedAt": "2026-09-30T17:31:39Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 75,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "third-party-mirror-of-official-changelog",
-        "installer-filename-match",
-        "three-independent-mirrors-agree",
-        "no-official-page-version-found",
-        "no-newer-version-found"
+        "first-party download-URL slug (serum-2-1-5), verified twice via rendered browser; forum 2.0.x lineage corroborates"
       ]
     },
     {
@@ -169990,6 +170432,19 @@
       "popularityTier": 2
     },
     {
+      "id": "metric-halo--sontec-mes-432d9d",
+      "manufacturerId": "metric-halo",
+      "name": "Sontec MES-432D9D",
+      "matchPatterns": [
+        "Sontec MES-432D9D",
+        "MES-432D9D"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "uvi--soul-bass",
       "manufacturerId": "uvi",
       "name": "Soul Bass",
@@ -170533,13 +170988,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "14.0.83",
-      "versionSourceUrl": "https://www.kvraudio.com/product/soundgrid-studio-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "16.7.33",
+      "versionSourceUrl": "https://www.kvraudio.com/product/soundgrid-studio-by-waves/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "kvr-timeline (suite-train stamp class) — skeptical (55)"
       ]
     },
     {
@@ -170556,8 +171011,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "14.0.83",
-      "versionSourceUrl": "https://www.kvraudio.com/product/soundgrid-studio-system-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -171821,6 +172276,29 @@
       ]
     },
     {
+      "id": "metric-halo--spectrafoo-complete",
+      "manufacturerId": "metric-halo",
+      "name": "SpectraFoo Complete",
+      "matchPatterns": [
+        "SpectraFoo Complete",
+        "SpectraFoo"
+      ],
+      "notes": "Audio analysis suite.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "metric-halo--spectrafoo-standard",
+      "manufacturerId": "metric-halo",
+      "name": "SpectraFoo Standard",
+      "matchPatterns": [
+        "SpectraFoo Standard"
+      ],
+      "notes": "Audio analysis suite.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "steinberg--spectralayers",
       "manufacturerId": "steinberg",
       "name": "SpectraLayers",
@@ -172510,8 +172988,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/spherix-immersive-compressor-and-limiter-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -177478,8 +177956,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "14.21.96.552",
-      "versionSourceUrl": "https://www.kvraudio.com/product/studiorack-plugin-chainer-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/studiorack-plugin-chainer-by-waves/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185056,11 +185534,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/kirchhoff-eq",
-      "versionVerifiedAt": "2026-09-25 17:31:56",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "pa-product-page changelog + tbt-official cross-check (88)"
       ]
     },
     {
@@ -186596,6 +187074,18 @@
       "notes": "CFA-Sound KVR product; expand6.",
       "identityKind": "soundset",
       "popularityTier": 3
+    },
+    {
+      "id": "metric-halo--tmpc",
+      "manufacturerId": "metric-halo",
+      "name": "TMPC",
+      "matchPatterns": [
+        "TMPC"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "audified--tnt-voice-executor",
@@ -188233,13 +188723,13 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "14.0.83",
-      "versionSourceUrl": "https://www.kvraudio.com/product/tapes-tubes-and-transistors-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "16.7.33",
+      "versionSourceUrl": "https://www.kvraudio.com/product/tapes-tubes-and-transistors-by-waves/timeline",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 55,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "kvr-timeline (suite-train stamp class) — skeptical (55)"
       ]
     },
     {
@@ -191175,12 +191665,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/kirchhoff-eq",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "twin of plugin-alliance--tbtech-kirchhoff-eq (same product, alternate universe id)",
-        "installer-filename on official manufacturer domain (88)"
+        "pa-product-page changelog + tbt-official cross-check (88)"
       ]
     },
     {
@@ -194647,31 +195136,6 @@
       ],
       "notes": "universe-expansion surge-1318",
       "popularityTier": 3
-    },
-    {
-      "id": "metric-halo--transientcontrol",
-      "manufacturerId": "metric-halo",
-      "name": "TransientControl",
-      "matchPatterns": [
-        "TransientControl"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "appleSilicon": "native",
-      "popularityTier": 2,
-      "latestVersion": "4.1.12",
-      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
-      ]
     },
     {
       "id": "native-instruments--transistor-punch",
@@ -207318,8 +207782,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/v-series-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -212967,8 +213431,8 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.4",
-      "versionSourceUrl": "https://www.kvraudio.com/product/vital-by-matt-tytel",
-      "versionVerifiedAt": "2026-09-10T05:34:30Z",
+      "versionSourceUrl": "https://aur.archlinux.org/packages/vital-synth",
+      "versionVerifiedAt": "2026-09-30T17:27:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -216566,8 +217030,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/waves-tune-real-time-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -217328,6 +217792,19 @@
       "versionConfidenceReasons": [
         "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
       ]
+    },
+    {
+      "id": "metric-halo--whiteroom",
+      "manufacturerId": "metric-halo",
+      "name": "WhiteRoom",
+      "matchPatterns": [
+        "WhiteRoom",
+        "White Room"
+      ],
+      "notes": "v4 license generation product.",
+      "generation": "4",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "uvi--whoosh-fx",
@@ -218304,8 +218781,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/x-noise-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -219658,8 +220135,8 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/product/z-noise-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-09-30T17:27:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
