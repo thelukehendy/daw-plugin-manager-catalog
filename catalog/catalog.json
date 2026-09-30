@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-29T13:01:25Z",
+  "updatedAt": "2026-09-30T13:02:15Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -6404,11 +6404,11 @@
       "popularityTier": 1,
       "latestVersion": "3.7.11",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=2016%20Stereo%20Room",
-      "versionVerifiedAt": "2026-09-10T08:14:22Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, hold confirmed"
       ]
     },
     {
@@ -7490,7 +7490,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.3",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -9538,240 +9538,6 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
-      ]
-    },
-    {
-      "id": "antares--avox-articulator",
-      "manufacturerId": "antares",
-      "name": "AVOX ARTICULATOR",
-      "matchPatterns": [
-        "AVOX ARTICULATOR"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969143783956-Articulator-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-aspire",
-      "manufacturerId": "antares",
-      "name": "AVOX ASPIRE",
-      "matchPatterns": [
-        "AVOX ASPIRE"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969208008980-Aspire-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-choir",
-      "manufacturerId": "antares",
-      "name": "AVOX CHOIR",
-      "matchPatterns": [
-        "AVOX CHOIR"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969216549012-Choir-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-duo",
-      "manufacturerId": "antares",
-      "name": "AVOX DUO",
-      "matchPatterns": [
-        "AVOX DUO"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969232133780-Duo-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-mutator",
-      "manufacturerId": "antares",
-      "name": "AVOX MUTATOR",
-      "matchPatterns": [
-        "AVOX MUTATOR"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969241981844-Mutator-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-punch",
-      "manufacturerId": "antares",
-      "name": "AVOX PUNCH",
-      "matchPatterns": [
-        "AVOX PUNCH"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969237400340-Punch-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-sybil",
-      "manufacturerId": "antares",
-      "name": "AVOX SYBIL",
-      "matchPatterns": [
-        "AVOX SYBIL"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47995200466196-Sybil-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-throat",
-      "manufacturerId": "antares",
-      "name": "AVOX THROAT",
-      "matchPatterns": [
-        "AVOX THROAT"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969283082132-Throat-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--avox-warm",
-      "manufacturerId": "antares",
-      "name": "AVOX WARM",
-      "matchPatterns": [
-        "AVOX WARM"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "4.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969258718228-Warm-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -19656,12 +19422,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.3.2",
-      "versionSourceUrl": "https://d16.pl/antresol",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -21041,8 +20807,34 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/articulate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://newfangledaudio.com/articulate-release-notes",
+      "versionVerifiedAt": "2026-09-29T17:23:16Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "RN page top entry 1.1.4 (3/1/2026), exact product-identity match"
+      ]
+    },
+    {
+      "id": "antares--avox-articulator",
+      "manufacturerId": "antares",
+      "name": "Articulator",
+      "matchPatterns": [
+        "AVOX ARTICULATOR"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969143783956-Articulator-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -21498,6 +21290,32 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "SURGE universe expansion 2026-09-15 (third-party-package-index)"
+      ]
+    },
+    {
+      "id": "antares--avox-aspire",
+      "manufacturerId": "antares",
+      "name": "Aspire",
+      "matchPatterns": [
+        "AVOX ASPIRE"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969208008980-Aspire-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -22915,7 +22733,7 @@
     {
       "id": "antares--auto-key",
       "manufacturerId": "antares",
-      "name": "Auto-Key",
+      "name": "Auto-Key 2",
       "matchPatterns": [
         "Auto-Key"
       ],
@@ -22942,7 +22760,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41116876682772-Auto-Key-2-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22952,7 +22770,7 @@
     {
       "id": "antares--auto-tune-access",
       "manufacturerId": "antares",
-      "name": "Auto-Tune Access",
+      "name": "Auto-Tune Access 10",
       "matchPatterns": [
         "Auto-Tune Access"
       ],
@@ -22979,7 +22797,7 @@
       "popularityTier": 1,
       "latestVersion": "10.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117275952020-Auto-Tune-Access-10-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23016,7 +22834,7 @@
       "popularityTier": 1,
       "latestVersion": "9.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968044541076-Auto-Tune-Artist-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23056,7 +22874,7 @@
     {
       "id": "antares--auto-tune-efx",
       "manufacturerId": "antares",
-      "name": "Auto-Tune EFX+",
+      "name": "Auto-Tune EFX+ 10",
       "matchPatterns": [
         "Auto-Tune EFX+"
       ],
@@ -23083,7 +22901,7 @@
       "popularityTier": 1,
       "latestVersion": "10.6.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41116824103700-Auto-Tune-EFX-10-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23114,46 +22932,7 @@
       "popularityTier": 1,
       "latestVersion": "9.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47967906101268-Auto-Tune-Hybrid-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--auto-tune-pro",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune Pro",
-      "matchPatterns": [
-        "Auto-Tune Pro"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "generation": "11",
-      "predecessorPluginId": "antares--auto-tune-pro-10",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.AutoTune"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "VST ",
-            "subtype": "AT81"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "11.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117430548628-AutoTune-Pro-11-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23163,7 +22942,7 @@
     {
       "id": "antares--auto-tune-pro-10",
       "manufacturerId": "antares",
-      "name": "Auto-Tune Pro 10",
+      "name": "Auto-Tune Pro X",
       "matchPatterns": [
         "Auto-Tune Pro"
       ],
@@ -23177,198 +22956,13 @@
       "successorPluginId": "antares--auto-tune-pro",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "10.5",
-      "versionSourceUrl": "https://antaresaudiotechnologies.my.site.com/s/article/Auto-Tune-Pro-X-Release-Notes",
-      "versionVerifiedAt": "2026-09-29T05:24:12Z",
+      "latestVersion": "10.6.1",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41115597486356-Auto-Tune-Pro-X-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Official Antares knowledge-base release-notes article 'Auto-Tune Pro X Release Notes' (Auto-Tune Pro X is the 10.x generation). The article's latest entry is 'Auto-Tune Pro X (Version 10.5)' (license copy-protection update, Wibu->iLok migration via Auto-Tune Central); entries listed in order 10.5, 10.3.2, 10.3.1, 10.2, 10.1, 10.0. No later 10.x listed; Auto-Tune Pro 11 (successor generation) exists as a separate product."
-      ]
-    },
-    {
-      "id": "antares--auto-tune-slice",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune Slice",
-      "matchPatterns": [
-        "Auto-Tune Slice"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.AutoTuneSlice"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "Antr",
-            "subtype": "Slce"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969246801044-Slice-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--auto-tune-soundsoap",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune SoundSoap",
-      "matchPatterns": [
-        "Auto-Tune SoundSoap"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.SoundsoapPro"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "Antr",
-            "subtype": "SoSP"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "6.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41115437724436-SoundSoap-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--auto-tune-vocal-compressor",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune Vocal Compressor",
-      "matchPatterns": [
-        "Auto-Tune Vocal Compressor"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.AutoTuneVocalCompressor"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "Antr",
-            "subtype": "Vxcp"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117241499028-Vocal-Compressor-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--auto-tune-vocal-eq",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune Vocal EQ",
-      "matchPatterns": [
-        "Auto-Tune Vocal EQ"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.AutoTuneVocalEQ"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "Antr",
-            "subtype": "Vxeq"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968793385620-Vocal-EQ-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
-      ]
-    },
-    {
-      "id": "antares--auto-tune-vocodist",
-      "manufacturerId": "antares",
-      "name": "Auto-Tune Vocodist",
-      "matchPatterns": [
-        "Auto-Tune Vocodist"
-      ],
-      "formats": [
-        "AAX",
-        "AU",
-        "VST3"
-      ],
-      "minMacOS": "12.0",
-      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.Antares.AutoTuneVocodist"
-        ],
-        "auComponents": [
-          {
-            "manufacturer": "Antr",
-            "subtype": "Ec2w"
-          }
-        ]
-      },
-      "portalApp": "AutoTune Central",
-      "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.6.0",
-      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969287023764-Vocodist-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Official vendor release-notes page, top heading, read first-hand"
       ]
     },
     {
@@ -23452,11 +23046,61 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47967370217620-AutoTune-2026-Release-Notes",
-      "versionVerifiedAt": "2026-09-15T11:31:46Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "Official Antares release-notes page; latest heading 'AutoTune 2026 (1.2.1)' updated September 10, 2026; exact product identity (AutoTune 2026), not a successor or bundle"
+      ]
+    },
+    {
+      "id": "antares--autotune-advanced",
+      "manufacturerId": "antares",
+      "name": "AutoTune Advanced",
+      "matchPatterns": [
+        "AutoTune Advanced"
+      ],
+      "notes": "NEW flagship product launched 2026-09-24 (per Antares product page https://www.antarestech.com/products/pitch-correction/advanced and launch press). Rebuilt AutoTune algorithm + DVA vibrato engine, Live mode <1ms, $450 perpetual / AutoTune Unlimited. Sits above AutoTune Pro 11 and AutoTune in the lineup. No version number published on any official channel as of 2026-09-29 — row is versionless pending a release-notes article; watch the Zendesk Release Notes section index for a new AutoTune Advanced article.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
+      "id": "antares--auto-tune-pro",
+      "manufacturerId": "antares",
+      "name": "AutoTune Pro 11",
+      "matchPatterns": [
+        "Auto-Tune Pro"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "11",
+      "predecessorPluginId": "antares--auto-tune-pro-10",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTune"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "VST ",
+            "subtype": "AT81"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "11.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117430548628-AutoTune-Pro-11-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -23966,11 +23610,11 @@
       "popularityTier": 1,
       "latestVersion": "2024.7.28",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/b-step/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "open-audio-stack registry JSON version field (95)"
       ]
     },
     {
@@ -27229,7 +26873,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -31577,15 +31221,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Blackhole%C2%AE",
-      "versionVerifiedAt": "2026-09-10T11:41:49Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Manufacturer Eventide downloads page for Blackhole®",
-        "KVR slug blackhole-by-eventide resolves to H9 Series: Blackhole 3.11.4 Win=Mac",
-        "Identity twin of eventide--h9-series-blackhole (suite_component) — expand7 standalone match alias"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -31612,13 +31254,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.4",
+      "latestVersion": "1.4.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Blackhole%20Immersive",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -35610,12 +35252,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/bus-clipper-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -41930,6 +41572,32 @@
       "popularityTier": 3
     },
     {
+      "id": "antares--avox-choir",
+      "manufacturerId": "antares",
+      "name": "Choir",
+      "matchPatterns": [
+        "AVOX CHOIR"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969216549012-Choir-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
       "id": "native-instruments--choir-omnia",
       "manufacturerId": "native-instruments",
       "name": "Choir - Omnia",
@@ -45815,7 +45483,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -51241,11 +50909,11 @@
       "popularityTier": 1,
       "latestVersion": "1.25",
       "versionSourceUrl": "https://xferrecords.com/freeware",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:23:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "installer-filename on xferrecords.com/freeware (88)"
       ]
     },
     {
@@ -52657,13 +52325,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=DeBoom",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -53115,12 +52783,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://d16.pl/decimort2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -54060,11 +53728,11 @@
       "popularityTier": 1,
       "latestVersion": "1.06",
       "versionSourceUrl": "https://xferrecords.com/freeware",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionVerifiedAt": "2026-09-30T05:23:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "xferrecords.com/freeware product badge (92)"
       ]
     },
     {
@@ -54405,12 +54073,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://d16.pl/devastor2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -55378,11 +55046,11 @@
       "popularityTier": 1,
       "latestVersion": "1.24",
       "versionSourceUrl": "https://xferrecords.com/freeware",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:23:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "installer-filename on xferrecords.com/freeware (88)"
       ]
     },
     {
@@ -56589,7 +56257,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.8",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -58803,12 +58471,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.7",
-      "versionSourceUrl": "https://d16.pl/drumazon2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -59734,6 +59402,32 @@
       ]
     },
     {
+      "id": "antares--avox-duo",
+      "manufacturerId": "antares",
+      "name": "Duo",
+      "matchPatterns": [
+        "AVOX DUO"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969232133780-Duo-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
       "id": "united-plugins--duoflux",
       "manufacturerId": "united-plugins",
       "name": "Duoflux",
@@ -60421,13 +60115,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=EChannel",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -61329,13 +61023,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=EQ45",
-      "versionVerifiedAt": "2026-09-10T08:14:25Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -61373,13 +61067,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=EQ65",
-      "versionVerifiedAt": "2026-09-10T08:14:26Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -61504,12 +61198,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/equivocate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:01Z",
+      "versionSourceUrl": "https://newfangledaudio.com/equivocate-release-notes",
+      "versionVerifiedAt": "2026-09-29T17:23:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "RN page top entry 1.14.4 (3/1/2026), same EQuivocate product family"
       ]
     },
     {
@@ -69106,12 +68800,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.15.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fg-x-2-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -71362,12 +71056,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/fazortan2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -72327,7 +72021,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -72354,7 +72048,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -72381,7 +72075,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -72408,7 +72102,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -73536,7 +73230,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.newfangledaudio.com/fixate-midrange-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -75586,12 +75280,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.6",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fresh-air-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -75770,13 +75464,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.2",
-      "versionSourceUrl": "https://d16.pl/frontier",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "latestVersion": "1.3.0",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -77798,12 +77492,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.7.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/generate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Generate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -78502,12 +78196,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://d16.pl/godfazer",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -81505,11 +81199,11 @@
       "popularityTier": 1,
       "latestVersion": "3.7.17",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=H3000%20Band%20Delays",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, hold confirmed"
       ]
     },
     {
@@ -81536,13 +81230,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=H3000%20Band%20Delays%20Mk%20II",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81571,11 +81265,11 @@
       "popularityTier": 1,
       "latestVersion": "3.7.17",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=H3000%20Factory",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, hold confirmed"
       ]
     },
     {
@@ -81602,13 +81296,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=H3000%20Factory%20Mk%20II",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81691,13 +81385,13 @@
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
-      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Blackhole%C2%AE",
-      "versionVerifiedAt": "2026-09-10T08:20:11Z",
+      "latestVersion": "3.11.7",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Blackhole",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "manufacturer downloads page Installer Mac/Win Version labels match"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81724,14 +81418,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.4",
-      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=CrushStation%C2%AE",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "latestVersion": "1.4.7",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=CrushStation",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "manufacturer downloads page Installer Mac/Win Version labels match",
-        "content_hash=58f8438ae0a12a8f409c0375e649f7110d74fec530d69e87a9ed1efdaef5fc64"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81758,13 +81451,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Crystals",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81791,13 +81484,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.10.4",
+      "latestVersion": "2.10.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=MangledVerb",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81824,13 +81517,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=MicroPitch",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81857,13 +81550,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.5",
+      "latestVersion": "1.3.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Rotary%20Mod",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81890,13 +81583,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=ShimmerVerb",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81923,13 +81616,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.5.4",
+      "latestVersion": "1.5.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Spring",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81956,13 +81649,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.5",
+      "latestVersion": "1.3.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=TriceraChorus",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -81989,13 +81682,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.10.4",
+      "latestVersion": "2.10.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=UltraTap",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -82082,14 +81775,14 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.12.4",
+      "latestVersion": "3.12.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=H949+Harmonizer%C2%AE",
-      "versionVerifiedAt": "2026-09-10T08:19:03Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads page Installer Mac/Win Version labels match",
-        "content_hash=74c3bd3a9e3bed4eafc0d7f1ba8dc90d6fea10f41bff7ce9db036f89e37b7eb3"
+        "Vendor Eventide downloads page Mac head",
+        "Win-side 2.12.7 anomaly noted, not silently corrected"
       ]
     },
     {
@@ -83705,7 +83398,7 @@
     {
       "id": "antares--harmony-engine-4x",
       "manufacturerId": "antares",
-      "name": "Harmony Engine 4x",
+      "name": "Harmony Engine",
       "matchPatterns": [
         "Harmony Engine 4x"
       ],
@@ -83721,7 +83414,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969228097300-Harmony-Engine-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -84879,12 +84572,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/heatwave-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -85737,7 +85430,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.2",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -93168,13 +92861,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.13.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/infinity-eq-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--infinity-eq"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -93717,13 +93409,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.8.4",
+      "latestVersion": "1.8.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Instant%20Flanger%20Mk%20II",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -93906,13 +93598,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.8.4",
+      "latestVersion": "1.8.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Instant%20Phaser%20Mk%20II",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -94278,12 +93970,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/invigorate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Invigorate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -106929,12 +106621,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.5",
-      "versionSourceUrl": "https://d16.pl/lush2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -115789,13 +115481,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "3.7.0",
-      "versionSourceUrl": "https://community.native-instruments.com/discussion/40/official-update-status-maschine-3-current-version-3-6-0",
-      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "latestVersion": "3.7.1",
+      "versionSourceUrl": "https://community.native-instruments.com/discussion/40/official-update-status-maschine-3-current-version-3-7-1",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "NI community Official update status public thread, body read 2026-09-28"
+        "NI official update-status thread, title-dated 3.7.1"
       ]
     },
     {
@@ -118140,7 +117832,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968984877204-Metamorph-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -118463,7 +118155,7 @@
       "popularityTier": 1,
       "latestVersion": "4.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969213903252-Mic-Mod-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -118720,13 +118412,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.4",
+      "latestVersion": "1.4.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=MicroPitch%20Immersive",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -122267,11 +121959,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/monique-monosynth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "open-audio-stack registry JSON version field (95)"
       ]
     },
     {
@@ -122735,7 +122427,7 @@
       "popularityTier": 1,
       "latestVersion": "2.5.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -124157,6 +123849,32 @@
       "identityKind": "expansion",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "antares--avox-mutator",
+      "manufacturerId": "antares",
+      "name": "Mutator",
+      "matchPatterns": [
+        "AVOX MUTATOR"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969241981844-Mutator-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
     },
     {
       "id": "sound-radix--muteomatic",
@@ -126359,12 +126077,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.3",
-      "versionSourceUrl": "https://d16.pl/nepheton2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -126649,11 +126367,11 @@
       "popularityTier": 1,
       "latestVersion": "3.10.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 3.10.0 matches stored 3.10.0; verified_at refreshed"
       ]
     },
     {
@@ -127296,12 +127014,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/equivocate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:46:03Z",
+      "versionSourceUrl": "https://newfangledaudio.com/equivocate-release-notes",
+      "versionVerifiedAt": "2026-09-29T17:23:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "RN page top entry 1.14.4 (3/1/2026), exact product-identity match"
       ]
     },
     {
@@ -127693,12 +127411,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.2",
-      "versionSourceUrl": "https://d16.pl/nithonat2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -129095,11 +128813,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/ob-xf/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "open-audio-stack registry JSON version field (95)"
       ]
     },
     {
@@ -129697,11 +129415,11 @@
       "popularityTier": 1,
       "latestVersion": "1.37",
       "versionSourceUrl": "https://xferrecords.com/freeware",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:23:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "installer-filename on xferrecords.com/freeware (88)"
       ]
     },
     {
@@ -130247,13 +129965,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.5",
+      "latestVersion": "3.11.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Octavox",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -130829,13 +130547,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.12.4",
+      "latestVersion": "3.12.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Omnipressor%C2%AE",
-      "versionVerifiedAt": "2026-09-10T08:14:47Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -140445,12 +140163,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.7.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/pendulate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Pendulate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -141736,12 +141454,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.0",
-      "versionSourceUrl": "https://d16.pl/phoscyon2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -141845,11 +141563,11 @@
       "popularityTier": 1,
       "latestVersion": "2.8.15",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Physion",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, hold confirmed"
       ]
     },
     {
@@ -141876,13 +141594,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Physion%20Mk%20II",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -144427,7 +144145,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -145789,7 +145507,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.6",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -147191,7 +146909,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -147405,13 +147123,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.0",
-      "versionSourceUrl": "https://d16.pl/pulsatec",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "latestVersion": "1.2.0",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -147857,6 +147575,32 @@
       "popularityTier": 3
     },
     {
+      "id": "antares--avox-punch",
+      "manufacturerId": "antares",
+      "name": "Punch",
+      "matchPatterns": [
+        "AVOX PUNCH"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969237400340-Punch-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
       "id": "zynaptiq--punch",
       "manufacturerId": "zynaptiq",
       "name": "Punch",
@@ -147993,12 +147737,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.0",
-      "versionSourceUrl": "https://d16.pl/punchbox2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -148082,12 +147826,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/punctuate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Punctuate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -149492,13 +149236,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.5",
+      "latestVersion": "3.11.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Quadravox",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -151829,11 +151573,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -151862,11 +151606,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -151895,11 +151639,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -151928,11 +151672,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -151961,11 +151705,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -151994,11 +151738,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152027,11 +151771,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152060,11 +151804,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152093,11 +151837,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152126,11 +151870,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152159,11 +151903,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152192,11 +151936,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152225,11 +151969,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152258,11 +152002,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152291,11 +152035,11 @@
       "popularityTier": 1,
       "latestVersion": "8.5.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 8.5.0 matches stored 8.5.0; verified_at refreshed"
       ]
     },
     {
@@ -152324,11 +152068,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152359,11 +152103,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152394,11 +152138,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152429,11 +152173,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152464,11 +152208,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152499,11 +152243,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152534,11 +152278,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152569,11 +152313,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152604,11 +152348,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152639,11 +152383,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152672,11 +152416,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152705,11 +152449,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152740,11 +152484,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152775,11 +152519,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152810,11 +152554,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152845,11 +152589,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152880,11 +152624,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -152915,11 +152659,11 @@
       "popularityTier": 1,
       "latestVersion": "9.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:21:28Z",
+      "versionVerifiedAt": "2026-09-29T17:28:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 9.4.0 matches stored 9.4.0; verified_at refreshed"
       ]
     },
     {
@@ -154667,12 +154411,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/recirculate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Recirculate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -154880,12 +154624,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/redoptor2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -155239,11 +154983,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/relay",
-      "versionVerifiedAt": "2026-09-10T04:21:27Z",
+      "versionVerifiedAt": "2026-09-29T17:28:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 1.7.0 matches stored 1.7.0; verified_at refreshed"
       ]
     },
     {
@@ -155952,7 +155696,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -159613,13 +159357,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.8.5",
+      "latestVersion": "1.8.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=SP2016%20Reverb",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -163067,12 +162811,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.0.13",
-      "versionSourceUrl": "https://sampletank-ios.apps112.com/",
-      "versionVerifiedAt": "2026-09-15T23:38:34Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
+      "versionSourceUrl": "https://itunes.apple.com/lookup?id=464775965",
+      "versionVerifiedAt": "2026-09-29T17:29:34Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Third-party App Store mirrors (apps112 + iphoneaddict.fr + appbrain) independently agree on 2.0.13 as latest, newer than accepted 2.0.12"
+        "Apple's official App Store metadata API (no auth, public) confirms version 2.0.13 released 2025-08-27 with IK-published release notes; replaces third-party apps112 mirror oracle",
+        "release-notes text matches vendor's published notes verbatim; bundleId com.ikmultimediaus.sampletankfree, artist IK Multimedia US, LLC"
       ]
     },
     {
@@ -163505,7 +163250,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -163585,12 +163330,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14.4",
-      "versionSourceUrl": "https://www.newfangledaudio.com/saturate-release-notes",
-      "versionVerifiedAt": "2026-09-10T04:47:47Z",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Saturate",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Eventide downloads portal installer version (92)"
       ]
     },
     {
@@ -166037,13 +165782,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Sheen%20Machine",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -166969,12 +166714,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.1",
-      "versionSourceUrl": "https://d16.pl/sigmund2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -167916,6 +167661,43 @@
       "isFreeware": true,
       "appleSilicon": "universal",
       "popularityTier": 2
+    },
+    {
+      "id": "antares--auto-tune-slice",
+      "manufacturerId": "antares",
+      "name": "Slice",
+      "matchPatterns": [
+        "Auto-Tune Slice"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneSlice"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Slce"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969246801044-Slice-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
     },
     {
       "id": "kilohearts--slice-eq",
@@ -170866,6 +170648,43 @@
       ]
     },
     {
+      "id": "antares--auto-tune-soundsoap",
+      "manufacturerId": "antares",
+      "name": "SoundSoap",
+      "matchPatterns": [
+        "Auto-Tune SoundSoap"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.SoundsoapPro"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "SoSP"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "6.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41115437724436-SoundSoap-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
       "id": "soundtoys--soundtoys-5-5",
       "manufacturerId": "soundtoys",
       "name": "SoundToys 5.5",
@@ -171482,12 +171301,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://d16.pl/spacerek",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -173610,13 +173429,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.5",
+      "latestVersion": "1.3.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=SplitEQ",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -179110,11 +178929,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.4",
       "versionSourceUrl": "https://surge-synthesizer.github.io/downloads/",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionVerifiedAt": "2026-09-30T05:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "surge-synthesizer.github.io downloads stable line (92)"
       ]
     },
     {
@@ -179666,6 +179485,32 @@
       "identityKind": "discontinued",
       "appleSilicon": "native",
       "popularityTier": 1
+    },
+    {
+      "id": "antares--avox-sybil",
+      "manufacturerId": "antares",
+      "name": "Sybil",
+      "matchPatterns": [
+        "AVOX SYBIL"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47995200466196-Sybil-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
     },
     {
       "id": "lennardigital--sylenth1",
@@ -181255,12 +181100,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/syntorus2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -188693,12 +188538,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.2",
-      "versionSourceUrl": "https://d16.pl/tekturon",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -188745,13 +188590,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.8",
-      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Temperance%20Lite",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "latestVersion": "1.0.11",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Temperance",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -188778,13 +188623,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.8",
-      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Temperance%20Pro",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "latestVersion": "1.0.11",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Temperance",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -191444,6 +191289,32 @@
       ]
     },
     {
+      "id": "antares--avox-throat",
+      "manufacturerId": "antares",
+      "name": "Throat",
+      "matchPatterns": [
+        "AVOX THROAT"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969283082132-Throat-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
       "id": "puremagnetik--thump-machine-kick-drum-and-bass-designer",
       "manufacturerId": "puremagnetik",
       "name": "Thump Machine | Kick Drum & Bass Designer",
@@ -192327,11 +192198,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/tonal-balance-control",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-09-29T17:28:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 3.2.0 matches stored 3.2.0; verified_at refreshed"
       ]
     },
     {
@@ -192354,12 +192225,11 @@
       "popularityTier": 1,
       "latestVersion": "2.10.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/tonal-balance-control",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-29T17:28:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 2.10.0 matches stored 2.10.0; verified_at refreshed"
       ]
     },
     {
@@ -193404,12 +193274,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/toraverb2",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionSourceUrl": "https://d16.pl/downloads",
+      "versionVerifiedAt": "2026-09-30T05:23:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "official manufacturer downloads page installer listing (88)"
       ]
     },
     {
@@ -195102,12 +194972,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/trash",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 1.3.0 matches stored 1.3.0; verified_at refreshed"
       ]
     },
     {
@@ -195619,7 +195488,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -196533,11 +196402,11 @@
       "popularityTier": 1,
       "latestVersion": "2023.4.16",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/tuning-workbench-synth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-09-30T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "open-audio-stack registry JSON version field (95)"
       ]
     },
     {
@@ -196656,13 +196525,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.11.5",
+      "latestVersion": "2.11.8",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Tverb",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -196685,7 +196554,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -204174,7 +204043,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -204786,13 +204655,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=UltraChannel",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -204910,13 +204779,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.11.4",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=UltraReverb",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -205308,13 +205177,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.4",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Undulator",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "Vendor Eventide downloads page, Mac==Win RN heads"
       ]
     },
     {
@@ -211892,12 +211761,11 @@
       "popularityTier": 1,
       "latestVersion": "1.13.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/vinyl",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 1.13.0 matches stored 1.13.0; verified_at refreshed"
       ]
     },
     {
@@ -212248,13 +212116,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/virtual-buss-compressors-vbc-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--virtual-buss-compressors-vbc"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -212767,6 +212634,17 @@
       ]
     },
     {
+      "id": "slate-digital--virtual-microphone-system-vms",
+      "manufacturerId": "slate-digital",
+      "name": "Virtual Microphone System",
+      "matchPatterns": [
+        "Virtual Microphone System"
+      ],
+      "notes": "Seeded 2026-09-29 from Slate public deployables API (app.completeaccess.audio); API id vms. No versionless history.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "slate-digital--virtual-mix-rack",
       "manufacturerId": "slate-digital",
       "name": "Virtual Mix Rack",
@@ -212881,12 +212759,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.3.3.0",
-      "versionSourceUrl": "https://www.advanceduninstaller.com/Virtual-Tape-Machines-773ebbba67a2c98d4ef63674f00acbf1-application.htm",
-      "versionVerifiedAt": "2026-09-15T11:32:31Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "[\"KVR product page: Product, Version, 1.3.3.0\",\"advanceduninstaller.com lists 1.3.3.0 as a shipped Windows build\",\"No contradiction found publicly\"]"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -212910,13 +212788,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "finalVersion": "1.3.3.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/virtual-tape-machines-vtm-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--virtual-tape-machines-vtm"
+        "Vendor Slate public installer API, Win==Mac"
       ]
     },
     {
@@ -213503,7 +213380,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968350562196-Vocal-De-Esser-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -213530,12 +213407,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/vocal-doubler",
-      "versionVerifiedAt": "2026-09-10T04:17:42Z",
+      "versionVerifiedAt": "2026-09-29T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 1.4.0 matches stored 1.4.0; verified_at refreshed"
       ]
     },
     {
@@ -213598,6 +213474,25 @@
       ]
     },
     {
+      "id": "antares--vocal-prep",
+      "manufacturerId": "antares",
+      "name": "Vocal Prep",
+      "matchPatterns": [
+        "Vocal Prep"
+      ],
+      "notes": "New product discovered 2026-09-29 via Antares help-center Release Notes section index (article: Vocal Prep Release Notes, 1.1.0). No catalog coverage before; seeded from official vendor release notes.",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968175080724-Vocal-Prep-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official vendor release-notes page, read first-hand; single version listed"
+      ]
+    },
+    {
       "id": "antares--vocal-reverb",
       "manufacturerId": "antares",
       "name": "Vocal Reverb",
@@ -213616,7 +213511,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968668073236-Vocal-Reverb-Release-Notes",
-      "versionVerifiedAt": "2026-09-27T05:24:47Z",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -213713,6 +213608,80 @@
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
       "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "antares--auto-tune-vocal-compressor",
+      "manufacturerId": "antares",
+      "name": "VocalCompressor",
+      "matchPatterns": [
+        "Auto-Tune Vocal Compressor"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocalCompressor"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Vxcp"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/41117241499028-Vocal-Compressor-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "antares--auto-tune-vocal-eq",
+      "manufacturerId": "antares",
+      "name": "VocalEQ",
+      "matchPatterns": [
+        "Auto-Tune Vocal EQ"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocalEQ"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Vxeq"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47968793385620-Vocal-EQ-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -214017,6 +213986,43 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "KVR product page Product Version (crowdsourced; yellow band)"
+      ]
+    },
+    {
+      "id": "antares--auto-tune-vocodist",
+      "manufacturerId": "antares",
+      "name": "Vocodist",
+      "matchPatterns": [
+        "Auto-Tune Vocodist"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Antares.AutoTuneVocodist"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Antr",
+            "subtype": "Ec2w"
+          }
+        ]
+      },
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969287023764-Vocodist-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -215477,6 +215483,32 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "antares--avox-warm",
+      "manufacturerId": "antares",
+      "name": "Warm",
+      "matchPatterns": [
+        "AVOX WARM"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "minMacOS": "12.0",
+      "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "portalApp": "AutoTune Central",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "4.6.0",
+      "versionSourceUrl": "https://help.antarestech.com/hc/en-us/articles/47969258718228-Warm-Release-Notes",
+      "versionVerifiedAt": "2026-09-29T15:49:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
     },
     {
@@ -220878,7 +220910,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.2",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -220911,7 +220943,7 @@
       "popularityTier": 1,
       "latestVersion": "2.9.4",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -220938,7 +220970,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -221004,7 +221036,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T04:51:02Z",
+      "versionVerifiedAt": "2026-09-30T05:23:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
