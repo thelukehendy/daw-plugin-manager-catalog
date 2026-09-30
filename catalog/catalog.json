@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-30T20:32:52Z",
+  "updatedAt": "2026-09-30T20:52:30Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -174558,6 +174558,9 @@
           }
         ]
       },
+      "latestVersionMac": "1.6.056",
+      "latestVersionWindows": "1.6.057",
+      "notesForUser": "Mac and Windows builds are versioned separately (Mac 1.6.056 / Windows 1.6.057) — the Mac build is current at 1.6.056.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.6.057",
