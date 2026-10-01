@@ -1,20 +1,20 @@
 {
   "feedVersion": 1,
-  "buildId": "2026-10-01T15:23:40Z",
-  "catalogCommit": "00ae0bba884f82c5de0461c71088ec7083047c9f",
+  "buildId": "2026-10-01T20:34:14Z",
+  "catalogCommit": "4fbfefa9ba424b7619273a9bdfa60a07d9efad2d",
   "catalogFile": "catalog/catalog.json",
-  "sha256": "995d7546b7ce4feaa0dd83e0dfcc7a9a080a8c02f49c55868bd06338cd63e1dd",
-  "sizeBytes": 8071309,
+  "sha256": "9e7441398932d9788ad03dbe24cfa8dbffe14f2a7ea80d12c7ade093d861201c",
+  "sizeBytes": 8075402,
   "schemaVersion": 3,
-  "publishedAt": "2026-10-01T15:26:40Z",
+  "publishedAt": "2026-10-01T20:35:42Z",
   "counts": {
     "manufacturers": 664,
-    "plugins": 9595,
-    "tier1Plugins": 4503
+    "plugins": 9604,
+    "tier1Plugins": 4512
   },
   "endpoints": {
-    "jsdelivrPinned": "https://cdn.jsdelivr.net/gh/thelukehendy/daw-plugin-manager-catalog@00ae0bba884f82c5de0461c71088ec7083047c9f/catalog/catalog.json",
-    "rawPinned": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/00ae0bba884f82c5de0461c71088ec7083047c9f/catalog/catalog.json",
-    "rawGithub": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/00ae0bba884f82c5de0461c71088ec7083047c9f/catalog/catalog.json"
+    "jsdelivrPinned": "https://cdn.jsdelivr.net/gh/thelukehendy/daw-plugin-manager-catalog@4fbfefa9ba424b7619273a9bdfa60a07d9efad2d/catalog/catalog.json",
+    "rawPinned": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/4fbfefa9ba424b7619273a9bdfa60a07d9efad2d/catalog/catalog.json",
+    "rawGithub": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/4fbfefa9ba424b7619273a9bdfa60a07d9efad2d/catalog/catalog.json"
   }
 }
