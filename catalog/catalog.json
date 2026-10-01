@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-01T03:30:29Z",
+  "updatedAt": "2026-10-01T13:00:29Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -129,7 +129,7 @@
     {
       "id": "accentize",
       "name": "Accentize",
-      "updatePortalUrl": "https://www.accentize.com/userarea/",
+      "updatePortalUrl": "https://www.accentize.com/my-account/",
       "websiteUrl": "https://www.accentize.com",
       "aliases": [
         "accentize",
@@ -139,7 +139,7 @@
       "versionScheme": "semver",
       "versionExample": "1.1.6",
       "changelogUrl": "https://www.accentize.com/product/spectral-balance/",
-      "notes": "Update via manufacturer account / downloads portal. Installers are user-driven.",
+      "notes": "Update via manufacturer account / downloads portal. Installers are user-driven. | 2026-10-01: /userarea/ returned 404 (verified first-hand); portal moved to /my-account/ (verified live: My Account & Licenses page).",
       "popularityTier": 2
     },
     {
@@ -1169,9 +1169,9 @@
     {
       "id": "cytomic",
       "name": "Cytomic",
-      "updatePortalUrl": "https://cytomic.com/downloads",
+      "updatePortalUrl": "https://cytomic.com/",
       "websiteUrl": "https://cytomic.com",
-      "notes": "Identity from KVR (The Glue, The Drop, etc.) [2026-09-15 compat: No cytomic.com page with an explicit native/universal statement was fetchable this run (browser.open unavailable after a tool failure on another domain). KVR (third-party, not citable) reprints The Glue v1.6.0 changelog:] [2026-09-16 compat: cytomic.com page-open failed (browser-service error, not retried); third-party reports of The Glue v1.6.6 Apple Silicon universal binary not citable. Stays unknown. Follow-up: direct cytomic.com announcements fetch.]",
+      "notes": "Identity from KVR (The Glue, The Drop, etc.) [2026-09-15 compat: No cytomic.com page with an explicit native/universal statement was fetchable this run (browser.open unavailable after a tool failure on another domain). KVR (third-party, not citable) reprints The Glue v1.6.0 changelog:] [2026-09-16 compat: cytomic.com page-open failed (browser-service error, not retried); third-party reports of The Glue v1.6.6 Apple Silicon universal binary not citable. Stays unknown. Follow-up: direct cytomic.com announcements fetch.] | 2026-10-01: /downloads returned 404 (verified first-hand); portal moved to site homepage (verified live, carries per-product Downloads sections).",
       "popularityTier": 1
     },
     {
@@ -2213,7 +2213,7 @@
       "name": "Iris",
       "updatePortalUrl": "https://github.com/echoe/oao",
       "websiteUrl": "https://github.com/echoe/oao",
-      "notes": "Open Audio Stack registry author (FOSS)"
+      "notes": "Open Audio Stack registry author (FOSS) | 2026-10-01: portal-liveness check — https://github.com/echoe/oao verified LIVE first-hand (repo README fetched); sweep 404 was a false positive (likely GitHub bot-handling). URL left unchanged."
     },
     {
       "id": "oas--izmar-verhage",
@@ -4621,7 +4621,7 @@
       "appleSilicon": "native",
       "versionScheme": "semver",
       "versionExample": "2.1.0",
-      "notes": "TAL free/paid plugins [2026-09-15 compat: browser.open to tal-software.com failed this run (tool failure) and was not retried per instructions; no TAL-owned page with an explicit Apple Silicon / ARM / M1 statement surfaced via web search. KVR (third-party, not c] Apple Silicon: NATIVE (verified 2026-09-15). tal-software.com — official compatibility statement: 'Universal Binary 2 with native Intel and Apple silicon support'. [2026-09-16 compat: re-verify PARTIAL - tal-software.com statement page not directly addressable this turn (dealer mirrors repeat the Universal Binary 2 wording but fail the gate); prior 2026-09-15 verification (tal-software.com: Universal Binary 2 with native Intel and Apple silicon support) stands per unverified!=disproven. NATIVE kept. Needs JS-rendered re-fetch of TAL product pages.]\n[2026-09-16 compat: TAL native re-verified via fresh search path - tal-software.com product page: \"macOS: 10.11 or higher (64 bit host). Universal Binary 2 with native Intel and Apple silicon support (M1, M2, M3...).\" Value stays native.]",
+      "notes": "TAL free/paid plugins [2026-09-15 compat: browser.open to tal-software.com failed this run (tool failure) and was not retried per instructions; no TAL-owned page with an explicit Apple Silicon / ARM / M1 statement surfaced via web search. KVR (third-party, not c] Apple Silicon: NATIVE (verified 2026-09-15). tal-software.com — official compatibility statement: 'Universal Binary 2 with native Intel and Apple silicon support'. [2026-09-16 compat: re-verify PARTIAL - tal-software.com statement page not directly addressable this turn (dealer mirrors repeat the Universal Binary 2 wording but fail the gate); prior 2026-09-15 verification (tal-software.com: Universal Binary 2 with native Intel and Apple silicon support) stands per unverified!=disproven. NATIVE kept. Needs JS-rendered re-fetch of TAL product pages.]\n[2026-09-16 compat: TAL native re-verified via fresh search path - tal-software.com product page: \"macOS: 10.11 or higher (64 bit host). Universal Binary 2 with native Intel and Apple silicon support (M1, M2, M3...).\" Value stays native.] | 2026-10-01: portal-liveness check — site root (bare + www) and /products return 404 first-hand (curl + browser fetch agree); product pages (e.g. /products/tal-j-8) open fine, so vendor is alive but serves no index page. No manufacturer-level replacement verified; left unchanged. NOTE: 30 plugin rows carry the same dead root as their update_portal_url — needs a follow-up pass.",
       "popularityTier": 1
     },
     {
@@ -4730,9 +4730,9 @@
     {
       "id": "three-body-tech",
       "name": "Three-Body Technology",
-      "updatePortalUrl": "https://www.threebodytech.com",
+      "updatePortalUrl": "https://www.threebodytech.com/en/",
       "websiteUrl": "https://www.threebodytech.com",
-      "notes": "Chinese developer of self-developed sample engine instruments. Site live at threebodytech.com. Heavier7Strings: Apple Silicon supported ('Intel or AMD CPU with SSE 3 or higher instruction set, or Apple Silicon'), 64-bit VST2/VST3/AAX/AU, $199. Chinese Traditional Series distributed exclusively by Best Service, running on Three-Body's redesigned sample engine. INTEGRITY: 'Cinematic Strings 2' and ' [surge-0118 C-track]",
+      "notes": "Chinese developer of self-developed sample engine instruments. Site live at threebodytech.com. Heavier7Strings: Apple Silicon supported ('Intel or AMD CPU with SSE 3 or higher instruction set, or Apple Silicon'), 64-bit VST2/VST3/AAX/AU, $199. Chinese Traditional Series distributed exclusively by Best Service, running on Three-Body's redesigned sample engine. INTEGRITY: 'Cinematic Strings 2' and ' [surge-0118 C-track] | 2026-10-01: bare root https://www.threebodytech.com unresolvable/404 (verified first-hand); portal moved to /en/ homepage (verified live: full product listing).",
       "popularityTier": 3
     },
     {
@@ -7038,16 +7038,18 @@
       ],
       "updatePortalUrl": "https://xferrecords.com/owned_plugins",
       "notes": "KVR product https://www.kvraudio.com/product/8-bit-shaper-by-xfer-records",
+      "latestVersionMac": "1.106",
+      "latestVersionWindows": "1.05",
       "isFreeware": true,
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.106",
       "versionSourceUrl": "https://xferrecords.com/freeware",
-      "versionVerifiedAt": "2026-09-10T04:57:24Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Per-OS split candidate (schema v9): Windows row on same page lists \"v1.05 freeware\" — vendor explicitly lists different builds. Recommend Mac 1.106 / Win 1.05 p"
       ]
     },
     {
@@ -22987,11 +22989,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -24535,11 +24537,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -24789,11 +24791,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -24818,11 +24820,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -24847,11 +24849,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -30784,11 +30786,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -30832,11 +30834,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -30861,11 +30863,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -33508,13 +33510,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
-      "versionVerifiedAt": "2026-10-01T02:37:25Z",
+      "versionSourceUrl": "https://www.kvraudio.com/marketplace/boom-by-air-music-technology",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "AIR first-party compatibility tables agree on 'Boom 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
-        "85 not 92: compatibility-table cells, not a release-notes heading"
+        "User has 1.4.1 installed but no public source corroborates 1.4.1; AIR vendor product page (airmusictech.com/virtual-instruments/boom) lists UPDATES text without"
       ]
     },
     {
@@ -35414,11 +35415,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -35723,11 +35724,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -36100,11 +36101,11 @@
       "popularityTier": 2,
       "latestVersion": "4.1.12",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "User scan 4.1.17.281 ahead of page — no vendor evidence, do not raise. Note: \"Howie's 179\" on the same page IS 4.1.17 but is a different product (no cross-stamp"
       ]
     },
     {
@@ -41118,11 +41119,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -44573,11 +44574,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -50353,13 +50354,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
-      "versionVerifiedAt": "2026-10-01T02:37:25Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/db-33-by-air-music-technology",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "AIR first-party compatibility tables agree on 'DB33 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
-        "85 not 92: compatibility-table cells, not a release-notes heading"
+        "User has 1.4.1 installed but no public source corroborates 1.4.1."
       ]
     },
     {
@@ -50396,11 +50396,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -51222,14 +51222,13 @@
         ]
       },
       "popularityTier": 2,
-      "latestVersion": "1.3.6",
-      "versionSourceUrl": "https://www.xlnaudio.com/release_notes?filter=ds-10",
-      "versionVerifiedAt": "2026-09-10T04:15:31Z",
+      "latestVersion": "1.3.7",
+      "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 95,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "vendor release-notes first-hand"
       ]
     },
     {
@@ -51340,11 +51339,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -55279,11 +55278,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -56172,11 +56171,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -56986,11 +56985,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -59884,11 +59883,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -61128,11 +61127,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -61597,11 +61596,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.4",
       "versionSourceUrl": "https://www.toontrack.com/release-notes/release-notes-ezbass/",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manufacturer release-notes hub"
       ]
     },
     {
@@ -61624,11 +61623,11 @@
       "popularityTier": 1,
       "latestVersion": "3.1.2",
       "versionSourceUrl": "https://www.toontrack.com/release-notes/ezdrummer-3/",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manufacturer release-notes hub"
       ]
     },
     {
@@ -61651,11 +61650,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.5",
       "versionSourceUrl": "https://www.toontrack.com/release-notes/release-notes-ezkeys-2/",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manufacturer release-notes hub"
       ]
     },
     {
@@ -61678,11 +61677,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.2",
       "versionSourceUrl": "https://www.toontrack.com/release-notes/release-notes-ezmix-3/",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manufacturer release-notes hub"
       ]
     },
     {
@@ -64499,11 +64498,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -70737,11 +70736,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -70766,11 +70765,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -73289,11 +73288,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -79490,11 +79489,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -79584,11 +79583,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -79659,11 +79658,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -92394,11 +92393,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -93979,11 +93978,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -97552,11 +97551,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/soma",
-      "versionVerifiedAt": "2026-09-25 17:31:57",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "User scan 1.3.1 ahead of page — no vendor evidence, do not raise."
       ]
     },
     {
@@ -105359,11 +105358,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -109482,11 +109481,11 @@
       "popularityTier": 2,
       "latestVersion": "3.2.18",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor downloads page lists per-product versions explicitly"
+        "User scan 3.2.19 ahead of page — no vendor evidence, do not raise."
       ]
     },
     {
@@ -109534,11 +109533,11 @@
       "popularityTier": 2,
       "latestVersion": "3.2.18",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor downloads page lists per-product versions explicitly"
+        "User scan 3.2.19 ahead of page — no vendor evidence, do not raise."
       ]
     },
     {
@@ -109625,11 +109624,11 @@
       "popularityTier": 2,
       "latestVersion": "3.2.18",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor downloads page lists per-product versions explicitly"
+        "User scan 3.2.19 ahead of page — no vendor evidence, do not raise."
       ]
     },
     {
@@ -109824,11 +109823,11 @@
       "popularityTier": 2,
       "latestVersion": "3.2.18",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor downloads page lists per-product versions explicitly"
+        "User scan 3.2.19 ahead of page — no vendor evidence, do not raise."
       ]
     },
     {
@@ -116594,11 +116593,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -116940,11 +116939,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -119937,13 +119936,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
-      "versionVerifiedAt": "2026-10-01T02:37:25Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/mini-grand-by-air-music-technology",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "AIR first-party compatibility tables agree on 'Mini Grand 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
-        "85 not 92: compatibility-table cells, not a release-notes heading"
+        "User has 1.4.1 installed but no public source corroborates 1.4.1."
       ]
     },
     {
@@ -121228,11 +121226,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -128429,11 +128427,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -128560,11 +128558,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -130115,11 +130113,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Obliterate",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Playbook newfangled-audio.md: Eventide downloads portal is canonical; marketing-page demo DMGs ignored."
       ]
     },
     {
@@ -131670,11 +131668,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -134683,12 +134681,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134716,12 +134714,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134749,12 +134747,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134782,12 +134780,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134815,12 +134813,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134848,12 +134846,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134881,12 +134879,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134914,12 +134912,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134947,12 +134945,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -134980,12 +134978,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135013,12 +135011,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:34Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135046,12 +135044,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:35Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135079,12 +135077,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:35Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135112,12 +135110,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:35Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135145,12 +135143,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:35Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -135178,12 +135176,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "9.13.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
-      "versionVerifiedAt": "2026-09-10T04:28:35Z",
+      "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "cohort fetch: generation-9 installer filenames"
       ]
     },
     {
@@ -143373,11 +143371,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -143449,11 +143447,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -143527,11 +143525,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -149164,11 +149162,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -154615,7 +154613,7 @@
       ],
       "updatePortalUrl": "https://tal-software.com/",
       "discontinued": true,
-      "notes": "Legacy/discontinued TAL title from KVR; expand9.",
+      "notes": "Legacy/discontinued TAL title from KVR; expand9.\n2026-10-01: 2007-era freebie with no vendor page (third-party mirrors only); portal URL left unchanged.\n",
       "identityKind": "discontinued",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -154950,11 +154948,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -155961,12 +155959,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.5",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-10T04:25:12Z",
+      "versionSourceUrl": "https://d16.pl/repeater",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Playbook d16-group.md followed; semver from filename per playbook."
       ]
     },
     {
@@ -157444,11 +157442,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -157991,13 +157989,12 @@
       "appleSilicon": "native",
       "popularityTier": 3,
       "latestVersion": "3.1.2",
-      "versionSourceUrl": "https://audiomodern.com/shop/plugins/riffer/",
-      "versionVerifiedAt": "2026-09-10T06:52:09Z",
+      "versionSourceUrl": "https://audiomodern.com/updates/",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "audiomodern.com Riffer trial CDN Audiomodern_Riffer_3.1.2_Trial.zip",
-        "matches KVR 3.1.2"
+        "User has 3.1.4 installed but the vendor's own updates page still serves 3.1.2 — user's 3.1.4 is uncorroborated (possible beta or private installer build). No ra"
       ]
     },
     {
@@ -158789,11 +158786,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -161197,12 +161194,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9.8",
-      "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionSourceUrl": "https://support.solidstatelogic.com/api/v2/help_center/en-gb/articles/4849510029085.json",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "User scan 1.10.2 = the add-on variant, never cross-stamp onto base; catalog holds. Article-wide: auto-series labels still AutoEQ 1.0.41 / AutoDYN 1.0.5 / AutoBU"
       ]
     },
     {
@@ -161224,12 +161221,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.8",
-      "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionSourceUrl": "https://support.solidstatelogic.com/api/v2/help_center/en-gb/articles/4849510029085.json",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "User scan 1.7.1 = the add-on variant, never cross-stamp onto base; catalog holds. (Add-on SKU rows question is operator's — report as finding.)"
       ]
     },
     {
@@ -163575,11 +163572,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -164722,11 +164719,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -167254,11 +167251,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -168359,11 +168356,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -174858,6 +174855,72 @@
       ]
     },
     {
+      "id": "steinberg--activation-manager",
+      "manufacturerId": "steinberg",
+      "name": "Steinberg Activation Manager",
+      "matchPatterns": [
+        "Steinberg Activation Manager"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_activation_manager.html",
+      "notes": "License activation helper for Steinberg Licensing products. Row created 2026-09-30 22:18 chip on first-hand live-browser verification.",
+      "portalApp": "Steinberg Activation Manager",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.10.0.1489",
+      "versionSourceUrl": "https://download.steinberg.net/downloads_additional_content/Steinberg_Activation_Manager/1.10/Steinberg_Activation_Manager_1.10_Release_Notes.pdf",
+      "versionVerifiedAt": "2026-10-01T05:26:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "official release-notes PDF verbatim first-hand"
+      ]
+    },
+    {
+      "id": "steinberg--download-assistant",
+      "manufacturerId": "steinberg",
+      "name": "Steinberg Download Assistant",
+      "matchPatterns": [
+        "Steinberg Download Assistant"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "notes": "Installer/download helper for Steinberg products. Row created 2026-09-30 22:18 chip on first-hand live-browser verification.",
+      "portalApp": "Steinberg Download Assistant",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.40.1",
+      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/steinberg_download_assistant.html",
+      "versionVerifiedAt": "2026-10-01T05:26:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page copy first-hand (live browser)"
+      ]
+    },
+    {
+      "id": "steinberg--library-manager",
+      "manufacturerId": "steinberg",
+      "name": "Steinberg Library Manager",
+      "matchPatterns": [
+        "Steinberg Library Manager"
+      ],
+      "updatePortalUrl": "https://o.steinberg.net/en/support/downloads/steinberg_library_manager.html",
+      "notes": "Content-library manager helper for Steinberg products. Row created 2026-09-30 22:18 chip on first-hand live-browser verification.",
+      "portalApp": "Steinberg Library Manager",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "3.2.81",
+      "versionSourceUrl": "https://download.steinberg.net/downloads_additional_content/Steinberg_Library_Manager/Steinberg_Library_Manager_3.2.81_Version_History.pdf",
+      "versionVerifiedAt": "2026-10-01T05:26:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "official version-history PDF first-hand; build suffix unconfirmed"
+      ]
+    },
+    {
       "id": "modartt--steingraeber-e-272-grand-piano",
       "manufacturerId": "modartt",
       "name": "Steingraeber E-272 Grand Piano",
@@ -177585,11 +177648,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -179283,11 +179346,11 @@
       "popularityTier": 1,
       "latestVersion": "3.4.4",
       "versionSourceUrl": "https://www.toontrack.com/release-notes/superior-drummer-3/",
-      "versionVerifiedAt": "2026-09-10T05:23:35Z",
+      "versionVerifiedAt": "2026-10-01T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manufacturer release-notes hub"
       ]
     },
     {
@@ -183783,8 +183846,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-bassline-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-bassline",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-bassline-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.5.5",
@@ -183810,8 +183873,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-bassline-101-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-bassline-101",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-bassline-101-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "4.1.0",
@@ -183837,8 +183900,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-bitcrusher-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-bitcrusher",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-bitcrusher-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "0.9.9",
@@ -183887,8 +183950,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-dac-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-dac",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-dac-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.3",
@@ -183914,8 +183977,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-ii-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-ii-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page names TAL-DUB-II).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.55",
@@ -183941,8 +184004,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-iii-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-iii-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page names TAL-DUB-III).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "0.95",
@@ -183968,8 +184031,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-drum-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-drum",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-drum-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.1.4",
@@ -183995,8 +184058,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page covers TAL-Dub/DUB-II/DUB-III).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.2",
@@ -184022,8 +184085,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-x-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-dub-x",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-dub-x-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.8",
@@ -184049,8 +184112,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-eq-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-eq",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-eq-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.3.2",
@@ -184076,8 +184139,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-elek7ro-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-elek7ro",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-elek7ro-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.7",
@@ -184104,7 +184167,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-filter-ii-by-tal-software",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-filter-ii-by-tal-software\n2026-10-01: product TAL-Filter-2 exists per vendor catalog but candidate page /products/tal-filter could not be verified (fetch blocked); left on dead root — do not guess the URL.\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.1.2",
@@ -184130,9 +184193,9 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
+      "updatePortalUrl": "https://tal-software.com/products",
       "discontinued": true,
-      "notes": "KVR product https://www.kvraudio.com/product/tal-flanger-by-togu-audio-line",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-flanger-by-togu-audio-line\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "notesForUser": "Not listed on tal-software.com current Free Plug-Ins; site lists Deprecated Plug-Ins. KVR Product Version dual 1.0 vs 1.0.1 → skipped. No public manufacturer Downloads vX.Y.Z.",
       "identityKind": "discontinued",
       "appleSilicon": "native",
@@ -184152,8 +184215,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-g-verb-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-g-verb",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-g-verb-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.4",
@@ -184179,8 +184242,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-j-8-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-j-8",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-j-8-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.6",
@@ -184206,8 +184269,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-j-8x-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-j-8x",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-j-8x-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.9",
@@ -184233,8 +184296,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-mod-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-mod",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-mod-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9.8",
@@ -184259,9 +184322,9 @@
         "VST",
         "AU"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
+      "updatePortalUrl": "https://tal-software.com/products",
       "discontinued": true,
-      "notes": "Legacy/discontinued TAL title from KVR; expand9.",
+      "notes": "Legacy/discontinued TAL title from KVR; expand9.\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "identityKind": "discontinued",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -184280,8 +184343,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-noisemaker-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-noisemaker",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-noisemaker-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "5.0.6",
@@ -184307,8 +184370,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-pha-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-pha",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-pha-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.3",
@@ -184334,9 +184397,9 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
+      "updatePortalUrl": "https://tal-software.com/products",
       "discontinued": true,
-      "notes": "KVR product https://www.kvraudio.com/product/tal-phaser-by-togu-audio-line",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-phaser-by-togu-audio-line\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "notesForUser": "Deprecated/not on current TAL catalog. KVR Product Version dual 1.0 vs 1.0.1 → skipped.",
       "identityKind": "discontinued",
       "appleSilicon": "native",
@@ -184356,8 +184419,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-reverb-iii-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-reverb-iii-by-togu-audio-line\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.0",
@@ -184428,7 +184491,7 @@
         "VST3"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-reverb-4",
-      "notes": "verifiedPublic:2.11.5@https://tal-software.com/downloads/ flash:heuristic",
+      "notes": "verifiedPublic:2.11.5@https://tal-software.com/downloads/ flash:heuristic\n2026-10-01: existing /products/tal-reverb-4 portal URL confirmed live via live browser (page names TAL-Reverb-4).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "4.0.4",
@@ -184454,8 +184517,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-sampler-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-sampler",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-sampler-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "4.8.6",
@@ -184481,9 +184544,9 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
+      "updatePortalUrl": "https://tal-software.com/products",
       "discontinued": true,
-      "notes": "KVR product https://www.kvraudio.com/product/tal-tube-by-togu-audio-line",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-tube-by-togu-audio-line\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "notesForUser": "Deprecated/not on current TAL catalog. KVR Product Version dual 1.0 vs 1.0.1 → skipped.",
       "identityKind": "discontinued",
       "appleSilicon": "native",
@@ -184503,8 +184566,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-62-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products/tal-u-no-62",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-62-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page text uses original U-NO-60 name).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.7",
@@ -184530,8 +184593,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-lx-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-u-no-lx",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-lx-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "5.1.3",
@@ -184557,8 +184620,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-useq-by-togu-audio-line",
+      "updatePortalUrl": "https://tal-software.com/products",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-useq-by-togu-audio-line\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.1",
@@ -184583,9 +184646,9 @@
         "VST",
         "AU"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
+      "updatePortalUrl": "https://tal-software.com/products",
       "discontinued": true,
-      "notes": "Legacy/discontinued TAL title from KVR; expand9.",
+      "notes": "Legacy/discontinued TAL title from KVR; expand9.\n2026-10-01: vendor no longer lists this product (live-browser verified: URL redirects to homepage, absent from TAL catalog); portal URL set to vendor product index as deliberate fallback.\n",
       "identityKind": "discontinued",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -184604,8 +184667,8 @@
         "AU",
         "AAX"
       ],
-      "updatePortalUrl": "https://tal-software.com/",
-      "notes": "KVR product https://www.kvraudio.com/product/tal-vocoder-by-tal-software",
+      "updatePortalUrl": "https://tal-software.com/products/tal-vocoder",
+      "notes": "KVR product https://www.kvraudio.com/product/tal-vocoder-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.0.4",
@@ -187762,11 +187825,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -188333,11 +188396,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -192025,11 +192088,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -192071,11 +192134,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -195109,11 +195172,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -195698,11 +195761,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -195926,11 +195989,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -196549,11 +196612,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -196584,11 +196647,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -210280,11 +210343,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -210609,11 +210672,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -210806,11 +210869,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -211551,11 +211614,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -217249,11 +217312,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217284,11 +217347,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Train verdict applies to all ~100 softube rows at 2.6.41; 15 sampled per task. Newest RN 2.6.42 (Aug 21 2026) re-read first-hand: covers ONLY Monoment Bass/Para"
       ]
     },
     {
@@ -217319,11 +217382,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217354,11 +217417,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217389,11 +217452,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217424,11 +217487,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217459,11 +217522,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217523,11 +217586,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-01T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Same train verdict as softube--weiss-ds1-mk3 above."
       ]
     },
     {
@@ -217839,11 +217902,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -218790,11 +218853,11 @@
       "popularityTier": 1,
       "latestVersion": "2026.4.1",
       "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-10T06:10:40Z",
+      "versionVerifiedAt": "2026-10-01T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "daw-bundled-version: host DAW public release used as proxy for stock plugs with no independent installer semver (70)"
+        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
       ]
     },
     {
@@ -219582,13 +219645,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "2.4.0",
-      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
-      "versionVerifiedAt": "2026-10-01T02:37:25Z",
+      "versionSourceUrl": "https://www.kvraudio.com/marketplace/xpand-2-by-air-music-technology",
+      "versionVerifiedAt": "2026-10-01T05:25:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "AIR first-party compatibility tables agree on 'Xpand!2 2.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
-        "85 not 92: compatibility-table cells, not a release-notes heading"
+        "User has 2.4.1 installed but no public source corroborates 2.4.1."
       ]
     },
     {
@@ -225904,12 +225966,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/stage",
-      "versionVerifiedAt": "2026-09-10T04:15:31Z",
+      "versionVerifiedAt": "2026-10-01T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "Text render carried no \"Installer v\" label for the double-source corroboration the hardened rule wants; hold per changelog-lag precedent — do not downgrade on c"
       ]
     },
     {
