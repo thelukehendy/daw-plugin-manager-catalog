@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-01T15:23:40Z",
+  "updatedAt": "2026-10-01T20:34:14Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -19624,6 +19624,321 @@
       "popularityTier": 2
     },
     {
+      "id": "plugin-alliance--apogee-clearmountain-8068",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Clearmountain 8068",
+      "matchPatterns": [
+        "Apogee Clearmountain 8068"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeclearmountain8068"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "Acl8"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.20.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/clearmountain-8068",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-clearmountain-dance",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Clearmountain Dance",
+      "matchPatterns": [
+        "Apogee Clearmountain Dance"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeclearmountaindance"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "CMDC"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.18.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/clearmountain-dance",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-clearmountain-domain",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Clearmountain Domain",
+      "matchPatterns": [
+        "Apogee Clearmountain Domain"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeclearmountaindomain"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "CMDM"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.4.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/clearmountain-domain",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-clearmountain-phases",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Clearmountain Phases",
+      "matchPatterns": [
+        "Apogee Clearmountain Phases"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeclearmountainphases"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "CMPH"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/clearmountain-phases",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-clearmountain-spaces",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Clearmountain Spaces",
+      "matchPatterns": [
+        "Apogee Clearmountain Spaces"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeclearmountainspaces"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "CMSP"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/clearmountain-spaces",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-ecs2-channel-strip",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee ECS2 Channel Strip",
+      "matchPatterns": [
+        "Apogee ECS2 Channel Strip"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeecschannelstrip"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "ECS2"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "2.0.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/ecs-channel-strip",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-eqp-1a",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee EQP-1A",
+      "matchPatterns": [
+        "Apogee EQP-1A"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeeqp1a"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "Aeqp"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "3.2.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/eqp-1a",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-meq-5",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee MEQ-5",
+      "matchPatterns": [
+        "Apogee MEQ-5"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeemeq5"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "Ameq"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "3.3.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/meq-5",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
+      "id": "plugin-alliance--apogee-opto-3a",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Opto-3A",
+      "matchPatterns": [
+        "Apogee Opto-3A"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Apogee line migrated to Plugin Alliance (first release on PA Sep 30, 2026). PA-build version lineage; do not mix with legacy Apogee observations.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.pluginalliance.apogeeopto3a"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Apog",
+            "subtype": "Aopt"
+          }
+        ]
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "3.2.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/opto-3a",
+      "versionVerifiedAt": "2026-10-01T20:31:25Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-hand PA product page read; changelog top entry; H1/URL identity match"
+      ]
+    },
+    {
       "id": "universal-audio--apollo-solo",
       "manufacturerId": "universal-audio",
       "name": "Apollo Solo",
@@ -35302,13 +35617,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/bus-exciter-104",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -35340,13 +35653,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/bus-force",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.4.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -35378,13 +35689,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/bus-peak",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -35486,13 +35795,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/bus-transient",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -41992,13 +42299,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/chorus-dimension-d",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.5.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -42077,13 +42382,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/chorus-jun-6",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.5.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -45801,13 +46104,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/comp-diode-609",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.4.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -45839,13 +46140,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/comp-fet76",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -45877,13 +46176,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/comp-tubesta",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -45915,13 +46212,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/comp-vca65",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -53473,13 +53768,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/delay-brigade",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -53530,13 +53823,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/delay-eternity",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -53670,13 +53961,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/delay-tape201",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -55862,13 +56151,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/dist-coldfire",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -55900,13 +56187,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/dist-opamp-21",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -55938,13 +56223,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/dist-tube-culture",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -63315,13 +63598,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0.6577",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/efx-ambient",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.0.6577 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -63353,13 +63634,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/efx-fragments",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.3.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -63391,13 +63670,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/efx-motions",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.1.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -63429,13 +63706,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/efx-refract",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.1.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -65842,13 +66117,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/eq-sitral-295",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.4.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -71517,13 +71790,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/m12-filter",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.8.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -71555,13 +71826,11 @@
       "popularityTier": 1,
       "latestVersion": "1.9.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/mini-filter",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.9.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -71593,13 +71862,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/filter-ms-20",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -71631,13 +71898,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/sem-filter",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.8.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -71936,11 +72201,11 @@
       "popularityTier": 1,
       "latestVersion": "3.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/filtershaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "FilterShaper XL is a NEW successor product: successor-generation ban applies, NOT stamped on this row. FLAG for coordinator: row identity (legacy FilterShaper 3"
       ]
     },
     {
@@ -73413,13 +73678,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/flanger-bl-20",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.5.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -94103,12 +94366,12 @@
       "appleSilicon": "rosetta",
       "popularityTier": 1,
       "latestVersion": "2.02",
-      "versionSourceUrl": "https://www.kvraudio.com/product/iris-2-by-izotope",
-      "versionVerifiedAt": "2026-09-10T05:54:49Z",
+      "versionSourceUrl": "https://www.izotope.com/pages/legacy-products",
+      "versionVerifiedAt": "2026-10-01T17:28:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Oracle neither confirms nor denies 2.02: no-churn, legacy freeze holds"
       ]
     },
     {
@@ -95590,13 +95853,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.6.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/jun-6-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.6.6.6366 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -95745,13 +96006,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/jup-8000-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.1.6366 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -104816,12 +105075,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/liquidshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://cableguys.com/liquidshaper",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "ShaperBox-3 Shapers carry no per-product vendor version; no newer exact version verifiable"
       ]
     },
     {
@@ -119763,13 +120022,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/minibrute-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.6.6366 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -126576,12 +126833,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.9.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/nerve-by-xfer-records",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "http://www.xferrecords.com/products/nerve",
+      "versionVerifiedAt": "2026-10-01T17:28:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "No newer Nerve version anywhere; vendor publishes no changelog for Nerve; value holds"
       ]
     },
     {
@@ -128143,12 +128400,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/noiseshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://www.cableguys.com/noiseshaper",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Same vendor model: no per-Shaper version published; value holds per no-churn"
       ]
     },
     {
@@ -141620,13 +141877,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/phaser-bi-tron",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.5.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -143340,13 +143595,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/pitch-shifter-910",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.0.0.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -143620,12 +143873,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/pitchshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://www.cableguys.com/pitchshaper",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Released Oct 2025; vendor shows no version; no newer evidence anywhere"
       ]
     },
     {
@@ -145576,13 +145829,11 @@
       "popularityTier": 1,
       "latestVersion": "1.9.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/1973-pre",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.9.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -145614,13 +145865,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/trida-pre",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.8.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -145652,13 +145901,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/v76-pre",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.8.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -157075,13 +157322,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rev-intensity",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.6.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -157113,13 +157358,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6567",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rev-lx-24",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6567 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -157186,13 +157429,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rev-plate140",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.7.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -157224,13 +157465,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rev-spring636",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.6.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -157366,12 +157605,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/reverbshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://www.cableguys.com/reverbshaper/",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Shaper runs inside ShaperBox 3; KVR @60 1.0 remains the only exact version"
       ]
     },
     {
@@ -158735,13 +158974,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rotary-cls-222",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.2.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -166562,12 +166799,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "0.9.245",
-      "versionSourceUrl": "https://www.kvraudio.com/product/shortcircuit-xt-by-surge-synth-team",
-      "versionVerifiedAt": "2026-09-10T06:05:49Z",
-      "versionEvidence": "page-confirmed",
+      "versionSourceUrl": "https://github.com/surge-synthesizer/shortcircuit-xt/releases",
+      "versionVerifiedAt": "2026-10-01T17:28:29Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Nightly channel is actively updated but unversioned; no exact newer version exists first-hand"
       ]
     },
     {
@@ -188467,13 +188704,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/tape-j37",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.1.0.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -188505,13 +188740,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/tape-mello-fi",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-01T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer downloads-manuals page on arturia.com",
-        "Software Version 1.4.1.6566 equals prior KVR current",
-        "ASC not required — public product download listing"
+        "matches 2026-09-10 current"
       ]
     },
     {
@@ -218107,12 +218340,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/widthshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://www.cableguys.com/widthshaper",
+      "versionVerifiedAt": "2026-10-01T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Generation-level value holds; no per-product vendor version exists"
       ]
     },
     {
@@ -222918,11 +223151,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_crispytuner",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionVerifiedAt": "2026-10-01T17:28:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "PA automation-block (2026-09-26) is GONE; changelog-top oracle healthy. crispyscale ships bundled with bx_crispytuner installer, rides its version"
       ]
     },
     {
