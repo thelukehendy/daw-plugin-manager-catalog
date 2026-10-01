@@ -1,7 +1,7 @@
 {
   "feedVersion": 1,
-  "latestVersion": "1.0.1",
-  "publishedAt": "2026-09-26T22:00:00Z",
+  "latestVersion": "1.0.2",
+  "publishedAt": "2026-10-01T05:03:49Z",
   "downloadUrl": "https://www.productiononline.com",
   "notes": "App binaries are hosted on productiononline.com. This file is version metadata only — bump latestVersion only when a new unique notarized build ships."
 }
