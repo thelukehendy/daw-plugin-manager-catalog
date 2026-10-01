@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-09-30T21:04:06Z",
+  "updatedAt": "2026-10-01T02:37:59Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -33508,12 +33508,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/boom-by-air-music-technology",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
+      "versionVerifiedAt": "2026-10-01T02:37:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "AIR first-party compatibility tables agree on 'Boom 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
+        "85 not 92: compatibility-table cells, not a release-notes heading"
       ]
     },
     {
@@ -49775,12 +49776,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:31Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -49797,12 +49799,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:31Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -50350,12 +50353,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/db-33-by-air-music-technology",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
+      "versionVerifiedAt": "2026-10-01T02:37:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "AIR first-party compatibility tables agree on 'DB33 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
+        "85 not 92: compatibility-table cells, not a release-notes heading"
       ]
     },
     {
@@ -76750,12 +76754,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:31Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -91353,12 +91358,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -91384,12 +91390,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -91406,12 +91413,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -91447,12 +91455,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -108793,6 +108802,7 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products/mega_sampler.html",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. Source URL dead as of 2026-09-28 (/products/mega-sampler 404; legacy URL lands on online-sample-player, no version). 1.1.1 kept as last-observed figure at 55; do not refresh from that URL. Scan clue 1.2.0 is not vendor evidence.",
       "portalApp": "PA Installation Manager",
+      "notesForUser": "The legacy product page now redirects to the Plugin Alliance Sample Player page, which publishes no version number. 1.1.1 is the last observed historical version. CORE and PRO are subscription plans, not this instrument's successor.",
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -116375,13 +116385,15 @@
       },
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.7.1",
-      "versionSourceUrl": "https://synthanatomy.com/2026/03/native-instruments-massive-x-out-now.html",
-      "versionVerifiedAt": "2026-09-17T02:34:04Z",
+      "latestVersion": "1.7.0",
+      "versionSourceUrl": "https://community.native-instruments.com/api/v2/discussions/54",
+      "versionVerifiedAt": "2026-10-01T02:37:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 65,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Trusted press confirms 1.7 update on Native Access; 1.7.1 patch number + date from two independent installer mirrors (plugintorrent, gfxtra) with consistent release-note text. KVR stale at 1.6.0."
+        "NI staff discussion 54 'Official update status - Massive X (current version: 1.7.0)' (updated 2026-02-26): body sentence 'The currently available software version is 1.7.0.'",
+        "Substring '1.7.1' occurs 0 times in title+body; stored 1.7.1 came from third-party installer mirrors, not a vendor page",
+        "88 not 92: single staff-thread source, no dotted build beyond the thread's own words"
       ]
     },
     {
@@ -119925,12 +119937,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/mini-grand-by-air-music-technology",
-      "versionVerifiedAt": "2026-09-10T05:53:27Z",
+      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
+      "versionVerifiedAt": "2026-10-01T02:37:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "AIR first-party compatibility tables agree on 'Mini Grand 1.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
+        "85 not 92: compatibility-table cells, not a release-notes heading"
       ]
     },
     {
@@ -133218,6 +133231,29 @@
       "identityKind": "expansion",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "output--hub",
+      "manufacturerId": "output",
+      "name": "Output Hub",
+      "matchPatterns": [
+        "Output Hub"
+      ],
+      "updatePortalUrl": "https://output.com",
+      "notesForUser": "Helper application for Output products. Not Arcade, Portal, or Co-Producer: hub builds must never be compared to instrument versions.",
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "3.1.1.680",
+      "versionSourceUrl": "https://release-builds.outputaudio.com/output-hub/Output%20Hub-3.1.1.680-mac-universal.dmg",
+      "versionVerifiedAt": "2026-10-01T02:37:32Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Mac and Windows installer path tokens agree: 'Output Hub-3.1.1.680-mac-universal.dmg' and 'Output Hub Setup 3.1.1.680.exe' both HEAD 200 (re-verified 2026-09-30)",
+        "Next-patch probe 3.1.1.681 is HTTP 404 on both platforms; 680 is the tip",
+        "90 not 92: no bundle id read from an install; matching is by name until a key exists"
+      ]
     },
     {
       "id": "nembrini-audio--overdrive-special-guitar-amplifier",
@@ -149307,12 +149343,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -176701,12 +176738,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "2.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/structure-by-air-music-technology",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
+      "versionVerifiedAt": "2026-10-01T02:37:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "AIR first-party compatibility tables agree on 'Structure 2.2.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
+        "85 not 92: compatibility-table cells, not a release-notes heading"
       ]
     },
     {
@@ -194481,13 +194519,14 @@
       "portalApp": "Waves Central",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.3.0.6",
-      "versionSourceUrl": "https://www.kvraudio.com/product/tracks-live-by-waves",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "latestVersion": "2.0",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Waves release notes (re-fetched 2026-09-30): 'September 22, 2026 New App: Tracks Live 2.0 - Live multitrack recording application'",
+        "Same product name and description as the catalog row; 90 not 92: RN gives no dotted build past 2.0"
       ]
     },
     {
@@ -217043,12 +217082,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -218794,12 +218834,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
@@ -219541,12 +219582,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "2.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/xpand-2-by-air-music-technology",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
+      "versionVerifiedAt": "2026-10-01T02:37:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "AIR first-party compatibility tables agree on 'Xpand!2 2.4.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
+        "85 not 92: compatibility-table cells, not a release-notes heading"
       ]
     },
     {
@@ -220148,12 +220190,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-30T17:27:32Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
+      "versionVerifiedAt": "2026-10-01T02:37:24Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Exact <li> match on the V17 offline installer list (vendor page proves V17 membership)",
+        "82 not higher: the four-part build 17.1.42.50 is still the KVR number; Waves does not print it on this page"
       ]
     },
     {
