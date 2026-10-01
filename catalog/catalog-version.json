@@ -6,7 +6,7 @@
   "sha256": "afa0865d6c099da4cfe06b56133133ded9b8c989f928edb0f4842b5b41a73ba5",
   "sizeBytes": 8065459,
   "schemaVersion": 3,
-  "publishedAt": "2026-10-01T02:42:29Z",
+  "publishedAt": "2026-10-01T03:21:38Z",
   "counts": {
     "manufacturers": 664,
     "plugins": 9592,
@@ -14,6 +14,6 @@
   },
   "endpoints": {
     "jsdelivrPinned": "https://cdn.jsdelivr.net/gh/thelukehendy/daw-plugin-manager-catalog@e7edf8483b3d310b64fe905025f3786e383a72ca/catalog/catalog.json",
-    "rawGithub": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/e7edf8483b3d310b64fe905025f3786e383a72ca/catalog/catalog.json"
+    "rawPinned": "https://raw.githubusercontent.com/thelukehendy/daw-plugin-manager-catalog/e7edf8483b3d310b64fe905025f3786e383a72ca/catalog/catalog.json"
   }
 }
