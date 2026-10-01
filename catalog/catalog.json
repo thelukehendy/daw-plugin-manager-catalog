@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-01T02:37:59Z",
+  "updatedAt": "2026-10-01T03:30:29Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -3054,7 +3054,7 @@
     {
       "id": "meldaproduction",
       "name": "MeldaProduction",
-      "updatePortalUrl": "https://www.meldaproduction.com/download",
+      "updatePortalUrl": "https://www.meldaproduction.com/downloads",
       "websiteUrl": "https://www.meldaproduction.com",
       "aliases": [
         "Melda"
@@ -3064,7 +3064,7 @@
       "versionScheme": "semver",
       "versionExample": "17.10",
       "changelogUrl": "https://www.meldaproduction.com/changes/",
-      "notes": "Update via manufacturer account / downloads portal. Installers are user-driven.",
+      "notes": "Update via manufacturer account / downloads portal. Installers are user-driven. | 2026-10-01: /download (singular) now 403s per user report + first-hand check; site nav links to /downloads (plural), verified live in browser.",
       "popularityTier": 1
     },
     {
