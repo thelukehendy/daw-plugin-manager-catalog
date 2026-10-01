@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-01T13:00:29Z",
+  "updatedAt": "2026-10-01T15:23:40Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -105539,7 +105539,7 @@
       "matchPatterns": [
         "Logic Pro"
       ],
-      "notes": "Apple flagship DAW (macOS). Version from Apple release notes.",
+      "notes": "Apple flagship DAW (macOS). Version from Apple release notes.\n2026-10-01: Logic Pro 12.4 released 2026-09-29 (App Store API); catalog updated from 12.3.1.\n",
       "identityKeys": {
         "bundleIds": [
           "com.apple.logic10"
@@ -105553,9 +105553,9 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "12.3.1",
+      "latestVersion": "12.4",
       "versionSourceUrl": "https://itunes.apple.com/lookup?id=634148309",
-      "versionVerifiedAt": "2026-09-25T20:36:46Z",
+      "versionVerifiedAt": "2026-10-01T15:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
