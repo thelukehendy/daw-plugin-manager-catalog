@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-02T16:08:51Z",
+  "updatedAt": "2026-10-02T17:27:55Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -84919,6 +84919,29 @@
       "notesForUser": "XLN Audio bundle/collection (Heavy Rock Collection).",
       "identityKind": "bundle",
       "popularityTier": 2
+    },
+    {
+      "id": "heavyocity--heavyocity-portal",
+      "manufacturerId": "heavyocity",
+      "name": "Heavyocity Portal",
+      "matchPatterns": [
+        "Heavyocity Portal"
+      ],
+      "updatePortalUrl": "https://heavyocity.com/pages/heavyocity-portal",
+      "notes": "Version tokens are Shopify CDN installer basenames from the vendor portal page (HPMac25212.pkg / HPWin2126.msi), not dotted releases — do not coerce to semver. Dual-OS observation per schema v9.",
+      "latestVersionMac": "HPMac25212",
+      "latestVersionWindows": "HPWin2126",
+      "identityKind": "hub_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "HPMac25212",
+      "versionSourceUrl": "https://heavyocity.com/pages/heavyocity-portal",
+      "versionVerifiedAt": "2026-10-02T17:22:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party vendor portal page, hrefs fetched first-hand"
+      ]
     },
     {
       "id": "spitfire-audio--heirloom",
@@ -198728,13 +198751,13 @@
       ],
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.0",
-      "versionSourceUrl": "https://help.uaudio.com/api/v2/help_center/en-us/articles/26387489275412.json",
-      "versionVerifiedAt": "2026-09-27T01:28:55Z",
+      "latestVersion": "1.3.1",
+      "versionSourceUrl": "https://help.uaudio.com/hc/en-us/articles/26387489275412-UAD-Console-Release-Notes",
+      "versionVerifiedAt": "2026-10-02T17:22:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor Console release-notes JSON; operator-verified 2026-09-26"
+        "first-party UA Zendesk release notes, re-fetched first-hand"
       ]
     },
     {
