@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-04T21:05:04Z",
+  "updatedAt": "2026-10-05T13:02:21Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -154692,13 +154692,14 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.1.2",
+      "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/resing-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-16T20:46:48Z",
+      "versionVerifiedAt": "2026-10-05T05:22:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page exact identity"
+        "KVR exact-title product page verwin Win=Mac agreement (designated IK public oracle)",
+        "Advisor portal claim of 1.1.3 (2026-09-29 deferral) now publicly corroborated; TONEX-style portal-free resolution"
       ]
     },
     {
