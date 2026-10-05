@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-05T13:02:21Z",
+  "updatedAt": "2026-10-05T16:15:23Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -107210,13 +107210,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107301,14 +107304,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107336,13 +107341,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107370,13 +107378,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107405,14 +107416,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107441,14 +107454,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107476,13 +107491,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107511,14 +107529,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107547,14 +107567,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107582,13 +107604,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107617,14 +107642,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107781,13 +107808,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107816,14 +107846,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107851,13 +107883,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107886,14 +107921,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107943,13 +107980,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -107978,14 +108018,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108014,14 +108056,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108049,13 +108093,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108084,14 +108131,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108119,13 +108168,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108154,14 +108206,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108189,13 +108243,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108224,14 +108281,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108260,14 +108319,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108322,13 +108383,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108356,13 +108420,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108391,14 +108458,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108510,13 +108579,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108545,14 +108617,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108581,14 +108655,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108617,14 +108693,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108653,14 +108731,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108689,14 +108769,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108725,14 +108807,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108761,14 +108845,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108797,14 +108883,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108833,14 +108921,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -108985,14 +109075,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109021,14 +109113,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109057,14 +109151,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109160,13 +109256,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109195,14 +109294,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109338,14 +109439,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109373,13 +109476,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109408,14 +109514,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109471,14 +109579,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109507,14 +109617,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109542,13 +109654,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109576,13 +109691,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109611,14 +109729,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109673,14 +109793,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -109735,14 +109857,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -110208,14 +110332,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -110875,14 +111001,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -110911,14 +111039,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -110946,13 +111076,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111017,14 +111150,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111052,13 +111187,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111087,14 +111225,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111150,14 +111290,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111186,14 +111328,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111222,14 +111366,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111257,13 +111403,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111291,13 +111440,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111486,13 +111638,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111520,13 +111675,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111677,13 +111835,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111712,14 +111873,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111748,14 +111911,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111779,13 +111944,16 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-26T15:50:20Z",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor download page names kernel 17.10.01; app detection reads the kernel line, not the 02.30 installer number"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111814,14 +111982,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111850,14 +112020,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -111983,13 +112155,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112017,13 +112192,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112051,13 +112229,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112086,14 +112267,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112122,14 +112305,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112158,14 +112343,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112194,14 +112381,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112229,13 +112418,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112264,14 +112456,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112300,14 +112494,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112396,13 +112592,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112431,14 +112630,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112490,14 +112691,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112553,14 +112756,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112589,14 +112794,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112625,14 +112832,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112661,14 +112870,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112697,14 +112908,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112732,13 +112945,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112766,13 +112982,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112801,14 +113020,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112837,14 +113058,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112872,13 +113095,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112907,14 +113133,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -112943,14 +113171,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113033,14 +113263,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113069,14 +113301,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113104,13 +113338,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113139,14 +113376,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113174,13 +113413,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113209,14 +113451,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113244,13 +113488,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113279,14 +113526,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113315,14 +113564,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113351,14 +113602,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113386,13 +113639,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113420,13 +113676,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113455,14 +113714,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113491,14 +113752,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113527,14 +113790,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113563,14 +113828,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113619,14 +113886,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113655,14 +113924,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113690,13 +113961,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113854,13 +114128,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113889,14 +114166,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113925,14 +114204,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113961,14 +114242,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -113996,13 +114279,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114031,14 +114317,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114066,13 +114354,16 @@
       "portalApp": "MPluginManager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114101,14 +114392,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114137,14 +114430,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114193,14 +114488,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -114229,14 +114526,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -117492,14 +117791,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -117526,14 +117827,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
@@ -122625,14 +122928,16 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10.01",
-      "versionSourceUrl": "https://www.meldaproduction.com/downloads",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "latestVersion": "17.10",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
+      "versionVerifiedAt": "2026-10-05T16:05:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Melda downloads page publishes shared kernel version for all plugins",
-        "changes page states all plugins share kernel version numbers"
+        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
+        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
+        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
+        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
     },
     {
