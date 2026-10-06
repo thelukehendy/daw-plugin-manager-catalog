@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-05T16:15:23Z",
+  "updatedAt": "2026-10-06T13:00:41Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -44842,6 +44842,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/click-boom",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.1.1@https://www.plugin-alliance.com/products/click-boom",
+      "identityKeys": {
+        "bundleIds": [
+          "com.PluginAlliance.ClickBoomPA"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -85622,6 +85627,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/hitstrip",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.3.1@https://www.plugin-alliance.com/products/hitstrip",
+      "identityKeys": {
+        "bundleIds": [
+          "com.PluginAlliance.HitStripPA"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -97891,6 +97901,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/knocktonal",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.2.1@https://www.plugin-alliance.com/products/knocktonal",
+      "identityKeys": {
+        "bundleIds": [
+          "com.PluginAlliance.KnocktonalPA"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -160829,6 +160844,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/drumxchanger",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.16.0@https://www.plugin-alliance.com/products/drumxchanger",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.plugins.vst.SPLDrumXchanger"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -160858,6 +160878,13 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/eq-ranger-plus",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.11.3@https://www.plugin-alliance.com/products/eq-ranger-plus",
       "predecessorPluginId": "spl--eq-rangers-vol-1",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.aax.spleqrangerplus",
+          "com.plugin-alliance.au.spleqrangerplus",
+          "com.plugin-alliance.vst3.spleqrangerplus"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -160934,6 +160961,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/free-ranger",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.aax.splfreeranger",
+          "com.plugin-alliance.au.splfreeranger",
+          "com.plugin-alliance.vst3.splfreeranger"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161010,6 +161044,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/hawkeye",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.1.0@https://www.plugin-alliance.com/products/hawkeye",
+      "identityKeys": {
+        "bundleIds": [
+          "com.PluginAlliance.HawkEye"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161057,6 +161096,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/iron",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.7.0@https://www.plugin-alliance.com/products/iron",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.plugins.vst.SPLIron"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161128,6 +161172,11 @@
       ],
       "updatePortalUrl": "https://www.plugin-alliance.com/products/machine-head",
       "notes": "KVR product https://www.kvraudio.com/product/spl-machine-head-by-plugin-alliance",
+      "identityKeys": {
+        "bundleIds": [
+          "com.spl.machinehead"
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.0",
@@ -161211,6 +161260,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/passeq",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.16.0@https://www.plugin-alliance.com/products/passeq",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.plugins.vst.SPLPasseq"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161273,6 +161327,14 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "plugin-alliance--spl-transient-designer-plus",
       "supersededByPluginId": "plugin-alliance--spl-transient-designer-plus",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.plugins.aax.SPLTransientDesigner",
+          "com.plugin-alliance.plugins.au.SPLTransientDesigner",
+          "com.plugin-alliance.plugins.vst.SPLTransientDesigner",
+          "com.plugin-alliance.plugins.vst3.SPLTransientDesigner"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161326,6 +161388,13 @@
       "updateClass": "free_current",
       "predecessorPluginId": "plugin-alliance--spl-transient-designer",
       "supersedesPluginId": "plugin-alliance--spl-transient-designer",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.aax.spltransientdesignerplus",
+          "com.plugin-alliance.au.spltransientdesignerplus",
+          "com.plugin-alliance.vst3.spltransientdesignerplus"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161373,6 +161442,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/twintube",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.19.2@https://www.plugin-alliance.com/products/twintube",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.plugins.vst.SPLTwinTube"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161407,6 +161481,13 @@
       "updateClass": "paid_upgrade",
       "successorPluginId": "plugin-alliance--spl-vitalizer-mk3-t",
       "supersededByPluginId": "plugin-alliance--spl-vitalizer-mk3-t",
+      "identityKeys": {
+        "bundleIds": [
+          "com.plugin-alliance.aax.splvitalizermk2t",
+          "com.plugin-alliance.au.splvitalizermk2t",
+          "com.plugin-alliance.vst3.splvitalizermk2t"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -161905,6 +161986,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.SSL.DeEss"
+        ]
+      },
       "portalApp": "SSL Download Manager",
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -172924,6 +173010,11 @@
       "updatePortalUrl": "https://o.steinberg.net/en/support/content_and_accessories/steinberg_download_assistant.html",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
       "updateClass": "paid_upgrade",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Steinberg.SpectraLayers.vst3"
+        ]
+      },
       "portalApp": "Steinberg Download Assistant",
       "notesForUser": "Major version upgrade is paid (e.g. SpectraLayers Pro 11 to 13: upgrade pricing applies). Not a free update.",
       "appleSilicon": "mixed",
@@ -174612,6 +174703,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.plugin-alliance.com/products/spread",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions. verifiedPublic:1.3.0@https://www.plugin-alliance.com/products/spread",
+      "identityKeys": {
+        "bundleIds": [
+          "com.PluginAlliance.SpreadPA"
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
@@ -206479,6 +206575,12 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.EffectRack",
+          "com.unfilteredaudio.EffectRack"
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.3.6",
@@ -207041,6 +207143,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Silo"
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.1.7",
@@ -207143,6 +207250,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Tails"
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.1.0",
@@ -207270,6 +207382,11 @@
       ],
       "minMacOS": "12.0",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.LoFiAf"
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.1.11",
@@ -217111,6 +217228,11 @@
       "generation": "13",
       "generationRank": 13,
       "predecessorPluginId": "steinberg--wavelab-12",
+      "identityKeys": {
+        "bundleIds": [
+          "net.steinberg.WaveLab.aaxplugin"
+        ]
+      },
       "portalApp": "Steinberg Download Assistant",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -217135,6 +217257,11 @@
       "generationRank": 12,
       "updateClass": "paid_upgrade",
       "successorPluginId": "steinberg--wavelab",
+      "identityKeys": {
+        "bundleIds": [
+          "net.steinberg.WaveLab.aaxplugin"
+        ]
+      },
       "notesForUser": "WaveLab Pro 12's installer is 12.0.51. WaveLab Elements 12's installer on the same page is 12.0.50.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
