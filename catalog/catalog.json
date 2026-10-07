@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-06T13:00:41Z",
+  "updatedAt": "2026-10-07T13:03:03Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -33825,12 +33825,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/marketplace/boom-by-air-music-technology",
-      "versionVerifiedAt": "2026-10-01T05:25:06Z",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-10-07T05:22:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "User has 1.4.1 installed but no public source corroborates 1.4.1; AIR vendor product page (airmusictech.com/virtual-instruments/boom) lists UPDATES text without"
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists 1.4.0 as the current tested build (first-hand, 2026-10-06); corroborates prior KVR-only oracle"
       ]
     },
     {
@@ -50654,12 +50654,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/db-33-by-air-music-technology",
-      "versionVerifiedAt": "2026-10-01T05:25:06Z",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-10-07T05:22:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "User has 1.4.1 installed but no public source corroborates 1.4.1."
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists 1.4.0 as the current tested build (first-hand, 2026-10-06); corroborates prior KVR-only oracle"
       ]
     },
     {
@@ -120534,12 +120534,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/mini-grand-by-air-music-technology",
-      "versionVerifiedAt": "2026-10-01T05:25:06Z",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-10-07T05:22:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "User has 1.4.1 installed but no public source corroborates 1.4.1."
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists 1.4.0 as the current tested build (first-hand, 2026-10-06); corroborates prior KVR-only oracle"
       ]
     },
     {
@@ -177461,13 +177461,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "2.2.0",
-      "versionSourceUrl": "https://support.airmusictech.com/support/solutions/articles/69000801954-air-music-tech-windows-11-compatibility",
-      "versionVerifiedAt": "2026-10-01T02:37:25Z",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-10-07T05:22:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "AIR first-party compatibility tables agree on 'Structure 2.2.0': Win11 article 69000801954, macOS 14 Sonoma 69000845644, macOS 15 Sequoia 69000859822 (all re-fetched 2026-09-30, HTTP 200)",
-        "85 not 92: compatibility-table cells, not a release-notes heading"
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists 2.2.0 as the current tested build (first-hand, 2026-10-06); corroborates prior KVR-only oracle"
       ]
     },
     {
@@ -220332,12 +220331,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "2.4.0",
-      "versionSourceUrl": "https://www.kvraudio.com/marketplace/xpand-2-by-air-music-technology",
-      "versionVerifiedAt": "2026-10-01T05:25:06Z",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-10-07T05:22:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "User has 2.4.1 installed but no public source corroborates 2.4.1."
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists 2.4.0 as the current tested build (first-hand, 2026-10-06); corroborates prior KVR-only oracle"
       ]
     },
     {
