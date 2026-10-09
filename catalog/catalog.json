@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-08T13:00:39Z",
+  "updatedAt": "2026-10-09T00:59:57Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -5196,6 +5196,14 @@
       "versionExample": "1.27",
       "changelogUrl": "https://wavearts.com/support/version-history/dialog-2-04",
       "notes": "Wave Arts, Inc., Arlington MA; pro-audio mixing/post-production plugins since the 1990s. Current line: Power Suite 7 + Master Restoration Suite 6 bundles and 16 individual plugins (v7 core line, v6 restoration, v2 Dialog/Tube Saturator 2, Convology XT, 3 free tools). Downloads page lists latest installers but no public version numbers.",
+      "popularityTier": 2
+    },
+    {
+      "id": "wavemachine-labs",
+      "name": "WaveMachine Labs",
+      "updatePortalUrl": "https://drumagog.com/",
+      "websiteUrl": "https://drumagog.com/",
+      "notes": "Added 2026-10-08 as a deliberate tier-1 exception at Luke's direction (mixer-relevant; Drumagog 6 launch).",
       "popularityTier": 2
     },
     {
@@ -43548,14 +43556,13 @@
       "notes": "Cinesamples catalog (site/Plugin Boutique); expand10 soundset.",
       "identityKind": "soundset",
       "popularityTier": 1,
-      "latestVersion": "2.0",
-      "versionSourceUrl": "https://vi-control.net/community/threads/cinestrings-core-2-0-is-now-live-on-native-access-old-thread.137010/",
-      "versionVerifiedAt": "2026-09-16T02:51:50Z",
+      "latestVersion": "2.0.0",
+      "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
+      "versionVerifiedAt": "2026-10-08T17:52:52Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "announcement from official vendor rep",
-        "exact product identity stated"
+        "First-party vendor compatibility chart, exact product row @90; corroborates VI-Control forum-sourced 2.0 @70"
       ]
     },
     {
@@ -58712,6 +58719,31 @@
       ]
     },
     {
+      "id": "wavemachine-labs--drumagog-6",
+      "manufacturerId": "wavemachine-labs",
+      "name": "Drumagog 6",
+      "matchPatterns": [
+        "Drumagog 6"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "notes": "Editions: Pro $99 / Platinum $199 (Kit mode is Platinum-only). Drumagog 5 and ReStem 2 owners: half-price upgrade through Oct 30, 2026. Free 7-day trial with all Platinum features. Vendor markets it as 'Drumagog 6' with no published sub-version/build number.",
+      "popularityTier": 2,
+      "latestVersion": "6",
+      "versionSourceUrl": "https://drumagog.com/",
+      "versionVerifiedAt": "2026-10-09T00:55:15Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party vendor page https://drumagog.com/ read 2026-10-08 (HTTP 200)",
+        "page schema lists 'Drumagog 6 Pro' price $99.00 and 'Drumagog 6 Platinum' price $199.00",
+        "vendor markets it as 'Drumagog 6' with no published sub-version; '6' is the finest verifiable string"
+      ]
+    },
+    {
       "id": "image-line--drumaxx",
       "manufacturerId": "image-line",
       "name": "Drumaxx",
@@ -62000,6 +62032,28 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "eastwest--installation-center",
+      "manufacturerId": "eastwest",
+      "name": "EastWest Installation Center",
+      "matchPatterns": [
+        "EastWest Installation Center",
+        "Installation Center"
+      ],
+      "updatePortalUrl": "https://www.soundsonline.com/support/updates",
+      "notes": "hub_app row added 2026-10-08 (chip-2026-10-08-1018): first-party updates page publishes an \"EastWest Installation Center 2.0\" section (IC 2.0 / Sept 22, 2026 — full UI redesign). macOS bundle id not yet first-hand — leave identity_keys empty until install-scan evidence exists; name match via match_patterns + vendor prefix in the interim. Do NOT infer installer build versions from PDF covers (manual-canary rule).",
+      "identityKind": "hub_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "2.0",
+      "versionSourceUrl": "https://www.soundsonline.com/support/updates",
+      "versionVerifiedAt": "2026-10-08T18:00:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party vendor release-notes page, section heading names the version and date"
+      ]
     },
     {
       "id": "acustica-audio--ebony",
