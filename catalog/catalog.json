@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-09T13:00:12Z",
+  "updatedAt": "2026-10-10T13:00:28Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -30694,13 +30694,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.1",
+      "latestVersion": "6.1.3",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-10-09T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Bitwig download page: one installer for all Studio editions Bitwig Studio 6.1.1"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -30790,14 +30790,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.1",
+      "latestVersion": "6.1.3",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-09-25T20:30:19Z",
+      "versionVerifiedAt": "2026-10-09T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor download page states Bitwig Studio 6.1.1 explicitly",
-        "Bitwig notes one installer covers all editions, so the version applies to the flagship row"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -30824,13 +30823,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.1",
+      "latestVersion": "6.1.3",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-10-09T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Bitwig download page: one installer for all Studio editions Bitwig Studio 6.1.1"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -30857,13 +30856,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.1",
+      "latestVersion": "6.1.3",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-10-09T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Bitwig download page: one installer for all Studio editions Bitwig Studio 6.1.1"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
