@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-10T13:00:28Z",
+  "updatedAt": "2026-10-11T13:00:51Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -103914,6 +103914,58 @@
       "versionConfidenceReasons": [
         "KVR product page Product Version (crowdsourced)"
       ]
+    },
+    {
+      "id": "softube--limit-go",
+      "manufacturerId": "softube",
+      "name": "Limit Go",
+      "matchPatterns": [
+        "Limit Go"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.softube.com/installers",
+      "notes": "New product launched 2026-10-07 (bundled inside Limit Pro; also sold separately). First-hand evidence: softube.com/plug-ins/limit-pro + RN 2.6.45 article, verified live 2026-10-10 22:18 chip. Seed row: no exact version published — do NOT invent.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "requiresIlok": true,
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
+      "id": "softube--limit-pro",
+      "manufacturerId": "softube",
+      "name": "Limit Pro",
+      "matchPatterns": [
+        "Limit Pro"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.softube.com/installers",
+      "notes": "New product launched 2026-10-07 per Softube 2.6.45 RN article (first-hand: softube.com/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026) + product page softube.com/plug-ins/limit-pro, verified live 2026-10-10 22:18 chip). Included with Flow Mastering & Complete Suite. Seed row: no vendor-published exact version yet — do NOT invent; 2.6.45 is the RN train version, not the plugin version (hub-version stamping banned).",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "requiresIlok": true,
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "leapwing-audio--limitone",
