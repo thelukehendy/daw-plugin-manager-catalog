@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-11T13:00:51Z",
+  "updatedAt": "2026-10-11T19:52:08Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -21749,12 +21749,13 @@
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
       "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-17T15:37:23Z",
+      "versionVerifiedAt": "2026-10-11T19:48:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 40,
       "versionConfidenceReasons": [
-        "waves.com release notes (fetched 2026-09-17): new plugin launched in the V17 generation (Atlas Reverb 2026-07-27; TRACT Measure/SPL Meter 2026-09-07)",
-        "per-product exact build unconfirmed; value is the uniform V17 build corroborated on KVR (re-verified 2026-09-17) - generation-consistent only"
+        "waves.com release notes 2026-10-05: Atlas Reverb feature update (Width knob, Decay/Pre-Delay lock, global preset system) published AFTER this version's 2026-09-17 verification",
+        "entry prints no dotted build; stored 17.1.42.50 cannot be the build shipping the Width knob",
+        "known-stale: do not invent 17.1.4x; falsifier is a public Atlas build dated >= 2026-10-05"
       ]
     },
     {
@@ -23397,6 +23398,18 @@
           }
         ]
       },
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
+      "id": "antares--autotune-go",
+      "manufacturerId": "antares",
+      "name": "AutoTune Go",
+      "matchPatterns": [
+        "AutoTune Go"
+      ],
+      "notes": "Free streamlined edition of AutoTune, built into FL Studio; distributed through FL Cloud Plugins; FL Studio-only, cannot be used in another DAW. No version published by vendor.",
+      "isFreeware": true,
       "appleSilicon": "native",
       "popularityTier": 1
     },
@@ -161594,7 +161607,18 @@
       "portalApp": "PA Installation Manager",
       "requiresIlok": true,
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.18.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/installer/fileinfo.json",
+      "versionVerifiedAt": "2026-10-11T19:48:07Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "first-party PA installer manifest re-fetched 2026-10-11 (HTTP 200)",
+        "7 plugin records (AAX/AU/VST2/VST3 x mac64u2/win64) agree on 1.18.1 for spl_vitalizer_mk2-t packages",
+        "manifest explicitly notes 'Version info in package header (1.0.0) does not match file version info (1.18.1)'",
+        "records dated 2024-05-08; MK2-T final, MK3-T stays on its own 1.0.0 train"
+      ]
     },
     {
       "id": "plugin-alliance--spl-vitalizer-mk3-t",
@@ -193541,32 +193565,6 @@
       ]
     },
     {
-      "id": "izotope--tonal-balance-control",
-      "manufacturerId": "izotope",
-      "name": "Tonal Balance Control",
-      "matchPatterns": [
-        "Tonal Balance Control"
-      ],
-      "formats": [
-        "VST",
-        "VST3",
-        "AU",
-        "AAX"
-      ],
-      "updatePortalUrl": "https://www.izotope.com/en/account.html",
-      "notes": "KVR product https://www.kvraudio.com/product/tonal-balance-control-by-izotope",
-      "appleSilicon": "mixed",
-      "popularityTier": 1,
-      "latestVersion": "3.2.0",
-      "versionSourceUrl": "https://www.izotope.com/pages/release-notes/tonal-balance-control",
-      "versionVerifiedAt": "2026-09-29T17:28:06Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
-      "versionConfidenceReasons": [
-        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 3.2.0 matches stored 3.2.0; verified_at refreshed"
-      ]
-    },
-    {
       "id": "izotope--tonal-balance-control-2",
       "manufacturerId": "izotope",
       "name": "Tonal Balance Control 2",
@@ -193581,7 +193579,11 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.izotope.com/pages/release-notes/tonal-balance-control",
       "notes": "Seed catalog entry. Refresh remote catalog for live latest versions.",
+      "generation": "2",
+      "updateClass": "paid_upgrade",
+      "successorPluginId": "izotope--tonal-balance-control",
       "portalApp": "iZotope Product Portal",
+      "notesForUser": "Tonal Balance Control 3 is a paid upgrade ($99 upgrade SKU); this 2.10.0 is the final free 2.x.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.10.0",
@@ -193591,6 +193593,34 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 2.10.0 matches stored 2.10.0; verified_at refreshed"
+      ]
+    },
+    {
+      "id": "izotope--tonal-balance-control",
+      "manufacturerId": "izotope",
+      "name": "Tonal Balance Control 3",
+      "matchPatterns": [
+        "Tonal Balance Control"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.izotope.com/en/account.html",
+      "notes": "KVR product https://www.kvraudio.com/product/tonal-balance-control-by-izotope",
+      "generation": "3",
+      "predecessorPluginId": "izotope--tonal-balance-control-2",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "3.2.0",
+      "versionSourceUrl": "https://www.izotope.com/pages/release-notes/tonal-balance-control",
+      "versionVerifiedAt": "2026-09-29T17:28:06Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "iZotope freshness re-check 2026-09-29 (attempt-2 retry): official vendor oracle top entry 3.2.0 matches stored 3.2.0; verified_at refreshed"
       ]
     },
     {
