@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-11T19:52:08Z",
+  "updatedAt": "2026-10-11T20:01:50Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -19369,7 +19369,15 @@
       "notesForUser": "Eventide Anthology XI is a multi-plugin anthology bundle — no single plugin installer semver.",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.7.14",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Anthology%20XI",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Eventide downloads page"
+      ]
     },
     {
       "id": "eventide--anthology-xii",
@@ -19396,7 +19404,15 @@
       "notesForUser": "Eventide Anthology XII is a multi-plugin anthology bundle — no single plugin installer semver.",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.5.8",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Anthology%20XII",
+      "versionVerifiedAt": "2026-09-29T19:15:40Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Eventide downloads page, Mac==Win RN heads"
+      ]
     },
     {
       "id": "puremagnetik--antoka-robotic-annihilator",
@@ -41490,7 +41506,15 @@
       ],
       "notes": "GarageBand edition.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "3.0.3",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "hornet--channelstrip-mk2",
@@ -45174,7 +45198,15 @@
       "notesForUser": "Eventide bundle (Clockworks Bundle).",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.3.8",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Clockworks%20Bundle",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Eventide downloads page, Mac==Win"
+      ]
     },
     {
       "id": "nembrini-audio--clon-minotaur-transparent-overdrive",
@@ -50691,7 +50723,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "avid--dc-distortion",
@@ -52525,7 +52565,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "wave-alchemy--dawn",
@@ -64820,7 +64868,15 @@
       "notesForUser": "Eventide bundle (Elevate Mastering Bundle).",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.14.4",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Elevate%20Mastering%20Bundle",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Eventide downloads page"
+      ]
     },
     {
       "id": "avid--eleven-lite",
@@ -78970,7 +79026,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "goodhertz--suite",
@@ -84719,7 +84783,15 @@
       "notes": "Spitfire Shopify catalog; expand11 soundset.",
       "identityKind": "soundset",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.0.3",
+      "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/14470431-hearth-hollow-folk-accordion-changelogs",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Spitfire support changelog article"
+      ]
     },
     {
       "id": "spitfire-audio--hearth-and-hollow-folk-voices",
@@ -90038,7 +90110,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.17",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "oas--bljustice-hue",
@@ -92994,12 +93074,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/infinity-bass-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'infinity-bass': latestWindowsVersion == latestMacOsVersion == 1.1.2.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -93020,12 +93102,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.13.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/infinity-eq-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'infinity-eq': latestWindowsVersion == latestMacOsVersion == 2.0.13.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -97079,7 +97163,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "oas--gnuoyohes-key-detect",
@@ -102741,13 +102833,15 @@
       "portalApp": "UA Connect",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0",
-      "versionSourceUrl": "https://help.uaudio.com/hc/en-us/articles/360041532452-LUNA-Release-Notes",
-      "versionVerifiedAt": "2026-09-16T05:51:18Z",
+      "latestVersion": "3.1.0",
+      "versionSourceUrl": "https://help.uaudio.com/api/v2/help_center/en-us/articles/360041532452.json",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "[\"Official vendor release notes headline LUNA 3.0 with a 2026-09-14 date\", \"Major-version bump of the same LUNA DAW product; previous 2.0.5 superseded\"]"
+        "first-party UA help-center RN article re-fetched 2026-10-11",
+        "top heading 'LUNA 3.1.0 - September 30, 2026' (Volt Gen 2 remote, Chords ruler)",
+        "article edited_at 2026-10-02T23:03:26Z; token check alone would not catch this"
       ]
     },
     {
@@ -103952,7 +104046,17 @@
       },
       "requiresIlok": true,
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.6.45",
+      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-party Softube RN page re-fetched 2026-10-11",
+        "'Release Notes for version 2.6.45 (Released on October 7th, 2026)'",
+        "'New product: Limit Go' listed in the 2.6.45 notes; 2.6.45 is the launch version"
+      ]
     },
     {
       "id": "softube--limit-pro",
@@ -103978,7 +104082,17 @@
       },
       "requiresIlok": true,
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.6.45",
+      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "first-party Softube RN page re-fetched 2026-10-11",
+        "'Release Notes for version 2.6.45 (Released on October 7th, 2026)'",
+        "'New product: Limit Pro' listed in the 2.6.45 notes; 2.6.45 is the launch version"
+      ]
     },
     {
       "id": "leapwing-audio--limitone",
@@ -107798,7 +107912,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "blue-cat-audio--mb-5-dynamix",
@@ -107864,7 +107986,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--mbparallel1",
@@ -107876,7 +108006,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--mbparallel2",
@@ -107888,7 +108026,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--mbparallel3-4",
@@ -107902,7 +108048,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--mbsi",
@@ -107914,7 +108068,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "meldaproduction--mbandpass",
@@ -109335,7 +109497,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "analog-obsession--merica",
@@ -110144,7 +110314,15 @@
       "generation": "4",
       "predecessorPluginId": "metric-halo--dirty-delay-v3",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--haloverb-v3",
@@ -110235,7 +110413,15 @@
       "generation": "4",
       "predecessorPluginId": "metric-halo--multiband-dynamics-v3",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--multiband-expander-v3",
@@ -110275,7 +110461,15 @@
       "generation": "4",
       "predecessorPluginId": "metric-halo--multiband-expander-v3",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--precision-deesser-v3",
@@ -110315,7 +110509,15 @@
       "generation": "4",
       "predecessorPluginId": "metric-halo--precision-deesser-v3",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--sonic-eq-v4",
@@ -110329,7 +110531,15 @@
       "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--supergate-v4",
@@ -110343,7 +110553,15 @@
       "notes": "Production Bundle v4 product; v4 license generation (paid upgrade from v3).",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--transientcontrol-v3",
@@ -111603,12 +111821,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.18.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/mo-tt-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'mott': latestWindowsVersion == latestMacOsVersion == 1.1.18.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -118788,12 +119008,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/metapitch-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'metapitch': latestWindowsVersion == latestMacOsVersion == 1.1.2.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -124818,12 +125040,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.6",
-      "versionSourceUrl": "https://www.kvraudio.com/product/murda-melodies-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'murda-melodies': latestWindowsVersion == latestMacOsVersion == 1.1.6 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -159457,7 +159681,15 @@
       "notesForUser": "Rotary SD-147 hub-walled / no KVR page — left unknown_other pending public installer receipt.",
       "identityKind": "unknown_other",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.0.7.0",
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Slate public installer API, Win==Mac"
+      ]
     },
     {
       "id": "avid--roto-speaker",
@@ -161693,7 +161925,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "acustica-audio--sq3-squid-3",
@@ -171263,7 +171503,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "uvi--soul-bass",
@@ -173106,7 +173354,15 @@
       ],
       "notes": "Audio analysis suite.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.2.3",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "metric-halo--spectrafoo-standard",
@@ -173117,7 +173373,15 @@
       ],
       "notes": "Audio analysis suite.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.2.3",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "steinberg--spectralayers",
@@ -174571,7 +174835,15 @@
       "notesForUser": "Spitfire library/expansion — public verwin is year-only; no clean installer semver for latestVersion.",
       "identityKind": "expansion",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.4.7",
+      "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/12942625-spitfire-symphony-orchestra-changelogs",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Spitfire support changelog article"
+      ]
     },
     {
       "id": "spitfire-audio--spitfire-symphony-orchestra-discover",
@@ -175797,12 +176069,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.13.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/stellar-echo-sd-201-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'stellar-echo': latestWindowsVersion == latestMacOsVersion == 1.0.13.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -176632,12 +176906,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/storch-filter-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'storch-filter': latestWindowsVersion == latestMacOsVersion == 1.1.1 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -179373,12 +179649,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/submerge-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'submerge': latestWindowsVersion == latestMacOsVersion == 1.1.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -187985,7 +188263,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "audified--tnt-voice-executor",
@@ -205977,7 +206263,15 @@
       "notesForUser": "Eventide bundle (Ultra Essentials Bundle).",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.9.8",
+      "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Ultra%20Essentials%20Bundle",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Eventide downloads page, Mac==Win"
+      ]
     },
     {
       "id": "applied-acoustics--ultra-pads-for-ultra-analog",
@@ -208877,12 +209171,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/virtual-buss-compressors-vbc-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'vbc': latestWindowsVersion == latestMacOsVersion == 1.4.2.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -211988,12 +212284,14 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/verbsuite-classics-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
+        "slug 'vsc': latestWindowsVersion == latestMacOsVersion == 1.2.3.0 after hash-strip",
+        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
       ]
     },
     {
@@ -214030,7 +214328,15 @@
       ],
       "notes": "Seeded 2026-09-29 from Slate public deployables API (app.completeaccess.audio); API id vms. No versionless history.",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.3.3.1",
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor Slate public installer API, Win==Mac"
+      ]
     },
     {
       "id": "slate-digital--virtual-mix-rack",
@@ -218739,7 +219045,15 @@
       "notes": "v4 license generation product.",
       "generation": "4",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "4.1.12",
+      "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
+      "versionVerifiedAt": "2026-09-30T20:45:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor downloads page lists per-product versions explicitly"
+      ]
     },
     {
       "id": "uvi--whoosh-fx",
@@ -226400,7 +226714,15 @@
       "requiresIlok": true,
       "identityKind": "discontinued",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "finalVersion": "1.17.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/installer/fileinfo.json",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor PA fileinfo.json, all formats agree"
+      ]
     },
     {
       "id": "plugin-alliance--elysia-alpha-mix",
@@ -226426,7 +226748,15 @@
       "requiresIlok": true,
       "identityKind": "discontinued",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "finalVersion": "1.17.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/installer/fileinfo.json",
+      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 95,
+      "versionConfidenceReasons": [
+        "Vendor PA fileinfo.json"
+      ]
     },
     {
       "id": "plugin-alliance--elysia-karacter-master",
