@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-11T23:38:50Z",
+  "updatedAt": "2026-10-12T13:01:38Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -26221,13 +26221,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/balance-by-zynaptiq",
-      "versionVerifiedAt": "2026-09-10T08:04:28Z",
+      "versionSourceUrl": "https://zynaptiq.com/balance/balance-downloads/",
+      "versionVerifiedAt": "2026-10-12T05:25:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR-only public version",
-        "not listed on zynaptiq Current Versions"
+        "Vendor downloads-page changelog names 1.0.2 (Apr 5 2025) as latest; corroborates previous KVR-only @60 observation"
       ]
     },
     {
@@ -145575,13 +145574,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/pitchmap_colors-by-zynaptiq",
-      "versionVerifiedAt": "2026-09-10T08:04:28Z",
+      "versionSourceUrl": "http://zynaptiq.com/pitchmapcolors/pitchmapcolors-downloads/",
+      "versionVerifiedAt": "2026-10-12T05:25:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR-only public version",
-        "distinct SKU not on Current Versions table"
+        "Vendor downloads-page changelog names 1.0.1 (Jun 1 2024) as latest; corroborates previous KVR-only @60 observation"
       ]
     },
     {
@@ -150130,13 +150128,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/punch-by-zynaptiq",
-      "versionVerifiedAt": "2026-09-10T08:04:28Z",
+      "versionSourceUrl": "https://zynaptiq.com/punch/punch-downloads/",
+      "versionVerifiedAt": "2026-10-12T05:25:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR-only public version",
-        "not listed on zynaptiq Current Versions"
+        "Vendor downloads-page changelog names 1.1.1 (Apr 1 2025) as latest; corroborates previous KVR-only @60 observation"
       ]
     },
     {
