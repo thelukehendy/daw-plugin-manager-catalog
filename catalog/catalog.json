@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-14T13:02:18Z",
+  "updatedAt": "2026-10-15T13:00:44Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -7762,7 +7762,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/hype",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:31:35",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -7789,7 +7789,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5",
       "versionSourceUrl": "https://www.adptraudio.com/products/metric-ab/",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 19:04:05",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -7816,7 +7816,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/sculpt",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:33:24",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -7843,7 +7843,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/streamliner",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:38:24",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -7870,7 +7870,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/utopia",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:39:33",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -12186,7 +12186,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -15649,7 +15649,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -17982,7 +17982,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/amplitube-for-android-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -18349,7 +18349,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9",
       "versionSourceUrl": "https://www.voxengo.com/product/anspec/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -21908,7 +21908,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -25634,7 +25634,7 @@
       "popularityTier": 1,
       "latestVersion": "2.7",
       "versionSourceUrl": "https://www.voxengo.com/product/bms/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -26146,7 +26146,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -28543,7 +28543,7 @@
       "popularityTier": 1,
       "latestVersion": "2.14",
       "versionSourceUrl": "https://www.voxengo.com/product/beeper/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -35254,7 +35254,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -36111,7 +36111,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -41424,7 +41424,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -41459,7 +41459,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -41523,7 +41523,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -45464,7 +45464,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -48761,7 +48761,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -48796,7 +48796,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -50548,7 +50548,7 @@
       "popularityTier": 1,
       "latestVersion": "3.16",
       "versionSourceUrl": "https://www.voxengo.com/product/curveeq/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -51935,7 +51935,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/tantra-2",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:41:46",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -51962,7 +51962,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/thorn",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:42:51",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -54043,7 +54043,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -54102,7 +54102,7 @@
       "popularityTier": 1,
       "latestVersion": "1.14",
       "versionSourceUrl": "https://www.voxengo.com/product/deftcompressor/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -55967,7 +55967,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -57337,7 +57337,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -58246,7 +58246,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -58281,7 +58281,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -65987,7 +65987,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -66022,7 +66022,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -66057,7 +66057,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -84349,7 +84349,7 @@
       "popularityTier": 1,
       "latestVersion": "2.12",
       "versionSourceUrl": "https://www.voxengo.com/product/harmonieq/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -94984,14 +94984,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/intensity-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "latestVersion": "1.4.1",
+      "versionSourceUrl": "https://www.zynaptiq.com/intensity/intensity-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:07:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "Zynaptiq downloads page changelog + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -97789,7 +97788,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/wavesurfer",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:45:27",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -98325,7 +98324,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/tape-face",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:48:22",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -100386,6 +100385,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.spitfireaudio.com/en-us/account/login?return_url=%2Faccount",
+      "notes": "Sunset 2026-10-31 per Spitfire support article 12247087 (verified 2026-10-14). 2026-09-28 verdict File 4 accepted the note but it was never written; repaired 2026-10-14.",
       "identityKeys": {
         "bundleIds": [
           "com.spitfireaudio.Labs"
@@ -100398,6 +100398,7 @@
         ]
       },
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire is sunsetting LABS and LABS+ on 31 October 2026. After that date there will be no new content, updates, or fixes, but your installed copy keeps working.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.7.29",
@@ -101408,6 +101409,30 @@
       "versionConfidence": 85,
       "versionConfidenceReasons": [
         "KVR product page with exact-product attribution"
+      ]
+    },
+    {
+      "id": "zynaptiq--loud",
+      "manufacturerId": "zynaptiq",
+      "name": "LOUD",
+      "matchPatterns": [
+        "Zynaptiq LOUD"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "notesForUser": "Zynaptiq's new loudness plugin, released September 2026. Match pattern is manufacturer-qualified to avoid collision with Airwindows Loud; bundle-ID refinement pending.",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.zynaptiq.com/loud/loud-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:08:39Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Zynaptiq downloads page: Change Log Version 1.0.0 September 25th 2026 + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -103632,7 +103657,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/chop-shop",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:50:18",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -104035,7 +104060,7 @@
       "popularityTier": 1,
       "latestVersion": "2.12",
       "versionSourceUrl": "https://www.voxengo.com/product/latencydelay/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -113794,7 +113819,7 @@
       "popularityTier": 1,
       "latestVersion": "3.13",
       "versionSourceUrl": "https://www.voxengo.com/product/msed/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -117302,7 +117327,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/the-oven",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:51:58",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -122964,7 +122989,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/vac-attack",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:53:43",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -124885,14 +124910,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/morph-3-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.2.0",
-      "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "latestVersion": "3.2.1",
+      "versionSourceUrl": "https://www.zynaptiq.com/morph/morph-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:07:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "Zynaptiq downloads page changelog + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -124912,14 +124936,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/morph-3-pro-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.2.0",
-      "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "latestVersion": "3.2.1",
+      "versionSourceUrl": "https://www.zynaptiq.com/morph/morph-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:07:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "Zynaptiq downloads page changelog + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -126134,13 +126157,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.2",
+      "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Music%20Mouse",
-      "versionVerifiedAt": "2026-09-10T08:14:23Z",
+      "versionVerifiedAt": "2026-10-14T18:31:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Eventide official downloads page per-product version"
+        "vendor downloads page, first-hand, installer table lists 1.0.3 for both Mac and Windows"
       ]
     },
     {
@@ -132615,7 +132638,7 @@
       "popularityTier": 1,
       "latestVersion": "2.14",
       "versionSourceUrl": "https://www.voxengo.com/product/oldskoolverb/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -132657,7 +132680,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7",
       "versionSourceUrl": "https://www.voxengo.com/product/oldskoolverbplus/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -135414,7 +135437,7 @@
       "popularityTier": 1,
       "latestVersion": "1.19",
       "versionSourceUrl": "https://www.voxengo.com/product/overtonegeq/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -142455,7 +142478,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8",
       "versionSourceUrl": "https://www.voxengo.com/product/peakbuster/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -145691,14 +145714,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/pitchshift-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.1",
-      "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "latestVersion": "1.2.2",
+      "versionSourceUrl": "https://www.zynaptiq.com/pitchshift/pitchshift-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:07:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "Zynaptiq downloads page changelog + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -145718,14 +145740,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/pitchshift-pro-by-zynaptiq",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2.1",
-      "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "latestVersion": "1.2.2",
+      "versionSourceUrl": "https://www.zynaptiq.com/pitchshift/pitchshift-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:07:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "Zynaptiq downloads page changelog + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -147838,13 +147859,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.7.13",
+      "latestVersion": "3.11.7",
       "versionSourceUrl": "https://www.eventideaudio.com/downloads/?product=Precision%20Time%20Align",
-      "versionVerifiedAt": "2026-10-12T17:41:50Z",
+      "versionVerifiedAt": "2026-10-15T02:07:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Product's own downloads page Release Notes section tops at 3.7.13 with full 3.7.x trail (3.2.1-3.7.13); 3.11.4 appears nowhere on this product's page — H910-class framework misattribution corrected 2026-09-21"
+        "Eventide downloads page installer labels (non-legacy), first-hand curl 2026-10-14: Mac/Win installers both 3.11.7; 3.7.13 is the [LEGACY] PTA+Delay combo"
       ]
     },
     {
@@ -161978,7 +161999,7 @@
       "popularityTier": 1,
       "latestVersion": "3.24",
       "versionSourceUrl": "https://www.voxengo.com/product/span/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -166725,7 +166746,7 @@
       "popularityTier": 1,
       "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_double_ms/schoeps_double_ms_manual.pdf",
-      "versionVerifiedAt": "2026-09-10T07:24:44Z",
+      "versionVerifiedAt": "2026-10-14 19:01:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -166753,7 +166774,7 @@
       "popularityTier": 1,
       "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_mono_upmix/schoeps_mono_upmix_manual.pdf",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 19:02:11",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -166783,7 +166804,7 @@
       "popularityTier": 1,
       "finalVersion": "1.2.0",
       "versionSourceUrl": "https://files.plugin-alliance.com/products/schoeps_mono_upmix/schoeps_mono_upmix_manual.pdf",
-      "versionVerifiedAt": "2026-09-10T07:24:44Z",
+      "versionVerifiedAt": "2026-10-14 19:02:11",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -168644,7 +168665,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6",
       "versionSourceUrl": "https://www.voxengo.com/product/shinechilla/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -169099,7 +169120,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4",
       "versionSourceUrl": "https://www.voxengo.com/product/shumovick/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -173099,7 +173120,7 @@
       "popularityTier": 1,
       "latestVersion": "1.15",
       "versionSourceUrl": "https://www.voxengo.com/product/sounddelay/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -177535,7 +177556,7 @@
       "popularityTier": 1,
       "latestVersion": "2.19",
       "versionSourceUrl": "https://www.voxengo.com/product/stereotouch/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -184943,7 +184964,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-csr-classik-studio-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -184964,7 +184985,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-csr-hall-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -184985,7 +185006,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-csr-inverse-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185006,7 +185027,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-csr-plate-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185027,7 +185048,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-csr-room-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185069,7 +185090,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-classic-clipper-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185090,7 +185111,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-classic-compressor-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185111,7 +185132,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-classic-equalizer-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185132,7 +185153,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-classic-multi-band-limiter-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185153,7 +185174,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-comprexxor-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185174,7 +185195,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-de-esser-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185195,7 +185216,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-delay-lab-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185216,7 +185237,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-dual-spring-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185237,7 +185258,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-dyna-mu-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185258,7 +185279,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eq-73-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185279,7 +185300,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eq-81-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185300,7 +185321,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eq-pa-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185321,7 +185342,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eq-pb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185342,7 +185363,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eq-pg-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185363,7 +185384,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-eqp-1a-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185384,7 +185405,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-equal-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185405,7 +185426,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-fame-studio-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185426,7 +185447,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-filter-fusion-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185447,7 +185468,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-joe-chiccarelli-vocal-strip-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185468,7 +185489,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-linear-phase-equalizer-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185489,7 +185510,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-lo-fi-punch-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185510,7 +185531,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-lurssen-mastering-eq-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185531,7 +185552,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-master-eq-432-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185552,7 +185573,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-master-match-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185573,7 +185594,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-mic-room-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185594,7 +185615,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-one-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185615,7 +185636,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-opto-compressor-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185636,7 +185657,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-precision-comp-limiter-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185657,7 +185678,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-prism-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185678,7 +185699,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-pusher-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185699,7 +185720,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-quad-compressor-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185720,7 +185741,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-quad-imager-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185741,7 +185762,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-quad-limiter-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185762,7 +185783,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-quad-saturator-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185804,7 +185825,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-saturator-x-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185825,7 +185846,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-space-delay-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185846,7 +185867,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-stealth-limiter-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185867,7 +185888,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-sunset-sound-studio-reverb-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185888,7 +185909,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tascam-388-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185909,7 +185930,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tascam-porta-one-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185930,7 +185951,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-teac-a-3340s-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185951,7 +185972,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-teac-a-6100-mkii-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185972,7 +185993,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tape-echo-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -185993,7 +186014,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tape-machine-24-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -186014,7 +186035,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tape-machine-440-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -186035,7 +186056,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tape-machine-80-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -186056,7 +186077,7 @@
       "popularityTier": 1,
       "latestVersion": "6.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-tape-machine-99-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-15 05:20:03",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -188886,7 +188907,7 @@
       "popularityTier": 1,
       "latestVersion": "1.16",
       "versionSourceUrl": "https://www.voxengo.com/product/teote/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -191701,7 +191722,7 @@
       "popularityTier": 1,
       "latestVersion": "2.9",
       "versionSourceUrl": "https://www.voxengo.com/product/tempodelay/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -194239,14 +194260,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/three-body-technology-cenozoix-compressor-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.3",
+      "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/cenozoix-compressor",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14T19:23:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "twin of plugin-alliance--tbtech-cenozoix-compressor (same product, alternate universe id)",
-        "installer-filename on official manufacturer domain (88)"
+        "vendor dated changelog top, first-hand live render; stored 1.1.3 installer label absent from current page and absent from the dated changelog series"
       ]
     },
     {
@@ -198999,7 +199019,7 @@
       "popularityTier": 1,
       "latestVersion": "2.16",
       "versionSourceUrl": "https://www.voxengo.com/product/tubeamp/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -199258,7 +199278,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -199322,7 +199342,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.41",
       "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionVerifiedAt": "2026-10-14 18:29:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -208373,7 +208393,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.6",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/byome",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 18:59:33",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -218153,7 +218173,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.wedgeforce.com/hydro-synth-download/",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 19:05:58",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -218203,7 +218223,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/keemun-synth-download/",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 19:06:56",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -218282,6 +218302,30 @@
       "versionConfidenceReasons": [
         "twin of wedgeforce--wedge-force-oolong (same product, alternate universe id)",
         "page-confirmed manufacturer downloadsPage with clear version (92)"
+      ]
+    },
+    {
+      "id": "zynaptiq--wide",
+      "manufacturerId": "zynaptiq",
+      "name": "WIDE",
+      "matchPatterns": [
+        "Zynaptiq WIDE"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "notesForUser": "Zynaptiq's new stereo width plugin, released September 2026.",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.zynaptiq.com/wide/wide-downloads/",
+      "versionVerifiedAt": "2026-10-15T02:08:39Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Zynaptiq downloads page: Change Log Version 1.0.0 September 25th 2026 + Current Version Number line, first-hand 2026-10-14"
       ]
     },
     {
@@ -219650,14 +219694,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "17.0.4",
+      "latestVersion": "17.1.2",
       "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-26T15:36:37Z",
+      "versionVerifiedAt": "2026-10-15T00:55:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party vendor release notes name the version",
-        "vendor downloads page lists the same version for Mac/Windows"
+        "Waves release-notes page, first-hand 2026-10-14: 'October 11, 2026 — Waves Central v17.1.2'"
       ]
     },
     {
@@ -219694,8 +219737,10 @@
         "Waves Waves Online Mastering"
       ],
       "updatePortalUrl": "https://www.waves.com/downloads/central",
-      "notes": "KVR product https://www.kvraudio.com/product/waves-online-mastering-by-waves",
+      "notes": "Reclassified 2026-10-14: Waves FAQ states \"a web service, not a plugin\" (verified first-hand). Removed from version-freshness lanes.",
       "portalApp": "Waves Central",
+      "notesForUser": "Waves Online Mastering is a web-based mastering service, not a plugin. There is nothing to install or update.",
+      "identityKind": "service",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.0",
@@ -219919,7 +219964,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.wedgeforce.com/updates-matcha/",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-14 19:07:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
