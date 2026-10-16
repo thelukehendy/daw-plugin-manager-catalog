@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-15T13:00:44Z",
+  "updatedAt": "2026-10-16T13:01:53Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -8253,7 +8253,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/11816026-air-studios-reverb-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:44:08Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -10379,7 +10379,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.7",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/15921364-abbey-road-orchestra-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:43:29Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -11554,7 +11554,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.9",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13560438-abbey-road-two-iconic-strings-professional-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:43:54Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -15126,14 +15126,11 @@
       "popularityTier": 1,
       "latestVersion": "1.01b",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Alloy_v1_01b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "iZotope_Alloy_v1_01b.dmg",
-        "matches KVR 1.01b",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -15155,14 +15152,11 @@
       "popularityTier": 1,
       "latestVersion": "2.04",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Alloy_v2_04.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "iZotope_Alloy_v2_04.dmg",
-        "matches KVR 2.04",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -23074,11 +23068,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/aurora",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -24117,7 +24111,7 @@
       "popularityTier": 1,
       "latestVersion": "2.9.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/b-3-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -24904,15 +24898,14 @@
       "portalApp": "Spitfire account",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.12.14",
+      "latestVersion": "1.14.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13169200-bbc-symphony-orchestra-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-17T16:18:47Z",
+      "versionVerifiedAt": "2026-10-16T05:23:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Spitfire official Help Centre changelog",
-        "shared BBCSO plugin binary across editions - manufacturer instructs joint repair",
-        "matches KVR 1.12.14 for Professional edition"
+        "Official Spitfire Help Centre plugin changelog, top entry",
+        "Shared BBCSO plugin binary: BBCSO Professional row verified 1.14.0 on same oracle"
       ]
     },
     {
@@ -24927,15 +24920,14 @@
       "portalApp": "Spitfire account",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.12.14",
+      "latestVersion": "1.14.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13169200-bbc-symphony-orchestra-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-17T16:18:47Z",
+      "versionVerifiedAt": "2026-10-16T05:23:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Spitfire official Help Centre changelog",
-        "shared BBCSO plugin binary across editions - manufacturer instructs joint repair",
-        "matches KVR 1.12.14 for Professional edition"
+        "Official Spitfire Help Centre plugin changelog, top entry",
+        "Shared BBCSO plugin binary: BBCSO Professional row verified 1.14.0 on same oracle"
       ]
     },
     {
@@ -24981,15 +24973,14 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.12.14",
+      "latestVersion": "1.14.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13169200-bbc-symphony-orchestra-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-17T16:18:47Z",
+      "versionVerifiedAt": "2026-10-16T05:23:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Spitfire official Help Centre changelog",
-        "shared BBCSO plugin binary across editions - manufacturer instructs joint repair",
-        "matches KVR 1.12.14 for Professional edition"
+        "Official Spitfire Help Centre plugin changelog, top entry",
+        "Shared BBCSO plugin binary: BBCSO Professional row verified 1.14.0 on same oracle"
       ]
     },
     {
@@ -25004,15 +24995,14 @@
       "portalApp": "Spitfire account",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.12.14",
+      "latestVersion": "1.14.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13169200-bbc-symphony-orchestra-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-17T16:18:47Z",
+      "versionVerifiedAt": "2026-10-16T05:23:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Spitfire official Help Centre changelog",
-        "shared BBCSO plugin binary across editions - manufacturer instructs joint repair",
-        "matches KVR 1.12.14 for Professional edition"
+        "Official Spitfire Help Centre plugin changelog, top entry",
+        "Shared BBCSO plugin binary: BBCSO Professional row verified 1.14.0 on same oracle"
       ]
     },
     {
@@ -25027,15 +25017,14 @@
       "portalApp": "Spitfire account",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.12.14",
+      "latestVersion": "1.14.0",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13169200-bbc-symphony-orchestra-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-16T05:22:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support changelog on support.spitfireaudio.com",
-        "BBCSO Plugin v1.12.14 matches KVR",
-        "matches prior KVR current 1.12.14"
+        "Official Spitfire Help Centre plugin changelog, top entry",
+        "Plugin-binary version (not library product 1.7.0); matches catalog's plugin-version tracking"
       ]
     },
     {
@@ -34869,14 +34858,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_BreakTweaker_v1_02cn.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "BreakTweaker_v1_02cn → 1.0.2",
-        "matches KVR 1.0.2",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -40289,11 +40275,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/cascadia",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -48947,7 +48933,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9",
       "versionSourceUrl": "https://www.voxengo.com/product/correlometer/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -51428,14 +51414,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_DDLY_Dynamic_Delay_v1_01bn.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "DDLY_v1_01bn → 1.0.1",
-        "matches KVR 1.0.1",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -55264,11 +55247,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/dialogue-match",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -59510,7 +59493,7 @@
       "popularityTier": 1,
       "latestVersion": "1.12",
       "versionSourceUrl": "https://www.voxengo.com/product/drumformer/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -65416,7 +65399,7 @@
       "popularityTier": 1,
       "latestVersion": "5.8",
       "versionSourceUrl": "https://www.voxengo.com/product/elephant/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -66988,11 +66971,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/equinox",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -67009,7 +66992,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.2",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/12579081-eric-whitacre-choir-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:43:54Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -68164,14 +68147,11 @@
       "popularityTier": 1,
       "latestVersion": "5.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Excalibur_v5_0_0_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Excalibur_v5_0_0_b",
-        "matches KVR 5.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68472,14 +68452,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Nimbus_v3_0_0_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Nimbus_v3_0_0_b",
-        "matches KVR 3.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68501,14 +68478,11 @@
       "popularityTier": 1,
       "latestVersion": "6.0.1",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_PhoenixVerb_v6_0_1_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "PhoenixVerb_v6_0_1",
-        "matches KVR 6.0.1",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68530,14 +68504,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.1",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_PhoenixVerbSurround_v4_0_1_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "PhoenixVerbSurround_v4_0_1",
-        "matches KVR 4.0.1",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68559,14 +68530,11 @@
       "popularityTier": 1,
       "latestVersion": "6.0.1",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_R2_v6_0_1_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "R2_v6_0_1",
-        "matches KVR 6.0.1",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68588,14 +68556,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.1",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_R2Surround_v4_0_1_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "R2Surround_v4_0_1",
-        "matches KVR 4.0.1",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68617,14 +68582,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_R4_v3_0_0_b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "R4_v3_0_0_b",
-        "matches KVR 3.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68646,14 +68608,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Stratus_v3_2_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Stratus_v3_2_0",
-        "matches KVR 3.2.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68675,14 +68634,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Stratus3D_v3_2_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Stratus3D_v3_2_0",
-        "matches KVR 3.2.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68704,14 +68660,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Symphony_v3_2_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Symphony_v3_2_0",
-        "matches KVR 3.2.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -68733,14 +68686,11 @@
       "popularityTier": 1,
       "latestVersion": "3.2.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Symphony3D_v3_2_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:54Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Symphony3D_v3_2_0",
-        "matches KVR 3.2.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -73392,7 +73342,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73437,7 +73387,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73467,7 +73417,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73497,7 +73447,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73527,7 +73477,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73557,7 +73507,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -73587,7 +73537,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -79007,7 +78957,7 @@
       "popularityTier": 1,
       "latestVersion": "3.19",
       "versionSourceUrl": "https://www.voxengo.com/product/glisseq/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -98160,7 +98110,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.2c",
       "versionSourceUrl": "https://updates.spectrasonics.net/checkForUpdates.php?Keyscape+version=1.5.2c",
-      "versionVerifiedAt": "2026-09-10T07:23:58Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -98351,7 +98301,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/xtcomp",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-15T17:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -105240,7 +105190,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/69-series",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-15T17:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -105381,7 +105331,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/902-de-esser",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-15T17:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -105419,7 +105369,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/254e",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-15T17:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -118657,7 +118607,7 @@
       "popularityTier": 1,
       "latestVersion": "2.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/matrix-12-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -123126,14 +123076,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Mobius_Filter_v1_00an.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Mobius_Filter_v1_00an → 1.0",
-        "matches KVR 1.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -124017,7 +123964,7 @@
       "popularityTier": 1,
       "latestVersion": "3.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/modular-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -128138,12 +128085,11 @@
       "popularityTier": 1,
       "latestVersion": "4.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/nectar",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "manufacturer release-notes page Version heading",
-        "Nectar 4 RN 4.2.0"
+        "manual accept via CLI (confidence=95)"
       ]
     },
     {
@@ -128165,7 +128111,7 @@
       "popularityTier": 1,
       "latestVersion": "4.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/nectar",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128192,7 +128138,7 @@
       "popularityTier": 1,
       "latestVersion": "4.2.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/nectar",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128434,7 +128380,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/neoverb",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128757,14 +128703,11 @@
       "popularityTier": 1,
       "latestVersion": "3.10.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Neutron_Advanced_v3_10_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer v3_10_0",
-        "manufacturer newer than KVR 3.8.1",
-        "accept manufacturer 3.10.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -128818,14 +128761,11 @@
       "popularityTier": 1,
       "latestVersion": "3.10.0",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Neutron_v3_10_0.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer v3_10_0",
-        "manufacturer newer than KVR 3.8.1",
-        "accept manufacturer 3.10.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -136577,12 +136517,11 @@
       "popularityTier": 1,
       "latestVersion": "12.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "manufacturer release-notes page Version heading",
-        "Ozone 12 Standard RN 12.1.0 (suite)"
+        "manual accept via CLI (confidence=95)"
       ]
     },
     {
@@ -136604,7 +136543,7 @@
       "popularityTier": 1,
       "latestVersion": "12.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -136631,7 +136570,7 @@
       "popularityTier": 1,
       "latestVersion": "12.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -137170,11 +137109,11 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/ozone-imager",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -138385,7 +138324,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_2Meters/OSX/PSP_2Meters_2.1.0.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138414,7 +138353,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.6",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-608md",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -138471,7 +138410,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.1",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_84/OSX/native/PSP_84_1.6.1.dmg",
-      "versionVerifiedAt": "2026-09-10T10:18:36Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138501,7 +138440,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_85/OSX/native/PSP_85_1.1.1.dmg",
-      "versionVerifiedAt": "2026-09-10T10:18:36Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138531,7 +138470,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_B-Scanner/OSX/PSP_B-Scanner_1.0.0.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138647,7 +138586,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Chamber/OSX/PSP_Chamber_1.0.1_macOS.dmg",
-      "versionVerifiedAt": "2026-09-10T09:07:26Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138676,7 +138615,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_ClassicQ/OSX/PSP_ClassicQ_1.8.0.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -138841,7 +138780,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.4",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-e27",
-      "versionVerifiedAt": "2026-09-10T08:52:28Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -138869,7 +138808,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-easyverb",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -138898,7 +138837,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5.3",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-echo",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -138927,7 +138866,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-fetpressor",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -138976,7 +138915,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-flare",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139008,7 +138947,7 @@
       "popularityTier": 1,
       "finalVersion": "1.0.3",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_HertzRider/OSX/PSP_HertzRider_1.0.3.dmg",
-      "versionVerifiedAt": "2026-09-10T09:06:33Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139036,7 +138975,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.4",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-hertzrider2",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139065,7 +139004,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-impressor",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139117,7 +139056,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-infinistrip",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139149,7 +139088,7 @@
       "popularityTier": 1,
       "finalVersion": "1.0.3",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Lotary/OSX/PSP_Lotary_1.0.3.dmg",
-      "versionVerifiedAt": "2026-09-10T09:06:33Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139177,7 +139116,7 @@
       "popularityTier": 1,
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-lotary2",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139206,7 +139145,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-levelizer",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139255,7 +139194,7 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-mastercomp",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139287,7 +139226,7 @@
       "popularityTier": 1,
       "finalVersion": "1.5.2",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_MasterQ/OSX/native/PSP_MasterQ_1.5.2.dmg",
-      "versionVerifiedAt": "2026-09-10T09:06:33Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139315,7 +139254,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.5",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-masterq2",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139342,15 +139281,13 @@
       "notes": "Listed on pspaudioware.com public product pages",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.8.0",
-      "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_McQ/OSX/PSP_McQ_1.8.0.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "latestVersion": "1.9.0",
+      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-mcq",
+      "versionVerifiedAt": "2026-10-16T05:26:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP CDN installer filename matches KVR 1.8.0",
-        "CDN URL https://download-eu2.pspaudioware.net/PSP_McQ/OSX/PSP_McQ_1.8.0.dmg",
-        "Mac OSX .dmg HEAD 200"
+        "Manufacturer official product page with exact versioned installer filenames"
       ]
     },
     {
@@ -139374,7 +139311,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-metra",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139403,7 +139340,7 @@
       "popularityTier": 1,
       "latestVersion": "2.11.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-microwarmer",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139585,7 +139522,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_N2O/OSX/PSP_N2O_1.0.1.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139615,7 +139552,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.4",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Neon_HR/OSX/native/PSP_Neon_2.0.4.dmg",
-      "versionVerifiedAt": "2026-09-10T10:18:36Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139645,7 +139582,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Nexcellence/OSX/PSP_Nexcellence_1.0.2.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139674,7 +139611,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Nitro/OSX/native/PSP_Nitro_1.1.2.dmg",
-      "versionVerifiedAt": "2026-09-10T10:18:36Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139704,7 +139641,7 @@
       "popularityTier": 1,
       "latestVersion": "1.8.5",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-nobleq",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139733,7 +139670,7 @@
       "popularityTier": 1,
       "latestVersion": "1.10.3",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_PianoVerb/OSX/native/PSP_PianoVerb_1.10.3_macOS.dmg",
-      "versionVerifiedAt": "2026-09-10T10:18:36Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139763,7 +139700,7 @@
       "popularityTier": 1,
       "latestVersion": "2.5.5",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-pianoverb2",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139817,15 +139754,13 @@
       "notes": "Listed on pspaudioware.com public product pages",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.8.0",
-      "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_RetroQ/OSX/PSP_RetroQ_1.8.0.dmg",
-      "versionVerifiedAt": "2026-09-10T10:15:24Z",
+      "latestVersion": "1.9.0",
+      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-retroq",
+      "versionVerifiedAt": "2026-10-16T05:26:29Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP CDN installer filename matches KVR 1.8.0",
-        "CDN URL https://download-eu2.pspaudioware.net/PSP_RetroQ/OSX/PSP_RetroQ_1.8.0.dmg",
-        "Mac OSX .dmg HEAD 200"
+        "Manufacturer official product page with exact versioned installer filenames"
       ]
     },
     {
@@ -139869,7 +139804,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-saturator",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -139918,7 +139853,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_Spector/OSX/PSP_Spector_1.0.1_macOS.dmg",
-      "versionVerifiedAt": "2026-09-10T09:07:26Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -139947,7 +139882,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-springbox",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140045,7 +139980,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-tilt-q",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140094,7 +140029,7 @@
       "popularityTier": 1,
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-triplemeter",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140123,7 +140058,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-twin-l",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140262,7 +140197,7 @@
       "popularityTier": 1,
       "latestVersion": "2.11.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-vintagewarmer2",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140291,7 +140226,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-wobbler",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140320,7 +140255,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-x-dither",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140349,7 +140284,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-xenon",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140407,7 +140342,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-auralcomp",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140465,7 +140400,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-oldtimer-me",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140494,7 +140429,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-oldtimermb",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140523,7 +140458,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-preqursor2",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140573,7 +140508,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_stepDelay/OSX/PSP_stepDelay_1.0.2_macOS.dmg",
-      "versionVerifiedAt": "2026-09-10T09:07:26Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -140600,14 +140535,13 @@
       "notes": "Listed on pspaudioware.com public product pages",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "2.0.0",
+      "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-stereoaligner2",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -140631,7 +140565,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://download-eu2.pspaudioware.net/PSP_stereoAnalyser2/OSX/PSP_stereoAnalyser2_2.0.2_macOS.dmg",
-      "versionVerifiedAt": "2026-09-10T09:07:26Z",
+      "versionVerifiedAt": "2026-10-16T05:26:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -140660,7 +140594,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-stereocontroller2",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140689,7 +140623,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-stompdelay",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -140718,7 +140652,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-stompfilter",
-      "versionVerifiedAt": "2026-09-10T08:01:44Z",
+      "versionVerifiedAt": "2026-10-15T17:31:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -144300,7 +144234,7 @@
       "popularityTier": 1,
       "latestVersion": "3.3.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/piano-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -145849,11 +145783,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/plasma",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer release notes page (official)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -154056,12 +153990,11 @@
       "popularityTier": 1,
       "latestVersion": "12.0.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-16T05:26:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "manufacturer release-notes page Version heading",
-        "RX 12 Standard RN 12.0.0"
+        "manual accept via CLI (confidence=95)"
       ]
     },
     {
@@ -154083,7 +154016,7 @@
       "popularityTier": 1,
       "latestVersion": "12.0.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -154110,7 +154043,7 @@
       "popularityTier": 1,
       "latestVersion": "12.0.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/rx-standard",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -155236,13 +155169,11 @@
       "popularityTier": 1,
       "latestVersion": "1.03a",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_RX_Loudness_Control_v1_03a.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer v1_03a",
-        "accept manufacturer filename over KVR 1.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -161596,7 +161527,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/sem-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -161795,13 +161726,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.2",
+      "latestVersion": "1.4.3",
       "versionSourceUrl": "https://www.orchestraltools.com/get-sine",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16T05:26:29Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Orchestral Tools public get-sine page shows version + installer filename"
+        "Manufacturer official page with exact versioned installer filenames"
       ]
     },
     {
@@ -171568,7 +171499,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.5",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/13561322-solar-plugin-changelogs",
-      "versionVerifiedAt": "2026-09-10T06:44:23Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -171893,7 +171824,7 @@
       "popularityTier": 1,
       "latestVersion": "2.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/solina-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -172397,7 +172328,7 @@
       "popularityTier": 1,
       "latestVersion": "3.16",
       "versionSourceUrl": "https://www.voxengo.com/product/soniformer/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -175003,14 +174934,11 @@
       "popularityTier": 1,
       "latestVersion": "1.14b",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_Spectron_v1_14b.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "Spectron_v1_14b",
-        "matches KVR 1.14b",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -176824,7 +176752,7 @@
       "popularityTier": 1,
       "latestVersion": "2.6.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/stage-73-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -180618,7 +180546,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/stutter-edit",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -180644,7 +180572,7 @@
       "popularityTier": 1,
       "latestVersion": "1.10.6d",
       "versionSourceUrl": "https://updates.spectrasonics.net/checkForUpdates.php?StylusRMX+version=1.10.6d",
-      "versionVerifiedAt": "2026-09-10T07:23:58Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -180902,7 +180830,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182745,7 +182673,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182789,7 +182717,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182818,7 +182746,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182847,7 +182775,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -182876,7 +182804,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -192662,7 +192590,7 @@
       "popularityTier": 1,
       "latestVersion": "1.10.5",
       "versionSourceUrl": "https://cytomic.com/",
-      "versionVerifiedAt": "2026-09-10T08:03:10Z",
+      "versionVerifiedAt": "2026-10-16 05:23:57",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -192822,7 +192750,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9.3",
       "versionSourceUrl": "https://cytomic.com/",
-      "versionVerifiedAt": "2026-09-10T08:03:09Z",
+      "versionVerifiedAt": "2026-10-16 05:23:57",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -193403,7 +193331,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://cytomic.com/",
-      "versionVerifiedAt": "2026-09-10T08:03:10Z",
+      "versionVerifiedAt": "2026-10-16 05:23:57",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -193604,14 +193532,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/The_T-Pain_Effect_v1_02.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "T-Pain_Effect_v1_02 → 1.0.2",
-        "matches KVR 1.0.2",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -209852,7 +209777,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -209897,7 +209822,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -209927,7 +209852,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -209957,7 +209882,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -209987,7 +209912,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210017,7 +209942,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210047,7 +209972,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210077,7 +210002,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210107,7 +210032,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210137,7 +210062,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210167,7 +210092,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210197,7 +210122,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210227,7 +210152,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -210257,7 +210182,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -211170,7 +211095,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/vea",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -211723,7 +211648,7 @@
       "popularityTier": 1,
       "latestVersion": "2.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/vox-continental-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215196,7 +215121,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215226,7 +215151,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215256,7 +215181,7 @@
       "popularityTier": 1,
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215286,7 +215211,7 @@
       "popularityTier": 1,
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215316,7 +215241,7 @@
       "popularityTier": 1,
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215392,7 +215317,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215422,7 +215347,7 @@
       "popularityTier": 1,
       "latestVersion": "2.5.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215452,7 +215377,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215482,7 +215407,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215512,7 +215437,7 @@
       "popularityTier": 1,
       "latestVersion": "2.5.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215558,7 +215483,7 @@
       "popularityTier": 1,
       "latestVersion": "2.5.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215588,7 +215513,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215618,7 +215543,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215668,7 +215593,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215713,7 +215638,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215743,7 +215668,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215793,7 +215718,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215823,7 +215748,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.0",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215853,7 +215778,7 @@
       "popularityTier": 1,
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-16 05:21:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -217013,14 +216938,11 @@
       "popularityTier": 1,
       "latestVersion": "2.7.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/vocalsynth",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "izotope.com VocalSynth 2 release notes",
-        "Version 2.7.0 released May 6, 2025",
-        "matches KVR 2.7.0",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -217973,7 +217895,7 @@
       "popularityTier": 1,
       "latestVersion": "2.23",
       "versionSourceUrl": "https://www.voxengo.com/product/voxformer/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -218296,7 +218218,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/oolong-synth-download/",
-      "versionVerifiedAt": "2026-09-10T08:40:23Z",
+      "versionVerifiedAt": "2026-10-15T17:30:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -221435,7 +221357,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/wurli-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-15T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -228800,13 +228722,11 @@
       "popularityTier": 1,
       "latestVersion": "1.73",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_iDrum_v1_73.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer v1_73",
-        "accept manufacturer filename over KVR 1.7.5",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -231252,14 +231172,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.2",
       "versionSourceUrl": "https://downloads.izotope.com/product_download/iZotope_pHATmatik_PRO_v1_52.dmg",
-      "versionVerifiedAt": "2026-09-10T09:15:55Z",
+      "versionVerifiedAt": "2026-10-16T05:26:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "izotope.com legacy products public installer",
-        "pHATmatik_PRO_v1_52 → 1.5.2",
-        "matches KVR 1.5.2",
-        "confidence raise 10"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
