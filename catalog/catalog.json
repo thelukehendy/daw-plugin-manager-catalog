@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-17T13:00:35Z",
+  "updatedAt": "2026-10-18T13:00:20Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -57433,17 +57433,19 @@
       "notes": "KVR product https://www.kvraudio.com/product/dorico-elements-by-steinberg",
       "generation": "6",
       "predecessorPluginId": "steinberg--dorico-elements-5",
+      "latestVersionMac": "6.2.31",
+      "latestVersionWindows": "6.2.30",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Elements).",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "6.2.30",
+      "latestVersion": "6.2.31",
       "versionSourceUrl": "https://o.steinberg.net/index.php?id=15422&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionVerifiedAt": "2026-10-18T05:23:54Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Steinberg Dorico 6.2.30 public installer exact match KVR"
+        "Steinberg official support download page: Dorico 6.2.31 installer (macOS 27 hotfix, updated 2026-09-29) vs Dorico 6.2.30 (macOS + Windows, updated 2026-06-03); one installer for all Dorico 6 versions so Pro/Elements share the build. Per-OS split per schema v9: Mac 6.2.31 / Win 6.2.30"
       ]
     },
     {
@@ -57524,17 +57526,19 @@
       "notes": "KVR product https://www.kvraudio.com/product/dorico-pro-by-steinberg",
       "generation": "6",
       "predecessorPluginId": "steinberg--dorico-pro-5",
+      "latestVersionMac": "6.2.31",
+      "latestVersionWindows": "6.2.30",
       "notesForUser": "Steinberg DAW/editor/hub (Dorico Pro).",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "6.2.30",
+      "latestVersion": "6.2.31",
       "versionSourceUrl": "https://o.steinberg.net/index.php?id=15422&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionVerifiedAt": "2026-10-18T05:23:54Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Steinberg Dorico 6.2.30 public installer exact match KVR"
+        "Steinberg official support download page: Dorico 6.2.31 installer (macOS 27 hotfix, updated 2026-09-29) vs Dorico 6.2.30 (macOS + Windows, updated 2026-06-03); one installer for all Dorico 6 versions so Pro/Elements share the build. Per-OS split per schema v9: Mac 6.2.31 / Win 6.2.30"
       ]
     },
     {
@@ -69919,13 +69923,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "26.1.6",
+      "latestVersion": "26.1.7",
       "versionSourceUrl": "https://www.image-line.com/fl-studio-download/",
-      "versionVerifiedAt": "2026-09-10T10:24:31Z",
+      "versionVerifiedAt": "2026-10-18T05:22:44Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Image-Line FL Studio download page documents Version 26.1.6 for Windows and macOS installers (build suffixes differ; marketing semver matches)"
+        "Image-Line official download page schema.org softwareVersion 26.1.7 (dateModified 2026-10-01); Win build 26.1.7.5653 / Mac build 26.1.7.5419 — marketing semver matches both OSes, build suffixes differ (same pattern as stored 26.1.6)"
       ]
     },
     {
@@ -69952,13 +69956,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "26.1.6",
+      "latestVersion": "26.1.7",
       "versionSourceUrl": "https://www.image-line.com/fl-studio-download/",
-      "versionVerifiedAt": "2026-09-10T10:24:31Z",
+      "versionVerifiedAt": "2026-10-18T05:22:44Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Image-Line FL Studio download page documents Version 26.1.6 for Windows and macOS installers (build suffixes differ; marketing semver matches)"
+        "Image-Line official download page schema.org softwareVersion 26.1.7 (dateModified 2026-10-01); Win build 26.1.7.5653 / Mac build 26.1.7.5419 — marketing semver matches both OSes, build suffixes differ (same pattern as stored 26.1.6)"
       ]
     },
     {
@@ -70019,14 +70023,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "26.1.6",
+      "latestVersion": "26.1.7",
       "versionSourceUrl": "https://www.image-line.com/fl-studio-download/",
-      "versionVerifiedAt": "2026-09-25T20:30:19Z",
+      "versionVerifiedAt": "2026-10-18T05:22:45Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 80,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor download page shows no version in text on re-fetch 2026-09-25",
-        "26.1.6 corroborated by one third-party software page"
+        "Image-Line official download page schema.org softwareVersion 26.1.7 (dateModified 2026-10-01); Win build 26.1.7.5653 / Mac build 26.1.7.5419 — marketing semver matches both OSes, build suffixes differ (same pattern as stored 26.1.6)"
       ]
     },
     {
@@ -70053,13 +70056,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "26.1.6",
+      "latestVersion": "26.1.7",
       "versionSourceUrl": "https://www.image-line.com/fl-studio-download/",
-      "versionVerifiedAt": "2026-09-10T10:24:31Z",
+      "versionVerifiedAt": "2026-10-18T05:22:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Image-Line FL Studio download page documents Version 26.1.6 for Windows and macOS installers (build suffixes differ; marketing semver matches)"
+        "Image-Line official download page schema.org softwareVersion 26.1.7 (dateModified 2026-10-01); Win build 26.1.7.5653 / Mac build 26.1.7.5419 — marketing semver matches both OSes, build suffixes differ (same pattern as stored 26.1.6)"
       ]
     },
     {
@@ -113173,16 +113176,15 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "17.10",
-      "versionSourceUrl": "https://www.meldaproduction.com/changes/",
-      "versionVerifiedAt": "2026-10-05T16:05:16Z",
+      "latestVersion": "03.00",
+      "versionSourceUrl": "https://www.meldaproduction.com/changes/?product=MPluginManager",
+      "versionVerifiedAt": "2026-10-17T17:27:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party Melda changelog top section is '17.10 changes' (2026-10-05)",
-        "zero occurrences of 17.10.01 anywhere on the changelog; no 4-segment version in Melda's history",
-        "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
-        "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
+        "Per-product MPluginManager changelog on meldaproduction.com tops at 03.00 changes (newest section, 02.31 below it)",
+        "Downloads page serves versioned installer MPluginManager_03_00_setup.exe with version=03.00",
+        "Replaces kernel-version contamination: 17.10 is the plugin kernel train, not the manager app version"
       ]
     },
     {
@@ -152535,14 +152537,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "7.80",
-      "versionSourceUrl": "https://reaper.fm/download.php",
-      "versionVerifiedAt": "2026-09-25T20:29:33Z",
+      "latestVersion": "7.82",
+      "versionSourceUrl": "https://www.reaper.fm/whatsnew.txt",
+      "versionVerifiedAt": "2026-10-17T17:26:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor download page, version explicit",
-        ""
+        "Official vendor changelog whatsnew.txt tops at v7.82 (October 4 2026)"
       ]
     },
     {
