@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-18T13:00:20Z",
+  "updatedAt": "2026-10-19T13:07:15Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -9205,13 +9205,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/arc-x-software-by-ik-multimedia",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "2.0.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/arc-x-software-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T09:34:40Z",
+      "latestVersion": "2.1.0",
+      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/ARCX/Install_ARC_X_%282.1.0%29.dmg",
+      "versionVerifiedAt": "2026-10-18T20:17:49Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page verwin 2.0.2 (Win=Mac)"
+        "IK g2 CDN artifact 206 (LM 2026-10-01); KVR cell corroborated by first-hand artifact."
       ]
     },
     {
@@ -11486,12 +11486,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -11977,7 +11977,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.5.6367",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/acid-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -12444,13 +12444,13 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.2",
-      "versionSourceUrl": "https://vstorrent.org/native-instruments-action-strikes-v1-2-kontakt/",
-      "versionVerifiedAt": "2026-09-16T16:28:35Z",
+      "latestVersion": "1.2.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/action-strikes-by-native-instruments",
+      "versionVerifiedAt": "2026-10-18T20:19:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 58,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Single weak mirror source; well below corroboration threshold — yellow"
+        "KVR product page verwin 1.2.0 (replaces banned vstorrent.org source; 09-25 action finally applied). Normalized 1.2 to 1.2.0."
       ]
     },
     {
@@ -12546,12 +12546,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -15677,12 +15677,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -15894,12 +15894,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -18039,12 +18039,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -19558,12 +19558,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.3.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Antresol/",
+      "versionVerifiedAt": "2026-10-18T17:25:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -21567,7 +21567,7 @@
         "Arturia Software Center"
       ],
       "updatePortalUrl": "https://www.arturia.com/",
-      "notes": "Current version not published by Arturia on their site; left versionless pending official evidence (2026-09-25). Bundle ID verified 2026-09-26 from a macOS crash report on Arturia's own forum (ASC 1.0.3).",
+      "notes": "Version 2.12.0.3157 listed on Arturia ASC support downloads page (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "com.Arturia.ArturiaSoftwareCenter"
@@ -21740,12 +21740,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.6.0",
-      "versionSourceUrl": "https://kits4beats.com/native-instruments-ashlight-1-6-0-kontakt/",
-      "versionVerifiedAt": "2026-09-16T16:28:35Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/ashlight-by-native-instruments",
+      "versionVerifiedAt": "2026-10-18T20:19:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 62,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Two weak mirrors only; below corroboration threshold — yellow"
+        "KVR product page verwin 1.6.0 (replaces banned kits4beats.com mirror)."
       ]
     },
     {
@@ -22551,7 +22551,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-brass",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22609,7 +22609,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-grand-piano",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22647,7 +22647,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-mallets",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22799,7 +22799,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-strings",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22865,7 +22865,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-voices",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22903,7 +22903,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-woodwinds",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -22941,7 +22941,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.6369",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-yangtze",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -23351,7 +23351,7 @@
       "matchPatterns": [
         "Auto-Tune Central"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "Version 2.0.3 verified via Antares electron updater manifest (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "com.Antares.AutoTuneCentral"
@@ -23365,13 +23365,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.0.2",
-      "versionSourceUrl": "https://www.antarestech.com/software-download",
-      "versionVerifiedAt": "2026-09-27T00:39:07Z",
-      "versionEvidence": "page-confirmed",
+      "latestVersion": "2.0.3",
+      "versionSourceUrl": "https://antares.sfo2.cdn.digitaloceanspaces.com/auto-tune-central/auto-update/mac/latest-mac.yml",
+      "versionVerifiedAt": "2026-10-18T20:18:02Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "first-party CDN href on download page"
+        "Electron updater manifest version 2.0.3 (releaseDate 2026-10-01); versioned artifacts on both OSes."
       ]
     },
     {
@@ -26533,12 +26533,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -26806,12 +26806,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -31988,12 +31988,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -35534,12 +35534,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -35571,7 +35571,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/buchla-easel-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -37283,7 +37283,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/cmi-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -37525,7 +37525,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/cp-70-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -38072,7 +38072,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/cz-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -40597,12 +40597,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -41473,12 +41473,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -41537,12 +41537,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -45160,7 +45160,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/clavinet-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -46853,13 +46853,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.21.0",
-      "versionSourceUrl": "https://support.slatedigital.com/hc/en-us/articles/4402433908755-Complete-Access-Hub-formerly-Slate-Digital-Connect-Release-Notes",
-      "versionVerifiedAt": "2026-10-08T05:21:20Z",
+      "latestVersion": "2.22.0",
+      "versionSourceUrl": "https://support.slatedigital.com/api/v2/help_center/en-us/articles/4402433908755.json",
+      "versionVerifiedAt": "2026-10-18T20:18:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "First-party vendor release-notes article on support.slatedigital.com with dated version heads; single version applies (no per-OS split listed)"
+        "Slate help-center release notes head 2.22.0 (October 15, 2026), edited_at 2026-10-15."
       ]
     },
     {
@@ -47305,12 +47305,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -47386,12 +47386,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -49761,12 +49761,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0",
-      "versionSourceUrl": "https://discuss.cakewalk.com/topic/83968-cableguys-updates-shaperbox-to-v355-and-midishaper-to-v161/",
-      "versionVerifiedAt": "2026-09-14T05:25:56Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/crushshaper-by-cableguys",
+      "versionVerifiedAt": "2026-10-19T05:26:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 78,
       "versionConfidenceReasons": [
-        "forum-mirrored-manufacturer-changelog-per-module-generation"
+        "KVR single-source corroboration; vendor publishes no per-Shaper versions"
       ]
     },
     {
@@ -50506,12 +50506,11 @@
       "popularityTier": 1,
       "latestVersion": "2.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/curve-2-cm-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T11:41:49Z",
+      "versionVerifiedAt": "2026-10-19T05:26:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (verwin) Win=Mac or single-platform",
-        "United Plugins / Cableguys CM public fill; manufacturer portal account-gated"
+        "KVR single source, CM edition; no vendor page"
       ]
     },
     {
@@ -50640,12 +50639,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -51132,13 +51131,13 @@
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/db-30-drum-butter-by-xln-audio",
       "popularityTier": 2,
-      "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "latestVersion": "1.1.3",
+      "versionSourceUrl": "https://www.xlnaudio.com/release_notes?filter=db-30",
+      "versionVerifiedAt": "2026-10-18T20:18:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "XLN Audio public release_notes table lists DB-30 Drum Butter | 1.1.1 | Jun 26, 2026"
+        "XLN release-notes table (filtered): DB-30 Drum Butter 1.1.3, Sep 22 2026."
       ]
     },
     {
@@ -52225,7 +52224,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/dx7-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -53638,12 +53637,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Decimort2/",
+      "versionVerifiedAt": "2026-10-18T17:25:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -54938,12 +54937,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Devastor2/",
+      "versionVerifiedAt": "2026-10-18T17:25:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -58302,12 +58301,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -58719,12 +58718,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0",
-      "versionSourceUrl": "https://discuss.cakewalk.com/topic/83968-cableguys-updates-shaperbox-to-v355-and-midishaper-to-v161/",
-      "versionVerifiedAt": "2026-09-14T05:25:56Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/driveshaper-by-cableguys",
+      "versionVerifiedAt": "2026-10-19T05:26:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 78,
       "versionConfidenceReasons": [
-        "forum-mirrored-manufacturer-changelog-per-module-generation"
+        "KVR single-source corroboration; vendor publishes no per-Shaper versions"
       ]
     },
     {
@@ -59357,12 +59356,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.2",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/Drumazon/Drumazon-1.6.2.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Drumazon/",
+      "versionVerifiedAt": "2026-10-18T17:25:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -59390,12 +59389,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.7",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Drumazon2/",
+      "versionVerifiedAt": "2026-10-18T17:25:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -62965,12 +62964,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -63285,12 +63284,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -63320,12 +63319,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -66149,7 +66148,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/emulator-ii-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -66928,12 +66927,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -69574,12 +69573,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -69609,12 +69608,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -71848,7 +71847,7 @@
       "popularityTier": 1,
       "latestVersion": "1.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/farfisa-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -72031,14 +72030,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://d16.pl/pub/manuals/D16%20-%20Compatibility%20Chart%20-%20Products%20History.pdf",
-      "versionVerifiedAt": "2026-09-14T17:36:57Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Fazortan/",
+      "versionVerifiedAt": "2026-10-18T17:25:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "official-manufacturer-compatibility-chart",
-        "corrects-successor-stamped-2.2.2",
-        "gen-1-final-version"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -72066,12 +72063,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Fazortan2/",
+      "versionVerifiedAt": "2026-10-18T17:25:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -72961,11 +72958,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-FilterShaper-XL-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:40:01Z",
+      "versionVerifiedAt": "2026-10-19T05:26:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Cableguys FilterShaper XL manual opens Manual v1.0.6 matching KVR"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -74123,12 +74120,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -74159,12 +74156,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -74188,12 +74185,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -74223,12 +74220,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -74612,12 +74609,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -74641,12 +74638,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -74953,12 +74950,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -76508,12 +76505,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.3.0",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:01Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Frontier/",
+      "versionVerifiedAt": "2026-10-18T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -79262,12 +79259,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:26Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Godfazer/",
+      "versionVerifiedAt": "2026-10-18T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -83566,11 +83563,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.12",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-HalfTime-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:40:01Z",
+      "versionVerifiedAt": "2026-10-19T05:26:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Cableguys HalfTime manual opens Manual v1.1.12 matching KVR"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -84440,12 +84437,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -85425,12 +85422,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -92117,14 +92114,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.1.15",
-      "versionSourceUrl": "https://www.ikmultimedia.com/demodownload/",
-      "versionVerifiedAt": "2026-09-16T15:20:31Z",
+      "latestVersion": "1.1.16",
+      "versionSourceUrl": "https://ikmultimedia.com/pages/ik-product-manager",
+      "versionVerifiedAt": "2026-10-18T20:18:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official IK Product Download page: v.1.1.15 for Windows/macOS, verified live 2026-09-16",
-        "2026-09-16 coordinator: version 1.1.15 re-verified live on official IK download page (v.1.1.15 Windows+macOS); source_url corrected from erroneous TONEX demodownload link."
+        "IK product page v.1.1.16; g2 artifact ik_product_manager_1.1.16.dmg 206 (LM 2026-10-07). Old demodownload oracle decayed (redirects)."
       ]
     },
     {
@@ -97948,12 +97944,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -99653,7 +99649,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/korg-ms-20-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -99728,12 +99724,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -104157,12 +104153,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -106047,12 +106043,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -107887,12 +107883,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.3",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/LuSH-101/LuSH-101-1.1.3.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/LuSH-101/",
+      "versionVerifiedAt": "2026-10-18T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -108054,12 +108050,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.5",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Lush2/",
+      "versionVerifiedAt": "2026-10-18T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -113161,7 +113157,7 @@
       "matchPatterns": [
         "MPluginManager"
       ],
-      "notes": "Vendor distinguishes installer version (02.30) from kernel version (17.10.01); installed detection reads the kernel line, so latestVersion tracks the kernel.",
+      "notes": "Vendor distinguishes installer version (currently 03.00) from kernel version (17.10.01); installed detection reads the kernel line. Installer number verified 2026-10-18.",
       "identityKeys": {
         "bundleIds": [
           "com.meldaproduction.MPluginManager"
@@ -117538,12 +117534,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -117567,12 +117563,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -117596,12 +117592,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -117625,12 +117621,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -117654,12 +117650,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -119151,7 +119147,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/mellotron-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -119941,12 +119937,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3.0",
-      "versionSourceUrl": "https://www.advanceduninstaller.com/MetaTune-2c48d36cceb65a76c06b18335435279e-application.htm",
-      "versionVerifiedAt": "2026-09-15T11:34:41Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/metatune-by-slate-digital",
+      "versionVerifiedAt": "2026-10-18T20:19:17Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "[\"KVR product page current-version field: 1.2.3.0 (fresh crawl)\", \"advanceduninstaller.com lists 1.2.3.0 as highest shipped Windows build\", \"No contradiction found publicly; official Mar-2025 announcement corroborates recency\"]"
+        "KVR product page verwin 1.2.3.0 (replaces advanceduninstaller.com aggregator; was @70, now at KVR ceiling)."
       ]
     },
     {
@@ -120000,12 +119996,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -121162,11 +121158,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.3",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-MidiShaper-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:40:01Z",
+      "versionVerifiedAt": "2026-10-19T05:26:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Cableguys MidiShaper manual opens Manual v1.6.3 matching KVR"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -122615,7 +122611,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6566",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/mix-drums",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:29:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -123206,12 +123202,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123241,12 +123237,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123305,12 +123301,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123334,12 +123330,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123369,12 +123365,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123433,12 +123429,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -123930,7 +123926,7 @@
       "popularityTier": 1,
       "latestVersion": "3.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/modular-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -124644,12 +124640,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-42-(released-on-august-21th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -126287,12 +126283,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -128415,12 +128411,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.2",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/Nepheton/Nepheton-1.6.2.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Nepheton/",
+      "versionVerifiedAt": "2026-10-18T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -128448,12 +128444,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.3",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Nepheton2/",
+      "versionVerifiedAt": "2026-10-18T17:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -129436,13 +129432,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.9",
-      "versionSourceUrl": "https://downloads.cableguys.com/Nicky-Romero-Kickstart-2-Manual.pdf?v=2.0.9",
-      "versionVerifiedAt": "2026-09-10T07:22:46Z",
+      "versionSourceUrl": "https://downloads.cableguys.com/Nicky-Romero-Kickstart-2-Manual.pdf",
+      "versionVerifiedAt": "2026-10-19T05:26:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official downloads.cableguys.com Kickstart 2 Manual PDF states Manual v2.0.9",
-        "matches KVR accepted 2.0.9"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -129737,12 +129732,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.2",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/Nithonat/Nithonat-1.6.2.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Nithonat/",
+      "versionVerifiedAt": "2026-10-18T17:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -129770,12 +129765,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Nithonat2/",
+      "versionVerifiedAt": "2026-10-18T17:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -131536,7 +131531,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/op-xa-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -131639,12 +131634,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -131760,12 +131755,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -135184,6 +135179,9 @@
         "Output Hub"
       ],
       "updatePortalUrl": "https://output.com",
+      "installedVersionRule": {
+        "compareSegments": 3
+      },
       "notesForUser": "Helper application for Output products. Not Arcade, Portal, or Co-Producer: hub builds must never be compared to instrument versions.",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
@@ -135304,12 +135302,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -141108,12 +141106,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -141143,12 +141141,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -141356,11 +141354,11 @@
       "popularityTier": 1,
       "latestVersion": "2.3.2",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-PanCake-2-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:40:41Z",
+      "versionVerifiedAt": "2026-10-19T05:26:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Cableguys PanCake 2 manual opens Manual v2.3.2 matching KVR"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -141825,12 +141823,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-42-(released-on-august-21th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -142092,12 +142090,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -142121,12 +142119,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -143899,12 +143897,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9.5",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/Phoscyon/Phoscyon-1.9.5.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Phoscyon/",
+      "versionVerifiedAt": "2026-10-18T17:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -143932,12 +143930,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.0",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Phoscyon2/",
+      "versionVerifiedAt": "2026-10-18T17:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -148698,18 +148696,10 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/dsm-v3",
       "notes": "KVR product https://www.kvraudio.com/product/proaudiodsp-dsm-by-plugin-alliance",
       "successorPluginId": "plugin-alliance--pro-audio-dsp-dsm-v3",
-      "notesForUser": "Version 3.7.0 is the latest we've seen, but we couldn't match it to a specific generation — the update status may not apply to your install.",
+      "notesForUser": "This product has been replaced by a newer generation sold separately. No version is tracked for the legacy edition.",
       "identityKind": "gen_ambiguous",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "3.7.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/dsm-v3",
-      "versionVerifiedAt": "2026-09-15T23:46:53Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
-      "versionConfidenceReasons": [
-        "Coordinator-verified: PA product page changelog snippet (plugin-alliance.com) 'Version 3.7.0 (Jan 22, 2026)'; second independent source lists 3.7.0 as a known DSM V3 version. Live PA page fetch failed this turn so capped at 90; URL /products/dsm-v3 confirms the row is the V3 SKU."
-      ]
+      "popularityTier": 1
     },
     {
       "id": "avid--procompressor",
@@ -149260,7 +149250,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/prophet-5-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -149298,7 +149288,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/prophet-vs-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -149634,12 +149624,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.0",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:01Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Pulsatec/",
+      "versionVerifiedAt": "2026-10-18T17:26:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -150220,12 +150210,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.8",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/PunchBox/PunchBox-1.0.8.dmg",
-      "versionVerifiedAt": "2026-09-10T06:18:12Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/PunchBox/",
+      "versionVerifiedAt": "2026-10-18T17:26:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -150253,12 +150243,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1.0",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/PunchBox2/",
+      "versionVerifiedAt": "2026-10-18T17:26:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -150701,7 +150691,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.6372",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/pure-lofi",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -152391,14 +152381,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.xlnaudio.com/login",
       "popularityTier": 2,
-      "latestVersion": "1.5.1",
+      "latestVersion": "1.5.2",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes?filter=rc-20",
-      "versionVerifiedAt": "2026-09-10T04:15:31Z",
+      "versionVerifiedAt": "2026-10-18T20:18:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "XLN release-notes table: RC-20 Retro Color 1.5.2, Oct 8 2026."
       ]
     },
     {
@@ -157080,14 +157069,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://d16.pl/pub/manuals/D16%20-%20Compatibility%20Chart%20-%20Products%20History.pdf",
-      "versionVerifiedAt": "2026-09-14T17:36:57Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Redoptor/",
+      "versionVerifiedAt": "2026-10-18T17:26:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "official-manufacturer-compatibility-chart",
-        "corrects-successor-stamped-2.2.2",
-        "gen-1-final-version"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -157115,12 +157102,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Redoptor2/",
+      "versionVerifiedAt": "2026-10-18T17:26:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -157287,12 +157274,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -157322,12 +157309,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -157974,12 +157961,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.5",
-      "versionSourceUrl": "https://d16.pl/repeater",
-      "versionVerifiedAt": "2026-10-01T05:25:16Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Repeater/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Playbook d16-group.md followed; semver from filename per playbook."
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -162795,17 +162782,10 @@
         ]
       },
       "portalApp": "PA Installation Manager",
+      "notesForUser": "This product has been replaced by a newer generation sold separately. No version is tracked for the legacy edition.",
       "requiresIlok": true,
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "1.11.3",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
-      "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "spl--spl-transient-designer",
@@ -163101,7 +163081,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/sq80-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -163387,16 +163367,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "latestVersionMac": "1.0.18",
+      "latestVersionWindows": "1.0.19",
       "portalApp": "SSL Download Manager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.18",
-      "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "latestVersion": "1.0.19",
+      "versionSourceUrl": "https://support.solidstatelogic.com/api/v2/help_center/en-gb/articles/4849510029085.json",
+      "versionVerifiedAt": "2026-10-18T20:18:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "dual-platform-mac-current"
+        "SSL Zendesk article: 'Acoustifier v1.0.18 (v1.0.19 Windows only)'. Per-OS split v9: Mac 1.0.18 / Win 1.0.19."
       ]
     },
     {
@@ -163507,7 +163489,7 @@
       "matchPatterns": [
         "SSL Download Manager"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "Version 1.6.10 verified via SSL electron updater manifest (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "com.solidstatelogic.downloadmanager"
@@ -169326,12 +169308,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.2",
-      "versionSourceUrl": "https://cdn.d16.pl/installers/Sigmund/Sigmund-1.1.2.dmg",
-      "versionVerifiedAt": "2026-09-10T06:16:41Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Sigmund/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -169359,12 +169341,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.0.1",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:27Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Sigmund2/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -170926,11 +170908,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-Snapback-Manual.pdf",
-      "versionVerifiedAt": "2026-09-10T06:40:01Z",
+      "versionVerifiedAt": "2026-10-19T05:26:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Cableguys Snapback manual opens Manual v1.1.2 matching KVR"
+        "First-party manual PDF cover carries current version stamp; exact match with stored"
       ]
     },
     {
@@ -171395,12 +171377,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -171424,12 +171406,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -171453,12 +171435,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -174007,12 +173989,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:28Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Spacerek/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -176357,12 +176339,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -176974,12 +176956,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-42-(released-on-august-21th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -177403,12 +177385,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:09Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -177652,15 +177634,8 @@
       ],
       "updatePortalUrl": "https://www.pluginboutique.com/login",
       "notes": "KVR product https://www.kvraudio.com/product/stereosavage-2-by-plugin-boutique",
-      "popularityTier": 3,
-      "latestVersion": "2.1.1",
-      "versionSourceUrl": "https://consolebang.com/threads/credland-audio-stereosavage-2-1-1.758268/",
-      "versionVerifiedAt": "2026-09-14T05:25:55Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "installer-listing-exact-product-version"
-      ]
+      "notesForUser": "No checkable version source found. The previous version number came from an unverifiable forum link and has been removed.",
+      "popularityTier": 3
     },
     {
       "id": "blue-cat-audio--stereoscope-multi",
@@ -177876,7 +177851,7 @@
         "Steven Slate Audio Center",
         "Slate Audio Center"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "Version 3.2.4 verified via vendor OS-parameterized download redirect (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "com.yme.slateaudio-center"
@@ -177887,15 +177862,17 @@
         "transforms": [],
         "compareSegments": 3
       },
+      "latestVersionMac": "3.2.4",
+      "latestVersionWindows": "3.2.3",
       "identityKind": "hub_app",
       "popularityTier": 2,
       "latestVersion": "3.2.4",
       "versionSourceUrl": "https://sac.stevenslateaudio.com/mac",
-      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionVerifiedAt": "2026-10-18T20:18:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor redirect lands on versioned dmg"
+        "OS-parameterized redirect: SAC_Mac_3.2.4.dmg vs SAC_Win_3.2.3.exe. Per-OS split v9: Mac 3.2.4 / Win 3.2.3."
       ]
     },
     {
@@ -181122,12 +181099,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -181157,12 +181134,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -181192,12 +181169,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -183313,7 +183290,7 @@
       "popularityTier": 1,
       "latestVersion": "2.13.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/synclavier-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -183756,7 +183733,7 @@
       "popularityTier": 1,
       "latestVersion": "1.9.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/synthi-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -183965,7 +183942,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.7.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/synthx-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -183999,14 +183976,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://d16.pl/pub/manuals/D16%20-%20Compatibility%20Chart%20-%20Products%20History.pdf",
-      "versionVerifiedAt": "2026-09-14T17:36:57Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Syntorus/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "official-manufacturer-compatibility-chart",
-        "corrects-successor-stamped-2.2.2",
-        "gen-1-final-version"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -184034,12 +184009,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:28Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Syntorus2/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -189713,13 +189688,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tonex-max-by-ik-multimedia",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.13.1",
-      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%281.13.1%29.dmg",
-      "versionVerifiedAt": "2026-10-04T20:54:32Z",
+      "latestVersion": "2.1.1",
+      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%282.1.1%29.dmg",
+      "versionVerifiedAt": "2026-10-18T20:17:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "['anonymous g2 CDN DMG+ZIP both HTTP 200, binary content types, 2026-10-04', 'neighbor controls: 1.13.0=200, 1.13.2/1.14.0=404', 'IK news item 15483: free update for all versions (SE, Full, MAX); Standard=Full per KVR naming']"
+        "IK g2 CDN artifact 206 (LM 2026-10-05); IK blog 'TONEX 2 Player version 2.1' free update for all TONEX users. Retracts 10-14 CDN hold (probe ladder skipped 2.1.x)."
       ]
     },
     {
@@ -189779,13 +189754,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tonex-se-by-ik-multimedia",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.13.1",
-      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%281.13.1%29.dmg",
-      "versionVerifiedAt": "2026-10-04T20:54:32Z",
+      "latestVersion": "2.1.1",
+      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%282.1.1%29.dmg",
+      "versionVerifiedAt": "2026-10-18T20:17:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "['anonymous g2 CDN DMG+ZIP both HTTP 200, binary content types, 2026-10-04', 'neighbor controls: 1.13.0=200, 1.13.2/1.14.0=404', 'IK news item 15483: free update for all versions (SE, Full, MAX); Standard=Full per KVR naming']"
+        "IK g2 CDN artifact 206 (LM 2026-10-05); IK blog 'TONEX 2 Player version 2.1' free update for all TONEX users. Retracts 10-14 CDN hold (probe ladder skipped 2.1.x)."
       ]
     },
     {
@@ -189807,13 +189782,13 @@
       "notesForUser": "The TONEX edition couldn't be matched to its own version listing.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.13.1",
-      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%281.13.1%29.dmg",
-      "versionVerifiedAt": "2026-10-04T20:54:32Z",
+      "latestVersion": "2.1.1",
+      "versionSourceUrl": "https://g2.ikmultimedia.com/plugins/TONEX_Standalone/Install_TONEX_%282.1.1%29.dmg",
+      "versionVerifiedAt": "2026-10-18T20:17:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "['anonymous g2 CDN DMG+ZIP both HTTP 200, binary content types, 2026-10-04', 'neighbor controls: 1.13.0=200, 1.13.2/1.14.0=404', 'IK news item 15483: free update for all versions (SE, Full, MAX); Standard=Full per KVR naming']"
+        "IK g2 CDN artifact 206 (LM 2026-10-05); IK blog 'TONEX 2 Player version 2.1' free update for all TONEX users. Retracts 10-14 CDN hold (probe ladder skipped 2.1.x)."
       ]
     },
     {
@@ -190146,12 +190121,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -190176,12 +190151,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -190240,12 +190215,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -190459,12 +190434,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -190707,12 +190682,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -190819,12 +190794,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -191537,12 +191512,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:28Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Tekturon/",
+      "versionVerifiedAt": "2026-10-18T17:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -192519,11 +192494,11 @@
       "popularityTier": 1,
       "latestVersion": "2.9.4",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T06:19:28Z",
+      "versionVerifiedAt": "2026-10-19T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -194186,13 +194161,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/three-body-technology-cenozoix-compressor-by-plugin-alliance",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.2",
+      "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/cenozoix-compressor",
-      "versionVerifiedAt": "2026-10-14T19:23:28Z",
+      "versionVerifiedAt": "2026-10-18T20:17:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "vendor dated changelog top, first-hand live render; stored 1.1.3 installer label absent from current page and absent from the dated changelog series"
+        "PA product-page metafield installer labels (Mac/Win 1.1.3) + both installer zips 200 (LM 2026-07-28); 1.1.2 zips 403. Restores 10-14 down-correction (reader artifact: labels live in metafield JSON, not rendered DOM)."
       ]
     },
     {
@@ -194775,12 +194750,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:10Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -196068,12 +196043,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -196233,12 +196208,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -196309,14 +196284,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.0",
-      "versionSourceUrl": "https://d16.pl/pub/manuals/D16%20-%20Compatibility%20Chart%20-%20Products%20History.pdf",
-      "versionVerifiedAt": "2026-09-14T17:36:57Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Toraverb/",
+      "versionVerifiedAt": "2026-10-18T17:26:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "official-manufacturer-compatibility-chart",
-        "corrects-successor-stamped-2.2.2",
-        "gen-1-final-version"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -196344,12 +196317,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.2",
-      "versionSourceUrl": "https://d16.pl/downloads",
-      "versionVerifiedAt": "2026-09-30T05:23:28Z",
+      "versionSourceUrl": "https://cdn.d16.pl/installers/Toraverb2/",
+      "versionVerifiedAt": "2026-10-18T17:26:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official manufacturer downloads page installer listing (88)"
+        "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
     },
     {
@@ -198354,12 +198327,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-19T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -198980,12 +198953,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -199168,12 +199141,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -199232,12 +199205,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -199296,12 +199269,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -206880,7 +206853,7 @@
       "matchPatterns": [
         "UVI Portal"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "Version 3.0.15 verified via UVI portal CDN path (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "net.uvi.UVIPortal"
@@ -209505,10 +209478,18 @@
       "matchPatterns": [
         "UnitedPluginsManager"
       ],
-      "notes": "United publishes the INSTALLER version 02.20 (unitedplugins.com/download, 2026-09-26), not a kernel version. Scan-detected 17.09 is the Melda-kernel-line string, not the installer number: do NOT compare 02.20 against 17.09 in either direction. latestVersion stays empty until installedVersionRule reads the same 02.20 installer string. Do not copy Melda kernel 17.10.01 onto this row.",
+      "notes": "United publishes the INSTALLER version (currently 03.00, unitedplugins.com/download, 2026-10-18), not a kernel version. Scan-detected 17.09/17.10 is the Melda-kernel-line string, not the installer number: do NOT compare the installer string against kernel versions in either direction. White-label train: UPM installer numbers track Melda MPluginManager installer numbers (published 17s apart).",
       "notesForUser": "United Plugins doesn't publish a checkable version number for its manager app.",
       "identityKind": "hub_app",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "03.00",
+      "versionSourceUrl": "https://unitedplugins.com/download/manager?platform=mac",
+      "versionVerifiedAt": "2026-10-18T20:18:33Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor redirect serves UnitedPluginsManager_03_00_setupmac.zip (LM 2026-10-14); white-label train with Melda MPM (17s apart) — installer number accepted as own, watch coupled to MPM."
+      ]
     },
     {
       "id": "steinberg--universal-sound-module",
@@ -210762,12 +210743,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -214535,12 +214516,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -216766,12 +216747,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -217073,12 +217054,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -217110,7 +217091,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.5.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/vocoder-v",
-      "versionVerifiedAt": "2026-09-10T06:30:59Z",
+      "versionVerifiedAt": "2026-10-19T05:33:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -218953,12 +218934,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -219403,12 +219384,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/waveshaper-cm-by-cableguys",
-      "versionVerifiedAt": "2026-09-10T11:41:49Z",
+      "versionVerifiedAt": "2026-10-19T05:26:44Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (verwin) Win=Mac or single-platform",
-        "United Plugins / Cableguys CM public fill; manufacturer portal account-gated"
+        "KVR single source, CM edition; no vendor page"
       ]
     },
     {
@@ -220247,12 +220227,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -220681,12 +220661,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-09-10T06:14:28Z",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
+      "versionVerifiedAt": "2026-10-18T17:23:13Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
       ]
     },
     {
@@ -221717,13 +221697,13 @@
       },
       "identityKind": "hub_app",
       "popularityTier": 2,
-      "latestVersion": "5.0.0",
+      "latestVersion": "5.0.2",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
-      "versionVerifiedAt": "2026-09-26T15:50:20Z",
+      "versionVerifiedAt": "2026-10-18T20:18:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor's own release-notes table lists 5.0.0 (2026-08-29) as newest"
+        "XLN release-notes table: XLN Online Installer 5.0.2, Oct 14 2026."
       ]
     },
     {
@@ -224280,11 +224260,11 @@
       "popularityTier": 1,
       "latestVersion": "2.9.4",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T06:19:28Z",
+      "versionVerifiedAt": "2026-10-19T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -224368,11 +224348,11 @@
       "popularityTier": 1,
       "latestVersion": "2.9.4",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-10T06:19:28Z",
+      "versionVerifiedAt": "2026-10-19T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -224988,6 +224968,8 @@
       ],
       "updatePortalUrl": "https://oeksound.com/downloads/",
       "notes": "KVR product https://www.kvraudio.com/product/bloom-by-oeksound",
+      "latestVersionMac": "1.1.2",
+      "latestVersionWindows": "1.1.3",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -224998,12 +224980,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.3",
-      "versionSourceUrl": "https://oeksound.com/changelog/bloom/",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionSourceUrl": "https://oeksound.com/downloads/",
+      "versionVerifiedAt": "2026-10-18T20:18:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "oeksound downloads page serves bloom_v1.1.2_macos.pkg + bloom_v1.1.3_win.exe; changelog 1.1.3 is Windows-only (GUI resize fix). Per-OS split v9: Mac 1.1.2 / Win 1.1.3. Applies accepted 09-25 action."
       ]
     },
     {
@@ -225226,13 +225208,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_boom-v3",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "latestVersion": "2.16.1",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_boom",
+      "versionVerifiedAt": "2026-10-18T20:18:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Legacy page changelog metafield tops at Version 2.16.1 (Oct 9, 2023); fileinfo legacy bx_boom packages 2.16.1 (LM 2024-05-07). Row was carrying successor V3 number (gen-collision F3). Source re-pointed to legacy page."
       ]
     },
     {
@@ -226346,13 +226328,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.plugin-alliance.com/products/bx_refinement-v3",
-      "versionVerifiedAt": "2026-09-27T18:20:00Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "latestVersion": "1.12.1",
+      "versionSourceUrl": "https://files.plugin-alliance.com/products/installer/fileinfo.json",
+      "versionVerifiedAt": "2026-10-18T20:18:59Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "fileinfo.json legacy bx_refinement packages 1.12.1 (LM 2024-05-07). Legacy slug redirects to -v3 page (no first-hand legacy page); manifest-grade. Row was carrying successor V3 number (gen-collision F3)."
       ]
     },
     {
@@ -228839,7 +228821,7 @@
         "iZotope Product Portal",
         "Product Portal"
       ],
-      "notes": "Vendor publishes no version number for this app (checked 2026-09-26; self-updating or versionless distribution). Row intentionally versionless.",
+      "notes": "Version 1.4.9 verified via iZotope download endpoint (2026-10-18). Previously noted as versionless; note corrected.",
       "identityKeys": {
         "bundleIds": [
           "com.izotope.productportal"
