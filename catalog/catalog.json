@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-19T13:07:15Z",
+  "updatedAt": "2026-10-20T13:01:22Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -12783,12 +12783,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -27938,12 +27937,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=BERSERK"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -27982,12 +27980,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=CHROMED"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28011,12 +28008,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=CIRCUITS"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28040,12 +28036,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=COZY"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28069,12 +28064,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=DOPE"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28098,12 +28092,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=EDEN"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28127,12 +28120,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=GLOOM"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28156,12 +28148,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=GLORY"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28185,12 +28176,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=HUSTLE"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28214,12 +28204,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=HYPE"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28243,12 +28232,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=IDOL"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28272,12 +28260,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=KANDY"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28301,12 +28288,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=KAYA"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28330,12 +28316,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=NEMESIS"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28359,12 +28344,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=RICO"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28388,12 +28372,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=VICE"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -28417,12 +28400,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-10-19T17:23:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "UJAM public Standalone Installers article lists Mac+Win same version",
-        "token=VOID"
+        "manufacturer Zendesk oracle page"
       ]
     },
     {
@@ -34080,13 +34062,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.8",
-      "versionSourceUrl": "https://www.voxengo.com/product/boogex/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoBoogex_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -37784,13 +37765,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.8",
-      "versionSourceUrl": "https://www.voxengo.com/product/crtivtapebus/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCRTIVTapeBus_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:28:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -49679,13 +49659,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.20",
-      "versionSourceUrl": "https://www.voxengo.com/product/crunchessor/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCrunchessor_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -53731,12 +53710,11 @@
       "popularityTier": 1,
       "latestVersion": "1.9.3",
       "versionSourceUrl": "https://www.voxengo.com/product/deconvolver/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-20T05:33:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "PDF oracle not reachable (404, not search-indexed); product page carries no version history — holding stored version, confidence unchanged"
       ]
     },
     {
@@ -60995,13 +60973,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.11",
-      "versionSourceUrl": "https://www.voxengo.com/product/ebuslim/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoEBusLim_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:27:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -69059,11 +69036,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/fast-compressor-by-focusrite",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.3.1 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -69105,11 +69082,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/fast-equaliser-by-focusrite",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.3.1 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -69171,11 +69148,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/fast-reveal-by-focusrite",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.3.1 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -101022,13 +100999,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.16",
-      "versionSourceUrl": "https://www.voxengo.com/product/lfmaxpunch/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoLFMaxPunch_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -107239,12 +107215,11 @@
       "popularityTier": 1,
       "latestVersion": "2.5.2",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -117504,13 +117479,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/marquiscomp/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoMarquisCompressor_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -117677,13 +117651,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.17",
-      "versionSourceUrl": "https://www.voxengo.com/product/marvelgeq/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoMarvelGEQ_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:26:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -126389,12 +126362,11 @@
       "popularityTier": 1,
       "latestVersion": "4.8.1",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -131803,13 +131775,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14",
-      "versionSourceUrl": "https://www.voxengo.com/product/ovc128/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoOVC128_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -133645,12 +133616,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.5",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -137661,13 +137631,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.13",
-      "versionSourceUrl": "https://www.voxengo.com/product/pha979/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPHA979_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:27:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -145555,12 +145524,11 @@
       "popularityTier": 1,
       "latestVersion": "1.9.2",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -147128,13 +147096,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.6",
-      "versionSourceUrl": "https://www.voxengo.com/product/psquasher/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPolysquasher_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:27:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -147558,13 +147525,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6",
-      "versionSourceUrl": "https://www.voxengo.com/product/powershaper/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPowershaper_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -148192,13 +148158,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/primeeq/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPrimeEQ_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -156919,12 +156884,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4",
       "versionSourceUrl": "https://www.voxengo.com/product/recorder/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-20T05:33:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo product page prints version in What's New history"
       ]
     },
     {
@@ -161959,13 +161923,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.25",
-      "versionSourceUrl": "https://www.voxengo.com/product/spanplus/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSPANPlus_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:27:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -165204,11 +165167,11 @@
       "popularityTier": 1,
       "latestVersion": "4.2.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-10-20T05:24:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page (weak single source, no vendor corroboration)"
       ]
     },
     {
@@ -171060,13 +171023,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.4",
-      "versionSourceUrl": "https://www.voxengo.com/product/sobor/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSobor_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -174316,13 +174278,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.11",
-      "versionSourceUrl": "https://www.voxengo.com/product/spatifier/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSpatifier_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:29:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -174862,12 +174823,11 @@
       "popularityTier": 1,
       "latestVersion": "1.12.1",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -180927,12 +180887,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -188838,13 +188797,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4",
-      "versionSourceUrl": "https://www.voxengo.com/product/teq421/",
-      "versionVerifiedAt": "2026-09-10T08:00:56Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoTEQ421_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -194474,12 +194432,11 @@
       "popularityTier": 1,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:04:01Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Legacy Products current version",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -197371,13 +197328,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.15",
-      "versionSourceUrl": "https://www.voxengo.com/product/transgainer/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoTransGainer_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -198611,12 +198567,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -206525,12 +206480,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -206552,12 +206506,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -206579,12 +206532,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -206694,12 +206646,11 @@
       "popularityTier": 1,
       "latestVersion": "1.9.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -213282,13 +213233,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.7",
-      "versionSourceUrl": "https://www.voxengo.com/product/varisaturator/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoVariSaturator_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -218752,13 +218702,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/warmifier/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoWarmifier_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -219008,13 +218957,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2",
-      "versionSourceUrl": "https://www.voxengo.com/product/waterchorus/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoWaterChorus_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -221240,12 +221188,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:03:38Z",
+      "versionVerifiedAt": "2026-10-20T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer support Current Versions table",
-        "zynaptiq.com primary"
+        "First-hand read of zynaptiq.com/support/ Current Versions list (manufacturer official page with clear version); exact match to stored accepted current."
       ]
     },
     {
@@ -228465,11 +228412,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.sonible.com/entropyeq/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.6\" for entropy:EQ+"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -228631,11 +228578,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/frei-raum-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.1.5 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -230798,13 +230745,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/learn-eq-by-sonible",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/learn-eq-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "latestVersion": "2.0.2",
+      "versionSourceUrl": "https://downloads.sonible.com/tvapi.php?sku=plu-0026",
+      "versionVerifiedAt": "2026-10-20T05:22:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 2.0.1 (exact match score=1.00)"
+        "Official release notes / version-history / changelog: 90"
       ]
     },
     {
@@ -230847,11 +230794,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/learn-comp-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 2.0.2 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -230873,11 +230820,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/learn-limit-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 2.0.2 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -230899,11 +230846,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/learn-reverb-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 2.0.0 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -230925,11 +230872,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/learn-unmask-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:39Z",
+      "versionVerifiedAt": "2026-10-19T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 2.0.1 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -231257,11 +231204,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.sonible.com/primevocal/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.3\" for prime:vocal"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231283,11 +231230,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.sonible.com/proximityeq/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.6\" for proximity:EQ+"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231309,11 +231256,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.sonible.com/pufferfish/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.4\" for puffer:fish"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231335,11 +231282,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.sonible.com/pureeq/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.3\" for pure:EQ"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231382,11 +231329,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.sonible.com/purecomp/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.3\" for pure:comp"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231408,11 +231355,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.sonible.com/puredeess/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.1\" for pure:deess"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231434,11 +231381,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.sonible.com/purelevel/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0\" for pure:level"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231460,11 +231407,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.sonible.com/purelimit/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.3\" for pure:limit"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231486,11 +231433,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.sonible.com/pureunmask/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.1\" for pure:unmask"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231512,11 +231459,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.sonible.com/pureverb/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.2\" for pure:verb"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231564,13 +231511,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.12",
-      "versionSourceUrl": "https://www.voxengo.com/product/r8brainpro/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/Voxengor8brainPRO_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:33:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -231592,13 +231538,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.10",
-      "versionSourceUrl": "https://www.voxengo.com/product/r8brain/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionSourceUrl": "https://www.voxengo.com/files/userguides/Voxengor8brain_en.pdf",
+      "versionVerifiedAt": "2026-10-20T05:33:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer products page lists Version X.Y with date",
-        "voxengo.com primary"
+        "Official Voxengo user-guide PDF on vendor domain prints exact version"
       ]
     },
     {
@@ -231763,11 +231708,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/smart-eq-2-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.2.1 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -231789,11 +231734,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/smart-eq-3-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.2.5 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -231815,11 +231760,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.sonible.com/smarteq4/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.1.1\" for smart:EQ 4"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231841,11 +231786,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/smart-eq-live-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.0.5 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -231909,11 +231854,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.sonible.com/smartchain/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0\" for smart:chain"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231935,11 +231880,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/smart-comp-2-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.0.4 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -231961,11 +231906,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.sonible.com/smartcomp3/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.1\" for smart:comp 3"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -231987,11 +231932,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.sonible.com/smartdeess/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.2\" for smart:deess"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -232034,11 +231979,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.sonible.com/smartgate/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.1\" for smart:gate"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -232060,11 +232005,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.5",
       "versionSourceUrl": "https://www.sonible.com/smartlimit/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.1.5\" for smart:limit"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -232086,11 +232031,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/smart-reverb-by-sonible",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-10-19T17:25:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.1.4 (exact match score=1.00)"
+        "KVR oracle @60 (weak source; legacy lines manufacturer-wildcard)"
       ]
     },
     {
@@ -232112,11 +232057,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.sonible.com/smartreverb2/",
-      "versionVerifiedAt": "2026-09-10T09:20:51Z",
+      "versionVerifiedAt": "2026-10-19T17:26:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.3\" for smart:reverb 2"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -232466,11 +232411,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://www.sonible.com/truebalance/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.5\" for true:balance"
+        "manufacturer product page specs block"
       ]
     },
     {
@@ -232492,11 +232437,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.sonible.com/truelevel/",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-19T17:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer product page \"latest version 1.0.4\" for true:level"
+        "manufacturer product page specs block"
       ]
     },
     {
