@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-20T13:01:22Z",
+  "updatedAt": "2026-10-21T13:01:48Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -27942,6 +27942,32 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "manufacturer Zendesk oracle page"
+      ]
+    },
+    {
+      "id": "ujam--beatmaker-bounce",
+      "manufacturerId": "ujam",
+      "name": "Beatmaker Bounce",
+      "matchPatterns": [
+        "Beatmaker Bounce",
+        "Bounce"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "productLine": "Beatmaker",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "3.0.1",
+      "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
+      "versionVerifiedAt": "2026-10-20T17:23:35Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor Zendesk Standalone Installers article, Beatmaker 3 Series lists BOUNCE v3.0.1 (mac/win)"
       ]
     },
     {
@@ -56634,11 +56660,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -70786,11 +70812,11 @@
       "popularityTier": 1,
       "latestVersion": "1.32",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -70846,11 +70872,11 @@
       "popularityTier": 1,
       "latestVersion": "3.52",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -70920,11 +70946,11 @@
       "popularityTier": 1,
       "latestVersion": "2.22",
       "versionSourceUrl": "https://www.fabfilter.com/support/downloads",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:56Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official legacy downloads page, per-product version + release date"
       ]
     },
     {
@@ -70968,11 +70994,11 @@
       "popularityTier": 1,
       "latestVersion": "3.02",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71002,11 +71028,11 @@
       "popularityTier": 1,
       "latestVersion": "1.32",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71036,11 +71062,11 @@
       "popularityTier": 1,
       "latestVersion": "1.42",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71070,11 +71096,11 @@
       "popularityTier": 1,
       "latestVersion": "2.26",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71104,11 +71130,11 @@
       "popularityTier": 1,
       "latestVersion": "1.33",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71153,11 +71179,11 @@
       "popularityTier": 1,
       "latestVersion": "3.29",
       "versionSourceUrl": "https://www.fabfilter.com/support/downloads",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-20T17:21:55Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official legacy downloads page, per-product version + release date"
       ]
     },
     {
@@ -71201,11 +71227,11 @@
       "popularityTier": 1,
       "latestVersion": "4.13",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71235,11 +71261,11 @@
       "popularityTier": 1,
       "latestVersion": "2.06",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71269,11 +71295,11 @@
       "popularityTier": 1,
       "latestVersion": "2.13",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71303,11 +71329,11 @@
       "popularityTier": 1,
       "latestVersion": "1.42",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71337,11 +71363,11 @@
       "popularityTier": 1,
       "latestVersion": "3.10",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71397,11 +71423,11 @@
       "popularityTier": 1,
       "latestVersion": "3.07",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71431,11 +71457,11 @@
       "popularityTier": 1,
       "latestVersion": "3.09",
       "versionSourceUrl": "https://www.fabfilter.com/download",
-      "versionVerifiedAt": "2026-09-23T05:21:15Z",
+      "versionVerifiedAt": "2026-10-20T17:21:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "vendor official downloads page, per-product version + release date"
       ]
     },
     {
@@ -71975,11 +72001,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -125856,11 +125882,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -131307,13 +131333,13 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "1.2.3",
+      "latestVersion": "1.2.4",
       "versionSourceUrl": "https://www.tokyodawn.net/od-ancora/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T05:43:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor official download path; portal-identity verified via page title"
       ]
     },
     {
@@ -131339,13 +131365,13 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "1.5.3",
+      "latestVersion": "1.5.4",
       "versionSourceUrl": "https://www.tokyodawn.net/od-deedger/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T05:44:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor official download path; portal-identity verified via page title"
       ]
     },
     {
@@ -131371,13 +131397,13 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "1.2.3",
+      "latestVersion": "1.2.4",
       "versionSourceUrl": "https://www.tokyodawn.net/od-finesse/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T05:47:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor official download path; portal-identity verified via page title"
       ]
     },
     {
@@ -131403,13 +131429,13 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "1.1.3",
+      "latestVersion": "1.1.5",
       "versionSourceUrl": "https://www.tokyodawn.net/od-limen/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T05:48:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor official download path; portal-identity verified via page title"
       ]
     },
     {
@@ -170851,11 +170877,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -209719,6 +209745,33 @@
       ]
     },
     {
+      "id": "ujam--usynth-bounce",
+      "manufacturerId": "ujam",
+      "name": "Usynth Bounce",
+      "matchPatterns": [
+        "Usynth Bounce",
+        "Bounce",
+        "USynth Bounce"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "productLine": "Usynth",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
+      "versionVerifiedAt": "2026-10-20T17:23:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "vendor Zendesk Standalone Installers article, Usynth Series lists BOUNCE v1.1.0 (mac/win)"
+      ]
+    },
+    {
       "id": "ujam--usynth-bundle",
       "manufacturerId": "ujam",
       "name": "Usynth Bundle",
@@ -212472,11 +212525,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://valhalladsp.com/shop/delay/valhalladelay/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212508,11 +212561,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.8",
       "versionSourceUrl": "https://valhalladsp.com/shop/delay/valhalla-freq-echo/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212544,11 +212597,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhallafutureverb/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212580,11 +212633,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.8",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhalla-plate/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212616,11 +212669,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.5",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhalla-room/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212652,11 +212705,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhalla-shimmer/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212722,11 +212775,11 @@
       "popularityTier": 1,
       "latestVersion": "5.0.0",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -212758,11 +212811,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.5",
       "versionSourceUrl": "https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/",
-      "versionVerifiedAt": "2026-09-23T05:24:33Z",
+      "versionVerifiedAt": "2026-10-20T17:21:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "First-hand fetch of vendor product page 2026-10-20; 'Current Version' line matches stored value"
       ]
     },
     {
@@ -229382,11 +229435,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229414,11 +229467,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229446,11 +229499,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229478,11 +229531,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229510,11 +229563,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229542,11 +229595,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229574,11 +229627,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229606,11 +229659,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229638,11 +229691,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229670,11 +229723,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229702,11 +229755,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229734,11 +229787,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229766,11 +229819,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229798,11 +229851,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229830,11 +229883,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229862,11 +229915,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229894,11 +229947,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229926,11 +229979,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229958,11 +230011,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -229990,11 +230043,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230022,11 +230075,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230054,11 +230107,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230086,11 +230139,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230151,11 +230204,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230183,11 +230236,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230215,11 +230268,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230247,11 +230300,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230279,11 +230332,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230311,11 +230364,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230343,11 +230396,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230375,11 +230428,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230407,11 +230460,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230439,11 +230492,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230471,11 +230524,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
@@ -230503,11 +230556,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4.6",
       "versionSourceUrl": "https://kilohearts.com/download",
-      "versionVerifiedAt": "2026-09-23T22:18:09-07:00",
+      "versionVerifiedAt": "2026-10-20T17:31:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
       ]
     },
     {
