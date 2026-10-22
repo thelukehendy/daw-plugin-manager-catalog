@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-22T13:00:42Z",
+  "updatedAt": "2026-10-22T17:59:11Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -20087,6 +20087,30 @@
       ]
     },
     {
+      "id": "plugin-alliance--apogee-soft-limit",
+      "manufacturerId": "plugin-alliance",
+      "name": "Apogee Soft Limit",
+      "matchPatterns": [
+        "Apogee Soft Limit",
+        "Soft Limit"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/softlimit",
+      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "PA installer label in page metafield JSON is manifest-grade evidence (Cenozoix rule)"
+      ]
+    },
+    {
       "id": "universal-audio--apollo-solo",
       "manufacturerId": "universal-audio",
       "name": "Apollo Solo",
@@ -27916,6 +27940,29 @@
       ]
     },
     {
+      "id": "ujam--beatmaker-3",
+      "manufacturerId": "ujam",
+      "name": "Beatmaker 3",
+      "matchPatterns": [
+        "Beatmaker 3"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "3.0.3",
+      "versionSourceUrl": "https://ujam.zendesk.com/hc/en-us/articles/28023878713500",
+      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "Vendor article text first-hand; host artifact mislinked by vendor, bundle ID unverified"
+      ]
+    },
+    {
       "id": "ujam--beatmaker-berserk",
       "manufacturerId": "ujam",
       "name": "Beatmaker Berserk",
@@ -27948,8 +27995,7 @@
       "manufacturerId": "ujam",
       "name": "Beatmaker Bounce",
       "matchPatterns": [
-        "Beatmaker Bounce",
-        "Bounce"
+        "Beatmaker Bounce"
       ],
       "formats": [
         "VST2",
@@ -27958,15 +28004,16 @@
         "AAX"
       ],
       "productLine": "Beatmaker",
+      "identityKind": "expansion",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "3.0.1",
-      "versionSourceUrl": "https://support.ujam.com/hc/en-us/articles/28023878713500-Standalone-Installers",
-      "versionVerifiedAt": "2026-10-20T17:23:35Z",
+      "latestVersion": "3.0.0",
+      "versionSourceUrl": "https://ujam.zendesk.com/hc/en-us/articles/28023878713500",
+      "versionVerifiedAt": "2026-10-22T17:52:34Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor Zendesk Standalone Installers article, Beatmaker 3 Series lists BOUNCE v3.0.1 (mac/win)"
+        "Vendor Drive artifact filename is installer-grade evidence; article text disagrees and loses under the installer-label rule"
       ]
     },
     {
@@ -53734,7 +53781,7 @@
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "PDF oracle not reachable (404, not search-indexed); product page carries no version history — holding stored version, confidence unchanged"
+        "Product page installer basename carries the version (VoxengoDeconvolver_193); page hrefs verified first-hand 2026-10-22 (Grok Bot 2026-10-21 D1) — earlier 'no version history' reason was wrong."
       ]
     },
     {
@@ -71803,16 +71850,17 @@
       ],
       "updatePortalUrl": "https://www.uvi.net/uvi-portal",
       "notes": "KVR product https://www.kvraudio.com/product/falcon-by-uvi",
+      "generation": "2027",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2027",
-      "versionSourceUrl": "https://www.kvraudio.com/news/uvi-releases-falcon-2027-and-3-new-expansions-68970",
-      "versionVerifiedAt": "2026-10-12T17:40:00Z",
+      "latestVersion": "27.0.2",
+      "versionSourceUrl": "https://www.kvraudio.com/product/falcon-by-uvi",
+      "versionVerifiedAt": "2026-10-22T17:44:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "UVI-originated press release corroborated by 7 independent outlets (sonicstate, KVR, rekkerd, noizefield, musewire, thebeatcommunity, goldmidi)",
-        "Falcon generation tracked by year name per playbook; 2026 generation was set @88 from press"
+        "KVR product page verwin/verosx both print 27.0.2 for Falcon 2027 generation; UVI changelog PDF still tops at 26.0.3 (vendor changelog lags), so KVR is the freshest corroborated surface",
+        "Generation label '2027' is marketing naming, not the bundle version; installed bundles report 27.0.x. Year-shaped tip coerced to 2027.0.0 in the app and falsely flagged every install as outdated."
       ]
     },
     {
@@ -101362,7 +101410,7 @@
         "VST3",
         "AAX"
       ],
-      "notesForUser": "Zynaptiq's new loudness plugin, released September 2026. Match pattern is manufacturer-qualified to avoid collision with Airwindows Loud; bundle-ID refinement pending.",
+      "notesForUser": "Zynaptiq's new loudness plugin, released September 2026.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.0",
@@ -134270,6 +134318,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---cimbalom-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.12",
@@ -134291,6 +134340,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---cinematic-frozen-strings-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.0",
@@ -134312,6 +134362,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---cinematic-pads-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.0",
@@ -134333,6 +134384,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---cinematic-percussion-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.11",
@@ -134354,6 +134406,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---cinematic-soft-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.13",
@@ -134383,7 +134436,7 @@
       "productLine": "Originals",
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "Spitfire soundset fill; expand6.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134398,6 +134451,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---drum-line-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.12",
@@ -134427,7 +134481,7 @@
       "productLine": "Originals",
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "Spitfire soundset fill; expand6.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134442,6 +134496,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---epic-brass-and-woodwinds-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.16",
@@ -134463,6 +134518,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---epic-choir-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
@@ -134484,6 +134540,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---epic-strings-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.13",
@@ -134505,6 +134562,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---felt-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.11",
@@ -134526,6 +134584,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---firewood-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.12",
@@ -134555,7 +134614,7 @@
       "productLine": "Originals",
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "Spitfire soundset fill; expand6.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134570,6 +134629,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---intimate-grand-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
@@ -134591,6 +134651,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---intimate-strings-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.13",
@@ -134620,7 +134681,7 @@
       "productLine": "Originals",
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "Spitfire soundset fill; expand6.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134635,6 +134696,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---jangle-box-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.11",
@@ -134661,7 +134723,7 @@
       ],
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR Spitfire gap fill; classified soundset.",
-      "notesForUser": "Spitfire Audio library/soundset (Originals - Media Toolkit).",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134676,6 +134738,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---mrs-mills-piano-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.12",
@@ -134697,6 +134760,7 @@
       "updatePortalUrl": "https://www.spitfireaudio.com/pages/spitfire-audio-app",
       "notes": "KVR product https://www.kvraudio.com/product/originals---rare-flutes-by-spitfire-audio",
       "portalApp": "Spitfire account",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0",
@@ -134726,7 +134790,7 @@
       "productLine": "Virtual Instrument",
       "updatePortalUrl": "https://www.spitfireaudio.com/shop",
       "notes": "Spitfire Shopify catalog; expand11 soundset.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -134749,7 +134813,7 @@
       "productLine": "Virtual Instrument",
       "updatePortalUrl": "https://www.spitfireaudio.com/shop",
       "notes": "Spitfire Shopify catalog; expand11 soundset.",
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "Spitfire now develops the Originals range in its INSTRUMENT app. This plug-in version still works, but fixes and updates now ship only in INSTRUMENT.",
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -138273,13 +138337,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-285",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionSourceUrl": "https://download-eu2.pspaudioware.net/release/PSP_285/OSX/PSP_285_1.0.1_macOS.dmg",
+      "versionVerifiedAt": "2026-10-22T17:52:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "Vendor CDN artifact on the working eu2 host; version unchanged from prior verified tip"
       ]
     },
     {
@@ -138504,13 +138567,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-binamp",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionSourceUrl": "https://download-eu2.pspaudioware.net/release/PSP_BinAmp/OSX/PSP_BinAmp_1.1.1_macOS.dmg",
+      "versionVerifiedAt": "2026-10-22T17:52:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "Vendor CDN artifact HEAD-verified on the working eu2 host; version unchanged from prior verified tip"
       ]
     },
     {
@@ -138620,13 +138682,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.0.3",
-      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-consoleq",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionSourceUrl": "https://download-eu2.pspaudioware.net/release/PSP_ConsoleQ/OSX/PSP_ConsoleQ_2.0.3_macOS.dmg",
+      "versionVerifiedAt": "2026-10-22T17:52:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "Vendor CDN artifact HEAD-verified on the working eu2 host; version unchanged"
       ]
     },
     {
@@ -138724,13 +138785,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.7.4",
-      "versionSourceUrl": "https://www.pspaudioware.com/products/psp-e27",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionSourceUrl": "https://download-eu2.pspaudioware.net/release/PSP_E27/OSX/PSP_E27_1.7.4_macOS.dmg",
+      "versionVerifiedAt": "2026-10-22T17:52:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "Vendor CDN artifact HEAD-verified on the working eu2 host; version unchanged"
       ]
     },
     {
@@ -141865,6 +141925,30 @@
       "popularityTier": 2
     },
     {
+      "id": "native-instruments--paris-heat",
+      "manufacturerId": "native-instruments",
+      "name": "Paris Heat",
+      "matchPatterns": [
+        "Paris Heat"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "identityKind": "soundset",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
       "id": "puremagnetik--parsec-3d-perception-creature",
       "manufacturerId": "puremagnetik",
       "name": "Parsec | 3D Perception Creature",
@@ -143799,6 +143883,29 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+      ]
+    },
+    {
+      "id": "spitfire-audio--phoenix",
+      "manufacturerId": "spitfire-audio",
+      "name": "Phoenix",
+      "matchPatterns": [
+        "Spitfire Phoenix"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.0.2",
+      "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/17505521",
+      "versionVerifiedAt": "2026-10-22T17:53:32Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor help-center changelog article is the primary oracle for Spitfire library versions"
       ]
     },
     {
@@ -149456,6 +149563,22 @@
         "matches accepted KVR current 1.0.1 (trailing-zero / build-suffix normalized)",
         "public manufacturer product page; not account portal"
       ]
+    },
+    {
+      "id": "heavyocity--psychosis",
+      "manufacturerId": "heavyocity",
+      "name": "Psychosis",
+      "matchPatterns": [
+        "Psychosis"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "identityKind": "soundset",
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "auburn-sounds--psypan",
@@ -169758,6 +169881,22 @@
       "popularityTier": 2
     },
     {
+      "id": "ik-multimedia--sinphonica",
+      "manufacturerId": "ik-multimedia",
+      "name": "Sinphonica",
+      "matchPatterns": [
+        "Sinphonica"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "identityKind": "soundset",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
       "id": "oas--tiagolr-sirial",
       "manufacturerId": "oas--tiagolr",
       "name": "Sirial",
@@ -189696,6 +189835,22 @@
       "popularityTier": 1
     },
     {
+      "id": "ik-multimedia--tonex-rig",
+      "manufacturerId": "ik-multimedia",
+      "name": "TONEX Rig",
+      "matchPatterns": [
+        "TONEX Rig"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "identityKind": "expansion",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
       "id": "ik-multimedia--tonex-se",
       "manufacturerId": "ik-multimedia",
       "name": "TONEX SE",
@@ -209430,7 +209585,7 @@
         "UnitedPluginsManager"
       ],
       "notes": "United publishes the INSTALLER version (currently 03.00, unitedplugins.com/download, 2026-10-18), not a kernel version. Scan-detected 17.09/17.10 is the Melda-kernel-line string, not the installer number: do NOT compare the installer string against kernel versions in either direction. White-label train: UPM installer numbers track Melda MPluginManager installer numbers (published 17s apart).",
-      "notesForUser": "United Plugins doesn't publish a checkable version number for its manager app.",
+      "notesForUser": "United Plugins' manager app for installing and updating their plug-ins.",
       "identityKind": "hub_app",
       "popularityTier": 2,
       "latestVersion": "03.00",
@@ -209689,6 +209844,30 @@
       "popularityTier": 2
     },
     {
+      "id": "ujam--usynth",
+      "manufacturerId": "ujam",
+      "name": "Usynth",
+      "matchPatterns": [
+        "Usynth",
+        "UJAM Usynth"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.5.0",
+      "versionSourceUrl": "https://ujam.zendesk.com/hc/en-us/articles/28023878713500",
+      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor article + Drive artifact filename agree on 1.5.0; bundle ID unverified"
+      ]
+    },
+    {
       "id": "ujam--usynth-2080",
       "manufacturerId": "ujam",
       "name": "Usynth 2080",
@@ -209724,7 +209903,6 @@
       "name": "Usynth Bounce",
       "matchPatterns": [
         "Usynth Bounce",
-        "Bounce",
         "USynth Bounce"
       ],
       "formats": [
@@ -209734,6 +209912,7 @@
         "AAX"
       ],
       "productLine": "Usynth",
+      "identityKind": "expansion",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.1.0",
@@ -215780,13 +215959,13 @@
       "portalApp": "Slate RME",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.3.10.0",
+      "latestVersion": "3.3.11.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/virtual-mix-rack-vmr-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-10-22T17:45:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR Product Version table re-fetched 2026-10-22: verwin=3.3.11.1 (verosx listed 3.3.11 — KVR-only split, no per-OS fields without vendor evidence). Same 4-part train as stored 3.3.10.0; not a hub-app stamp (hub 2.21.0) or module transfer. Official Zendesk has no 3.x VMR notes (lags) — KVR is the standing @60 version signal for Slate."
       ]
     },
     {
@@ -215809,14 +215988,13 @@
       "notesForUser": "Duplicate of slate-digital--virtual-mix-rack (same product/version); retired so it cannot win matching.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "finalVersion": "3.3.10.0",
+      "finalVersion": "3.3.11.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/virtual-mix-rack-vmr-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
+      "versionVerifiedAt": "2026-10-22T17:46:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--virtual-mix-rack-vmr"
+        "KVR Product Version table re-fetched 2026-10-22: verwin=3.3.11.1 (verosx listed 3.3.11 — KVR-only split, no per-OS fields without vendor evidence). Same 4-part train as stored 3.3.10.0; not a hub-app stamp (hub 2.21.0) or module transfer. Official Zendesk has no 3.x VMR notes (lags) — KVR is the standing @60 version signal for Slate."
       ]
     },
     {
@@ -219572,13 +219750,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "17.1.2",
-      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-10-15T00:55:38Z",
-      "versionEvidence": "page-confirmed",
+      "latestVersion": "17.1.3",
+      "versionSourceUrl": "https://register.waves.com/Autoupdate/Updates/ByProductId/1/latest-mac.yml",
+      "versionVerifiedAt": "2026-10-22T17:52:33Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Waves release-notes page, first-hand 2026-10-14: 'October 11, 2026 — Waves Central v17.1.2'"
+        "Waves' own autoupdate YAML manifest is the primary oracle for Waves Central; corroborated by file size and release name"
       ]
     },
     {
@@ -222749,6 +222927,30 @@
       "versionConfidenceReasons": [
         "Official Steinberg unsupported-software page lists Vintage Stomp Pack 1.1.1 installer (Dec 17, 2020); KVR matches"
       ]
+    },
+    {
+      "id": "native-instruments--yangqin",
+      "manufacturerId": "native-instruments",
+      "name": "Yangqin",
+      "matchPatterns": [
+        "Yangqin"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "identityKind": "soundset",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "mercurial-tones--yasha",
