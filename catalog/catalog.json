@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-22T17:59:11Z",
+  "updatedAt": "2026-10-22T20:44:19Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -46900,13 +46900,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.22.0",
-      "versionSourceUrl": "https://support.slatedigital.com/api/v2/help_center/en-us/articles/4402433908755.json",
-      "versionVerifiedAt": "2026-10-18T20:18:03Z",
+      "latestVersion": "2.24.0",
+      "versionSourceUrl": "https://support.slatedigital.com/hc/en-us/articles/4402433908755-Complete-Access-Hub-formerly-Slate-Digital-Connect-Release-Notes",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Slate help-center release notes head 2.22.0 (October 15, 2026), edited_at 2026-10-15."
+        "Vendor official release-notes article, read first-hand"
       ]
     },
     {
@@ -76365,13 +76365,13 @@
       "portalApp": "Slate RME",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.6",
+      "latestVersion": "1.1.7",
       "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
-      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor Slate public installer API, Win==Mac"
+        "First-party Slate deployables feed"
       ]
     },
     {
@@ -85707,13 +85707,13 @@
       "portalApp": "Slate RME",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.1",
+      "latestVersion": "1.1.2",
       "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
-      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor Slate public installer API, Win==Mac"
+        "First-party Slate deployables feed + vendor hub release notes agree"
       ]
     },
     {
@@ -93904,7 +93904,15 @@
       "notesForUser": "We haven't been able to verify a version number for this yet.",
       "identityKind": "unknown_other",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.0.4.0",
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "First-party Slate deployables feed; installed-version train corroborates"
+      ]
     },
     {
       "id": "native-instruments--infamous-flow",
@@ -163876,13 +163884,13 @@
       "portalApp": "SSL Download Manager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.2",
-      "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "latestVersion": "1.2.1",
+      "versionSourceUrl": "https://slatedigital.com/free-collection/",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Vendor hub release notes (canonical per-product surface for this family) + free-collection listing"
       ]
     },
     {
@@ -180974,15 +180982,13 @@
       "portalApp": "Slate RME",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.0",
+      "latestVersion": "1.1.1",
       "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
-      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
-        "slug 'submerge': latestWindowsVersion == latestMacOsVersion == 1.1.0 after hash-strip",
-        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
+        "First-party Slate deployables feed"
       ]
     },
     {
@@ -210748,15 +210754,13 @@
       "portalApp": "Slate RME",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.2.0",
+      "latestVersion": "1.4.3.0",
       "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
-      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "first-party Slate deployables API re-fetched 2026-10-11 (HTTP 200, 104 deployables)",
-        "slug 'vbc': latestWindowsVersion == latestMacOsVersion == 1.4.2.0 after hash-strip",
-        "exact match with prior KVR-sourced version; source upgraded KVR -> vendor, version unchanged"
+        "First-party Slate deployables feed; build hash matches hub release notes exactly"
       ]
     },
     {
@@ -215404,13 +215408,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/virtual-buss-compressors-vbc-by-slate-digital",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.2.0",
+      "latestVersion": "1.4.3.0",
       "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
-      "versionVerifiedAt": "2026-09-29T19:12:57Z",
+      "versionVerifiedAt": "2026-10-22T20:39:37Z",
       "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor Slate public installer API, Win==Mac"
+        "First-party Slate deployables feed"
       ]
     },
     {
@@ -215960,12 +215964,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.3.11.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/virtual-mix-rack-vmr-by-slate-digital",
-      "versionVerifiedAt": "2026-10-22T17:45:36Z",
+      "versionSourceUrl": "https://slatedigital.com/free-collection/",
+      "versionVerifiedAt": "2026-10-22T20:39:38Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "KVR Product Version table re-fetched 2026-10-22: verwin=3.3.11.1 (verosx listed 3.3.11 — KVR-only split, no per-OS fields without vendor evidence). Same 4-part train as stored 3.3.10.0; not a hub-app stamp (hub 2.21.0) or module transfer. Official Zendesk has no 3.x VMR notes (lags) — KVR is the standing @60 version signal for Slate."
+        "Vendor hub release notes corroborate KVR signal"
       ]
     },
     {
@@ -215989,12 +215993,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "finalVersion": "3.3.11.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/virtual-mix-rack-vmr-by-slate-digital",
-      "versionVerifiedAt": "2026-10-22T17:46:00Z",
+      "versionSourceUrl": "https://slatedigital.com/free-collection/",
+      "versionVerifiedAt": "2026-10-22T20:39:38Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "KVR Product Version table re-fetched 2026-10-22: verwin=3.3.11.1 (verosx listed 3.3.11 — KVR-only split, no per-OS fields without vendor evidence). Same 4-part train as stored 3.3.10.0; not a hub-app stamp (hub 2.21.0) or module transfer. Official Zendesk has no 3.x VMR notes (lags) — KVR is the standing @60 version signal for Slate."
+        "Vendor hub release notes corroborate KVR signal"
       ]
     },
     {
