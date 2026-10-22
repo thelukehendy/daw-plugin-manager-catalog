@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-21T13:01:48Z",
+  "updatedAt": "2026-10-22T13:00:42Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -9329,12 +9329,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "latestVersion": "3.13.4.6366",
-      "versionSourceUrl": "https://www.kvraudio.com/product/arp-2600-v3-by-arturia",
-      "versionVerifiedAt": "2026-09-15T17:35:51Z",
+      "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/arp2600v",
+      "versionVerifiedAt": "2026-10-22T05:26:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product/marketplace page only; crowdsourced, skeptical default"
+        "official Arturia downloads page exact build (replaces earlier KVR corroboration); Mac/Win both 3.13.4.6366 dated 10/9/2025"
       ]
     },
     {
@@ -18846,13 +18846,13 @@
       "identityKind": "gen_ambiguous",
       "appleSilicon": "universal",
       "popularityTier": 1,
-      "latestVersion": "5.12.5.6878",
-      "versionSourceUrl": "https://www.arturia.com/products/hybrid-synths/minilab-3/resources",
-      "versionVerifiedAt": "2026-09-17T16:07:33Z",
+      "latestVersion": "5.12.6.6914",
+      "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/analoglab-v",
+      "versionVerifiedAt": "2026-10-22T05:25:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official Arturia page, exact build with date 2026-09-16; row had no prior observation"
+        "official Arturia downloads page exact build; Mac/Win both 5.12.6.6914 dated 10/1/2026; page renamed Analog Lab Pro but software remains Analog Lab V per Arturia support"
       ]
     },
     {
@@ -19050,11 +19050,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/analogflux-chorus-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:32Z",
+      "versionVerifiedAt": "2026-10-22T05:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.5.1 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -19077,11 +19077,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/analogflux-delay-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:33Z",
+      "versionVerifiedAt": "2026-10-22T05:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.5.1 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -19167,11 +19167,11 @@
       "popularityTier": 1,
       "finalVersion": "1.5.2",
       "versionSourceUrl": "https://www.kvraudio.com/news-archive.php?month=0107",
-      "versionVerifiedAt": "2026-09-15T11:40:01Z",
+      "versionVerifiedAt": "2026-10-22T05:27:38Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 62,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR news archive of Voxengo manufacturer announcement: '30th January 2007: Voxengo updates GlissEQ to v2.8.1 and Analogflux Suite Tapebus to v1.5.2'; coordinator-verified 2026-09-15"
+        "KVR news archive Jan 2007 announces Analogflux Suite Tapebus v1.5.2; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -22730,12 +22730,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2.192",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/augmented-persia",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:23:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Augmented PERSIA",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac/Win both 2.0.2.192 dated 5/29/2026"
       ]
     },
     {
@@ -28473,13 +28472,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://u-he.com/products/beatzille/",
-      "versionVerifiedAt": "2026-09-10T06:53:28Z",
+      "versionVerifiedAt": "2026-10-21T17:24:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "u-he.com Beatzille product page NEW in v1.0.2",
-        "dl.u-he.com/releases/Beatzille_102_Mac.zip HEAD redirect OK",
-        "matches KVR 1.0.2"
+        "vendor product page buy box: Beatzille 1.0.2 (revision 12092), released 2021-08-10; unchanged"
       ]
     },
     {
@@ -29526,11 +29523,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bus-compressor",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:26:56Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Bettermaker Bus Compressor'; public Installer v1.0.0 (Mac) label; sha256=d87398fdc361f5dd…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -29572,11 +29569,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/c502v",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Bettermaker C502V'; public Installer v1.0.0 (Mac) label; sha256=83e71af180354a7f…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -29644,11 +29641,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq232d",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:04Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Bettermaker EQ232D'; public Installer v1.1.0 (Mac) label; sha256=f1dec35c5237681c…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -29670,11 +29667,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bettermaker-mastering-compressor",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:05Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Bettermaker Mastering Compressor'; public Installer v1.0.0 (Mac) label; sha256=d528e6ff6f233102…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -29739,11 +29736,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/passive-equalizer",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Bettermaker Passive Equalizer'; public Installer v1.0.0 (Mac) label; sha256=d8c29a996368e584…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -37708,12 +37705,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5",
       "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCRTIVChorus_en.pdf",
-      "versionVerifiedAt": "2026-09-10T08:54:28Z",
+      "versionVerifiedAt": "2026-10-22T05:24:45Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "Official Voxengo user guide PDF Version header matches KVR accepted current",
-        "manufacturer primary PDF https://www.voxengo.com/files/userguides/VoxengoCRTIVChorus_en.pdf"
+        "Vendor user guide title page prints 'Version 1.5'; matches stored"
       ]
     },
     {
@@ -37736,12 +37732,11 @@
       "popularityTier": 1,
       "latestVersion": "2.4",
       "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCRTIVReverb_en.pdf",
-      "versionVerifiedAt": "2026-09-10T08:54:28Z",
+      "versionVerifiedAt": "2026-10-22T05:24:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "Official Voxengo user guide PDF Version header matches KVR accepted current",
-        "manufacturer primary PDF https://www.voxengo.com/files/userguides/VoxengoCRTIVReverb_en.pdf"
+        "Vendor user guide title page prints 'Version 2.4'; matches stored"
       ]
     },
     {
@@ -37764,12 +37759,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3",
       "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCRTIVShumovick_en.pdf",
-      "versionVerifiedAt": "2026-09-10T08:54:28Z",
+      "versionVerifiedAt": "2026-10-22T05:24:46Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "Official Voxengo user guide PDF Version header matches KVR accepted current",
-        "manufacturer primary PDF https://www.voxengo.com/files/userguides/VoxengoCRTIVShumovick_en.pdf"
+        "Vendor user guide title page prints 'Version 1.3'; matches stored"
       ]
     },
     {
@@ -37858,12 +37852,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "latestVersion": "4.3.4.6366",
-      "versionSourceUrl": "https://www.kvraudio.com/product/cs-80-v4-by-arturia",
-      "versionVerifiedAt": "2026-09-15T17:35:51Z",
+      "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/cs-80v",
+      "versionVerifiedAt": "2026-10-22T05:27:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product/marketplace page only; crowdsourced, skeptical default"
+        "official Arturia downloads page exact build (replaces earlier KVR corroboration); Mac/Win both 4.3.4.6366 dated 10/9/2025"
       ]
     },
     {
@@ -65633,11 +65627,11 @@
       "popularityTier": 1,
       "latestVersion": "1.11.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/karacter",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Elysia karacter'; public Installer v1.11.0 (Mac) label; sha256=39c5062ec324ee99…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -65659,11 +65653,11 @@
       "popularityTier": 1,
       "latestVersion": "1.15.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/museq",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-10-22T05:27:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Elysia museq'; public Installer v1.15.0 (Mac) label; sha256=9079fc85e0fcad35…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -93489,15 +93483,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9",
-      "versionSourceUrl": "https://www.kvraudio.com/news-archive.php?month=0206",
-      "versionVerifiedAt": "2026-09-14T17:36:56Z",
+      "versionSourceUrl": "https://www.voxengo.com/press/voxengo-impulse-modeler-1-9-released-103/",
+      "versionVerifiedAt": "2026-10-22T05:27:38Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 62,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "kvr-news-archive-of-manufacturer-announcement",
-        "vi-control-thread-corroboration",
-        "product-discontinued-final-version",
-        "kvr-only-evidence"
+        "Vendor press release announces Impulse Modeler 1.9 (Feb 6 2006); KVR product page fields stuck at 1.0/1.0 are stale; matches stored"
       ]
     },
     {
@@ -96946,12 +96937,11 @@
       "popularityTier": 1,
       "latestVersion": "4.6.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/jup-8-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:23:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Jup-8 V4",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac/Win both 4.6.4.6366 dated 10/9/2025"
       ]
     },
     {
@@ -100355,13 +100345,11 @@
       "popularityTier": 1,
       "latestVersion": "3.7.29",
       "versionSourceUrl": "https://www.kvraudio.com/product/labs-by-spitfire-audio",
-      "versionVerifiedAt": "2026-09-14T17:48:57Z",
+      "versionVerifiedAt": "2026-10-22T05:22:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "kvr-declares-3.7.29",
-        "product-sunset-into-splice-instrument",
-        "final-as-labs"
+        "KVR raw-HTML verwin=verosx=3.7.29 exact-match; Spitfire Help Centre FAQ (Jul 2026) confirms LABS maintenance-only for existing users, all new content via Splice INSTRUMENT"
       ]
     },
     {
@@ -104583,12 +104571,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/lexicon-psp-42",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:44:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename Lexicon_PSP42_2.1.1 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -119597,12 +119584,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0.8646",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/memory-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:23:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Memory V",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac/Win both 1.0.0.8646 dated 5/20/2026"
       ]
     },
     {
@@ -120564,11 +120550,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4.114",
       "versionSourceUrl": "https://legacy-forum.arturia.com/index.php?topic=91160.0",
-      "versionVerifiedAt": "2026-09-15T17:36:13Z",
+      "versionVerifiedAt": "2026-10-22T05:28:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "hardware firmware; vendor forum + release notes via forum, third-party hosted"
+        "Arturia legacy forum thread confirms 1.0.4.114 remains the latest MicroBrute firmware; users report no update since ('year and a half+, no firmware update'); terminal"
       ]
     },
     {
@@ -120688,11 +120674,11 @@
       "popularityTier": 1,
       "latestVersion": "5.0",
       "versionSourceUrl": "https://support.arturia.com/hc/en-us/articles/9002305582108-MicroFreak-Firmware-V5",
-      "versionVerifiedAt": "2026-09-17T16:07:33Z",
+      "versionVerifiedAt": "2026-10-22T05:26:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "Official Arturia support article dedicated to Firmware V5; source-quality raise over prior @60 KVR observation"
+        "official Arturia support FAQ remains the dedicated Firmware V5 article; no newer MicroFreak firmware generation announced"
       ]
     },
     {
@@ -121530,12 +121516,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.4.6366",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/mini-v",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:23:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Mini V4",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac/Win both 4.0.4.6366 dated 10/9/2025"
       ]
     },
     {
@@ -121670,11 +121655,11 @@
       "popularityTier": 1,
       "latestVersion": "5.0",
       "versionSourceUrl": "https://www.arturia.com/products/hardware-synths/minifreak-vocoder/start",
-      "versionVerifiedAt": "2026-09-17T16:07:33Z",
+      "versionVerifiedAt": "2026-10-22T05:25:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "Official Arturia page names MiniFreak Update 5.0 for hardware firmware; press corroborates firmware 5.0 for hardware; no exact build published"
+        "official Arturia page: 'What's new | MiniFreak Update 5.0' tutorial current; hardware firmware generation 5.0"
       ]
     },
     {
@@ -121741,12 +121726,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "latestVersion": "4.0",
-      "versionSourceUrl": "https://www.musicradar.com/music-tech/arturia-launches-minifreak-vocoder-edition-and-drops-firmware-update-for-existing-owners",
-      "versionVerifiedAt": "2026-09-15T17:36:02Z",
+      "versionSourceUrl": "https://www.arturia.com/products/hardware-synths/minifreak-vocoder/start",
+      "versionVerifiedAt": "2026-10-22T05:25:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "hardware firmware; press coverage of vendor launch, not vendor release notes"
+        "official Arturia page: 'Update 4.0 | Vocoder' tutorial is the documented update for the Vocoder Edition hardware; no newer vocoder-edition update announced"
       ]
     },
     {
@@ -121866,12 +121851,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "latestVersion": "1.5",
-      "versionSourceUrl": "https://www.kvraudio.com/news/arturia-updates-minifuse-to-v1-5-61970",
-      "versionVerifiedAt": "2026-09-15T17:36:13Z",
+      "versionSourceUrl": "https://www.gearnews.com/arturia-minifuse-audio-interfaces/",
+      "versionVerifiedAt": "2026-10-22T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "hardware firmware; press coverage, not vendor release notes"
+        "press release notes for the MiniFuse 1.5 firmware update (Oct 2024); reseller pages crawled Oct 2026 still list update 1.5 as current for MF1+MF2; no newer firmware generation found"
       ]
     },
     {
@@ -121902,12 +121887,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "latestVersion": "1.5",
-      "versionSourceUrl": "https://www.kvraudio.com/news/arturia-updates-minifuse-to-v1-5-61970",
-      "versionVerifiedAt": "2026-09-15T23:31:11Z",
+      "versionSourceUrl": "https://www.gearnews.com/arturia-minifuse-audio-interfaces/",
+      "versionVerifiedAt": "2026-10-22T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR news repost of Arturia announcement; update explicitly covers MiniFuse 1 and 2; matches MiniFuse 1 @60 from chip 1018"
+        "press release notes for the MiniFuse 1.5 firmware update (Oct 2024); reseller pages crawled Oct 2026 still list update 1.5 as current for MF1+MF2; no newer firmware generation found"
       ]
     },
     {
@@ -126613,11 +126598,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq4-ms",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:15Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Mäag Audio EQ4 MS'; public Installer v1.0.0 (Mac) label; sha256=42bf714b1d602e99…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -126639,11 +126624,11 @@
       "popularityTier": 1,
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/magnum-k",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Mäag Audio Magnum-K'; public Installer v1.7.0 (Mac) label; sha256=e61846a6d4fe9445…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -127056,11 +127041,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/rz062",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:17Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='NEOLD RZ062'; public Installer v1.2.0 (Mac) label; sha256=30826669d22109ca…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -133615,12 +133600,11 @@
       "popularityTier": 1,
       "latestVersion": "3.4.2",
       "versionSourceUrl": "https://www.zynaptiq.com/support/",
-      "versionVerifiedAt": "2026-09-10T08:04:01Z",
+      "versionVerifiedAt": "2026-10-21T17:44:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manufacturer support Legacy Products current version",
-        "zynaptiq.com primary"
+        "vendor support page lists ORANGE VOCODER AU 3.4.2, first-hand re-fetch"
       ]
     },
     {
@@ -138242,12 +138226,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-2445-emt",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:53Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_2445_EMT_1.4.0 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -138377,12 +138360,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.6",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-608md",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:44:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_608_MultiDelay_1.8.6 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -138552,12 +138534,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-busspressor",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:52Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_BussPressor_2.1.0 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -138669,12 +138650,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-drc",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:45Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_DRC_1.0.0 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -138698,12 +138678,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-datamix-a567",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:44Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_Datamix_A567_1.0.1 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -140308,12 +140287,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.2",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-auralcomp",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_auralComp_2.0.2 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -140366,12 +140344,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.pspaudioware.com/products/psp-auralcontrol",
-      "versionVerifiedAt": "2026-09-10T08:01:43Z",
+      "versionVerifiedAt": "2026-10-21T17:43:38Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "official PSP product page installer filename with semver",
-        "pspaudioware.com primary"
+        "versioned installer filename PSP_auralControl_1.3.0 on vendor CDN, first-hand page re-fetch"
       ]
     },
     {
@@ -140675,13 +140652,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.6",
-      "versionSourceUrl": "https://www.voxengo.com/product/psquasher/",
-      "versionVerifiedAt": "2026-09-10T11:41:49Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/polysquasher-by-voxengo",
+      "versionVerifiedAt": "2026-10-22T05:27:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Manufacturer product page https://www.voxengo.com/product/psquasher/ (Polysquasher)",
-        "expand7 PSquasher id is short-name twin of Polysquasher — same installer"
+        "KVR product page raw HTML verwin/verosx=3.6 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -144879,12 +144855,11 @@
       "popularityTier": 1,
       "latestVersion": "7.0.1.6772",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/pigments",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:22:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Pigments",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac 1.88GB and Win 1.67GB both 7.0.1.6772 dated 7/29/2026"
       ]
     },
     {
@@ -146999,11 +146974,11 @@
       "popularityTier": 1,
       "latestVersion": "3.1.1.1875",
       "versionSourceUrl": "https://www.arturia.com/products/hardware-synths/polybrute-12/resources",
-      "versionVerifiedAt": "2026-09-15T23:31:11Z",
+      "versionVerifiedAt": "2026-10-22T05:25:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Arturia resources page, live-fetched by coordinator; verbatim firmware listing"
+        "official Arturia resources page exact firmware build; Version 3.1.1.1875 dated 6/20/2024"
       ]
     },
     {
@@ -148337,11 +148312,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8",
       "versionSourceUrl": "https://www.kvraudio.com/product/pristine-space-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:38Z",
+      "versionVerifiedAt": "2026-10-22T05:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.8 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -155483,11 +155458,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/radio-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:39Z",
+      "versionVerifiedAt": "2026-10-22T05:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.2 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -157120,11 +157095,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6",
       "versionSourceUrl": "https://www.kvraudio.com/product/redunoise-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:39Z",
+      "versionVerifiedAt": "2026-10-22T05:26:03Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.6 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -159145,12 +159120,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1.5886",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/rev-ocean",
-      "versionVerifiedAt": "2026-09-10T08:40:22Z",
+      "versionVerifiedAt": "2026-10-22T05:23:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "public Arturia downloads-manuals Software Version for Rev OCEAN",
-        "verified_by=coding-assistant; zero trust; no ASC login"
+        "official Arturia downloads page exact build; Mac/Win both 1.0.1.5886 dated 7/29/2026"
       ]
     },
     {
@@ -162621,11 +162595,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/machine-head",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:26Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='SPL Machine Head'; public Installer v1.0.0 (Mac) label; sha256=cddfdc3fb669d008…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -168025,11 +167999,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mastering-compressor-class-a",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:18Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Shadow Hills Mastering Compressor Class A'; public Installer v1.5.0 (Mac) label; sha256=ea43fba34f429ec6…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -171282,11 +171256,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/soften-by-sonnox",
-      "versionVerifiedAt": "2026-09-10T08:18:51Z",
+      "versionVerifiedAt": "2026-10-21T17:27:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR verwin/verosx exact-match 1.0.0; vendor sheet still silent but KVR oracle now corroborates stored version"
       ]
     },
     {
@@ -172189,11 +172163,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/sonic-finalizer-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:40Z",
+      "versionVerifiedAt": "2026-10-22T05:26:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.0 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -174011,11 +173985,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.26",
       "versionSourceUrl": "https://www.kvraudio.com/product/spaces-by-eastwest",
-      "versionVerifiedAt": "2026-09-10T06:05:49Z",
+      "versionVerifiedAt": "2026-10-21T17:24:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR verwin/verosx exact-match 1.1.26, no drift; EW updates page still vendor-sourceless"
       ]
     },
     {
@@ -174109,12 +174083,12 @@
       "appleSilicon": "universal",
       "popularityTier": 1,
       "finalVersion": "2.4.0",
-      "versionSourceUrl": "https://www.gearnews.com/arturia-reminds-us-of-sparks-existence-with-2-4-update/",
-      "versionVerifiedAt": "2026-09-15T23:31:11Z",
+      "versionSourceUrl": "https://www.arturia.com/products/drums/spark2/overview",
+      "versionVerifiedAt": "2026-10-22T05:27:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Music-press article quoting Arturia's official Spark 2.4 release notes; Spark discontinued, 2.4.0 is the final Spark 2 version (2018 maintenance update)"
+        "official Arturia Spark 2 page names update 2.4 as the current maintenance release; no newer update announced"
       ]
     },
     {
@@ -174159,11 +174133,11 @@
       "popularityTier": 1,
       "finalVersion": "1.7.2",
       "versionSourceUrl": "https://legacy-forum.arturia.com/index.php?topic=13981.0",
-      "versionVerifiedAt": "2026-09-15T23:31:11Z",
+      "versionVerifiedAt": "2026-10-22T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Arturia official legacy forum; staff-directed 1.7.2 installer is the documented final Spark 1 build"
+        "Arturia staff forum post links Spark_CDM_1.7.2_build_233.exe as latest Spark 1.x; no newer 1.x release referenced anywhere in thread"
       ]
     },
     {
@@ -180934,11 +180908,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/substance-by-output",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-10-21T17:23:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR verwin exact-match 1.0.1; verosx 3.0.0 refused (uncorroborated timeline artifact, 7+ surface hunt zero)"
       ]
     },
     {
@@ -182335,11 +182309,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/spread",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Swivel Audio Spread'; public Installer v1.3.0 (Mac) label; sha256=f546046b3126c107…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -188148,11 +188122,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-arbiter/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T17:27:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/Arbiter/1.2.1/ matches stored"
       ]
     },
     {
@@ -188181,11 +188155,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.10",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-collector/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T17:27:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/Collector/1.0.10/ matches stored"
       ]
     },
     {
@@ -188214,11 +188188,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-elliptical/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T17:27:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/Elliptical/1.2.1/ matches stored"
       ]
     },
     {
@@ -188311,11 +188285,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-infrasonic/",
-      "versionVerifiedAt": "2026-09-10T08:12:00Z",
+      "versionVerifiedAt": "2026-10-21T17:27:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/Infrasonic/1.1.2/ matches stored"
       ]
     },
     {
@@ -188574,11 +188548,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-simulathe-cut/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T17:27:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/SimuLatheCUT/1.1.1/ matches stored"
       ]
     },
     {
@@ -188607,11 +188581,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-simulathe-ref/",
-      "versionVerifiedAt": "2026-09-10T08:12:01Z",
+      "versionVerifiedAt": "2026-10-21T17:27:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/SimuLatheREF/1.1.1/ matches stored"
       ]
     },
     {
@@ -188666,11 +188640,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-ultrasonic/",
-      "versionVerifiedAt": "2026-09-10T08:12:00Z",
+      "versionVerifiedAt": "2026-10-21T17:27:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Tokyo Dawn product page Latest version string"
+        "vendor product page download path labs/Ultrasonic/1.0.6/ matches stored"
       ]
     },
     {
@@ -189395,11 +189369,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/spatial-creator",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:29Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='THX Spatial Creator'; public Installer v1.1.0 (Mac) label; sha256=71f50279c5fa0401…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -193752,11 +193726,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/thermal-by-output",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-10-21T17:23:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR verwin exact-match 1.3.0; verosx 1.2.1 older, no downgrade"
       ]
     },
     {
@@ -197802,11 +197776,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6",
       "versionSourceUrl": "https://www.kvraudio.com/product/transmodder-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:40Z",
+      "versionVerifiedAt": "2026-10-22T05:26:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.6 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -208331,11 +208305,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.7",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bass-mint",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-22T05:27:30Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Bass-Mint'; public Installer v1.1.7 (Mac) label; sha256=77b0a343de8c4747…"
+        "PA product-page changelog top entry, first-hand"
       ]
     },
     {
@@ -210341,11 +210315,11 @@
       "popularityTier": 1,
       "latestVersion": "11",
       "versionSourceUrl": "https://www.arturia.com/products/software-instruments/v-collection/overview",
-      "versionVerifiedAt": "2026-09-17T16:10:38Z",
+      "versionVerifiedAt": "2026-10-22T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Official Arturia bundle page; bundle generation version only, no exact build published"
+        "official Arturia bundle page: still V Collection 11 generation, product named V Collection 11 Pro"
       ]
     },
     {
@@ -214684,11 +214658,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/vintage-modulator-by-voxengo",
-      "versionVerifiedAt": "2026-09-10T08:19:41Z",
+      "versionVerifiedAt": "2026-10-22T05:26:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin=1.4 on 2026-10-21; matches stored; KVR oracle ceiling @60"
       ]
     },
     {
@@ -230172,11 +230146,11 @@
       "popularityTier": 1,
       "latestVersion": "1.033",
       "versionSourceUrl": "https://www.kvraudio.com/product/khs-one-by-kilohearts",
-      "versionVerifiedAt": "2026-09-10T08:18:56Z",
+      "versionVerifiedAt": "2026-10-22T05:22:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page raw HTML verwin/verosx both read 1.033 on 2026-10-21; matches stored; KVR oracle ceiling @60, exact-match hold"
       ]
     },
     {
