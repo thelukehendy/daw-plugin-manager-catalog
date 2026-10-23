@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-22T20:44:19Z",
+  "updatedAt": "2026-10-23T13:01:00Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -28,6 +28,12 @@
       ],
       "notes": "8Dio sample libraries (Kontakt-heavy). expand10. [2026-09-15 compat: Re-verify of prior chip intel: sample libraries, Kontakt/Kontakt Player heavy; no Apple Silicon statement on 8dio.com found via search this run.] [2026-09-16 compat: still no 8dio.com-owned native/universal/Rosetta statement (stays unknown). Libraries are Kontakt-dependent (8dio.com blog: all libraries require full Kontakt) - architecture follows Kontakt, not claimed. Re-fetch recipe: poll 8dio.com/blogs/news + product pages for X.0 update posts, quarterly.]",
       "popularityTier": 1
+    },
+    {
+      "id": "908-audio",
+      "name": "908 Audio",
+      "updatePortalUrl": "https://908audio.com.br",
+      "websiteUrl": "https://908audio.com.br"
     },
     {
       "id": "aom-factory",
@@ -758,6 +764,12 @@
       "popularityTier": 3
     },
     {
+      "id": "big-man-labs",
+      "name": "Big Man Labs",
+      "updatePortalUrl": "https://www.bigman-labs.com",
+      "websiteUrl": "https://www.bigman-labs.com"
+    },
+    {
       "id": "oas--billy-messenger",
       "name": "Billy Messenger",
       "updatePortalUrl": "https://github.com/BillyDM/vitalium-verb",
@@ -1384,6 +1396,12 @@
       "appleSilicon": "native",
       "notes": "Added 2026-09-14 via research-engine-10x universe expansion.\nApple Silicon: unknown (researched 2026-09-15). No statement on deniseaudio.com/denise.io; only third-party forum reposts of a Dec-2022 native-M1 announcement. No manufacturer-owned quote.\nApple Silicon: NATIVE (verified 2026-09-15). Vendor announcement (Denise Audio, Dec 2022): \"All plugins have been updated for native Apple Silicon (M1) support.\" Plus per-product: deniseaudio.com Perfect Room 2 specs \"Mac: macOS 10.11 or newer (64-bit) including native Apple Silicon.\" No version numbers or changelog on deniseaudio.com. Compat sweep 2026-09-15: native verified line-wide — official support page (deniseaudio.com/support): 'These are the technical specs for all plugins listed on our website: ... macOS 10.11 or newer (64-bit) + native Apple Silicon'; also on Bad Tape, Motion Filter, Bass XXL, Slappy product pages.",
       "popularityTier": 2
+    },
+    {
+      "id": "desert-moon-audio",
+      "name": "Desert Moon Audio",
+      "updatePortalUrl": "https://desertmoonaudio.com",
+      "websiteUrl": "https://desertmoonaudio.com"
     },
     {
       "id": "devious-machines",
@@ -5137,6 +5155,18 @@
       "popularityTier": 1
     },
     {
+      "id": "vald-labs",
+      "name": "Våld Labs",
+      "updatePortalUrl": "https://valdlabs.com",
+      "websiteUrl": "https://valdlabs.com"
+    },
+    {
+      "id": "w-a-production",
+      "name": "W.A. Production",
+      "updatePortalUrl": "https://www.waproduction.com",
+      "websiteUrl": "https://www.waproduction.com"
+    },
+    {
       "id": "wa-production",
       "name": "WA Production",
       "updatePortalUrl": "https://www.waproduction.com/users/login",
@@ -7353,6 +7383,21 @@
         "matches KVR 1.0",
         "confidence raise 10"
       ]
+    },
+    {
+      "id": "908-audio--908-bd",
+      "manufacturerId": "908-audio",
+      "name": "908 BD",
+      "matchPatterns": [
+        "908 BD",
+        "908BD"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: dual 808+909 kick drum synth, launched ~2026-10-11 (Brazilian vendor); KVR article links 908audio.com.br and carries vendor-supplied detail -> versionless seed; vendor-site re-verification recommended before first version write. KVR reports 1.11.0 (not accepted). Evidence: https://www.kvraudio.com/news/908-audio-releases-four-drum-synth-plugins-and-the-rd-9-sample-pack-69014"
     },
     {
       "id": "audio-damage--914-fixed-filter-bank",
@@ -21898,6 +21943,21 @@
       "popularityTier": 1
     },
     {
+      "id": "w-a-production--asymo-reverb",
+      "manufacturerId": "w-a-production",
+      "name": "Asymo Reverb",
+      "matchPatterns": [
+        "Asymo Reverb",
+        "AsymoReverb"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: dynamic spatial reverb, launched ~2026-10-03; vendor page prints no version -> versionless seed. Evidence: https://www.waproduction.com/plugins/view/asymo-reverb (productPage)."
+    },
+    {
       "id": "softube--atlantis-dual-chambers",
       "manufacturerId": "softube",
       "name": "Atlantis Dual Chambers",
@@ -30115,6 +30175,22 @@
         "Manufacturer official Plugin Versions page with Curr Version column",
         "Row matched DB plugin 'Big Goat' → table 'Big Goat' = v1.3"
       ]
+    },
+    {
+      "id": "big-man-labs--big-loader",
+      "manufacturerId": "big-man-labs",
+      "name": "Big Loader",
+      "matchPatterns": [
+        "Big Loader",
+        "BigLoader"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: IR/convolution reverb loader, released ~2026-10-19 (Win/Mac/Linux); KVR links www.bigman-labs.com -> versionless seed; vendor-site re-verification recommended before first version write. KVR product page reports 1.0.0 (crowdsourced, not accepted). Evidence: https://www.kvraudio.com/product/big-loader-by-big-man-labs"
     },
     {
       "id": "xhun-audio--big-steps",
@@ -141287,6 +141363,21 @@
       "popularityTier": 2
     },
     {
+      "id": "desert-moon-audio--palette",
+      "manufacturerId": "desert-moon-audio",
+      "name": "Palette",
+      "matchPatterns": [
+        "Desert Moon Audio Palette",
+        "Palette"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: multi-effect unit (4 modules x 5 algorithms), new manufacturer w/ 20 plugins; vendor homepage lists it, no version printed -> versionless seed. KVR product page reports 1.0.10 (crowdsourced, not accepted). Evidence: https://desertmoonaudio.com/"
+    },
+    {
       "id": "impact-soundworks--palette-primary-colors",
       "manufacturerId": "impact-soundworks",
       "name": "Palette: Primary Colors",
@@ -173376,13 +173467,13 @@
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.sonarworks.com/soundid-reference/download",
       "popularityTier": 3,
-      "latestVersion": "5.13.8",
+      "latestVersion": "5.13.8.1308",
       "versionSourceUrl": "https://www.sonarworks.com/download-center",
-      "versionVerifiedAt": "2026-09-10T04:12:17Z",
+      "versionVerifiedAt": "2026-10-23T05:24:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Lane C tail bulk re-verification: same automatic oracle (Sonarworks download-center current-version label) shows 5.13.8.1308 vs stored 5.13.8; Current version 5.13.8.1308 (SoundID Reference download center)"
       ]
     },
     {
@@ -213543,6 +213634,20 @@
       "popularityTier": 1
     },
     {
+      "id": "vald-labs--vekte",
+      "manufacturerId": "vald-labs",
+      "name": "Vekte",
+      "matchPatterns": [
+        "Vekte",
+        "VEKTE"
+      ],
+      "formats": [
+        "VST3",
+        "AUv3"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: generative MIDI sequencer (VST3 + standalone Mac/Win, AUv3 MIDI FX), first commercial desktop release 2026-10-19; KVR+noizefield report 1.3.0 but no first-hand vendor version -> versionless seed. Vendor-site version confirmation needed. Evidence: https://valdlabs.com + https://www.kvraudio.com/product/vekte-by-vald-labs"
+    },
+    {
       "id": "avid--velocitycontrol",
       "manufacturerId": "avid",
       "name": "VelocityControl",
@@ -225033,13 +225138,13 @@
       "updatePortalUrl": "https://www.apulsoft.ch",
       "notes": "KVR product https://www.kvraudio.com/product/apqualizr2-by-apulsoft",
       "popularityTier": 3,
-      "latestVersion": "2.7.7",
+      "latestVersion": "2.7.8",
       "versionSourceUrl": "https://www.apulsoft.ch/apqualizr2/",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-10-23T05:25:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Lane C tail bulk re-verification: same automatic oracle (apulsoft product page Downloads section) shows 2.7.8 vs stored 2.7.7; Downloads (v2.7.8); installer apqualizr2-mac-2-7-8.pkg"
       ]
     },
     {
@@ -225092,13 +225197,13 @@
       "updatePortalUrl": "https://www.apulsoft.ch",
       "notes": "KVR product https://www.kvraudio.com/product/apunmask-by-apulsoft",
       "popularityTier": 3,
-      "latestVersion": "1.0.7",
+      "latestVersion": "1.0.8",
       "versionSourceUrl": "https://www.apulsoft.ch/apunmask/",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-10-23T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Lane C tail bulk re-verification: same automatic oracle (apulsoft product page Downloads section) shows 1.0.8 vs stored 1.0.7; Downloads (v1.0.8); installer apunmask-mac-1-0-8.pkg"
       ]
     },
     {
