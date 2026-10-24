@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-23T13:01:00Z",
+  "updatedAt": "2026-10-24T13:00:43Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -81,6 +81,12 @@
         "AmIAudio"
       ],
       "notes": "Added 2026-09-28 via feedback triage (opted-in Bethel Studio scan). Small AI-choir vendor; product page / update channel not yet verified first-hand."
+    },
+    {
+      "id": "amxos",
+      "name": "AMXOS",
+      "updatePortalUrl": "https://amxos.io",
+      "websiteUrl": "https://amxos.io"
     },
     {
       "id": "oas--auditive",
@@ -1387,6 +1393,12 @@
       ],
       "notes": "Sitala drum sampler + Dert; freeware-leaning; expand4.",
       "popularityTier": 3
+    },
+    {
+      "id": "delta-sound-labs",
+      "name": "Delta Sound Labs",
+      "updatePortalUrl": "https://www.deltasoundlabs.com",
+      "websiteUrl": "https://www.deltasoundlabs.com"
     },
     {
       "id": "denise-audio",
@@ -4135,6 +4147,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "signal-tools-co",
+      "name": "Signal Tools Co.",
+      "updatePortalUrl": "https://signaltoolsco.com",
+      "websiteUrl": "https://signaltoolsco.com"
+    },
+    {
       "id": "oas--simon-heimler",
       "name": "Simon Heimler",
       "updatePortalUrl": "https://github.com/Fannon/trace-tuner",
@@ -4521,6 +4539,12 @@
       "websiteUrl": "https://www.strezov-sampling.com/",
       "notes": "Added 2026-09-15 via research-engine-10x universe expansion (surge-1918). Strezov Sampling - orchestral/choir/ethnic sample libraries (Kontakt; some require Kontakt FULL, Player not supported). Apple Silicon status host-dependent - left null. Outside-pool replacement for exhausted pool candidates (verified zero collision).",
       "popularityTier": 3
+    },
+    {
+      "id": "subverselab",
+      "name": "SubverseLab",
+      "updatePortalUrl": "https://subverselab.com",
+      "websiteUrl": "https://subverselab.com"
     },
     {
       "id": "sugar-bytes",
@@ -7397,7 +7421,16 @@
         "AU",
         "CLAP"
       ],
-      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: dual 808+909 kick drum synth, launched ~2026-10-11 (Brazilian vendor); KVR article links 908audio.com.br and carries vendor-supplied detail -> versionless seed; vendor-site re-verification recommended before first version write. KVR reports 1.11.0 (not accepted). Evidence: https://www.kvraudio.com/news/908-audio-releases-four-drum-synth-plugins-and-the-rd-9-sample-pack-69014"
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-22-2218: dual 808+909 kick drum synth, launched ~2026-10-11 (Brazilian vendor); KVR article links 908audio.com.br and carries vendor-supplied detail -> versionless seed; vendor-site re-verification recommended before first version write. KVR reports 1.11.0 (not accepted). Evidence: https://www.kvraudio.com/news/908-audio-releases-four-drum-synth-plugins-and-the-rd-9-sample-pack-69014",
+      "latestVersion": "1.0.2",
+      "versionSourceUrl": "https://908audio.com.br",
+      "versionVerifiedAt": "2026-10-23T17:29:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "908audio.com.br homepage: 908 BD product card prints 'V 1.0.2' (vendor first-hand, product-identity exact)",
+        "supersedes unaccepted KVR 1.11.0 report (crowdsourced, never accepted)"
+      ]
     },
     {
       "id": "audio-damage--914-fixed-filter-bank",
@@ -8931,6 +8964,18 @@
       "versionConfidenceReasons": [
         "manual accept via CLI (confidence=65)"
       ]
+    },
+    {
+      "id": "amxos--amx-mortal-coil",
+      "manufacturerId": "amxos",
+      "name": "AMX Mortal Coil",
+      "matchPatterns": [
+        "AMX Mortal Coil"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "notes": "Clipper and waveshaper from new Phoenix-based developer AMXOS, launched Oct 2026: five shaping modes (Soft, Hard, Asymmetric, Hybrid, Spectral), up to three stages in series, oversampling to 16x. Windows x64 VST3 plus a standalone app. Intro price $39.99 through Oct 21, 2026 (regular $59.99). No version number printed on the vendor site — seeded versionless."
     },
     {
       "id": "sonic-academy--ana-2",
@@ -28064,7 +28109,7 @@
         "AAX"
       ],
       "productLine": "Beatmaker",
-      "identityKind": "expansion",
+      "notes": "Full plug-in instrument (VST2/VST3/AU/AAX), launched Oct 14, 2026 — not an expansion pack. Requires the Beatmaker 3 host plug-in plus at least 1 title.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "3.0.0",
@@ -51583,6 +51628,25 @@
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
       ]
+    },
+    {
+      "id": "ujam--detunicorn",
+      "manufacturerId": "ujam",
+      "name": "DETUNICORN",
+      "matchPatterns": [
+        "DETUNICORN",
+        "Detunicorn"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-23-1018: UJAM free limited-time hypersaw synth (Halloween drop released 2026-10-21, 666-hour activation window); vendor product page confirms, no version printed -> versionless seed. Evidence: https://www.ujam.com/detunicorn/",
+      "isFreeware": true,
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "oas--spotlightkid-dfjpverb",
@@ -83293,6 +83357,20 @@
       ]
     },
     {
+      "id": "908-audio--hhat",
+      "manufacturerId": "908-audio",
+      "name": "HHat",
+      "matchPatterns": [
+        "HHat"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-23-1018: hi-hat synthesizer (open/closed 909 hats, adjustable metallic layer), one of four in 908 Audio drum family; vendor Family section confirms product, no version printed -> versionless seed. Evidence: https://908audio.com.br"
+    },
+    {
       "id": "analog-obsession--hlqse",
       "manufacturerId": "analog-obsession",
       "name": "HLQSE",
@@ -91599,6 +91677,30 @@
       "notesForUser": "Free plugin from Airwindows. New builds are date-stamped rather than version-numbered, so there's no version number to check for updates.",
       "isFreeware": true,
       "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
+      "id": "baby-audio--hyperwarp",
+      "manufacturerId": "baby-audio",
+      "name": "HyperWarp",
+      "matchPatterns": [
+        "HyperWarp"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Granular time-warping multi-effect launched Oct 6, 2026 (new product, not a Warp update): draw speed shifts, stutter steps and direction changes on a graph while seven effect profiles (Clean Warp, Flange Warp, Degrade Warp, Filter Spam, Harmo-Nicer, Fauxcoder, Lo-Fizzly) shape the granular sound. Intro price $49 (regular $99) until Nov 30, 2026. macOS 10.13+ with native Apple Silicon, Windows 10+. No version number published on the vendor product page as of Oct 23, 2026 — seeded versionless.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "native",
       "popularityTier": 2
     },
     {
@@ -100141,6 +100243,20 @@
       ]
     },
     {
+      "id": "subverselab--kubbe",
+      "manufacturerId": "subverselab",
+      "name": "Kubbe",
+      "matchPatterns": [
+        "Kubbe",
+        "KUBBE"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-23-1018: SubverseLab algorithmic reverb (Hammam/Cistern/Valley modes), first of 7-product family (Kubbe/Kaset/Koro/Yanki/Hava/Tutkal/Mihenk); vendor plugins page confirms, no version printed -> versionless seed; family launch pricing until 2026-11-01. Evidence: https://subverselab.com/plugins"
+    },
+    {
       "id": "aom-factory--kujaku",
       "manufacturerId": "aom-factory",
       "name": "Kujaku",
@@ -107886,6 +108002,20 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "908-audio--lowconga",
+      "manufacturerId": "908-audio",
+      "name": "LowConga",
+      "matchPatterns": [
+        "LowConga"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-23-1018: perc/tom synthesizer (analog toms and congas with pitch bend), one of four in 908 Audio drum family; vendor Family section confirms product, no version printed -> versionless seed. Evidence: https://908audio.com.br"
     },
     {
       "id": "rob-papen--lowsane",
@@ -146258,6 +146388,31 @@
       "popularityTier": 2
     },
     {
+      "id": "venomode--venomode-plenum",
+      "manufacturerId": "venomode",
+      "name": "Plenum",
+      "matchPatterns": [
+        "Plenum"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "New multi-effect for making sounds bigger, launched Oct 12, 2026: six focused processors (Transient, Sub, Thick, Air, Boost, Space), each with a main amount control plus a fine-tune control. macOS, Windows and Linux. Intro price £29 until Oct 30, 2026 (regular £39).",
+      "popularityTier": 2,
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://venomode.com/plugins/plenum",
+      "versionVerifiedAt": "2026-10-24T05:24:17Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Version printed on vendor product page (v1.0.0)",
+        "Official manual filename Plenum Manual 1.0.0.pdf on vendor domain matches the product"
+      ]
+    },
+    {
       "id": "audiority--plexitape",
       "manufacturerId": "audiority",
       "name": "PlexiTape",
@@ -148694,6 +148849,15 @@
       "identityKind": "bundle",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "signal-tools-co--pro-knob-rack",
+      "manufacturerId": "signal-tools-co",
+      "name": "Pro Knob Rack",
+      "matchPatterns": [
+        "Pro Knob Rack"
+      ],
+      "notes": "Free 10-bay host that chains the Pro Knob Series single-control mixing modules — up to ten modules in one window, chain presets saved and recalled in any DAW. Free with a Signal Tools Co account. Launched alongside 15 paid Pro Knob modules (intro $7.95 each / $79.95 bundle through Dec 4, 2026). macOS 10.13+ (native Apple Silicon and Intel) and Windows 10+ 64-bit. No version number on the vendor site — seeded versionless."
     },
     {
       "id": "native-instruments--pro-percussion-leap-bundle",
@@ -161601,6 +161765,20 @@
       "versionConfidenceReasons": [
         "SURGE universe expansion 2026-09-15 (search-crawl-official-page)"
       ]
+    },
+    {
+      "id": "908-audio--sclap",
+      "manufacturerId": "908-audio",
+      "name": "SClap",
+      "matchPatterns": [
+        "SClap"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "notes": "Lane D chip daw-catalog-research-10x-2026-10-23-1018: snare/clap synthesizer, one of four in 908 Audio drum family (with 908 BD, LowConga, HHat); vendor Family section confirms product, no version printed -> versionless seed. Evidence: https://908audio.com.br"
     },
     {
       "id": "sknote--sdc",
@@ -178639,6 +178817,21 @@
       "popularityTier": 1
     },
     {
+      "id": "delta-sound-labs--stream-pro",
+      "manufacturerId": "delta-sound-labs",
+      "name": "Stream Pro",
+      "matchPatterns": [
+        "Stream Pro"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Delta Sound Labs first virtual instrument, launched Oct 2026: a granular synthesis plugin that turns your own recordings into playable polyphonic instruments (8 voices, MPE), evolving pads and 3D spatial textures. Also ships as a standalone app. Sold for $99 at ILIO. Announced as XStream at NAMM 2026 and renamed Stream Pro at launch — old XStream presets, settings and licenses carry over. No version number on the vendor product page as of Oct 23, 2026 — seeded versionless.",
+      "identityKind": "instrument"
+    },
+    {
       "id": "initial-audio--street-cinema-heat-up-2-expansion",
       "manufacturerId": "initial-audio",
       "name": "Street Cinema Heat Up 2 Expansion",
@@ -186662,13 +186855,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tal-eq-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.2",
+      "latestVersion": "1.4.1",
       "versionSourceUrl": "https://tal-software.com/products/tal-eq",
-      "versionVerifiedAt": "2026-09-10T09:20:53Z",
+      "versionVerifiedAt": "2026-10-24T05:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "TAL Software product page Downloads v1.3.2"
+        "Vendor product-page changelog top entry 'Version 1.4.1 / 02.10.2026' (supersedes 1.3.2 / 09.09.2026), first-hand vendor surface"
       ]
     },
     {
@@ -210009,7 +210202,7 @@
         "AAX"
       ],
       "productLine": "Usynth",
-      "identityKind": "expansion",
+      "notes": "Full plug-in instrument (VST2/VST3/AU/AAX), launched Oct 14, 2026 — not an expansion pack. Requires the Usynth host plug-in plus at least 1 title.",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.1.0",
