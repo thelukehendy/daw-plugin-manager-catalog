@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-24T13:00:43Z",
+  "updatedAt": "2026-10-25T13:00:36Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -487,6 +487,12 @@
       "updatePortalUrl": "https://github.com/arunas-cesonis/live-sampler",
       "websiteUrl": "https://github.com/arunas-cesonis/live-sampler",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "astra-creative-audio",
+      "name": "Astra Creative Audio",
+      "updatePortalUrl": "https://astracreativeaudio.com",
+      "websiteUrl": "https://astracreativeaudio.com"
     },
     {
       "id": "oas--attila-m-magyar",
@@ -3635,6 +3641,12 @@
       "updatePortalUrl": "https://phonolyth.com/",
       "websiteUrl": "https://phonolyth.com/",
       "notes": "Added 2026-09-15 chip surge-0718. Desktop plugins: Cascade, Velvet Machine (iOS-only Shoom/Xynthesizr excluded)."
+    },
+    {
+      "id": "photondsp",
+      "name": "PhotonDSP",
+      "updatePortalUrl": "https://photondsp.com",
+      "websiteUrl": "https://photondsp.com"
     },
     {
       "id": "oas--pierre-guillot",
@@ -7489,6 +7501,71 @@
       ]
     },
     {
+      "id": "astra-creative-audio--a-500",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-500",
+      "matchPatterns": [
+        "A-500"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Rack of three EQ modules in series (three-band, four-band, and ten-band graphic) that can be reordered, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "astra-creative-audio--a-76",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-76",
+      "matchPatterns": [
+        "A-76"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Solid-state FET limiter in the late-1960s style, with no threshold control and an all-buttons-in mode, from Astra Creative Audio. Included in the Astra Sampler FX subscription; also sold on its own from 26 October 2026. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "astra-creative-audio--a-channel-eq",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-Channel EQ",
+      "matchPatterns": [
+        "A-Channel EQ"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Four-band channel EQ with two band characters, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "astra-creative-audio--a-pre-eq",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-Pre EQ",
+      "matchPatterns": [
+        "A-Pre EQ"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Class-A preamp with transformers and a three-band EQ, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "astra-creative-audio--a-program-eq",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-Program EQ",
+      "matchPatterns": [
+        "A-Program EQ"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Passive valve-style EQ in the 1950s style, with boost and cut on the same low frequency, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "sknote--a25",
       "manufacturerId": "sknote",
       "name": "A25",
@@ -8966,6 +9043,30 @@
       ]
     },
     {
+      "id": "amxos--amx-arc-compressor",
+      "manufacturerId": "amxos",
+      "name": "AMX ARC Compressor",
+      "matchPatterns": [
+        "AMX ARC Compressor"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "notes": "Stereo compressor from AMXOS, launched Oct 2026: seven factory styles, external key input, sidechain and delta listening, lookahead and oversampling, plus a mix control for parallel compression. Windows VST3 plus a standalone app. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "amxos--amx-convergence",
+      "manufacturerId": "amxos",
+      "name": "AMX Convergence",
+      "matchPatterns": [
+        "AMX Convergence"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "notes": "Phase and time-alignment tool from AMXOS, launched Oct 2026: independent channel delay, polarity inversion and two phase-rotation sections, with a six-second scan that proposes a correction. Windows VST3 plus a standalone app. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "amxos--amx-mortal-coil",
       "manufacturerId": "amxos",
       "name": "AMX Mortal Coil",
@@ -8976,6 +9077,18 @@
         "VST3"
       ],
       "notes": "Clipper and waveshaper from new Phoenix-based developer AMXOS, launched Oct 2026: five shaping modes (Soft, Hard, Asymmetric, Hybrid, Spectral), up to three stages in series, oversampling to 16x. Windows x64 VST3 plus a standalone app. Intro price $39.99 through Oct 21, 2026 (regular $59.99). No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "amxos--amx-precision-limiter",
+      "manufacturerId": "amxos",
+      "name": "AMX Precision Limiter",
+      "matchPatterns": [
+        "AMX Precision Limiter"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "notes": "True-peak limiter from AMXOS, launched Oct 2026: full-band limiting plus independently timed low, mid and high bands, sidechain filtering, target matching and a final output ceiling. Windows VST3 plus a standalone app. No version number printed on the vendor site — seeded versionless."
     },
     {
       "id": "sonic-academy--ana-2",
@@ -78392,6 +78505,18 @@
       "popularityTier": 3
     },
     {
+      "id": "photondsp--gammadelay",
+      "manufacturerId": "photondsp",
+      "name": "GammaDelay",
+      "matchPatterns": [
+        "GammaDelay"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "notes": "Delay from new developer PhotonDSP, launched Sep 2026: spectral unmasking that clears room in the repeats for the dry sound, a 20-process tape simulation, and stereo widening on the wet signal only. Windows 64-bit VST3 with a free 14-day trial. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "apple--garageband",
       "manufacturerId": "apple",
       "name": "GarageBand",
@@ -118774,6 +118899,34 @@
       "isFreeware": true,
       "appleSilicon": "universal",
       "popularityTier": 2
+    },
+    {
+      "id": "audiothing--materia",
+      "manufacturerId": "audiothing",
+      "name": "Materia",
+      "matchPatterns": [
+        "Materia"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "notes": "Additive re-synthesizer released Oct 12, 2026: load any sample and it turns into a playable instrument made of 96 editable harmonic partials, with a filter, resonator, echo, phaser and waveshaper. Works on macOS, Windows and Linux. Intro price 9 (regular 9) until Oct 31, 2026.",
+      "identityKind": "instrument",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/materia/",
+      "versionVerifiedAt": "2026-10-24T17:24:24Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page changelog prints v1.0 release 2026/10/12",
+        "First-hand vendor evidence, launch version"
+      ]
     },
     {
       "id": "voosteq--material-comp",
@@ -187013,13 +187166,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tal-j-8x-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.9",
+      "latestVersion": "1.1.0",
       "versionSourceUrl": "https://tal-software.com/products/tal-j-8x",
-      "versionVerifiedAt": "2026-09-10T09:20:53Z",
+      "versionVerifiedAt": "2026-10-24T17:22:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "TAL Software product page Downloads v1.0.9"
+        "vendor product page changelog top entry + Downloads version, first-hand via live-browser probe 2026-10-24"
       ]
     },
     {
