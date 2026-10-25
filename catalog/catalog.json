@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-25T13:00:36Z",
+  "updatedAt": "2026-10-25T19:34:00Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -1373,6 +1373,12 @@
       ],
       "notes": "Also distributed via Tracktion; dedup against tracktion--* names",
       "popularityTier": 3
+    },
+    {
+      "id": "deadsignalaudio",
+      "name": "Dead Signal Audio",
+      "updatePortalUrl": "https://deadsignalaudio.com",
+      "websiteUrl": "https://deadsignalaudio.com"
     },
     {
       "id": "dear-reality",
@@ -7501,6 +7507,33 @@
       ]
     },
     {
+      "id": "astra-creative-audio--a-2a",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-2A",
+      "matchPatterns": [
+        "A-2A",
+        "Astra A-2A"
+      ]
+    },
+    {
+      "id": "astra-creative-audio--a-2bus",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-2Bus",
+      "matchPatterns": [
+        "A-2Bus",
+        "Astra A-2Bus"
+      ]
+    },
+    {
+      "id": "astra-creative-audio--a-3a",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-3A",
+      "matchPatterns": [
+        "A-3A",
+        "Astra A-3A"
+      ]
+    },
+    {
       "id": "astra-creative-audio--a-500",
       "manufacturerId": "astra-creative-audio",
       "name": "A-500",
@@ -7540,6 +7573,15 @@
       "notes": "Four-band channel EQ with two band characters, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
     },
     {
+      "id": "astra-creative-audio--a-parallax",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-Parallax",
+      "matchPatterns": [
+        "A-Parallax",
+        "Astra A-Parallax"
+      ]
+    },
+    {
       "id": "astra-creative-audio--a-pre-eq",
       "manufacturerId": "astra-creative-audio",
       "name": "A-Pre EQ",
@@ -7564,6 +7606,15 @@
         "AU"
       ],
       "notes": "Passive valve-style EQ in the 1950s style, with boost and cut on the same low frequency, from Astra Creative Audio. Sold on its own or included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
+      "id": "astra-creative-audio--a-vocal-fx",
+      "manufacturerId": "astra-creative-audio",
+      "name": "A-Vocal FX",
+      "matchPatterns": [
+        "A-Vocal FX",
+        "Astra A-Vocal FX"
+      ]
     },
     {
       "id": "sknote--a25",
@@ -8821,6 +8872,15 @@
       "identityKind": "suite_component",
       "appleSilicon": "mixed",
       "popularityTier": 2
+    },
+    {
+      "id": "subverselab--alev",
+      "manufacturerId": "subverselab",
+      "name": "ALEV",
+      "matchPatterns": [
+        "ALEV",
+        "SubverseLab ALEV"
+      ]
     },
     {
       "id": "heavyocity--allure-modern-upright",
@@ -15633,18 +15693,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amber-4-by-acustica-audio",
+      "latestVersionMac": "3.0.1",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.1",
+      "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-4-by-acustica-audio/details",
-      "versionVerifiedAt": "2026-09-16T15:20:19Z",
+      "versionVerifiedAt": "2026-10-25T19:32:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR exact product page dual platform rows 3.0.0/3.0.1, take higher; official Acustica page publishes no numeric revision"
+        "Grok Bot 2026-10-25 D3a, operator spot-verified KVR split"
       ]
     },
     {
@@ -15959,18 +16021,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amethyst-4-by-acustica-audio",
+      "latestVersionMac": "3.0.2",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.2",
+      "latestVersion": "3.0.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-4-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-16T15:20:19Z",
+      "versionVerifiedAt": "2026-10-25T19:32:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR exact product page dual platform rows 3.0.0/3.0.2, take higher; official Acustica page publishes no numeric revision"
+        "Grok Bot 2026-10-25 D3a, operator spot-verified KVR split"
       ]
     },
     {
@@ -22101,6 +22165,19 @@
       "popularityTier": 1
     },
     {
+      "id": "astra-creative-audio--astrassor",
+      "manufacturerId": "astra-creative-audio",
+      "name": "Astrassor",
+      "matchPatterns": [
+        "Astrassor"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Five-character compressor with zero latency, from Astra Creative Audio. Included in the Astra Sampler FX subscription. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "w-a-production--asymo-reverb",
       "manufacturerId": "w-a-production",
       "name": "Asymo Reverb",
@@ -24370,15 +24447,16 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/surge-synthesizer/b-step",
       "notes": "OAS package surge-synthesizer/b-step",
+      "notesForUser": "Nightly build date 2024-07-28; bundle version is 2.1 (source code).",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2024.7.28",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/b-step/index.json",
-      "versionVerifiedAt": "2026-09-30T05:24:00Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "latestVersion": "2.1",
+      "versionSourceUrl": "https://raw.githubusercontent.com/surge-synthesizer/B-Step/3f935f8/CMakeLists.txt",
+      "versionVerifiedAt": "2026-10-25T19:32:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "open-audio-stack registry JSON version field (95)"
+        "Grok Bot 2026-10-25 B1, operator first-hand re-verified CMake; alias-in-effect with vendor row"
       ]
     },
     {
@@ -24402,12 +24480,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/b-step-sequencer-by-surge-synth-team",
-      "versionVerifiedAt": "2026-09-10T10:57:53Z",
+      "versionSourceUrl": "https://raw.githubusercontent.com/surge-synthesizer/B-Step/3f935f8/CMakeLists.txt",
+      "versionVerifiedAt": "2026-10-25T19:32:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR Win=Mac=Linux Product Version 2.1 exact match; GitHub only Nightly tag; stamped KVR stable listing per Shortcircuit pattern"
+        "Grok Bot 2026-10-25 B1, operator first-hand re-verified CMake"
       ]
     },
     {
@@ -40184,13 +40262,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/DISTRHO/Cardinal",
       "notes": "OAS package distrho/cardinal",
-      "latestVersion": "2026.2.0",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/distrho/cardinal/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "notesForUser": "Release tag 26.02 (YY.MM); the registry spelling 2026.2.0 is the same release.",
+      "latestVersion": "26.02",
+      "versionSourceUrl": "https://github.com/DISTRHO/Cardinal/releases/tag/26.02",
+      "versionVerifiedAt": "2026-10-25T19:32:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "Grok Bot 2026-10-25 B1; alias adopted 2026-10-22, previously unapplied"
       ]
     },
     {
@@ -96164,6 +96243,16 @@
       "popularityTier": 1
     },
     {
+      "id": "subverselab--jing-fang",
+      "manufacturerId": "subverselab",
+      "name": "JING FANG",
+      "matchPatterns": [
+        "JING FANG",
+        "SubverseLab JING FANG"
+      ],
+      "notesForUser": "Microtonal synthesizer. Launch price to 2026-12-01."
+    },
+    {
       "id": "waves--jjp-analog-legends",
       "manufacturerId": "waves",
       "name": "JJP Analog Legends",
@@ -97647,6 +97736,15 @@
       "notesForUser": "KIT Plugins content/library (KIT Drums - Connor Denis).",
       "identityKind": "soundset",
       "popularityTier": 2
+    },
+    {
+      "id": "subverselab--kiyma",
+      "manufacturerId": "subverselab",
+      "name": "KIYMA",
+      "matchPatterns": [
+        "KIYMA",
+        "SubverseLab KIYMA"
+      ]
     },
     {
       "id": "analog-obsession--konsol",
@@ -131118,6 +131216,90 @@
       "notesForUser": "Not yet checked against the vendor's site."
     },
     {
+      "id": "deadsignalaudio--nucomp",
+      "manufacturerId": "deadsignalaudio",
+      "name": "NuComp",
+      "matchPatterns": [
+        "NuComp"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Free compressor with a live gain-reduction curve, automatic gain matching and a parallel mix control, from Dead Signal Audio's free Nu series. Mac AU/VST3 and Windows VST3.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/nucomp/",
+      "versionVerifiedAt": "2026-10-25T17:20:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints v0.1.0 (page JSON-LD Version field), re-verified first-hand 2026-10-25"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--nueq",
+      "manufacturerId": "deadsignalaudio",
+      "name": "NuEQ",
+      "matchPatterns": [
+        "NuEQ"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Free 8-band EQ with a live analyzer and dynamic bands, from Dead Signal Audio's free Nu series for heavy music. Mac AU/VST3 and Windows VST3.",
+      "latestVersion": "0.3.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/nueq/",
+      "versionVerifiedAt": "2026-10-25T17:20:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints v0.3.0 (page JSON-LD Version field), re-verified first-hand 2026-10-25"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--nugate",
+      "manufacturerId": "deadsignalaudio",
+      "name": "NuGate",
+      "matchPatterns": [
+        "NuGate"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Free noise gate with hysteresis, hold control, 2 ms lookahead and key filters, from Dead Signal Audio's free Nu series. Mac AU/VST3 and Windows VST3.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/nugate/",
+      "versionVerifiedAt": "2026-10-25T17:20:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints v0.1.0 (page JSON-LD Version field), re-verified first-hand 2026-10-25"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--nusat",
+      "manufacturerId": "deadsignalaudio",
+      "name": "NuSat",
+      "matchPatterns": [
+        "NuSat"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "Free saturator with a high-pass filter feeding an asymmetric 4x-oversampled clipper, from Dead Signal Audio's free Nu series. Mac AU/VST3 and Windows VST3.",
+      "latestVersion": "0.1.1",
+      "versionSourceUrl": "https://deadsignalaudio.com/nusat/",
+      "versionVerifiedAt": "2026-10-25T17:20:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints v0.1.1 (page JSON-LD Version field), re-verified first-hand 2026-10-25"
+      ]
+    },
+    {
       "id": "steinberg--nuendo",
       "manufacturerId": "steinberg",
       "name": "Nuendo",
@@ -132797,12 +132979,13 @@
       "manufacturerId": "oas--thewavewarden",
       "name": "Odin",
       "matchPatterns": [
-        "Odin",
-        "odin"
+        "Odin 2",
+        "odin2"
       ],
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/TheWaveWarden/odin2",
       "notes": "OAS package thewavewarden/odin",
+      "notesForUser": "This registry entry is Odin 2 under a second key (same repo, file and checksum as Odin 2), not Odin 1.",
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/thewavewarden/odin/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -153758,6 +153941,15 @@
       ]
     },
     {
+      "id": "subverselab--ru-8",
+      "manufacturerId": "subverselab",
+      "name": "RU-8",
+      "matchPatterns": [
+        "RU-8",
+        "SubverseLab RU-8"
+      ]
+    },
+    {
       "id": "slate-ash--ruins",
       "manufacturerId": "slate-ash",
       "name": "RUINS",
@@ -161942,6 +162134,15 @@
       ],
       "updatePortalUrl": "https://www.sknoteaudio.com/wp/software-products/",
       "notesForUser": "Not yet checked against the vendor's site."
+    },
+    {
+      "id": "subverselab--seda",
+      "manufacturerId": "subverselab",
+      "name": "SEDA",
+      "matchPatterns": [
+        "SEDA",
+        "SubverseLab SEDA"
+      ]
     },
     {
       "id": "arturia--sem-v",
@@ -175160,14 +175361,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-pro-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "13.0.20",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15455&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "latestVersion": "13.0.30",
+      "versionSourceUrl": "https://forums.steinberg.net/t/spectralayers-13-0-30-maintenance-update/1044092",
+      "versionVerifiedAt": "2026-10-25T17:23:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Steinberg SpectraLayers_13.0.20_Installer_* public",
-        "manufacturer newer than stale KVR 13.0.0"
+        "Steinberg forum staff release announcement 2026-10-22: 'We have just released a new maintenance update for SpectraLayers Pro and Elements, version 13.0.30'"
       ]
     },
     {
@@ -183899,15 +184099,28 @@
       ],
       "updatePortalUrl": "https://soniccharge.com/download",
       "notes": "KVR product https://www.kvraudio.com/product/synplant-by-sonic-charge",
+      "generation": "2",
+      "notesForUser": "Version 2024.08.30 was the six-product multi-installer date, not Synplant's version; no compare version is shown until an installed read. KVR corroboration 2.0.2.309 (candidate only).",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "sonic-charge--synplantfx",
+      "manufacturerId": "sonic-charge",
+      "name": "SynplantFX",
+      "matchPatterns": [
+        "SynplantFX",
+        "Sonic Charge SynplantFX"
+      ],
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2024.08.30",
+      "latestVersion": "1.0",
       "versionSourceUrl": "https://soniccharge.com/download",
-      "versionVerifiedAt": "2026-09-10T09:48:23Z",
+      "versionVerifiedAt": "2026-10-25T19:32:57Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Sonic Charge downloads page documents shared multi-installer Version: 2024.08.30 including this product"
+        "Grok Bot 2026-10-25 B2b, operator first-hand re-verified vendor-printed filename"
       ]
     },
     {
@@ -186695,6 +186908,15 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+      ]
+    },
+    {
+      "id": "subverselab--taban",
+      "manufacturerId": "subverselab",
+      "name": "TABAN",
+      "matchPatterns": [
+        "TABAN",
+        "SubverseLab TABAN"
       ]
     },
     {
@@ -192383,6 +192605,15 @@
       ]
     },
     {
+      "id": "astra-creative-audio--tesseracto-4d",
+      "manufacturerId": "astra-creative-audio",
+      "name": "Tesseracto 4D",
+      "matchPatterns": [
+        "Tesseracto 4D",
+        "Astra Tesseracto 4D"
+      ]
+    },
+    {
       "id": "x42--test-signal",
       "manufacturerId": "x42",
       "name": "Test Signal",
@@ -193633,13 +193864,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/the-orb-by-audiothing",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.2.2",
+      "latestVersion": "2.0",
       "versionSourceUrl": "https://www.audiothing.net/effects/the-orb/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-10-25T19:32:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Grok Bot 2026-10-25 B3a, operator first-hand re-verified: changelog + redirect + LM agree"
       ]
     },
     {
@@ -199999,13 +200230,13 @@
       "notes": "OAS package surge-synthesizer/tuning-workbench-synth",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2023.4.16",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/surge-synthesizer/tuning-workbench-synth/index.json",
-      "versionVerifiedAt": "2026-09-30T05:23:59Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "latestVersion": "0.9.0",
+      "versionSourceUrl": "https://raw.githubusercontent.com/surge-synthesizer/tuning-workbench-synth/main/CMakeLists.txt",
+      "versionVerifiedAt": "2026-10-25T19:32:20Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "open-audio-stack registry JSON version field (95)"
+        "Grok Bot 2026-10-25 B2a, operator first-hand re-verified CMake; JUCE-default inference noted, bundle-read falsifier open"
       ]
     },
     {
@@ -202160,7 +202391,6 @@
       "matchPatterns": [
         "UAD FATSO Jr. / Sr.",
         "UAD UAD FATSO Jr. / Sr.",
-        "UADx UAD FATSO Jr. / Sr.",
         "FATSO Jr. / Sr."
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
@@ -205995,6 +206225,18 @@
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
       ]
+    },
+    {
+      "id": "universal-audio--uadx-empirical-labs-fatso-tape-simulator",
+      "manufacturerId": "universal-audio",
+      "name": "UADx Empirical Labs FATSO Tape Simulator",
+      "matchPatterns": [
+        "UADx Empirical Labs FATSO",
+        "UADx FATSO"
+      ],
+      "notesForUser": "Launched on the UAD Native platform 2026-10-13 (UA FAQ 54359257223444). No version number is published yet, so no version is shown.",
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "universal-audio--uadx-enigmatic-82-overdrive-special-amp",
@@ -213030,7 +213272,8 @@
       "manufacturerId": "air",
       "name": "Vacuum",
       "matchPatterns": [
-        "Vacuum"
+        "Vacuum",
+        "Vacuum Classic"
       ],
       "formats": [
         "AAX",
@@ -213039,8 +213282,7 @@
       ],
       "minMacOS": "12.0",
       "portalApp": "inMusic Software Center",
-      "notesForUser": "We couldn't match this to a specific generation, so no version is shown.",
-      "identityKind": "gen_ambiguous",
+      "notesForUser": "Vacuum was renamed Vacuum Classic in the 2025 inMusic update. No version is shown yet: Windows and Mac compatibility tables disagree (1.2.0 vs 1.4.0).",
       "appleSilicon": "mixed",
       "popularityTier": 2
     },
