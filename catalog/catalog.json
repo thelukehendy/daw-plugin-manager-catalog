@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-26T00:06:57Z",
+  "updatedAt": "2026-10-26T13:01:12Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -62971,13 +62971,14 @@
       "notes": "Plugin Alliance Shopify product handle=expose-2",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.0.8",
-      "versionSourceUrl": "https://www.kvraudio.com/product/expose-by-mastering-the-mix",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "latestVersion": "2.0.13",
+      "versionSourceUrl": "https://masteringthemix.zendesk.com/hc/en-gb/articles/360011092398-EXPOSE",
+      "versionVerifiedAt": "2026-10-26T05:34:31Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "Vendor Zendesk release-notes article, top entry V2.0.13 Build May 14 2026",
+        "KVR stale at 2.0.8; vendor article newer than KVR"
       ]
     },
     {
@@ -70998,13 +70999,13 @@
       "notes": "Plugin Alliance Shopify product handle=fuser",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.7",
+      "latestVersion": "1.0.9",
       "versionSourceUrl": "https://www.kvraudio.com/product/fuser-by-mastering-the-mix",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-10-26T05:34:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "KVR-only; vendor article stale at 1.0.5, same 1.0.x train, no contradiction"
       ]
     },
     {
@@ -83633,6 +83634,20 @@
         "Manufacturer product-page banner exact match",
         "Matches KVR accepted current 1.1.0"
       ]
+    },
+    {
+      "id": "subverselab--hava",
+      "manufacturerId": "subverselab",
+      "name": "HAVA",
+      "matchPatterns": [
+        "HAVA",
+        "SubverseLab HAVA"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "SubverseLab air and spring-sheen bus plugin for top-end lift. VST3/AU on macOS, VST3 on Windows. Vendor page lists no version."
     },
     {
       "id": "liquidsonics--hd-cart",
@@ -97894,6 +97909,20 @@
         "Analog Obsession official CDN installer KONSOL_3.0.pkg (linked from public Patreon post) matches KVR 3.0",
         "corroboration raise-12; method=manufacturer-official-cdn-installer-filename"
       ]
+    },
+    {
+      "id": "subverselab--koro",
+      "manufacturerId": "subverselab",
+      "name": "KORO",
+      "matchPatterns": [
+        "KORO",
+        "SubverseLab KORO"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "SubverseLab vocal doubler and scale-aware harmonizer with automatic key detection. VST3/AU on macOS, VST3 on Windows. Vendor page lists no version."
     },
     {
       "id": "cherry-audio--kr-55c",
@@ -112645,6 +112674,20 @@
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
       ]
+    },
+    {
+      "id": "subverselab--mihenk",
+      "manufacturerId": "subverselab",
+      "name": "MIHENK",
+      "matchPatterns": [
+        "MIHENK",
+        "SubverseLab MIHENK"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "SubverseLab mastering plugin and standalone app (one engine) with loudness and true-peak measurement. VST3/AU plus standalone on macOS, VST3 plus standalone on Windows. Vendor page lists no version."
     },
     {
       "id": "ml-sound-lab--mikko-reflex",
@@ -165813,13 +165856,14 @@
       "notes": "Plugin Alliance Shopify product handle=stereovault",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/stereovault-by-mastering-the-mix",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "latestVersion": "1.3.7",
+      "versionSourceUrl": "https://masteringthemix.zendesk.com/hc/en-gb/articles/35358630130706-STEREOVAULT",
+      "versionVerifiedAt": "2026-10-26T05:34:37Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "Vendor Zendesk release-notes article, top entry V1.3.7 Build October 10 2026",
+        "Corroborated by KVR verwin 1.3.7"
       ]
     },
     {
@@ -191605,6 +191649,20 @@
       ]
     },
     {
+      "id": "subverselab--tutkal",
+      "manufacturerId": "subverselab",
+      "name": "TUTKAL",
+      "matchPatterns": [
+        "TUTKAL",
+        "SubverseLab TUTKAL"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "SubverseLab bus compressor with GLUE, LA and PUMP voicings. VST3/AU on macOS, VST3 on Windows. Vendor page lists no version."
+    },
+    {
       "id": "audiothing--tx-101",
       "manufacturerId": "audiothing",
       "name": "TX-101",
@@ -199580,7 +199638,15 @@
       ],
       "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page prints Version 1.5 as a feature line, build not printed; do NOT stamp 1.5 as a build version.",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.6.6d",
+      "versionSourceUrl": "https://www.kvraudio.com/product/trilian-by-spectrasonics",
+      "versionVerifiedAt": "2026-10-26T05:34:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR-only fill; vendor page prints no build (1.5 is a feature line, not stamped)"
+      ]
     },
     {
       "id": "native-instruments--trill-rays",
@@ -223634,6 +223700,20 @@
       ]
     },
     {
+      "id": "subverselab--yanki",
+      "manufacturerId": "subverselab",
+      "name": "YANKI",
+      "matchPatterns": [
+        "YANKI",
+        "SubverseLab YANKI"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "notes": "SubverseLab tempo-synced tape echo with three-head tape loop. VST3/AU on macOS, VST3 on Windows. Vendor page lists no version."
+    },
+    {
       "id": "airwindows--ybandpass",
       "manufacturerId": "airwindows",
       "name": "YBandpass",
@@ -224075,7 +224155,16 @@
         "Youlean Loudness Meter"
       ],
       "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page youlean.co/youlean-loudness-meter/ fetched 200 (operator-verified) but prints no version; KVR 2098 members.",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.5.15",
+      "versionSourceUrl": "https://youlean.co/download-youlean-loudness-meter/",
+      "versionVerifiedAt": "2026-10-26T05:34:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor download page V2.5.15 Latest Stable Release plus V2.5.15 Windows/macOS installer filenames",
+        "Corroborated by KVR verwin 2.5.15"
+      ]
     },
     {
       "id": "native-instruments--young-phantom",
