@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-26T13:01:12Z",
+  "updatedAt": "2026-10-26T19:14:24Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -2152,6 +2152,12 @@
       "updatePortalUrl": "https://github.com/Ircam-Partiels/Partiels",
       "websiteUrl": "https://github.com/Ircam-Partiels/Partiels",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "irq-inc",
+      "name": "IRQ inc.",
+      "updatePortalUrl": "https://irqinc.com",
+      "websiteUrl": "https://irqinc.com"
     },
     {
       "id": "oas--icebreakeraudio",
@@ -13505,6 +13511,29 @@
       "popularityTier": 1
     },
     {
+      "id": "irq-inc--adeder-limiter",
+      "manufacturerId": "irq-inc",
+      "name": "Adeder Limiter",
+      "matchPatterns": [
+        "Adeder Limiter"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://irqinc.com/en/adeder-limiter/",
+      "notes": "Limiter from IRQ inc.'s Adeder brand: a gain range of ±65 dB lifts decaying tails and reverb into a Bloom while the attack stays intact, with a ceiling at -0.1 dB. $39. AU/VST3/AAX on macOS, VST3/AAX on Windows.",
+      "latestVersion": "1.1.5",
+      "versionSourceUrl": "https://irqinc.com/en/adeder-limiter/",
+      "versionVerifiedAt": "2026-10-26T17:21:40Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Adeder Limiter v1.1.5, released 24 Sep 2026, updated 7 Oct 2026"
+      ]
+    },
+    {
       "id": "eastwest--adrenaline",
       "manufacturerId": "eastwest",
       "name": "Adrenaline",
@@ -15777,7 +15806,7 @@
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
+      "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-4-by-acustica-audio/details",
       "versionVerifiedAt": "2026-10-25T19:32:21Z",
       "versionEvidence": "page-confirmed",
@@ -16105,7 +16134,7 @@
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
+      "latestVersion": "3.0.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-4-by-acustica-audio",
       "versionVerifiedAt": "2026-10-25T19:32:21Z",
       "versionEvidence": "page-confirmed",
@@ -82566,7 +82595,15 @@
       "notes": "universe-expansion surge-1918; product_url: https://www.soundtheory.com/gullfoss",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.11.9",
+      "versionSourceUrl": "https://www.soundtheory.com/downloads",
+      "versionVerifiedAt": "2026-10-26T17:22:09Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "manufacturer official downloads page with clear version"
+      ]
     },
     {
       "id": "soundtheory--gullfoss-live",
@@ -97734,6 +97771,21 @@
       "popularityTier": 1
     },
     {
+      "id": "subverselab--kaset",
+      "manufacturerId": "subverselab",
+      "name": "KASET",
+      "matchPatterns": [
+        "KASET",
+        "SubverseLab KASET"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://subverselab.com/plugins/kaset",
+      "notes": "Cassette tape colour for the mix bus: pick a generation from Master to 4th Dub and a tape type (Normal, Chrome, Metal); each copy loses top end and gains hiss and saturation. VST3/AU on macOS, VST3 on Windows. $9 on its own, or the whole SubverseLab family for $19.99 (launch price until 1 November 2026). No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "uvi--kawai-vintage-legacy",
       "manufacturerId": "uvi",
       "name": "KAWAI Vintage Legacy",
@@ -100370,7 +100422,15 @@
       "notes": "universe-expansion surge-1918; product_url: https://www.soundtheory.com/kraftur",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.2.6",
+      "versionSourceUrl": "https://www.soundtheory.com/downloads",
+      "versionVerifiedAt": "2026-10-26T17:22:09Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "manufacturer official downloads page with clear version"
+      ]
     },
     {
       "id": "soundtheory--kraftur-focus",
@@ -131570,6 +131630,28 @@
       "versionConfidence": 90,
       "versionConfidenceReasons": [
         "Vendor product page prints v0.1.0 (page JSON-LD Version field), re-verified first-hand 2026-10-25"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--nupump",
+      "manufacturerId": "deadsignalaudio",
+      "name": "NuPump",
+      "matchPatterns": [
+        "NuPump"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/nupump/",
+      "notes": "Free sidechain pump from Dead Signal Audio's Nu series: tempo-synced pumping with six rates and four shapes, or keyed off an external kick, with a live scope. Free for Mac and Windows; no account or licence key. AU/VST3 on macOS, VST3 on Windows.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/nupump/",
+      "versionVerifiedAt": "2026-10-26T17:21:40Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints v0.1.0"
       ]
     },
     {
@@ -164451,7 +164533,7 @@
       "portalApp": "SSL Download Manager",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.19",
+      "latestVersion": "1.0.18",
       "versionSourceUrl": "https://support.solidstatelogic.com/api/v2/help_center/en-gb/articles/4849510029085.json",
       "versionVerifiedAt": "2026-10-18T20:18:42Z",
       "versionEvidence": "page-confirmed",
@@ -175733,14 +175815,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/spectralayers-13-elements-by-steinberg",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "13.0.20",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15455&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "latestVersion": "13.0.30",
+      "versionSourceUrl": "https://forums.steinberg.net/t/spectralayers-13-0-30-maintenance-update/1044092",
+      "versionVerifiedAt": "2026-10-26T17:25:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Steinberg SpectraLayers_13.0.20_Installer_* public",
-        "manufacturer newer than stale KVR 13.0.0"
+        "Steinberg official forum maintenance-update announcement 2026-10-22: 'We have just released a new maintenance update for SpectraLayers Pro and Elements, version 13.0.30', fetched first-hand"
       ]
     },
     {
@@ -178017,7 +178098,7 @@
       "notesForUser": "Mac and Windows builds are versioned separately (Mac 1.6.056 / Windows 1.6.057) — the Mac build is current at 1.6.056.",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.6.057",
+      "latestVersion": "1.6.056",
       "versionSourceUrl": "https://www.siraudiotools.com/StandardCLIP.php",
       "versionVerifiedAt": "2026-09-10T07:35:26Z",
       "versionEvidence": "page-confirmed",
@@ -192322,6 +192403,19 @@
       "popularityTier": 2
     },
     {
+      "id": "photondsp--tapeengine",
+      "manufacturerId": "photondsp",
+      "name": "TapeEngine",
+      "matchPatterns": [
+        "TapeEngine"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "updatePortalUrl": "https://photondsp.com/tapeengine",
+      "notes": "Free tape simulator with 20 individually adjustable tape-processing modules plus a separate Tape Dynamics section, covering tone, transport instability, stereo imperfections, damage and noise. Permanently free. Windows 64-bit VST3 only. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "airwindows--tapefat",
       "manufacturerId": "airwindows",
       "name": "TapeFat",
@@ -202203,13 +202297,13 @@
       ],
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3.1",
+      "latestVersion": "1.3.2",
       "versionSourceUrl": "https://help.uaudio.com/hc/en-us/articles/26387489275412-UAD-Console-Release-Notes",
-      "versionVerifiedAt": "2026-10-02T17:22:57Z",
+      "versionVerifiedAt": "2026-10-26T17:22:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "first-party UA Zendesk release notes, re-fetched first-hand"
+        "First-party UA Zendesk release notes, top head Version 1.3.2 - October 22 2026, article updated_at 2026-10-22T20:24:08Z, fetched first-hand via Zendesk API JSON bypass (HTML Cloudflare-walled)"
       ]
     },
     {
@@ -213471,14 +213565,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "3.0.60",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/vst_live_3.html",
-      "versionVerifiedAt": "2026-09-10T11:13:39Z",
+      "latestVersion": "3.0.63",
+      "versionSourceUrl": "http://www.vstlive.net/installer/vl3/VST_Live_3.0.63_Version_History.pdf",
+      "versionVerifiedAt": "2026-10-26T17:26:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg VST Live 3.0.60 public installer",
-        "manufacturer newer than KVR 3.0.40"
+        "Steinberg official VST Live version-history PDF (Steinberg Media Technologies GmbH, September 2026), top section VST Live Pro 3.0.63, fetched first-hand"
       ]
     },
     {
@@ -221846,6 +221939,19 @@
       "popularityTier": 2
     },
     {
+      "id": "photondsp--wideengine",
+      "manufacturerId": "photondsp",
+      "name": "WideEngine",
+      "matchPatterns": [
+        "WideEngine"
+      ],
+      "formats": [
+        "VST3"
+      ],
+      "updatePortalUrl": "https://photondsp.com/wideengine",
+      "notes": "Five-band stereo widening that shapes the building blocks of stereo width by frequency, with additional psychoacoustic processing. Windows 64-bit VST3 only. No version number printed on the vendor site — seeded versionless."
+    },
+    {
       "id": "united-plugins--widefire",
       "manufacturerId": "united-plugins",
       "name": "WideFire",
@@ -226290,7 +226396,7 @@
       },
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.3",
+      "latestVersion": "1.1.2",
       "versionSourceUrl": "https://oeksound.com/downloads/",
       "versionVerifiedAt": "2026-10-18T20:18:42Z",
       "versionEvidence": "page-confirmed",
