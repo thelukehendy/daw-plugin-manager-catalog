@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-25T19:34:00Z",
+  "updatedAt": "2026-10-26T00:06:57Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -574,6 +574,13 @@
       "updatePortalUrl": "https://github.com/Audio-Solutions/pulse-visualizer",
       "websiteUrl": "https://github.com/Audio-Solutions/pulse-visualizer",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "audiogridder",
+      "name": "AudioGridder",
+      "updatePortalUrl": "https://audiogridder.com/",
+      "websiteUrl": "https://audiogridder.com/",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "audiopunks",
@@ -1593,6 +1600,13 @@
       "popularityTier": 3
     },
     {
+      "id": "elektron",
+      "name": "Elektron",
+      "updatePortalUrl": "https://www.elektron.se/",
+      "websiteUrl": "https://www.elektron.se/",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
+    },
+    {
       "id": "embertone",
       "name": "Embertone",
       "updatePortalUrl": "https://embertone.com",
@@ -1690,6 +1704,13 @@
       "updatePortalUrl": "https://github.com/EZForever/Viruz2",
       "websiteUrl": "https://github.com/EZForever/Viruz2",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "feel-your-sound",
+      "name": "Feel Your Sound",
+      "updatePortalUrl": "https://feelyoursound.com/",
+      "websiteUrl": "https://feelyoursound.com/",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "fender",
@@ -2752,7 +2773,7 @@
       "versionExample": "3.072",
       "changelogUrl": "https://www.lennardigital.com",
       "notes": "Identity from KVR (Sylenth1)\nApple Silicon: unknown (researched 2026-09-15). No statement on lennardigital.com-owned pages; press reported M1 support in Sylenth1 3.072 but that is not a manufacturer statement.\nApple Silicon: native (researched 2026-09-15). Quote: \"Includes native ARM support for M1/M2 Macs.\" (https://www.lennardigital.com)",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--leo-mccormack",
@@ -3011,7 +3032,7 @@
       "versionExample": "V1.1.0",
       "changelogUrl": "https://masteringthemix.zendesk.com/hc/en-gb/articles/360010987797-BASSROOM",
       "notes": "From Plugin Alliance products.json + public catalog; expand4.\nApple Silicon: unknown (researched 2026-09-15). No line-wide first-party statement; only EQ Academy page states \"Apple Silicon Native\" (product-specific). Official Help Center release-notes section linked as changelog. [2026-09-15 compat: No official Apple Silicon architecture evidence found 2026-09-15.] [2026-09-16 compat: EQ Academy product page (https://masteringthemix.com/products/eq-academy) lists 'Apple Silicon Native.' under Mac System Requirements — product-specific to a free ear-training app, not catalog-wide plugin evidence. No manufacturer-level native/universal statement for the plugin line found 2026-09-16; unknown per no-generalization rule. No vendor version or changelog page found (updates surfaced in-app).] [surge-0118 E: native — Zendesk release notes: 'Apple Silicon support optimizations specifically for the new Apple M1 processor' (BASSROOM V1.0.6); same line in Mixroom/Reference/Animate per third-party reprints.]",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "mathew-lane",
@@ -3191,6 +3212,13 @@
       "updatePortalUrl": "https://github.com/mikeoliphant/stompbox",
       "websiteUrl": "https://github.com/mikeoliphant/stompbox",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "minimeters",
+      "name": "MiniMeters",
+      "updatePortalUrl": "https://minimeters.app/",
+      "websiteUrl": "https://minimeters.app/",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "minimal-audio",
@@ -3958,7 +3986,7 @@
       "versionExample": "1.5.19",
       "changelogUrl": "https://www.reveal-sound.com/content/changelog.php?spire",
       "notes": "Universe expansion 2026-09-15 (research-engine-10x). Single-plugin company: Spire. Official changelog https://www.reveal-sound.com/content/changelog.php?spire. Warez 1.5.20/1.5.21 claims (Aug 2026) rejected as unverified third-party.\nApple Silicon: native (researched 2026-09-15). Quote: \"+ Added native support for Apple Silicon\" (https://www.reveal-sound.com/content/changelog.php?spire)",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--ricky-van-poppel",
@@ -4412,7 +4440,7 @@
       "versionExample": "1.11.9",
       "changelogUrl": "https://www.soundtheory.com/static/Gullfoss Changelog.pdf",
       "notes": "Added 2026-09-15 via research-engine-10x universe expansion (surge-1918). Makers of the Gullfoss intelligent EQ and Kraftur transient processor. No current public version numbers found 2026-09-16 (public mention of Gullfoss v1.9.0 is from 2021 and presumed stale). Release notes live at soundtheory.com/support (not fetched); research engine should pull them. Pool candidate, collision-free. [2026-09-16 compat: The vendor-owned operation manual System Requirements table lists 'Apple Silicon processor / Intel, AMD or compatible processor' as an explicit architecture specification (opened and confirmed, not merely a snippet). The vendor changelog also records v1.11.0 '[MAC] Apple Silicon support.']",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "soundtoys",
@@ -5066,7 +5094,7 @@
         "VCV Rack"
       ],
       "notes": "VCV Rack modular environment (hub_app); Cardinal already under oas--distrho-cardinal",
-      "popularityTier": 3
+      "popularityTier": 1
     },
     {
       "id": "oas--valdemar-erlingsson",
@@ -5382,7 +5410,7 @@
       "versionExample": "1.8.8",
       "changelogUrl": "https://www.xlnaudio.com/release_notes?filter=xo",
       "notes": "Update via manufacturer account / downloads portal. Installers are user-driven. [2026-09-15 compat: Checked official support article 'What are the system requirements for XLN Audio products?' (support.xlnaudio.com): Mac requirements state 'Intel and Apple Silicon (m5 and older)' - names Apple Silicon but gives no nativ]",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xfer-records",
@@ -5415,6 +5443,13 @@
       "updatePortalUrl": "https://github.com/yan-h/midi_lattice",
       "websiteUrl": "https://github.com/yan-h/midi_lattice",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "youlean",
+      "name": "Youlean",
+      "updatePortalUrl": "https://youlean.co/",
+      "websiteUrl": "https://youlean.co/",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "oas--yvonne-yuan",
@@ -5631,6 +5666,13 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "oas--hollance",
+      "name": "hollance",
+      "updatePortalUrl": "https://github.com/hollance",
+      "websiteUrl": "https://github.com/hollance",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
+    },
+    {
       "id": "oas--hyakkei",
       "name": "hyakkei",
       "updatePortalUrl": "https://github.com/hyakkei/MolluskVoiceChanger",
@@ -5672,11 +5714,32 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "oas--jameshball",
+      "name": "jameshball",
+      "updatePortalUrl": "https://github.com/jameshball",
+      "websiteUrl": "https://github.com/jameshball",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
+    },
+    {
       "id": "oas--je3928",
       "name": "je3928",
       "updatePortalUrl": "https://github.com/je3928/RE201models",
       "websiteUrl": "https://github.com/je3928/RE201models",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "oas--johnnovak",
+      "name": "johnnovak",
+      "updatePortalUrl": "https://github.com/johnnovak",
+      "websiteUrl": "https://github.com/johnnovak",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
+    },
+    {
+      "id": "oas--jthorborg",
+      "name": "jthorborg",
+      "updatePortalUrl": "https://github.com/jthorborg",
+      "websiteUrl": "https://github.com/jthorborg",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "oas--kayrockscreenprinting",
@@ -5898,7 +5961,7 @@
       "websiteUrl": "https://refx.com",
       "appleSilicon": "native",
       "notes": "Universe expansion 2026-09-15 (research-engine-10x). Instrument line per refx.com homepage: NEXUS (NEXUS5 current generation), VANGUARD, Rippler (released 2026-07-30). No version numbers published on public official pages.\nApple Silicon: native (researched 2026-09-15). Quote: \"Apple Silicon M1 (native) or Intel 2.0 GHz processor with SSE 4.2 support\" (https://refx.com/rippler/)",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--realsigmamusic",
@@ -5986,6 +6049,13 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "oas--swesterfeld",
+      "name": "swesterfeld",
+      "updatePortalUrl": "https://github.com/swesterfeld",
+      "websiteUrl": "https://github.com/swesterfeld",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
+    },
+    {
       "id": "synthv1",
       "name": "synthv1",
       "updatePortalUrl": "https://github.com/rncbc/synthv1/tags",
@@ -6023,6 +6093,13 @@
       "updatePortalUrl": "https://github.com/thement/midiverb_emulator",
       "websiteUrl": "https://github.com/thement/midiverb_emulator",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "oas--trummerschlunk",
+      "name": "trummerschlunk",
+      "updatePortalUrl": "https://github.com/trummerschlunk",
+      "websiteUrl": "https://github.com/trummerschlunk",
+      "notes": "Seeded 2026-10-25 from Grok Bot wild scrub PR #70 verdict (operator-verified first-hand)"
     },
     {
       "id": "oas--tucktuckg00se",
@@ -9221,7 +9298,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=animate",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.1.11",
       "versionSourceUrl": "https://www.kvraudio.com/product/animate-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -11865,13 +11942,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "12.4.6",
+      "latestVersion": "12.4.7",
       "versionSourceUrl": "https://www.ableton.com/en/release-notes/live-12/",
-      "versionVerifiedAt": "2026-09-27T00:39:11Z",
+      "versionVerifiedAt": "2026-10-26T00:02:04Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party release notes page"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -13069,7 +13146,7 @@
       "productLine": "Addictive Drums",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "2.9.1",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13095,7 +13172,7 @@
       "productLine": "Addictive Drums",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-1-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.5.6",
       "versionSourceUrl": "https://www.kvraudio.com/product/addictive-drums-1-by-xln-audio",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13123,7 +13200,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-creative-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Drums 2 Creative Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-drums-2-custom",
@@ -13141,7 +13218,7 @@
       "productLine": "Addictive Drums",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-custom-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "2.1.12",
       "versionSourceUrl": "https://www.kvraudio.com/product/addictive-drums-2-custom-by-xln-audio",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13167,7 +13244,7 @@
       "productLine": "Addictive Drums",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-custom-xl-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "2.1.12",
       "versionSourceUrl": "https://www.kvraudio.com/product/addictive-drums-2-custom-xl-by-xln-audio",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13195,7 +13272,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-rock-and-metal-edition-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Drums 2 Rock & Metal Edition).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-drums-2-dead-and-dry-collection",
@@ -13215,7 +13292,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-dead-and-dry-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Drums 2: Dead & Dry Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-drums-2-modern-heavy-adpak",
@@ -13235,7 +13312,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-modern-heavy-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Addictive Drums 2: Modern Heavy AdPak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys",
@@ -13253,7 +13330,7 @@
       "productLine": "Addictive Keys",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.7.3",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13281,7 +13358,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-duo-bundle-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Keys Duo Bundle).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys-electric-grand",
@@ -13301,7 +13378,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-electric-grand-by-xln-audio",
       "notesForUser": "Addictive Keys instrument library (Addictive Keys Electric Grand).",
       "identityKind": "soundset",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys-mark-one",
@@ -13321,7 +13398,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-mark-one-by-xln-audio",
       "notesForUser": "Addictive Keys instrument library (Addictive Keys Mark One).",
       "identityKind": "soundset",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys-modern-upright",
@@ -13341,7 +13418,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-modern-upright-by-xln-audio",
       "notesForUser": "Addictive Keys instrument library (Addictive Keys Modern Upright).",
       "identityKind": "soundset",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys-studio-grand",
@@ -13361,7 +13438,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-studio-grand-by-xln-audio",
       "notesForUser": "Addictive Keys instrument library (Addictive Keys Studio Grand).",
       "identityKind": "soundset",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-keys-trio-bundle",
@@ -13381,7 +13458,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-keys-trio-bundle-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Keys Trio Bundle).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--addictive-trigger",
@@ -13398,7 +13475,7 @@
       ],
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-trigger-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.3.10",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -13425,7 +13502,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/addictive-trigger-and-drum-vault-bundle-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Addictive Trigger + Drum Vault Bundle).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "eastwest--adrenaline",
@@ -18608,7 +18685,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/anspec/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -21874,13 +21951,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "universal",
       "popularityTier": 1,
-      "latestVersion": "2.12.0.3157",
+      "latestVersion": "2.13.0.3440",
       "versionSourceUrl": "https://www.arturia.com/support/downloads-manuals/product/asc",
-      "versionVerifiedAt": "2026-09-27T00:39:07Z",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party downloads page prints version; pkg href agrees"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -22634,6 +22711,24 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "audiogridder--audiogridder",
+      "manufacturerId": "audiogridder",
+      "name": "AudioGridder",
+      "matchPatterns": [
+        "AudioGridder"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Vendor pkg AudioGridderPlugin_1.2.0_1_macOS-universal.pkg, HEAD 200, Last-Modified 2023-03-11.",
+      "popularityTier": 2,
+      "latestVersion": "1.2.0",
+      "versionSourceUrl": "https://audiogridder.com/releases/AudioGridderPlugin_1.2.0_1_macOS-universal.pkg",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -24272,14 +24367,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/axiom-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2.3",
+      "latestVersion": "2.4",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -25036,7 +25130,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=bassroom",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/bassroom-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -25940,7 +26034,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.7",
-      "versionSourceUrl": "https://www.voxengo.com/product/bms/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -28010,7 +28104,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/beat-producer-edition-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Beat Producer Edition).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "baby-audio--beat-slammer",
@@ -28879,7 +28973,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.14",
-      "versionSourceUrl": "https://www.voxengo.com/product/beeper/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -29785,6 +29879,7 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/BespokeSynth/BespokeSynth",
       "notes": "OAS package bespokesynth/bespokesynth",
+      "popularityTier": 2,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/bespokesynth/bespokesynth/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -31312,9 +31407,9 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.3",
+      "latestVersion": "6.1.4",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-10-09T17:25:55Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -31408,9 +31503,9 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.3",
+      "latestVersion": "6.1.4",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-10-09T17:25:55Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -31441,9 +31536,9 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.3",
+      "latestVersion": "6.1.4",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-10-09T17:25:55Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -31474,9 +31569,9 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.3",
+      "latestVersion": "6.1.4",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-10-09T17:25:55Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -31748,7 +31843,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/black-oyster-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Black Oyster).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "avid--black-shiny-wah",
@@ -31823,7 +31918,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/black-velvet-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Black Velvet).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--sfzinstruments-black-and-green-guitars",
@@ -33396,7 +33491,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/blue-oyster-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Blue Oyster).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "nomad-factory--blue-tubes-analog-chorus-ch2s",
@@ -34444,7 +34539,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.8",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoBoogex_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -34819,7 +34914,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/boutique-mallets-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Boutique Mallets ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "soniccouture--bowed-gamelan",
@@ -35345,7 +35440,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/breaks-and-beats-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Breaks & Beats Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "overloud--breverb-2",
@@ -38144,7 +38239,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.8",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCRTIVTapeBus_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:28:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -38458,13 +38553,13 @@
       "updatePortalUrl": "https://www.fractalaudio.com/support/",
       "notes": "Fractal Audio public software/hardware identity; expand5.",
       "popularityTier": 3,
-      "latestVersion": "1.01.01",
+      "latestVersion": "1.02.00",
       "versionSourceUrl": "https://www.fractalaudio.com/cab-lab-4/",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Fractal Audio Systems product download page documents Cab Lab 4 Version 1.01.01"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -40319,7 +40414,7 @@
       "notes": "FOSS first-class twin of OAS identity; expand5 mop (intentional cross-mfr twin).",
       "notesForUser": "FOSS plugin (Cardinal). OAS twin may also exist.",
       "appleSilicon": "universal",
-      "popularityTier": 3,
+      "popularityTier": 2,
       "latestVersion": "26.02",
       "versionSourceUrl": "https://github.com/DISTRHO/Cardinal/releases/tag/26.02",
       "versionVerifiedAt": "2026-09-10T10:41:02Z",
@@ -42823,6 +42918,16 @@
       ]
     },
     {
+      "id": "feel-your-sound--chordpotion",
+      "manufacturerId": "feel-your-sound",
+      "name": "ChordPotion",
+      "matchPatterns": [
+        "ChordPotion"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page feelyoursound.com/chordpotion/ fetched 200 (operator-verified) but prints no version.",
+      "popularityTier": 3
+    },
+    {
       "id": "puremagnetik--chordophonic-devices-a-collection-of-plectrum-instruments",
       "manufacturerId": "puremagnetik",
       "name": "Chordophonic Devices | A Collection of Plectrum Instruments",
@@ -42957,14 +43062,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chorus-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.5",
+      "latestVersion": "4.6",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -45396,7 +45500,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/classic-rock-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Classic Rock Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "slate-digital--classic-tubes-3-expansion-pack",
@@ -49292,7 +49396,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/correlometer/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -50039,7 +50143,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.20",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoCrunchessor_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -50891,7 +50995,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.16",
-      "versionSourceUrl": "https://www.voxengo.com/product/curveeq/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -51023,7 +51127,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/custom-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Custom Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "8dio--custom-instruments-bundle",
@@ -51060,7 +51164,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/custom-xl-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Custom XL Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--custom-xxl-collection",
@@ -51079,7 +51183,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/custom-xxl-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Custom XXL Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "plugin-alliance--cut-classic-high-flyer",
@@ -51489,7 +51593,7 @@
       ],
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/db-30-drum-butter-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes?filter=db-30",
       "versionVerifiedAt": "2026-10-18T20:18:03Z",
@@ -52409,7 +52513,7 @@
           }
         ]
       },
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-10-01T05:25:06Z",
@@ -54108,7 +54212,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9.3",
-      "versionSourceUrl": "https://www.voxengo.com/product/deconvolver/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:33:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -54460,7 +54564,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14",
-      "versionSourceUrl": "https://www.voxengo.com/product/deftcompressor/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -55241,14 +55345,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/destructor-v2-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2.04",
+      "latestVersion": "2.1",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:57Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -55459,7 +55562,7 @@
       "notes": "FOSS first-class twin of OAS identity; expand5 mop (intentional cross-mfr twin).",
       "notesForUser": "FOSS plugin (Dexed). OAS twin may also exist.",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://github.com/asb2m10/dexed/releases/tag/v1.0.1",
       "versionVerifiedAt": "2026-09-10T10:41:02Z",
@@ -59417,7 +59520,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/drum-vault-trig-pak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Drum Vault Trig Pak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "ik-multimedia--drumnbass",
@@ -59872,7 +59975,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.12",
-      "versionSourceUrl": "https://www.voxengo.com/product/drumformer/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -61372,7 +61475,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.11",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoEBusLim_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:27:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -62867,7 +62970,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=expose-2",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "2.0.8",
       "versionSourceUrl": "https://www.kvraudio.com/product/expose-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -65724,13 +65827,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/kushview/element",
       "notes": "OAS package kushview/element",
-      "latestVersion": "1.0.0",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kushview/element/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "popularityTier": 2,
+      "latestVersion": "1.2.0",
+      "versionSourceUrl": "https://github.com/kushview/Element/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -65777,7 +65881,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "5.8",
-      "versionSourceUrl": "https://www.voxengo.com/product/elephant/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -69590,7 +69694,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=faster-master",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.0.11",
       "versionSourceUrl": "https://www.kvraudio.com/product/faster-master-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -70530,13 +70634,13 @@
       "notesForUser": "Editor for FM3.",
       "identityKind": "hub_app",
       "popularityTier": 3,
-      "latestVersion": "1.07.16",
+      "latestVersion": "1.07.17",
       "versionSourceUrl": "https://www.fractalaudio.com/fm3-edit/",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Fractal Audio Systems product download page documents FM3-Edit Version 1.07.16"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -70609,13 +70713,13 @@
       "notesForUser": "Editor for FM9.",
       "identityKind": "hub_app",
       "popularityTier": 3,
-      "latestVersion": "1.03.21",
+      "latestVersion": "1.03.22",
       "versionSourceUrl": "https://www.fractalaudio.com/fm9-edit/",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Fractal Audio Systems product download page documents FM9-Edit Version 1.03.21"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -70893,7 +70997,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=fuser",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.kvraudio.com/product/fuser-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -71577,8 +71681,8 @@
       "generation": "4",
       "generationRank": 4,
       "updateClass": "free_current",
-      "predecessorPluginId": "fabfilter--fabfilter-pro-q-3",
-      "supersedesPluginId": "fabfilter--fabfilter-pro-q-3",
+      "predecessorPluginId": "fabfilter--pro-q-3",
+      "supersedesPluginId": "fabfilter--pro-q-3",
       "identityKeys": {
         "bundleIds": [
           "com.fabfilter.Pro-Q.AU.4",
@@ -72145,7 +72249,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/fairfax-vol-1-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Fairfax Vol 1 ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--fairfax-vol-2-adpak",
@@ -72165,7 +72269,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/fairfax-vol-2-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Fairfax Vol 2 ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "uvi--falcon",
@@ -73954,13 +74058,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/jerryuhoo/fire",
       "notes": "OAS package jerryuhoo/fire",
-      "latestVersion": "1.5.0",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jerryuhoo/fire/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "latestVersion": "2.0.0",
+      "versionSourceUrl": "https://github.com/jerryuhoo/Fire/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -74670,14 +74774,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/flanger-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.5",
+      "latestVersion": "3.6",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -75333,6 +75436,25 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "manual accept via CLI (confidence=92)"
+      ]
+    },
+    {
+      "id": "focusrite--focusrite-control-2",
+      "manufacturerId": "focusrite",
+      "name": "Focusrite Control 2",
+      "matchPatterns": [
+        "Focusrite Control 2"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Vendor dmg Focusrite-Control-2-1.1210.0.0.dmg, Last-Modified 2026-10-20; Homebrew cask agrees.",
+      "identityKind": "hub_app",
+      "popularityTier": 1,
+      "latestVersion": "1.1210.0.0",
+      "versionSourceUrl": "https://releases.focusrite.com/com.focusrite.focusrite-control/release/Focusrite-Control-2-1.1210.0.0.dmg",
+      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -76526,14 +76648,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/freqanalyst-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2.5",
+      "latestVersion": "2.6",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -77068,7 +77189,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/funk-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Funk ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "applied-acoustics--funk-essence",
@@ -79345,7 +79466,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.19",
-      "versionSourceUrl": "https://www.voxengo.com/product/glisseq/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -80559,7 +80680,7 @@
       "updatePortalUrl": "https://www.auburnsounds.com/",
       "notes": "KVR product https://www.kvraudio.com/product/graillon-by-auburn-sounds",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "3.2",
       "versionSourceUrl": "https://www.auburnsounds.com/products/Graillon.html",
       "versionVerifiedAt": "2026-09-10T09:20:51Z",
@@ -84701,7 +84822,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.12",
-      "versionSourceUrl": "https://www.voxengo.com/product/harmonieq/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -86131,7 +86252,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/heavy-rock-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Heavy Rock Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "heavyocity--heavyocity-portal",
@@ -86305,7 +86426,7 @@
       "updatePortalUrl": "https://tytel.org/helm/",
       "notes": "FOSS first-class twin of OAS identity; expand5 mop (intentional cross-mfr twin).",
       "notesForUser": "FOSS plugin (Helm). OAS twin may also exist.",
-      "popularityTier": 3,
+      "popularityTier": 2,
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mtytel/helm/index.json",
       "versionVerifiedAt": "2026-09-10T10:41:02Z",
@@ -86805,7 +86926,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/hip-hop-and-gospel-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Hip Hop and Gospel ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "airwindows--hipcrush",
@@ -88062,13 +88183,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/hornet-harmoniq-by-hornet",
       "appleSilicon": "mixed",
       "popularityTier": 2,
-      "latestVersion": "1.1.4",
+      "latestVersion": "1.1.5",
       "versionSourceUrl": "https://www.hornetplugins.com/plugins/hornet-harmoniq/",
-      "versionVerifiedAt": "2026-09-10T08:16:38Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "HoRNet product page current version announcement"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -89421,13 +89542,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/hornet-vhs-mk2-by-hornet",
       "appleSilicon": "mixed",
       "popularityTier": 2,
-      "latestVersion": "2.0.5",
+      "latestVersion": "2.0.6",
       "versionSourceUrl": "https://www.hornetplugins.com/plugins/hornet-vhs-mk2/",
-      "versionVerifiedAt": "2026-09-10T08:14:29Z",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -92435,13 +92556,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://git.iem.at/audioplugins/IEMPluginSuite",
       "notes": "OAS package audioplugins/iempluginsuite",
-      "latestVersion": "1.15.0",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/audioplugins/iempluginsuite/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
+      "popularityTier": 2,
+      "latestVersion": "1.16.0",
+      "versionSourceUrl": "https://plugins.iem.at/",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
+      "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=95)"
       ]
     },
     {
@@ -94078,7 +94200,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/indie-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Indie ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "ik-multimedia--indie-dance",
@@ -96868,7 +96990,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/jazz-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Jazz Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--jazz-guitar-acoustic",
@@ -97508,7 +97630,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/k-pop---xo-expansion-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (K-Pop - XO Expansion).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--k-station-atmospheres-the-king-of-additive-synthesis",
@@ -98864,6 +98986,33 @@
       "versionConfidence": 85,
       "versionConfidenceReasons": [
         "Bundle confidence tier: docs state 'All Kilohearts plugins are downloaded using the Kilohearts Installer' (labeled 2.4.6) + shared-version policy; bundle has no own version label (coordinator-verified 2026-09-15)"
+      ]
+    },
+    {
+      "id": "kilohearts--kilohearts-installer",
+      "manufacturerId": "kilohearts",
+      "name": "Kilohearts Installer",
+      "matchPatterns": [
+        "Kilohearts Installer"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Version 2.4.6 from Homebrew cask (filename unversioned, dmg Last-Modified 2026-05-22); equals Kilohearts train 2.4.6.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "identityKind": "hub_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "2.4.6",
+      "versionSourceUrl": "https://kilohearts.com/data/install/_/mac",
+      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -101455,7 +101604,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=levels",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "2.0.7",
       "versionSourceUrl": "https://www.kvraudio.com/product/levels-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -101484,7 +101633,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.16",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoLFMaxPunch_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -101582,7 +101731,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/",
       "notes": "Mastering The Mix; PA marketplace products.json; expand7.",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.kvraudio.com/product/limiter-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T11:41:49Z",
@@ -104469,7 +104618,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.12",
-      "versionSourceUrl": "https://www.voxengo.com/product/latencydelay/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -105130,7 +105279,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/life-by-xln-audio",
       "notesForUser": "XLN Life.",
       "identityKind": "hub_app",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.3.4",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -105157,7 +105306,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/life-daw-recorder-by-xln-audio",
       "notesForUser": "XLN Life DAW recorder utility.",
       "identityKind": "hub_app",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/life-daw-recorder-by-xln-audio",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -107096,7 +107245,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/lo-fi-beats---xo-expansion-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Lo-Fi Beats - XO Expansion).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--lo-fi-and-chill-plucks",
@@ -110161,6 +110310,26 @@
       "popularityTier": 2
     },
     {
+      "id": "oas--hollance-mda-plugins-juce",
+      "manufacturerId": "oas--hollance",
+      "name": "MDA plug-ins (JUCE)",
+      "matchPatterns": [
+        "MDA plug-ins (JUCE)",
+        "MDA plug-ins"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub hollance/mda-plugins-juce release 1.1.0 (2025-06-09), operator-verified.",
+      "identityKind": "bundle",
+      "popularityTier": 3,
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://github.com/hollance/mda-plugins-juce/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "korg--mde-x",
       "manufacturerId": "korg",
       "name": "MDE-X",
@@ -111067,6 +111236,32 @@
       "notes": "Product page: https://software.moogmusic.com/store\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 1
+    },
+    {
+      "id": "u-he--mfm2",
+      "manufacturerId": "u-he",
+      "name": "MFM2",
+      "matchPatterns": [
+        "MFM2"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. dl.u-he.com releases: MFM2_251_16742 (2.5.1), operator-verified.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "2.5.1",
+      "versionSourceUrl": "https://dl.u-he.com/releases/",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
     },
     {
       "id": "meldaproduction--mfilter",
@@ -112536,7 +112731,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=mixroom",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.1.6",
       "versionSourceUrl": "https://www.kvraudio.com/product/mixroom-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -113645,15 +113840,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "03.00",
+      "latestVersion": "03.01",
       "versionSourceUrl": "https://www.meldaproduction.com/changes/?product=MPluginManager",
-      "versionVerifiedAt": "2026-10-17T17:27:00Z",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Per-product MPluginManager changelog on meldaproduction.com tops at 03.00 changes (newest section, 02.31 below it)",
-        "Downloads page serves versioned installer MPluginManager_03_00_setup.exe with version=03.00",
-        "Replaces kernel-version contamination: 17.10 is the plugin kernel train, not the manager app version"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -114239,7 +114432,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.13",
-      "versionSourceUrl": "https://www.voxengo.com/product/msed/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -117977,7 +118170,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.9",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoMarquisCompressor_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -118149,7 +118342,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.17",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoMarvelGEQ_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:26:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -120471,7 +120664,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/metal-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Metal ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "softube--metal-amp-room",
@@ -120537,7 +120730,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/metal-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Metal Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "line-6--metallurgy-doom",
@@ -120932,14 +121125,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/miaow-wah-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.01",
+      "latestVersion": "1.1",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -122334,6 +122526,24 @@
       "versionConfidence": 85,
       "versionConfidenceReasons": [
         "Official Arturia resources page, exact firmware version with date; prior @60 KVR observation stale at 1.1"
+      ]
+    },
+    {
+      "id": "minimeters--minimeters",
+      "manufacturerId": "minimeters",
+      "name": "MiniMeters",
+      "matchPatterns": [
+        "MiniMeters"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Version 1.0.30 from vendor changelog mention on minimeters.app (operator-verified on page).",
+      "popularityTier": 2,
+      "latestVersion": "1.0.30",
+      "versionSourceUrl": "https://minimeters.app/",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -124126,7 +124336,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/modern-jazz-brushes-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Modern Jazz Brushes ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--modern-jazz-sticks-adpak",
@@ -124146,7 +124356,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/modern-jazz-sticks-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Modern Jazz Sticks ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--samuelsantanaoficial-modernkit",
@@ -124224,7 +124434,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/modern-soul-and-r-and-b-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Modern Soul And R&B).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "baby-audio--modern-vocal-production-bundle",
@@ -126388,6 +126598,44 @@
       ]
     },
     {
+      "id": "applied-acoustics--multiphonics-cv-1",
+      "manufacturerId": "applied-acoustics",
+      "name": "Multiphonics CV-1",
+      "matchPatterns": [
+        "Multiphonics CV-1"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. AAS support table v1.1.1 (operator-verified).",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "1.1.1",
+      "versionSourceUrl": "https://www.applied-acoustics.com/support/",
+      "versionVerifiedAt": "2026-10-26T00:02:53Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
+      "id": "applied-acoustics--multiphonics-cv-2",
+      "manufacturerId": "applied-acoustics",
+      "name": "Multiphonics CV-2",
+      "matchPatterns": [
+        "Multiphonics CV-2"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. AAS support table v2.2.0 (operator-verified).",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "2.2.0",
+      "versionSourceUrl": "https://www.applied-acoustics.com/support/",
+      "versionVerifiedAt": "2026-10-26T00:02:53Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "applied-acoustics--multiphonics-cv-3",
       "manufacturerId": "applied-acoustics",
       "name": "Multiphonics CV-3",
@@ -127732,7 +127980,7 @@
       "notes": "Product page: https://refx.com/nexus/\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "mcdsp--nf575",
@@ -129031,6 +129279,7 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/sdatkinson/NeuralAmpModelerPlugin",
       "notes": "OAS package sdatkinson/neural-amp-modeler",
+      "popularityTier": 2,
       "latestVersion": "0.7.13",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sdatkinson/neural-amp-modeler/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -129103,13 +129352,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/DamRsn/NeuralNote",
       "notes": "OAS package damrsn/neuralnote",
-      "latestVersion": "1.1.0",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damrsn/neuralnote/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "popularityTier": 2,
+      "latestVersion": "2.1.0",
+      "versionSourceUrl": "https://github.com/DamRsn/NeuralNote/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -130499,13 +130749,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/lucianodato/noise-repellent",
       "notes": "OAS package lucianodato/noise-repellent",
-      "latestVersion": "0.2.5",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lucianodato/noise-repellent/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
-      "versionConfidence": 95,
+      "latestVersion": "0.4.1",
+      "versionSourceUrl": "https://github.com/lucianodato/noise-repellent/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:11Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -130519,6 +130769,7 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/werman/noise-suppression-for-voice",
       "notes": "OAS package werman/noise-suppression-for-voice",
+      "popularityTier": 2,
       "latestVersion": "1.10.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/werman/noise-suppression-for-voice/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -131351,6 +131602,25 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "Official Steinberg legacy downloads page names Nuendo 14.0.41 as current installer (2025-12-03), superseding 14.0.32/14.0.30/14.0.20 in older-installers table"
+      ]
+    },
+    {
+      "id": "oas--johnnovak-nuked-sc55-clap",
+      "manufacturerId": "oas--johnnovak",
+      "name": "Nuked-SC55-CLAP",
+      "matchPatterns": [
+        "Nuked-SC55-CLAP",
+        "Nuked-SC55"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub johnnovak/Nuked-SC55-CLAP release 0.12.0 (2026-09-25), operator-verified.",
+      "popularityTier": 4,
+      "latestVersion": "0.12.0",
+      "versionSourceUrl": "https://github.com/johnnovak/Nuked-SC55-CLAP/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -132383,7 +132653,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.14",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoOVC128_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -132558,6 +132828,25 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1
+    },
+    {
+      "id": "applied-acoustics--objeq-delay",
+      "manufacturerId": "applied-acoustics",
+      "name": "Objeq Delay",
+      "matchPatterns": [
+        "Objeq Delay"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. AAS support table v1.3.5 for v1 (operator-verified); distinct from existing Objeq Delay 2 row (2.0.0).",
+      "appleSilicon": "native",
+      "popularityTier": 3,
+      "latestVersion": "1.3.5",
+      "versionSourceUrl": "https://www.applied-acoustics.com/support/",
+      "versionVerifiedAt": "2026-10-26T00:02:53Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
     },
     {
       "id": "applied-acoustics--objeq-delay-2",
@@ -133154,7 +133443,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.14",
-      "versionSourceUrl": "https://www.voxengo.com/product/oldskoolverb/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -133196,7 +133485,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.7",
-      "versionSourceUrl": "https://www.voxengo.com/product/oldskoolverbplus/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -135792,6 +136081,17 @@
       ]
     },
     {
+      "id": "elektron--overbridge",
+      "manufacturerId": "elektron",
+      "name": "Overbridge",
+      "matchPatterns": [
+        "Overbridge"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page elektron.se/en/overbridge fetched 200 (operator-verified) but prints no version.",
+      "identityKind": "hub_app",
+      "popularityTier": 2
+    },
+    {
       "id": "nembrini-audio--overdrive-special-guitar-amplifier",
       "manufacturerId": "nembrini-audio",
       "name": "Overdrive Special Guitar Amplifier",
@@ -135970,7 +136270,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.19",
-      "versionSourceUrl": "https://www.voxengo.com/product/overtonegeq/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -138255,7 +138555,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.13",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPHA979_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:27:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -142907,6 +143207,7 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/essej/paulxstretch",
       "notes": "OAS package essej/paulxstretch",
+      "popularityTier": 2,
       "latestVersion": "1.6.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/essej/paulxstretch/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -143031,7 +143332,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.8",
-      "versionSourceUrl": "https://www.voxengo.com/product/peakbuster/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -143323,7 +143624,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/percussion-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Percussion Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "uvi--percussion-factory",
@@ -144158,14 +144459,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/phaser-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.5",
+      "latestVersion": "3.6",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -147794,7 +148094,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.6",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPolysquasher_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:27:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -147883,7 +148183,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/pop-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Pop Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "eastwest--pop-production-bundle",
@@ -148223,7 +148523,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPowershaper_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -148856,7 +149156,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.9",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoPrimeEQ_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:25:14Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -153068,7 +153368,7 @@
       ],
       "minMacOS": "12.0",
       "updatePortalUrl": "https://www.xlnaudio.com/login",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.5.2",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes?filter=rc-20",
       "versionVerifiedAt": "2026-10-18T20:18:03Z",
@@ -153214,13 +153514,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "7.82",
+      "latestVersion": "7.83",
       "versionSourceUrl": "https://www.reaper.fm/whatsnew.txt",
-      "versionVerifiedAt": "2026-10-17T17:26:46Z",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official vendor changelog whatsnew.txt tops at v7.82 (October 4 2026)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -153285,7 +153585,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=reference",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/reference-3-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -153331,7 +153631,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=reso",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.0.9",
       "versionSourceUrl": "https://www.kvraudio.com/product/reso-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -156427,6 +156727,25 @@
       ]
     },
     {
+      "id": "oas--brummer10-ratatouille",
+      "manufacturerId": "oas--brummer10",
+      "name": "Ratatouille.lv2",
+      "matchPatterns": [
+        "Ratatouille.lv2",
+        "Ratatouille"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub brummer10/Ratatouille.lv2 release 0.9.11 (2025-05-31), operator-verified.",
+      "popularityTier": 3,
+      "latestVersion": "0.9.11",
+      "versionSourceUrl": "https://github.com/brummer10/Ratatouille.lv2/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "audio-damage--ratshack-reverb-2",
       "manufacturerId": "audio-damage",
       "name": "Ratshack Reverb 2",
@@ -157870,7 +158189,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/reel-machines-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Reel Machines ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "antelope-audio--reel-to-reel",
@@ -159713,7 +160032,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/retroplex-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Retroplex ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--retroputer-an-elektron-monomachine-for-ableton-live",
@@ -160953,7 +161272,7 @@
       "notes": "Product page: https://refx.com\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--tiagolr-ripplerx",
@@ -161213,7 +161532,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/rock-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Rock Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "nembrini-audio--rockdude-x1000-guitar-amplifier",
@@ -162432,13 +162751,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.4.3",
+      "latestVersion": "1.4.4",
       "versionSourceUrl": "https://www.orchestraltools.com/get-sine",
-      "versionVerifiedAt": "2026-10-16T05:26:29Z",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer official page with exact versioned installer filenames"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -162635,7 +162954,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.24",
-      "versionSourceUrl": "https://www.voxengo.com/product/span/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -162677,7 +162996,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.25",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSPANPlus_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:27:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -165493,7 +165812,7 @@
       "updatePortalUrl": "https://www.masteringthemix.com/account",
       "notes": "Plugin Alliance Shopify product handle=stereovault",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/stereovault-by-mastering-the-mix",
       "versionVerifiedAt": "2026-09-10T10:26:24Z",
@@ -166855,7 +167174,7 @@
       ],
       "updatePortalUrl": "https://www.pluginboutique.com/login",
       "notes": "KVR product https://www.kvraudio.com/product/scaler-2-by-scaler-music",
-      "popularityTier": 3,
+      "popularityTier": 2,
       "latestVersion": "2.9.1",
       "versionSourceUrl": "https://forum.scalermusic.com/t/scaler-2-latest-version-updates/3542",
       "versionVerifiedAt": "2026-09-10T11:13:38Z",
@@ -168454,7 +168773,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/session-percussion-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Session Percussion ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--session-strings",
@@ -169295,7 +169614,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6",
-      "versionSourceUrl": "https://www.voxengo.com/product/shinechilla/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -169750,7 +170069,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.4",
-      "versionSourceUrl": "https://www.voxengo.com/product/shumovick/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -170113,6 +170432,24 @@
       "versionConfidence": 70,
       "versionConfidenceReasons": [
         "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
+      ]
+    },
+    {
+      "id": "oas--jthorborg-signalizer",
+      "manufacturerId": "oas--jthorborg",
+      "name": "Signalizer",
+      "matchPatterns": [
+        "Signalizer"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub jthorborg/signalizer release v0.5.0 (2026-08-01), operator-verified via API + releases page.",
+      "popularityTier": 3,
+      "latestVersion": "0.5.0",
+      "versionSourceUrl": "https://github.com/jthorborg/signalizer/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -170564,13 +170901,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/sitala-by-decomposer",
       "notesForUser": "Sitala drum sampler (freeware).",
       "popularityTier": 3,
-      "latestVersion": "2.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/sitala-by-decomposer",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "latestVersion": "2.1.2",
+      "versionSourceUrl": "https://decomposer.de/sitala/",
+      "versionVerifiedAt": "2026-10-26T00:02:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -171793,7 +172130,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.4",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSobor_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -173042,7 +173379,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "3.16",
-      "versionSourceUrl": "https://www.voxengo.com/product/soniformer/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -173672,7 +174009,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/soul-and-r-and-b-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Soul and R&B Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "8dio--soulful-studio-bass-trombone",
@@ -173765,7 +174102,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.15",
-      "versionSourceUrl": "https://www.voxengo.com/product/sounddelay/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -175048,7 +175385,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.11",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoSpatifier_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:29:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -175195,6 +175532,24 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "oas--swesterfeld-spectmorph",
+      "manufacturerId": "oas--swesterfeld",
+      "name": "SpectMorph",
+      "matchPatterns": [
+        "SpectMorph"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub swesterfeld/spectmorph release 1.0.0-beta3 (2026-01-10), operator-verified. Beta version.",
+      "popularityTier": 3,
+      "latestVersion": "1.0.0-beta3",
+      "versionSourceUrl": "https://github.com/swesterfeld/spectmorph/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -176110,7 +176465,7 @@
       ],
       "notes": "Product page: https://reveal-sound.com/plug-ins/spire\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.5.19",
       "versionSourceUrl": "https://www.reveal-sound.com/content/changelog.php?spire",
       "versionVerifiedAt": "2026-09-15T05:51:03Z",
@@ -176198,6 +176553,27 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+      ]
+    },
+    {
+      "id": "spitfire-audio--spitfire-audio-app",
+      "manufacturerId": "spitfire-audio",
+      "name": "Spitfire Audio",
+      "matchPatterns": [
+        "Spitfire Audio",
+        "Spitfire Audio app"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Vendor dmg SpitfireAudio.Mac-3.4.17.dmg; Homebrew cask 3.4.17 agrees.",
+      "identityKind": "hub_app",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "3.4.17",
+      "versionSourceUrl": "https://d1t3zg51rvnesz.cloudfront.net/p/files/lm/1770184800/mac/SpitfireAudio.Mac-3.4.17.dmg",
+      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -176826,7 +177202,15 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "identityKind": "discontinued",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "5.4.13",
+      "versionSourceUrl": "https://desktop.splice.com/conveyor/stable/splice-5.4.13-mac-aarch64.zip",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
     },
     {
       "id": "splice--splice-desktop-app",
@@ -178195,7 +178579,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.19",
-      "versionSourceUrl": "https://www.voxengo.com/product/stereotouch/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -180346,7 +180730,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/studio-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Studio Collection).",
       "identityKind": "bundle",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "8dio--studio-electric-grand-piano",
@@ -180628,7 +181012,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/studio-pop-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Studio Pop ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--studio-prog-adpak",
@@ -180648,7 +181032,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/studio-prog-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Studio Prog ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "avid--studio-reverb",
@@ -180696,7 +181080,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/studio-rock-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Studio Rock ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "8dio--studio-sax-trio",
@@ -183162,7 +183546,7 @@
       "updatePortalUrl": "https://www.lennardigital.com/downloads/",
       "notes": "KVR product https://www.kvraudio.com/product/sylenth1-by-lennardigital",
       "appleSilicon": "native",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "3.0.7.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/sylenth1-by-lennardigital",
       "versionVerifiedAt": "2026-09-10T08:04:27Z",
@@ -184284,7 +184668,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/synth-pop---xo-expansion-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Synth-Pop - XO Expansion).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "oas--lluisestape-upc-synth1-0",
@@ -189265,9 +189649,9 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "2.2.2",
+      "latestVersion": "2.2.3",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-nova/",
-      "versionVerifiedAt": "2026-09-15T14:43:36Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -189291,9 +189675,9 @@
         "compareSegments": 3
       },
       "popularityTier": 1,
-      "latestVersion": "2.2.2",
+      "latestVersion": "2.2.3",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-nova-ge/",
-      "versionVerifiedAt": "2026-09-15T14:43:35Z",
+      "versionVerifiedAt": "2026-10-26T00:02:05Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -189573,7 +189957,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.16",
-      "versionSourceUrl": "https://www.voxengo.com/product/teote/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:41",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -189601,7 +189985,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoTEQ421_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:26:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -192403,7 +192787,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.9",
-      "versionSourceUrl": "https://www.voxengo.com/product/tempodelay/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:40",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -198157,7 +198541,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.15",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoTransGainer_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:29:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -199188,6 +199572,17 @@
       "popularityTier": 2
     },
     {
+      "id": "spectrasonics--trilian",
+      "manufacturerId": "spectrasonics",
+      "name": "Trilian",
+      "matchPatterns": [
+        "Trilian"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page prints Version 1.5 as a feature line, build not printed; do NOT stamp 1.5 as a build version.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "native-instruments--trill-rays",
       "manufacturerId": "native-instruments",
       "name": "Trill Rays",
@@ -199335,14 +199730,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/triple-eq-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.5",
+      "latestVersion": "4.6",
       "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -199701,7 +200095,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.16",
-      "versionSourceUrl": "https://www.voxengo.com/product/tubeamp/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-14 18:41:42",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -200746,7 +201140,15 @@
       "notesForUser": "The UA Connect app itself, not a plugin — it updates on its own.",
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.11.0.3877",
+      "versionSourceUrl": "https://builds.uaudio.com/apps/UA_Connect/UA_Connect_1_11_0_3877_Mac.dmg",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
     },
     {
       "id": "universal-audio--uad-1176-classic-limiter-collection",
@@ -200781,11 +201183,9 @@
         "4K Buss Compressor"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-4k-buss-compressor-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-4k-buss-compressor-by-universal-audio BundleId com.uaudio.effects.58AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.58au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.58AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -200868,11 +201268,9 @@
         "ADA Flanger"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-ada-flanger-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-ada-flanger-by-universal-audio BundleId com.uaudio.effects.naau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.naau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.naau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -200926,11 +201324,9 @@
         "AKG BX 20 Spring Reverb"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-akg-bx-20-spring-reverb-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-akg-bx-20-spring-reverb-by-universal-audio BundleId com.uaudio.effects.9BAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.9bau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.9BAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201173,11 +201569,9 @@
         "Ampeg SVT3Pro"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-ampeg-svt3pro-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-ampeg-svt3pro-by-universal-audio BundleId com.uaudio.effects.57au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.57au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.57au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201282,11 +201676,9 @@
         "Antares Auto-Tune Realtime Advanced"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-antares-auto-tune-realtime-advanced-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-antares-auto-tune-realtime-advanced-by-universal-audio BundleId com.uaudio.effects.bbau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.bbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.bbau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201460,10 +201852,9 @@
       ],
       "productLine": "C-Suite",
       "updatePortalUrl": "https://www.uaudio.com/my/",
+      "notes": "BundleId com.uaudio.effects.pbau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.pbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.pbau"
-        ]
+        "bundleIds": []
       },
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -201487,11 +201878,9 @@
         "CS-1 Channel Strip"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-cs-1-channel-strip-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-cs-1-channel-strip-by-universal-audio BundleId com.uaudio.effects.70AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.70au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.70AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201516,11 +201905,9 @@
         "Cambridge EQ"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-cambridge-eq-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-cambridge-eq-by-universal-audio BundleId com.uaudio.effects.B1AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.b1au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.B1AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201630,11 +202017,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-chandler-limited-curve-bender-by-universal-audio",
+      "notes": "KVR product slug uad-chandler-limited-curve-bender-by-universal-audio BundleId com.uaudio.effects.38au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.38au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.38au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -201666,11 +202051,9 @@
         "Chandler Limited Curve Bender"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-chandler-limited-curve-bender-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-chandler-limited-curve-bender-by-universal-audio BundleId com.uaudio.effects.38au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.38au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.38au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201693,11 +202076,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-chandler-limited-zener-limiter-by-universal-audio",
+      "notes": "KVR product slug uad-chandler-limited-zener-limiter-by-universal-audio BundleId com.uaudio.effects.49au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.49au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -201864,11 +202245,9 @@
         "Diezel Herbert"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-diezel-herbert-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-diezel-herbert-by-universal-audio BundleId com.uaudio.effects.9bau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.9bau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.9bau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -201949,11 +202328,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-dytronics-cyclosonic-panner-by-universal-audio",
+      "notes": "KVR product slug uad-dytronics-cyclosonic-panner-by-universal-audio BundleId com.uaudio.effects.daau withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.daau"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -202012,11 +202389,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-dytronics-tri-stereo-chorus-by-universal-audio",
+      "notes": "KVR product slug uad-dytronics-tri-stereo-chorus-by-universal-audio BundleId com.uaudio.effects.faau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.faau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.faau"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -202048,11 +202423,9 @@
         "Dytronics Tri-Stereo Chorus"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-dytronics-tri-stereo-chorus-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-dytronics-tri-stereo-chorus-by-universal-audio BundleId com.uaudio.effects.faau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.faau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.faau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -202106,11 +202479,9 @@
         "EMT 250 Classic Electronic Reverberator"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-emt-250-classic-electronic-reverberator-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-emt-250-classic-electronic-reverberator-by-universal-audio BundleId com.uaudio.effects.38AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.38au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.38AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -202272,11 +202643,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-eden-wt800-by-universal-audio",
+      "notes": "KVR product slug uad-eden-wt800-by-universal-audio BundleId com.uaudio.effects.3aau withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.3aau"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -202366,11 +202735,9 @@
         "Eventide H910 Harmonizer"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-eventide-h910-harmonizer-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-eventide-h910-harmonizer-by-universal-audio BundleId com.uaudio.effects.37au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.37au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.37au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -202613,11 +202980,9 @@
         "Gallien Krueger 800RB"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-gallien-krueger-800rb-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-gallien-krueger-800rb-by-universal-audio BundleId com.uaudio.effects.laau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.laau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.laau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203097,11 +203462,9 @@
         "Manley VOXBOX"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-manley-voxbox-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-manley-voxbox-by-universal-audio BundleId com.uaudio.effects.PBAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.pbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.PBAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203126,11 +203489,9 @@
         "Manley Variable Mu"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-manley-variable-mu-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-manley-variable-mu-by-universal-audio BundleId com.uaudio.effects.1BAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.1bau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.1BAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203153,11 +203514,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-marshall-bluesbreaker-1962-by-universal-audio",
+      "notes": "KVR product slug uad-marshall-bluesbreaker-1962-by-universal-audio BundleId com.uaudio.effects.17au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.17au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.17au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -203189,11 +203548,9 @@
         "Marshall Bluesbreaker 1962"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-marshall-bluesbreaker-1962-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-marshall-bluesbreaker-1962-by-universal-audio BundleId com.uaudio.effects.17au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.17au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.17au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203216,11 +203573,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-marshall-jmp-2203-by-universal-audio",
+      "notes": "KVR product slug uad-marshall-jmp-2203-by-universal-audio BundleId com.uaudio.effects.96au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.96au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.96au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -203252,11 +203607,9 @@
         "Marshall JMP 2203"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-marshall-jmp-2203-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-marshall-jmp-2203-by-universal-audio BundleId com.uaudio.effects.96au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.96au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.96au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203279,11 +203632,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-marshall-plexi-super-lead-1959-by-universal-audio",
+      "notes": "KVR product slug uad-marshall-plexi-super-lead-1959-by-universal-audio BundleId com.uaudio.effects.16au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.16au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -203424,10 +203775,9 @@
         "Moog Multimode Filter / Moog Multimode Filter SE"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-moog-multimode-filter-moog-multimode-filter-se-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-moog-multimode-filter-moog-multimode-filter-se-by-universal-audio BundleId com.uaudio.effects.57AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.57au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
         "bundleIds": [
-          "com.uaudio.effects.57AU",
           "com.uaudio.effects.77AU"
         ]
       },
@@ -203592,14 +203942,13 @@
         "UAD Neve 88RS Channel Strip",
         "UAD UAD Neve 88RS Channel Strip",
         "UADx UAD Neve 88RS Channel Strip",
-        "Neve 88RS Channel Strip"
+        "Neve 88RS Channel Strip",
+        "UAD Neve 88RS"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-neve-88rs-channel-strip-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-neve-88rs-channel-strip-by-universal-audio BundleId com.uaudio.effects.BBAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.bbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.BBAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203673,11 +204022,10 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-oto-biscuit-8-bit-effects-by-universal-audio",
+      "notes": "KVR product slug uad-oto-biscuit-8-bit-effects-by-universal-audio BundleId com.uaudio.effects.e9au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
         "bundleIds": [
-          "com.softube.Biscuit_UAD_Release",
-          "com.uaudio.effects.e9au"
+          "com.softube.Biscuit_UAD_Release"
         ]
       },
       "installedVersionRule": {
@@ -203830,11 +204178,9 @@
         "Oxford EQ"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-oxford-eq-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-oxford-eq-by-universal-audio BundleId com.uaudio.effects.70au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.70au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.70au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -203946,11 +204292,9 @@
         "Oxide Tape"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-oxide-tape-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-oxide-tape-by-universal-audio BundleId com.uaudio.effects.DBAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.dbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.DBAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204091,11 +204435,9 @@
         "Precision Equalizer"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-equalizer-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-equalizer-by-universal-audio BundleId com.uaudio.effects.94AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.94au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.94AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204120,11 +204462,9 @@
         "Precision K-Stereo"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-k-stereo-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-k-stereo-by-universal-audio BundleId com.uaudio.effects.LAAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.laau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.LAAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204149,11 +204489,9 @@
         "Precision Limiter"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-limiter-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-limiter-by-universal-audio BundleId com.uaudio.effects.14AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.14au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.14AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204178,11 +204516,9 @@
         "Precision Maximizer"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-maximizer-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-precision-maximizer-by-universal-audio BundleId com.uaudio.effects.96AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.96au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.96AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204250,14 +204586,13 @@
         "UAD Pultec EQP-1A EQ",
         "UAD UAD Pultec EQP-1A EQ",
         "UADx UAD Pultec EQP-1A EQ",
-        "Pultec EQP-1A EQ"
+        "Pultec EQP-1A EQ",
+        "UAD Pultec EQP-1A"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-pultec-eqp-1a-eq-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-pultec-eqp-1a-eq-by-universal-audio BundleId com.uaudio.effects.NAAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.naau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.NAAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204362,11 +204697,9 @@
         "RealVerb Pro"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-realverb-pro-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-realverb-pro-by-universal-audio BundleId com.uaudio.effects.50AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.50au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.50AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204391,11 +204724,9 @@
         "SPL Transient Designer"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-spl-transient-designer-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-spl-transient-designer-by-universal-audio BundleId com.uaudio.effects.17AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.17au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.17AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -204687,11 +205018,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-softube-vocoder-by-universal-audio",
+      "notes": "KVR product slug uad-softube-vocoder-by-universal-audio BundleId com.uaudio.effects.1bau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.1bau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.1bau"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -204723,11 +205052,9 @@
         "Softube Vocoder"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-softube-vocoder-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-softube-vocoder-by-universal-audio BundleId com.uaudio.effects.1bau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.1bau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.1bau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205009,11 +205336,9 @@
         "Thermionic Culture Vulture"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-thermionic-culture-vulture-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-thermionic-culture-vulture-by-universal-audio BundleId com.uaudio.effects.FAAU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.faau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.FAAU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205036,11 +205361,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-tonelux-tilt-by-universal-audio",
+      "notes": "KVR product slug uad-tonelux-tilt-by-universal-audio BundleId com.uaudio.effects.91au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.91au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -205099,11 +205422,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-tonelux-tilt-live-by-universal-audio",
+      "notes": "KVR product slug uad-tonelux-tilt-live-by-universal-audio BundleId com.uaudio.effects.b1au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.b1au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.b1au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -205135,11 +205456,9 @@
         "Tonelux Tilt Live"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-tonelux-tilt-live-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-tonelux-tilt-live-by-universal-audio BundleId com.uaudio.effects.b1au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.b1au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.b1au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205220,11 +205539,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-tube-tech-cl-1b-by-universal-audio",
+      "notes": "KVR product slug uad-tube-tech-cl-1b-by-universal-audio BundleId com.uaudio.effects.t1au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.t1au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -205283,11 +205600,10 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-tube-tech-cl-1b-mk-ii-by-universal-audio",
+      "notes": "KVR product slug uad-tube-tech-cl-1b-mk-ii-by-universal-audio BundleId com.uaudio.effects.dbau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.dbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
         "bundleIds": [
-          "com.softube.TubeTechCL1BmkII_UAD_Release",
-          "com.uaudio.effects.dbau"
+          "com.softube.TubeTechCL1BmkII_UAD_Release"
         ]
       },
       "installedVersionRule": {
@@ -205320,11 +205636,9 @@
         "Tube-Tech CL 1B mk II"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-tube-tech-cl-1b-mk-ii-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-tube-tech-cl-1b-mk-ii-by-universal-audio BundleId com.uaudio.effects.dbau withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.dbau); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.dbau"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205421,11 +205735,9 @@
       ],
       "productLine": "Softube",
       "updatePortalUrl": "https://www.softube.com/installers",
-      "notes": "KVR product slug uad-valley-people-dyna-mite-by-universal-audio",
+      "notes": "KVR product slug uad-valley-people-dyna-mite-by-universal-audio BundleId com.uaudio.effects.71au withheld 2026-10-25 (distributor twin; kept on universal-audio canonical row); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.71au"
-        ]
+        "bundleIds": []
       },
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
@@ -205486,11 +205798,9 @@
         "Vertigo VSC-2"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-vertigo-vsc-2-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-vertigo-vsc-2-by-universal-audio BundleId com.uaudio.effects.94au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.94au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.94au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205573,12 +205883,10 @@
         "bx_digital"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-bx_digital-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-bx_digital-by-universal-audio BundleId com.uaudio.effects.58au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.58au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md. BundleId com.uaudio.effects.50au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.50au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
         "bundleIds": [
           "com.uaudio.effects.40au",
-          "com.uaudio.effects.50au",
-          "com.uaudio.effects.58au",
           "com.uaudio.effects.68au"
         ]
       },
@@ -205744,11 +206052,9 @@
         "dbx 160 Compressor/Limiter"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-dbx-160-compressor-limiter-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-dbx-160-compressor-limiter-by-universal-audio BundleId com.uaudio.effects.37AU withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.37au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.37AU"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -205802,11 +206108,9 @@
         "elysia alpha mix"
       ],
       "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
-      "notes": "KVR product https://www.kvraudio.com/product/uad-elysia-alpha-mix-by-universal-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/uad-elysia-alpha-mix-by-universal-audio BundleId com.uaudio.effects.14au withheld 2026-10-25 (case-fold collision, folded key com.uaudio.effects.14au); restore only after app ships case-exact bundle-id matching. See advisory/bundle-id-mitigation-2026-10-25.md.",
       "identityKeys": {
-        "bundleIds": [
-          "com.uaudio.effects.14au"
-        ]
+        "bundleIds": []
       },
       "portalApp": "UA Connect",
       "appleSilicon": "native",
@@ -207276,7 +207580,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/uk-garage---xo-expansion-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (UK Garage - XO Expansion).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "waves--um225-um226",
@@ -210240,7 +210544,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/united-heavy-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (United Heavy ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--united-pop-adpak",
@@ -210260,7 +210564,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/united-pop-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (United Pop ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "united-plugins--unitedpluginsmanager",
@@ -210273,13 +210577,13 @@
       "notesForUser": "United Plugins' manager app for installing and updating their plug-ins.",
       "identityKind": "hub_app",
       "popularityTier": 2,
-      "latestVersion": "03.00",
+      "latestVersion": "03.01",
       "versionSourceUrl": "https://unitedplugins.com/download/manager?platform=mac",
-      "versionVerifiedAt": "2026-10-18T20:18:33Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Vendor redirect serves UnitedPluginsManager_03_00_setupmac.zip (LM 2026-10-14); white-label train with Melda MPM (17s apart) — installer number accepted as own, watch coupled to MPM."
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -211312,7 +211616,7 @@
       "notes": "Product page: https://refx.com\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "heavyocity--vast-impulse-engine",
@@ -211861,7 +212165,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/vcv-rack-by-vcv",
       "notesForUser": "VCV Rack is a modular synth environment, not a plugin.",
       "identityKind": "hub_app",
-      "popularityTier": 3,
+      "popularityTier": 1,
       "latestVersion": "2.6.6",
       "versionSourceUrl": "https://vcvrack.com/Rack",
       "versionVerifiedAt": "2026-09-10T09:48:23Z",
@@ -211888,7 +212192,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/vcv-rack-pro-by-vcv",
       "notesForUser": "VCV Rack is a modular synth environment, not a plugin.",
       "identityKind": "hub_app",
-      "popularityTier": 3,
+      "popularityTier": 1,
       "latestVersion": "2.6.6",
       "versionSourceUrl": "https://vcvrack.com/Rack",
       "versionVerifiedAt": "2026-09-10T09:48:23Z",
@@ -214122,7 +214426,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.7",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoVariSaturator_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -215415,7 +215719,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/vintage-dead-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Vintage Dead ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "ugritone--vintage-doom-drums",
@@ -215450,7 +215754,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/vintage-dry-adpak-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (Vintage Dry ADpak).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--vintage-heat",
@@ -217880,6 +218184,25 @@
       "popularityTier": 3
     },
     {
+      "id": "focusrite--vocaster-hub",
+      "manufacturerId": "focusrite",
+      "name": "Vocaster Hub",
+      "matchPatterns": [
+        "Vocaster Hub"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Vendor dmg Vocaster Hub-1.6.0.dmg, Last-Modified 2023-12-20; Homebrew cask agrees.",
+      "identityKind": "hub_app",
+      "popularityTier": 3,
+      "latestVersion": "1.6.0",
+      "versionSourceUrl": "https://releases.focusrite.com/com.focusrite.vocaster-hub/Vocaster%20Hub-1.6.0.dmg",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "softube--vocoder",
       "manufacturerId": "softube",
       "name": "Vocoder",
@@ -218728,7 +219051,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.23",
-      "versionSourceUrl": "https://www.voxengo.com/product/voxformer/",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-16 05:23:09",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -219604,7 +219927,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.9",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoWarmifier_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:30:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -219859,7 +220182,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/VoxengoWaterChorus_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
@@ -222545,7 +222868,7 @@
         "compareSegments": 3
       },
       "identityKind": "hub_app",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "5.0.2",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-10-18T20:18:03Z",
@@ -222615,7 +222938,7 @@
       "productLine": "XO",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/xo-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.8.10",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -222661,7 +222984,7 @@
       "productLine": "XO",
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/xo-lite-by-xln-audio",
-      "popularityTier": 2,
+      "popularityTier": 1,
       "latestVersion": "1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/xo-lite-by-xln-audio",
       "versionVerifiedAt": "2026-09-10T10:49:23Z",
@@ -222689,7 +223012,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/xopak-oscillations-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (XOpak Oscillations).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--xopak-pastel-punch",
@@ -222709,7 +223032,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/xopak-pastel-punch-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (XOpak Pastel Punch).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--xopak-preheated",
@@ -222729,7 +223052,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/xopak-preheated-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (XOpak Preheated).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--xopak-ultra-bionic",
@@ -222749,7 +223072,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/xopak-ultra-bionic-by-xln-audio",
       "notesForUser": "XLN Audio expansion/content (XOpak Ultra Bionic).",
       "identityKind": "expansion",
-      "popularityTier": 2
+      "popularityTier": 1
     },
     {
       "id": "airwindows--xregion",
@@ -223745,6 +224068,16 @@
       ]
     },
     {
+      "id": "youlean--youlean-loudness-meter",
+      "manufacturerId": "youlean",
+      "name": "Youlean Loudness Meter",
+      "matchPatterns": [
+        "Youlean Loudness Meter"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page youlean.co/youlean-loudness-meter/ fetched 200 (operator-verified) but prints no version; KVR 2098 members.",
+      "popularityTier": 1
+    },
+    {
       "id": "native-instruments--young-phantom",
       "manufacturerId": "native-instruments",
       "name": "Young Phantom",
@@ -224046,13 +224379,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://zl-audio.github.io/plugins/zlequalizer2/",
       "notes": "OAS package zl-audio/zlequalizer2",
-      "latestVersion": "1.3.1",
-      "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zlequalizer2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
-      "versionEvidence": "manufacturer-feed",
+      "latestVersion": "1.4.1",
+      "versionSourceUrl": "https://github.com/ZL-Audio/ZLEqualizer/releases/tag/1.4.1",
+      "versionVerifiedAt": "2026-10-26T00:02:08Z",
+      "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "manual accept via CLI (confidence=95)"
       ]
     },
     {
@@ -224093,6 +224426,24 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "oas--zl-audio-zl-spectrum-equalizer",
+      "manufacturerId": "oas--zl-audio",
+      "name": "ZL Spectrum Equalizer",
+      "matchPatterns": [
+        "ZL Spectrum Equalizer"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub ZL-Audio/ZLSpectrumEqualizer release 0.1.1 (2026-09-28), operator-verified.",
+      "popularityTier": 4,
+      "latestVersion": "0.1.1",
+      "versionSourceUrl": "https://github.com/ZL-Audio/ZLSpectrumEqualizer/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -225764,15 +226115,13 @@
       "updatePortalUrl": "https://www.apulsoft.ch",
       "notes": "KVR product https://www.kvraudio.com/product/aptrigga-by-apulsoft",
       "popularityTier": 3,
-      "latestVersion": "3.7.4",
+      "latestVersion": "3.7.5",
       "versionSourceUrl": "https://www.apulsoft.ch/aptrigga3/",
-      "versionVerifiedAt": "2026-09-10T06:49:47Z",
+      "versionVerifiedAt": "2026-10-26T00:02:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "apulsoft.ch apTrigga3 download modal title Downloads (v3.7.4)",
-        "installer filenames aptrigga3-mac-3-7-4.pkg / aptrigga3-win-3-7-4.msi",
-        "matches KVR 3.7.4"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -227698,14 +228047,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipcrusher-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2.123",
+      "latestVersion": "2.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:34Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 2.123 (KVR CLAP qualifier is format-specific; Win/Mac build is 2.123)"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -227779,14 +228127,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipsynth-c64-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.123",
+      "latestVersion": "1.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:34Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 1.123"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -227806,14 +228153,33 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipsynth-md-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.123",
+      "latestVersion": "1.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:35Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 1.123"
+        "manual accept via CLI (confidence=92)"
+      ]
+    },
+    {
+      "id": "plogue--chipsynth-opmz",
+      "manufacturerId": "plogue",
+      "name": "chipsynth OPMZ",
+      "matchPatterns": [
+        "chipsynth OPMZ",
+        "OPMZ"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Plogue downloads: OPMZ for Windows Version 1.002, September 28th, 2026 (operator-verified on page).",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "1.002",
+      "versionSourceUrl": "https://www.plogue.com/downloads.html",
+      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
       ]
     },
     {
@@ -227833,14 +228199,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipsynth-ops7-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.123",
+      "latestVersion": "1.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:35Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 1.123"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -227860,14 +228225,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipsynth-portafm-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.123",
+      "latestVersion": "1.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:35Z",
+      "versionVerifiedAt": "2026-10-26T00:02:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 1.123"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -227887,14 +228251,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/chipsynth-sfc-by-plogue",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.123",
+      "latestVersion": "1.132",
       "versionSourceUrl": "https://www.plogue.com/downloads.html",
-      "versionVerifiedAt": "2026-09-14T04:46:35Z",
+      "versionVerifiedAt": "2026-10-26T00:02:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official plogue.com/downloads.html version label per product (Win+Mac)",
-        "Exact match with KVR accepted version 1.123"
+        "manual accept via CLI (confidence=92)"
       ]
     },
     {
@@ -229810,6 +230173,31 @@
       "notes": "universe-expansion surge-1318",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 3
+    },
+    {
+      "id": "air--inmusic-software-center",
+      "manufacturerId": "air",
+      "name": "inMusic Software Center",
+      "matchPatterns": [
+        "inMusic Software Center"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Filed under air (AIR portal_app is inMusic Software Center). Vendor zip 1.40.0, installer introspection: CFBundleIdentifier com.electron.inmusic-software-center, CFBundleShortVersionString 1.40.0, LSMinimumSystemVersion 12.0; Homebrew cask agrees.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.electron.inmusic-software-center"
+        ]
+      },
+      "identityKind": "hub_app",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.40.0",
+      "versionSourceUrl": "https://cdn.inmusicbrands.com/SI04/1400/inMusic%20Software%20Center-darwin-universal-1.40.0.zip",
+      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
     },
     {
       "id": "sound-particles--inshaper",
@@ -231846,6 +232234,24 @@
       ]
     },
     {
+      "id": "oas--trummerschlunk-master-me",
+      "manufacturerId": "oas--trummerschlunk",
+      "name": "master_me",
+      "matchPatterns": [
+        "master_me"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub trummerschlunk/master_me release 1.3.1 (2025-07-02), operator-verified on releases page.",
+      "popularityTier": 2,
+      "latestVersion": "1.3.1",
+      "versionSourceUrl": "https://github.com/trummerschlunk/master_me/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "korg--microkorg",
       "manufacturerId": "korg",
       "name": "microKORG",
@@ -232010,6 +232416,24 @@
       ]
     },
     {
+      "id": "oas--jameshball-osci-render",
+      "manufacturerId": "oas--jameshball",
+      "name": "osci-render",
+      "matchPatterns": [
+        "osci-render"
+      ],
+      "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. GitHub jameshball/osci-render release 2.9.9.3 (2026-09-20), operator-verified.",
+      "popularityTier": 2,
+      "latestVersion": "2.9.9.3",
+      "versionSourceUrl": "https://github.com/jameshball/osci-render/releases",
+      "versionVerifiedAt": "2026-10-26T00:02:51Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 85,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=85)"
+      ]
+    },
+    {
       "id": "izotope--phatmatik-pro",
       "manufacturerId": "izotope",
       "name": "pHATmatik Pro",
@@ -232074,6 +232498,7 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/plugdata-team/plugdata",
       "notes": "OAS package plugdata-team/plugdata",
+      "popularityTier": 2,
       "latestVersion": "0.9.3-2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/plugdata-team/plugdata/index.json",
       "versionVerifiedAt": "2026-09-10T04:56:43Z",
@@ -232437,7 +232862,7 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.12",
-      "versionSourceUrl": "https://www.voxengo.com/files/userguides/Voxengor8brainPRO_en.pdf",
+      "versionSourceUrl": "https://www.voxengo.com/products/",
       "versionVerifiedAt": "2026-10-20T05:33:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
