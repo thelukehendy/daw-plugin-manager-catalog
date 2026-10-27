@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-26T19:14:24Z",
+  "updatedAt": "2026-10-27T13:01:06Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -13509,6 +13509,29 @@
       "notesForUser": "XLN Audio bundle/collection (Addictive Trigger + Drum Vault Bundle).",
       "identityKind": "bundle",
       "popularityTier": 1
+    },
+    {
+      "id": "irq-inc--adeder-enhancer",
+      "manufacturerId": "irq-inc",
+      "name": "Adeder Enhancer",
+      "matchPatterns": [
+        "Adeder Enhancer"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://irqinc.com/en/adeder-enhancer",
+      "notes": "Voice enhancer from IRQ inc.'s Adeder brand: one control returns lost air to vocals, AI voices and narration, travelling from a retro lo-fi character through bypass to an exaggerated human quality, with a built-in analyser for content above 15 kHz. $39. AU/VST3/AAX on macOS, VST3/AAX on Windows.",
+      "latestVersion": "1.0.3",
+      "versionSourceUrl": "https://irqinc.com/en/adeder-enhancer",
+      "versionVerifiedAt": "2026-10-27T05:21:41Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page states Adeder Enhancer v1.0.3, released 24 Sep 2026, updated 7 Oct 2026"
+      ]
     },
     {
       "id": "irq-inc--adeder-limiter",
@@ -37092,6 +37115,23 @@
       "popularityTier": 1
     },
     {
+      "id": "mastering-the-mix--carbon-q",
+      "manufacturerId": "mastering-the-mix",
+      "name": "CARBON Q",
+      "matchPatterns": [
+        "CARBON Q"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.masteringthemix.com/products/carbon-q",
+      "notes": "Session-wide EQ and volume balance plugin: a MIX instance on the output channel plus agents on vocals, music, drums and bass, all controllable from any window, with eleven fixed bands, Smart Presets built from your audio, reference-track matching and level-matched EQ moves. VST3/AU/AAX on macOS and Windows. No version number printed on the vendor site — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "8dio--case-solo-brass",
       "manufacturerId": "8dio",
       "name": "CASE Solo Brass",
@@ -56172,6 +56212,24 @@
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
       ]
+    },
+    {
+      "id": "pulsar-audio--digitape",
+      "manufacturerId": "pulsar-audio",
+      "name": "DigiTape",
+      "matchPatterns": [
+        "DigiTape"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://pulsar.audio/digitape/",
+      "notes": "Free tape saturation plugin revisiting the sound of early 2000s tape-emulation plugins rather than a specific vintage machine, with two algorithms: Contour (five types from subtle Halo to harder Shade) and Grain (three-band saturation). Free with a perpetual licence code via a short survey; iLok account required. macOS and Windows. No version number printed on the vendor site — seeded versionless.",
+      "appleSilicon": "universal",
+      "popularityTier": 2
     },
     {
       "id": "puremagnetik--digital-beatboxes-the-drum-machines-of-an-era",
@@ -136214,7 +136272,15 @@
       ],
       "notes": "Seeded 2026-10-25, Grok Bot wild scrub PR #70 verdict. Versionless: vendor page elektron.se/en/overbridge fetched 200 (operator-verified) but prints no version.",
       "identityKind": "hub_app",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "2.26.10",
+      "versionSourceUrl": "https://www.elektron.se/support-downloads/overbridge",
+      "versionVerifiedAt": "2026-10-27T05:21:16Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Manufacturer official support/downloads page lists Overbridge 2.26.10 dated Sep 9, 2026"
+      ]
     },
     {
       "id": "nembrini-audio--overdrive-special-guitar-amplifier",
