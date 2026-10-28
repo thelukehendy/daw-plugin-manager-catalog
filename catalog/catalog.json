@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-27T13:01:06Z",
+  "updatedAt": "2026-10-28T13:02:56Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -926,6 +926,12 @@
       ],
       "notes": "FOSS Tunefish; first-class twin of OAS brain-control; expand5.",
       "popularityTier": 3
+    },
+    {
+      "id": "bujaabeats",
+      "name": "BuJaa Beats",
+      "updatePortalUrl": "https://www.bujaabeats.com",
+      "websiteUrl": "https://www.bujaabeats.com"
     },
     {
       "id": "oas--butch-warns",
@@ -3714,6 +3720,12 @@
       "popularityTier": 2
     },
     {
+      "id": "platinum-samples",
+      "name": "Platinum Samples",
+      "updatePortalUrl": "https://www.platinumsamples.com",
+      "websiteUrl": "https://www.platinumsamples.com"
+    },
+    {
       "id": "plogue",
       "name": "Plogue",
       "updatePortalUrl": "https://www.plogue.com/account/",
@@ -4022,6 +4034,12 @@
       "updatePortalUrl": "https://github.com/rochen-sound-collective/modular_collection",
       "websiteUrl": "https://github.com/rochen-sound-collective/modular_collection",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "rockedge-audio",
+      "name": "Rockedge Audio",
+      "updatePortalUrl": "https://www.rockedgeaudio.com",
+      "websiteUrl": "https://www.rockedgeaudio.com"
     },
     {
       "id": "oas--rodrigo-diaz",
@@ -5191,6 +5209,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "vitric-audio",
+      "name": "Vitric Audio",
+      "updatePortalUrl": "https://vitricaudio.com",
+      "websiteUrl": "https://vitricaudio.com"
+    },
+    {
       "id": "oas--vivek-vijayan",
       "name": "Vivek Vijayan",
       "updatePortalUrl": "https://github.com/vivekvjyn/Sound-of-Music",
@@ -6101,6 +6125,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "touski",
+      "name": "touski",
+      "updatePortalUrl": "https://touski.net",
+      "websiteUrl": "https://touski.net"
+    },
+    {
       "id": "oas--trummerschlunk",
       "name": "trummerschlunk",
       "updatePortalUrl": "https://github.com/trummerschlunk",
@@ -6936,6 +6966,31 @@
         "official installer filename on downloads.mcdsp.com via mcdsp.com/plugin-downloads",
         "Win Native suite installer 7.3.0.23 is newer than KVR verwin 7.3.0.18",
         "Mac installer remains 7.3.17 (platform numbering diverge — Win train accepted)"
+      ]
+    },
+    {
+      "id": "bujaabeats--4d-stereo",
+      "manufacturerId": "bujaabeats",
+      "name": "4D Stereo",
+      "matchPatterns": [
+        "4D Stereo"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.bujaabeats.com/4d-stereo",
+      "notes": "Spatial panning plugin: pan, height, front/back depth, distance, stereo width and reflections, with seven auto-pan motion paths. VST3 on Windows and Mac, AU on Mac, plus a standalone app on Windows. One-time purchase of 29 euros for two computers. Per-OS versions on the vendor page: Windows 0.7.2, Mac 0.7.0.",
+      "latestVersionMac": "0.7.0",
+      "latestVersionWindows": "0.7.2",
+      "latestVersion": "0.7.0",
+      "versionSourceUrl": "https://www.bujaabeats.com/4d-stereo",
+      "versionVerifiedAt": "2026-10-27T17:21:22Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page lists Windows 0.7.2 and Mac 0.7.0 first-hand",
+        "Per-OS split stored in latest_version_macos/windows; current observation carries the newest build per bloom/StandardCLIP precedent"
       ]
     },
     {
@@ -25601,12 +25656,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/7deadlysnares-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:46Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/7deadlysnaresReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:37Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -25628,12 +25684,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/cheat-code-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:48Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/cheat-codeReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:38Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -25655,12 +25712,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/lunchtable-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:46Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/lunchtableReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:38Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -25682,12 +25740,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/random-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/randomReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:38Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -25709,12 +25768,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.12",
-      "versionSourceUrl": "https://www.kvraudio.com/product/random-metal-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:48Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/random-metalReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:38Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -25736,12 +25796,13 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/beatfader-by-beatsurfing",
-      "versionVerifiedAt": "2026-09-10T10:26:47Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://download.beatsurfing.com/beatfaderReleaseNotes.json",
+      "versionVerifiedAt": "2026-10-28T05:29:38Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR beatsurfing developer product page Product Version"
+        "Vendor changelog JSON top entry",
+        "Versioned installers on vendor download host"
       ]
     },
     {
@@ -34899,6 +34960,22 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "identityKind": "soundset",
       "popularityTier": 1
+    },
+    {
+      "id": "platinum-samples--boudoir",
+      "manufacturerId": "platinum-samples",
+      "name": "Boudoir",
+      "matchPatterns": [
+        "Boudoir"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.platinumsamples.com/ps/Boudoir.php",
+      "notes": "Precision wah pedal built from measurements of two classic wahs, with one or two Neural Amp Modeler amp slots, cabinet IRs, a tempo-synced delay and three-mode EQ, plus TONE3000 catalog browsing built in. AU, VST3 and AAX on macOS and Windows; iLok account required. $49.99, with a $29.99 introductory price until November 2, 2026. No version number printed on the vendor product page — seeded versionless.",
+      "requiresIlok": true
     },
     {
       "id": "native-instruments--bounce",
@@ -46740,6 +46817,29 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "vitric-audio--colorfield-mix-stage",
+      "manufacturerId": "vitric-audio",
+      "name": "Colorfield Mix Stage",
+      "matchPatterns": [
+        "Colorfield"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://vitricaudio.com/colorfield",
+      "notes": "Depth and room placement plugin: every instance shares one stage in one of six rooms, so the whole mix sits in one space; dragging a track further back lowers its level, adds room and removes high end. Collisions list, four scenes, STAGE and PLAN views, plus a standalone Stage app that places stems on the stage and exports a WAV mix. VST3 and AAX on Windows, VST3, AU and AAX on macOS (Intel and Apple Silicon). $29 introductory price through November 19, 2026 (regular $99). Match pattern is the short product name 'Colorfield' because that is the installed plugin name; the vendor page's single version string reads 'version 1.0.7'.",
+      "latestVersion": "1.0.7",
+      "versionSourceUrl": "https://vitricaudio.com/colorfield",
+      "versionVerifiedAt": "2026-10-28T05:24:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page states version 1.0.7"
+      ]
     },
     {
       "id": "martinic--colorsound-tremolo",
@@ -63595,6 +63695,39 @@
       "popularityTier": 3
     },
     {
+      "id": "d16-group--echolite",
+      "manufacturerId": "d16-group",
+      "name": "Echolite",
+      "matchPatterns": [
+        "Echolite"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://d16.pl/echolite",
+      "notes": "Free stereo delay from D16 Group (tier-1 manufacturer), released October 23, 2026. Tempo sync, stereo spread and a multi-mode filter in a clean interface. VST2, VST3, AU and AAX on Windows 7 or newer and macOS 10.13 to macOS 26, Intel and Apple Silicon. Version 1.0.0 taken from the vendor's own installer filenames on the product page (Echolite-1.0.0.dmg and Echolite-1.0.0(x64).msi); the page prints no other version string. A stray '1.0.1' on the page is the FastSpring builder script version, not the product version, and was not adopted.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://d16.pl/echolite",
+      "versionVerifiedAt": "2026-10-28T05:24:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor product page installer filenames Echolite-1.0.0.dmg and Echolite-1.0.0(x64).msi"
+      ]
+    },
+    {
       "id": "pulsar-audio--echorec",
       "manufacturerId": "pulsar-audio",
       "name": "Echorec",
@@ -70556,14 +70689,14 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "4.10.19",
-      "versionSourceUrl": "https://forum.image-line.com/viewtopic.php?t=260871",
-      "versionVerifiedAt": "2026-09-14T04:47:16Z",
+      "latestVersion": "5.0.3",
+      "versionSourceUrl": "https://itunes.apple.com/lookup?id=432850619",
+      "versionVerifiedAt": "2026-10-27T17:20:47Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Image-Line forum release history thread lists 4.10.19 as latest (August 5, 2026)",
-        "Manufacturer version 4.10.19 is newer than KVR accepted 4.8.5 - accepting manufacturer version per corroboration procedure"
+        "Apple iTunes lookup carrying vendor's published version and release notes (playbook iOS-app oracle)",
+        "Release notes confirm FL Studio Mobile 5 generation, superseding 4.10.19"
       ]
     },
     {
@@ -98759,6 +98892,20 @@
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
       ]
+    },
+    {
+      "id": "touski--keybloom",
+      "manufacturerId": "touski",
+      "name": "KeyBloom",
+      "matchPatterns": [
+        "KeyBloom"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://touski.net/keybloom",
+      "notes": "Lightweight key detection: key, relative key, Camelot notation, confidence and tuning offset in one small window, with zero latency and audio passing through untouched. VST3 and AU on Windows and macOS. $9.99 launch price (regular $14.99), free demo, offline activation with no account or iLok. No version number printed on the vendor product page — seeded versionless; the homepage 'New · v1.0' badge was not adopted as a version because the same badge appears on sibling product GrooveBloom and reads as a launch marker, not a release number."
     },
     {
       "id": "puremagnetik--keyboard-compendium",
@@ -153379,6 +153526,28 @@
       "popularityTier": 1
     },
     {
+      "id": "rockedge-audio--ra-cs1",
+      "manufacturerId": "rockedge-audio",
+      "name": "RA-CS1",
+      "matchPatterns": [
+        "RA-CS1"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.rockedgeaudio.com/products/ra-cs1/",
+      "notes": "Modern channel strip, macOS only: four stages in one fixed chain (downward expander, 8-band parametric EQ, VCA compressor, saturation/drive) built for stem-based sessions rather than vintage console emulation. macOS 10.14 or later, Apple Silicon and Intel, VST3 and AU. $59 one-time perpetual license (regular $79), no iLok, no subscription, free updates within v1.x. Vendor product page states 'Version 1.3.5' alongside the macOS AU/VST3 download.",
+      "latestVersion": "1.3.5",
+      "versionSourceUrl": "https://www.rockedgeaudio.com/products/ra-cs1/",
+      "versionVerifiedAt": "2026-10-28T05:24:00Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page states Version 1.3.5"
+      ]
+    },
+    {
       "id": "rob-papen--raw",
       "manufacturerId": "rob-papen",
       "name": "RAW",
@@ -176657,14 +176826,14 @@
       "notes": "Product page: https://reveal-sound.com/plug-ins/spire\nUniverse expansion 2026-09-15 (research-engine-10x).",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.5.19",
+      "latestVersion": "1.5.22",
       "versionSourceUrl": "https://www.reveal-sound.com/content/changelog.php?spire",
-      "versionVerifiedAt": "2026-09-15T05:51:03Z",
+      "versionVerifiedAt": "2026-10-28T05:29:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "official manufacturer changelog",
-        "latest entry dated 2025-09-22"
+        "Vendor changelog top entry",
+        "Build 5409 dated 2026-09-17"
       ]
     },
     {
@@ -220995,13 +221164,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "17.1.3",
+      "latestVersion": "17.1.4",
       "versionSourceUrl": "https://register.waves.com/Autoupdate/Updates/ByProductId/1/latest-mac.yml",
-      "versionVerifiedAt": "2026-10-22T17:52:33Z",
+      "versionVerifiedAt": "2026-10-28T05:22:42Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Waves' own autoupdate YAML manifest is the primary oracle for Waves Central; corroborated by file size and release name"
+        "Waves' own autoupdate YAML manifest is the primary oracle for Waves Central; Mac and Win feeds agree on 17.1.4"
       ]
     },
     {
