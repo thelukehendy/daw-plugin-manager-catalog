@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-28T13:02:56Z",
+  "updatedAt": "2026-10-29T13:03:23Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -574,6 +574,12 @@
       "updatePortalUrl": "https://github.com/Audio-Solutions/pulse-visualizer",
       "websiteUrl": "https://github.com/Audio-Solutions/pulse-visualizer",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "audiobrain",
+      "name": "AudioBrain",
+      "updatePortalUrl": "https://audiobraintools.com",
+      "websiteUrl": "https://audiobraintools.com"
     },
     {
       "id": "audiogridder",
@@ -2925,6 +2931,12 @@
       "popularityTier": 2
     },
     {
+      "id": "mmedia-audio",
+      "name": "M Media Audio",
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/drop-collection-bundle",
+      "websiteUrl": "https://www.mmediaaudio.com"
+    },
+    {
       "id": "ml-sound-lab",
       "name": "ML Sound Lab",
       "updatePortalUrl": "https://ml-sound-lab.com/",
@@ -3456,6 +3468,12 @@
       "popularityTier": 2
     },
     {
+      "id": "noiseworks",
+      "name": "NoiseWorks",
+      "updatePortalUrl": "https://noiseworksaudio.com/products/ploseassist/",
+      "websiteUrl": "https://noiseworksaudio.com"
+    },
+    {
       "id": "nomad-factory",
       "name": "Nomad Factory",
       "updatePortalUrl": "https://download.plugivery.com",
@@ -3603,6 +3621,12 @@
       "versionExample": "2.10.2",
       "notes": "Identity from PSP public product listing + KVR [2026-09-15 compat: PSP's own product pages state system requirements as 'macOS Intel or macOS Silicon' (seen verbatim on pspaudioware.com product/promotion pages) — 'Intel or Apple Silicon Mac' wording = unknown per strict rule (no native/] [surge-0118 E: mixed — pspaudioware.com lists 'macOS Intel' and 'macOS Silicon' platforms but never writes native/Rosetta; cannot confirm native/universal.] [2026-09-16 compat: mixed KEPT - no live PSP-owned line-wide statement retrieved, but product-level evidence is split: PSP Chamber v1.1.0 Apple Silicon native (pspaudioware.com press, vendor-owned) vs older titles without native wording. Re-fetch recipe: per-product pspaudioware.com pages + press releases, parse version headers + Apple Silicon statements; product-by-product matrix is the only honest path.]",
       "popularityTier": 1
+    },
+    {
+      "id": "parish-audio",
+      "name": "Parish Audio",
+      "updatePortalUrl": "https://parishaudio.com/products/he2-harmonic-enhancer",
+      "websiteUrl": "https://parishaudio.com"
     },
     {
       "id": "oas--pascal-gauthier",
@@ -4005,6 +4029,12 @@
       "changelogUrl": "https://www.reveal-sound.com/content/changelog.php?spire",
       "notes": "Universe expansion 2026-09-15 (research-engine-10x). Single-plugin company: Spire. Official changelog https://www.reveal-sound.com/content/changelog.php?spire. Warez 1.5.20/1.5.21 claims (Aug 2026) rejected as unverified third-party.\nApple Silicon: native (researched 2026-09-15). Quote: \"+ Added native support for Apple Silicon\" (https://www.reveal-sound.com/content/changelog.php?spire)",
       "popularityTier": 1
+    },
+    {
+      "id": "revesby-audio",
+      "name": "Revesby Audio",
+      "updatePortalUrl": "https://revesbyaudio.com",
+      "websiteUrl": "https://revesbyaudio.com"
     },
     {
       "id": "oas--ricky-van-poppel",
@@ -77365,6 +77395,28 @@
       ]
     },
     {
+      "id": "mmedia-audio--full-stop-shop",
+      "manufacturerId": "mmedia-audio",
+      "name": "Full Stop Shop",
+      "matchPatterns": [
+        "Full Stop Shop"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/full-stop-shop",
+      "notes": "Stereo tape stop and vinyl brake from The Drop Collection. Hold Engage and the pitch falls to a stop like a deck losing power; let go and it spins back up. Spread staggers the left and right channels so the stop travels across the stereo field, and Land On returns the music exactly on a grid line. Stop and Return times 50 ms to 4 s or 1/16 to 2 bars synced, Linear or Exponential curve, Mix and Output. Ten factory presets. VST3 on Windows, macOS and Linux; AU on macOS. $9 perpetual license, or all five Drop Collection plugins for $29 on one license key. Vendor current version 1.0.0 (Oct 2026 initial release).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.mmediaaudio.com/plugins/full-stop-shop",
+      "versionVerifiedAt": "2026-10-29T05:21:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Current version 1.0.0 plus versioned download zip and SHA-256; version history v1.0.0 Oct 2026 Initial release"
+      ]
+    },
+    {
       "id": "wa-production--fundamental-bass",
       "manufacturerId": "wa-production",
       "name": "Fundamental Bass",
@@ -83896,6 +83948,20 @@
       "versionConfidenceReasons": [
         "installer-filename on official manufacturer domain (88)"
       ]
+    },
+    {
+      "id": "parish-audio--he2-harmonic-enhancer",
+      "manufacturerId": "parish-audio",
+      "name": "HE2 Harmonic Enhancer",
+      "matchPatterns": [
+        "HE2"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://parishaudio.com/products/he2-harmonic-enhancer",
+      "notes": "Harmonic enhancer that generates new harmonic detail instead of boosting existing frequencies. Four independent controls: Warmth (low-end richness), Presence (midrange definition), Edge (upper-mid bite and attack) and Air (high-frequency sparkle), plus Amount, Mix and Output. Smooth mode for gentle warmth and polish, Focused mode for stronger definition and presence. Selectable 1x, 2x, 4x and 8x oversampling, factory and user presets. Windows VST3 and macOS VST3/AU. Launch price $24.97 through November 3, 2026 (regular $49.95). No version number printed on the vendor page — seeded versionless."
     },
     {
       "id": "plugin-alliance--hears-perfection",
@@ -108343,6 +108409,28 @@
       ]
     },
     {
+      "id": "mmedia-audio--loose-cannon",
+      "manufacturerId": "mmedia-audio",
+      "name": "Loose Cannon",
+      "matchPatterns": [
+        "Loose Cannon"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/loose-cannon",
+      "notes": "Wobble filter locked to the project, from The Drop Collection. Hold the big Engage button and a low frequency oscillator opens and closes a resonant filter in time with the host; let go and the dry signal returns. Rate 1/2 to 1/32 synced including triplets or 0.1 to 20 Hz free, five shapes, Low Pass 12/24, Band Pass or High Pass, Resonance, Drive, Depth up to six octaves and Spread up to 180 degrees. Ten factory presets. VST3 on Windows, macOS and Linux; AU on macOS. $9 perpetual license, or all five Drop Collection plugins for $29 on one license key. Vendor current version 1.0.0 (Oct 2026 initial release).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.mmediaaudio.com/plugins/loose-cannon",
+      "versionVerifiedAt": "2026-10-29T05:21:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Current version 1.0.0 plus versioned download zip and SHA-256; version history v1.0.0 Oct 2026 Initial release"
+      ]
+    },
+    {
       "id": "puremagnetik--lore-experimental-sound-console",
       "manufacturerId": "puremagnetik",
       "name": "Lore | Experimental Sound Console",
@@ -108668,6 +108756,28 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "mmedia-audio--low-res",
+      "manufacturerId": "mmedia-audio",
+      "name": "Low Res",
+      "matchPatterns": [
+        "Low Res"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/low-res",
+      "notes": "Bit and sample rate crusher from The Drop Collection. Hold Engage and the signal is crushed; let go and it is clean again, with a 10 ms crossfade either way. Bits 1 to 16, Rate 500 Hz to 48 kHz (deliberately aliased, no oversampling), triangular Dither switch, Tone low-pass 500 Hz to 20 kHz, Mix and Output. No latency. Ten factory presets. VST3 on Windows, macOS and Linux; AU on macOS. $9 perpetual license, or all five Drop Collection plugins for $29 on one license key. Vendor current version 1.0.0 (Oct 2026 initial release).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.mmediaaudio.com/plugins/low-res",
+      "versionVerifiedAt": "2026-10-29T05:21:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Current version 1.0.0 plus versioned download zip and SHA-256; version history v1.0.0 Oct 2026 Initial release"
+      ]
     },
     {
       "id": "908-audio--lowconga",
@@ -125801,6 +125911,28 @@
       ]
     },
     {
+      "id": "mmedia-audio--more-thyme",
+      "manufacturerId": "mmedia-audio",
+      "name": "More Thyme",
+      "matchPatterns": [
+        "More Thyme"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/more-thyme",
+      "notes": "Slow-down effect from The Drop Collection. Hold Engage and the music slows to a fraction of its speed (1/4, 1/3, 1/2 or 3/4, pitch following like a tape deck) and stays there; let go and it speeds back up, landing on the next beat, half note or bar with Land On. Slow Time and Return Time 50 ms to 4 s or 1/16 to 2 bars synced, Linear or Exponential curve, Snap or Nudge recovery, Output plus or minus 12 dB. Ten factory presets. VST3 on Windows, macOS and Linux; AU on macOS. $9 perpetual license, or all five Drop Collection plugins for $29 on one license key. Vendor current version 1.0.0 (Oct 2026 initial release).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.mmediaaudio.com/plugins/more-thyme",
+      "versionVerifiedAt": "2026-10-29T05:21:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Current version 1.0.0 plus versioned download zip and SHA-256; version history v1.0.0 Oct 2026 Initial release"
+      ]
+    },
+    {
       "id": "neural-dsp--morgan-amps-suite",
       "manufacturerId": "neural-dsp",
       "name": "Morgan Amps Suite",
@@ -129681,13 +129813,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/brummer10/NeuralRack",
       "notes": "OAS package brummer10/neuralrack",
-      "latestVersion": "0.3.3",
+      "latestVersion": "0.4.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/brummer10/neuralrack/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-10-29T05:21:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "Lane C tail bulk re-verification: same automatic oracle (OAS registry index.json version field) shows 0.4.1 vs stored 0.3.3"
       ]
     },
     {
@@ -147427,6 +147559,21 @@
       "popularityTier": 3
     },
     {
+      "id": "noiseworks--ploseassist",
+      "manufacturerId": "noiseworks",
+      "name": "PloseAssist",
+      "matchPatterns": [
+        "PloseAssist"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://noiseworksaudio.com/products/ploseassist/",
+      "notes": "Free de-plosive plugin for single voice tracks: speech, dialogue, podcasts, voice-over, singing and rap. Finds each pop and reduces only the low frequencies below about 250 Hz while the pop happens, leaving the rest of the voice untouched. Amount (0-150%), Sub for extra reduction below 100 Hz, Delta monitoring that plays only what was removed, and Low Latency (17.5 ms) and Balance (137.5 ms) modes. Mono, stereo and multichannel up to 7.1. VST3, AU and AAX on macOS 10.15 or later (Apple Silicon and Intel) and 64-bit Windows. Two activations; free license key by email. No version number printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "8dio--plucked-grand-piano",
       "manufacturerId": "8dio",
       "name": "Plucked Grand Piano",
@@ -153786,6 +153933,50 @@
       ]
     },
     {
+      "id": "revesby-audio--rd-01-studio-compressor",
+      "manufacturerId": "revesby-audio",
+      "name": "RD-01 Studio Compressor",
+      "matchPatterns": [
+        "RD-01"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://revesbyaudio.com/",
+      "notes": "Mono/stereo compressor for tracks, buses and mixes. Contour adjusts timing, knee and peak-to-RMS detection; 4x oversampled Drive stage adds saturation after compression; Warmth adjusts asymmetry and Air adds a high-frequency shelf; external sidechain with high-pass filter up to 400 Hz. 26 factory presets. VST3 and AU on Windows and macOS. Sold together with RD-02 Transient Shaper in a single Revesby Dynamics installer; vendor installer version 1.0.0 on both platforms. Launch price A$15 through December 31, 2026 (regular A$29).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://revesbyaudio.com/",
+      "versionVerifiedAt": "2026-10-28T17:28:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor homepage installer filenames Revesby-Audio-Dynamics-1.0.0-Windows-x64-Setup.exe and Revesby-Audio-Dynamics-1.0.0-macOS.dmg, both platforms agree, SHA-256 checksums printed"
+      ]
+    },
+    {
+      "id": "revesby-audio--rd-02-transient-shaper",
+      "manufacturerId": "revesby-audio",
+      "name": "RD-02 Transient Shaper",
+      "matchPatterns": [
+        "RD-02"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://revesbyaudio.com/",
+      "notes": "Transient shaper that shapes attack, body and tail independently. Focus restricts detection to the low, mid or high band while audio stays full-range; external trigger available; 4x oversampled Drive can apply to the whole signal or only attack, body or tail; Delta monitoring shows exactly what changed. 28 factory presets. VST3 and AU on Windows and macOS. Sold together with RD-01 Studio Compressor in a single Revesby Dynamics installer; vendor installer version 1.0.0 on both platforms. Launch price A$15 through December 31, 2026 (regular A$29).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://revesbyaudio.com/",
+      "versionVerifiedAt": "2026-10-28T17:28:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 88,
+      "versionConfidenceReasons": [
+        "Vendor homepage installer filenames Revesby-Audio-Dynamics-1.0.0-Windows-x64-Setup.exe and Revesby-Audio-Dynamics-1.0.0-macOS.dmg, both platforms agree, SHA-256 checksums printed"
+      ]
+    },
+    {
       "id": "antelope-audio--rd47",
       "manufacturerId": "antelope-audio",
       "name": "RD47",
@@ -159311,6 +159502,28 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "KVR product page verwin 1.1.6 (Reason Rack Extension; Win=Mac)"
+      ]
+    },
+    {
+      "id": "mmedia-audio--repeat-offender",
+      "manufacturerId": "mmedia-audio",
+      "name": "Repeat Offender",
+      "matchPatterns": [
+        "Repeat Offender"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.mmediaaudio.com/plugins/repeat-offender",
+      "notes": "Stutter and glitch effect from The Drop Collection. Hold Engage and the last slice of audio repeats; let go and the dry signal returns. Four modes: Stutter, Reverse, Gate or Crush. Slice length 1/4 to 1/32 synced including triplets or 5 to 500 ms free, plus a Chaos knob that fires glitches on its own. Mix and Output controls, ten factory presets. VST3 on Windows, macOS and Linux; AU on macOS. $9 perpetual license, or all five Drop Collection plugins for $29 on one license key. Vendor current version 1.0.0 (Oct 2026 initial release).",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.mmediaaudio.com/plugins/repeat-offender",
+      "versionVerifiedAt": "2026-10-29T05:21:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page prints Current version 1.0.0 plus versioned download zip and SHA-256; version history v1.0.0 Oct 2026 Initial release"
       ]
     },
     {
@@ -214603,6 +214816,20 @@
       "popularityTier": 2
     },
     {
+      "id": "deadsignalaudio--vantage",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Vantage",
+      "matchPatterns": [
+        "Vantage"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/vantage/",
+      "notes": "Mastering plugin that listens to your mix and sets every module, then lands your chosen loudness target and compares honestly at matched loudness. Six modules in order: Clean, Tone, Glue, Color, Width, Loudness (true-peak limiter with streaming -14, Apple Music -16 and loud -9 LUFS targets). Press LISTEN and play the loudest part; Vantage measures the mix and explains every move in plain language. Mac: macOS 12 or later, Apple Silicon and Intel, AU and VST3. Windows: 10 and 11, 64-bit, VST3. $47 launch week (regular $79), 14-day free trial, free updates through every 1.x release. No version number printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "eastwest--vapor",
       "manufacturerId": "eastwest",
       "name": "Vapor",
@@ -218376,6 +218603,21 @@
       "versionConfidenceReasons": [
         "page-confirmed manufacturer releaseNotesPage with clear version (92)"
       ]
+    },
+    {
+      "id": "audiobrain--vocalfit",
+      "manufacturerId": "audiobrain",
+      "name": "VocalFit",
+      "matchPatterns": [
+        "VocalFit Vocal",
+        "VocalFit Instrumental"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://audiobraintools.com/",
+      "notes": "Linked two-plugin system for fitting a lead vocal against a finished stereo instrumental when the separate backing tracks are no longer available. VocalFit Vocal and VocalFit Instrumental are sold together as one purchase and share one version, so they share this row; they link by a matching Pair ID (A-H). Instrumental carves a time-varying twelve-band spectral pocket in the backing, with low-end, transient and stereo-image protection; Vocal offers Analyze, Fit, Presence, Space and Texture controls and six vocal styles. Both offer Before/After comparison. Apple Silicon macOS only, AU and VST3. Introductory price $29 through October 31, 2026 (regular $49). No version number printed on the vendor site — seeded versionless."
     },
     {
       "id": "audified--vocalmint-compressor",
