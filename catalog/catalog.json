@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-29T13:03:23Z",
+  "updatedAt": "2026-10-30T13:01:19Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -1439,6 +1439,12 @@
       "appleSilicon": "native",
       "notes": "Added 2026-09-14 via research-engine-10x universe expansion.\nApple Silicon: unknown (researched 2026-09-15). No statement on deniseaudio.com/denise.io; only third-party forum reposts of a Dec-2022 native-M1 announcement. No manufacturer-owned quote.\nApple Silicon: NATIVE (verified 2026-09-15). Vendor announcement (Denise Audio, Dec 2022): \"All plugins have been updated for native Apple Silicon (M1) support.\" Plus per-product: deniseaudio.com Perfect Room 2 specs \"Mac: macOS 10.11 or newer (64-bit) including native Apple Silicon.\" No version numbers or changelog on deniseaudio.com. Compat sweep 2026-09-15: native verified line-wide — official support page (deniseaudio.com/support): 'These are the technical specs for all plugins listed on our website: ... macOS 10.11 or newer (64-bit) + native Apple Silicon'; also on Bad Tape, Motion Filter, Bass XXL, Slappy product pages.",
       "popularityTier": 2
+    },
+    {
+      "id": "denormal-audio",
+      "name": "Denormal Audio",
+      "updatePortalUrl": "https://denormal.audio/products.html",
+      "websiteUrl": "https://denormal.audio"
     },
     {
       "id": "desert-moon-audio",
@@ -4950,6 +4956,12 @@
       "changelogUrl": "https://toneboosters.com/changelog.html",
       "notes": "Identity from KVR developer listing\nApple Silicon: unknown (researched 2026-09-15). Quote: \"MacOS versions of these legacy plugins are for Intel processors only (or require Rosetta for Apple Silicon M1/M2 processors).\" (https://toneboosters.com/changelog.html)",
       "popularityTier": 3
+    },
+    {
+      "id": "tonelib",
+      "name": "ToneLib",
+      "updatePortalUrl": "https://tonelib.net/plugins/freeware/tl-big-puff/",
+      "websiteUrl": "https://tonelib.net"
     },
     {
       "id": "oas--tonescientist",
@@ -16575,7 +16587,16 @@
       "notesForUser": "Discontinued. Part of the AmpLion line.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "2.1.1.14",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/AmpLion-2-Rock-Essentials-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-29T17:32:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Audified official Release Notes latest 2.1.1 corroborates KVR Mac 2.1.1.14 (build suffix kept)",
+        "KVR Win 2.0.0.10 stale train; no vendor-listed per-OS split"
+      ]
     },
     {
       "id": "audified--amplion-free",
@@ -43302,17 +43323,6 @@
       "notesForUser": "Free plugin from Airwindows. New builds are date-stamped rather than version-numbered, so there's no version number to check for updates.",
       "isFreeware": true,
       "appleSilicon": "universal",
-      "popularityTier": 2
-    },
-    {
-      "id": "kiive-audio--kiive-audio-chorus",
-      "manufacturerId": "kiive-audio",
-      "name": "Chorus",
-      "matchPatterns": [
-        "Chorus"
-      ],
-      "notesForUser": "Not yet checked against the vendor's site.",
-      "appleSilicon": "native",
       "popularityTier": 2
     },
     {
@@ -82048,6 +82058,21 @@
       "popularityTier": 2
     },
     {
+      "id": "denormal-audio--guardrail",
+      "manufacturerId": "denormal-audio",
+      "name": "Guardrail",
+      "matchPatterns": [
+        "Guardrail"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://denormal.audio/products.html",
+      "notes": "MIDI effect that turns chord-track MIDI into playable performances: place it first on a chord track (or in the MIDI effect slot) and play the chord tones from a keyboard's Performance Zone, with black keys adding passing tones and extensions from the chosen key. Exact mode keeps the original chord tones' order and spacing; Compact mode tightens the spacing and removes octave doubling. Every performance is recorded automatically and can be favorited and dragged back into the DAW. Pitch wheel strums chords, mod wheel arpeggiates single notes. VST3, AU and AAX on macOS 11 or later and Windows 10 or later; a MIDI controller is required. Free seven-day trial; launched October 14, 2026 at $39 introductory (regular $59). No version number printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "native-instruments--guarneri-violin",
       "manufacturerId": "native-instruments",
       "name": "Guarneri Violin",
@@ -106080,7 +106105,15 @@
       "notesForUser": "Discontinued.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "1.0.0",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/Linda-RockStack-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-29T17:32:43Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Audified official Release Notes 1.0.0 matches KVR Mac 1.0.0 exactly"
+      ]
     },
     {
       "id": "lindell-audio--lindell-50-buss",
@@ -119336,6 +119369,32 @@
       "versionConfidenceReasons": [
         "Player introduced in the 1.6.0 build; no later Player-specific version found; full Massive X 1.7.1 NOT applied to Player"
       ]
+    },
+    {
+      "id": "native-instruments--massive-xl",
+      "manufacturerId": "native-instruments",
+      "name": "Massive XL",
+      "matchPatterns": [
+        "Massive XL"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.native-instruments.com/products/massive-xl",
+      "notes": "Latest generation of Native Instruments' flagship wavetable synthesizer and successor to Massive X, released October 27, 2026. Preset Generator turns an imported audio reference (with stem separation) into four editable presets; Mutator and Randomizer create guided variations; Morpher and Animator perform and reuse movement across presets. Over 100 new wavetables (including original Massive and classic PPG material) plus over 100 new noise tables, custom wavetables from imported samples, and built-in Raum, Replika Shimmer and Tape Wobble effects. All Massive X presets and Expansions work in Massive XL. Mac: VST, VST3, AU, AAX (macOS 14, 15 or 26); Windows: VST, VST3, AAX (Windows 10 or 11, 64-bit). Introductory price $99 through December 31, 2026 (regular $199). Installed via Native Access; no version number printed on the vendor page — seeded versionless.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "audio-damage--master-destrukto",
@@ -143014,6 +143073,93 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "kiive-audio--kiive-audio-chorus",
+      "manufacturerId": "kiive-audio",
+      "name": "Paradox Chorus",
+      "matchPatterns": [
+        "Chorus"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/paradox-chorus",
+      "notes": "Three-voice chorus from Kiive's Paradox FX series: blend three independent chorus voices, each with its own rate and depth, for subtle detuning, rich ensemble movement, doubling or slapback, with Rate Drift to pull the voices together or let them drift apart, tape-style drive before the voices, and adjustable delay times. VST3, AU and AAX on macOS and Windows; 14-day free trial; $59. Free updates for life. Vendor product name is Paradox Chorus; this row was previously listed under the short name Chorus.",
+      "notesForUser": "Not yet checked against the vendor's site.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--paradox-mod-filter",
+      "manufacturerId": "kiive-audio",
+      "name": "Paradox Mod Filter",
+      "matchPatterns": [
+        "Paradox Mod Filter"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/paradox-mod-filter",
+      "notes": "Modulated filter from Kiive's Paradox FX series: turn a sustained sound into a pulse, add a slow sweep across a phrase, or make the filter follow the track's tempo. Set the minimum and maximum frequencies for the sweep range and choose low-pass, high-pass, band-pass or notch, with resonance for a wah-like edge. The LFO offers smooth, even and ramp shapes with tempo sync or free-running timing, smoothing, and a stereo phase offset so left and right move at different points in the cycle. VST3, AU and AAX on macOS and Windows; 14-day free trial with no card required; $59 with free updates for life. No version number printed on the vendor page — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--paradox-plasmaverb",
+      "manufacturerId": "kiive-audio",
+      "name": "Paradox PlasmaVerb",
+      "matchPatterns": [
+        "Paradox PlasmaVerb"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/paradox-plasmaverb",
+      "notes": "Reverb from Kiive's Paradox FX series: start with a clean plate-style space, then turn up Contour to feed the early reflections back into the decay for pitched, modulated and metallic tails. Spacing shapes how the early reflections develop, XCouple adjusts the stereo width of the wet signal, and damping plus output filters shape the tone as the tail decays, with modulation rate and depth for a gently shifting tail. Mix, A/B comparison and user presets included. VST3, AU and AAX on macOS and Windows; 14-day free trial with no card required; $59 with free updates for life. No version number printed on the vendor page — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--paradox-stereo-distortion",
+      "manufacturerId": "kiive-audio",
+      "name": "Paradox Stereo Distortion",
+      "matchPatterns": [
+        "Paradox Stereo Distortion"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/paradox-stereo-distortion",
+      "notes": "Saturation and distortion from Kiive's Paradox FX series: add gentle harmonic weight or push Drive into heavier distortion, with Warmth taming resonances that get sharp as the drive rises. A crossover mode sends only the band between the high-pass and low-pass filters through the harmonic processing while the rest passes untouched; advanced controls add low-end weight (LF Bump), mid/side focus, dynamic drive response (Dyn) and recovery character (Age). Mix, A/B comparison and HQ oversampling included. VST3, AU and AAX on macOS and Windows; 14-day free trial with no card required; $59 with free updates for life. No version number printed on the vendor page — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--kiive-audio-vc-rotary",
+      "manufacturerId": "kiive-audio",
+      "name": "Paradox VC Rotary",
+      "matchPatterns": [
+        "VC Rotary"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/paradox-vc-rotary",
+      "notes": "Rotary speaker effect from Kiive's Paradox FX series: six chorus and vibrato voices feeding a dual-rotor cabinet with independent low-drum and high-horn speeds, tempo sync, and tube-style drive. The chorus/vibrato section can be used on its own with the rotors bypassed. VST3, AU and AAX on macOS and Windows; 14-day free trial; $59. Free updates for life. Vendor product name is Paradox VC Rotary; this row was previously listed under the short name VC Rotary.",
+      "notesForUser": "Not yet checked against the vendor's site.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "nugen-audio--paragon",
@@ -175986,7 +176132,15 @@
       "notesForUser": "Discontinued.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "1.0.2",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/SpeakUp-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-29T17:32:44Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Audified official Release Notes latest 1.0.2; vendor ahead of KVR on both platforms"
+      ]
     },
     {
       "id": "audiothing--speaker",
@@ -191260,6 +191414,21 @@
       "popularityTier": 3
     },
     {
+      "id": "tonelib--tl-bigpuff",
+      "manufacturerId": "tonelib",
+      "name": "TL BigPuff",
+      "matchPatterns": [
+        "TL BigPuff"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://tonelib.net/plugins/freeware/tl-big-puff/",
+      "notes": "Free fuzz plugin based on the classic Big Muff Pi circuit, with the original pedal's Volume, Tone and Sustain controls, a scalable interface with multiple display modes, and an advanced oversampling mode for clean high-quality processing. Mounted on ToneLib's universal studio rack with input/output mixing, A/B switching, preset manager, signal routing, oversampling and dry/wet controls. 64-bit VST, VST3 and AU plus standalone on Windows, macOS 10.13 or later and Ubuntu 18 or later. Free download from the vendor site. No version number printed on the vendor page — seeded versionless (third-party catalogs list 1.0.0, not adopted without vendor evidence)."
+    },
+    {
       "id": "metric-halo--tmpc",
       "manufacturerId": "metric-halo",
       "name": "TMPC",
@@ -197416,7 +197585,15 @@
       "notesForUser": "Discontinued.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "1.4.0.19",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/ToneSpot-Acoustic-Express-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-29T17:32:44Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Audified official Release Notes latest 1.4.0 corroborates KVR Mac 1.4.0.19 (build suffix kept)"
+      ]
     },
     {
       "id": "audified--tonespot-acoustic-pro",
@@ -197464,7 +197641,15 @@
       "notesForUser": "Discontinued.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "1.4.0.19",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/ToneSpot-Bass-Express-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-30T05:25:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor RN PDF latest 1.4.0 (macOS 12/universal-binary entry) + KVR Mac build .19 kept; KVR Win 1.3.0.18 is a stale train"
+      ]
     },
     {
       "id": "audified--tonespot-bass-pro",
@@ -212458,17 +212643,6 @@
       ]
     },
     {
-      "id": "kiive-audio--kiive-audio-vc-rotary",
-      "manufacturerId": "kiive-audio",
-      "name": "VC Rotary",
-      "matchPatterns": [
-        "VC Rotary"
-      ],
-      "notesForUser": "Not yet checked against the vendor's site.",
-      "appleSilicon": "native",
-      "popularityTier": 2
-    },
-    {
       "id": "softube--vca-compressor",
       "manufacturerId": "softube",
       "name": "VCA Compressor",
@@ -218665,7 +218839,15 @@
       "notesForUser": "Discontinued.",
       "identityKind": "discontinued",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "finalVersion": "1.0.0",
+      "versionSourceUrl": "https://audified.com/wp-content/uploads/2023/08/VocalMint-Saturator-Release-Notes.pdf",
+      "versionVerifiedAt": "2026-10-30T05:25:56Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor RN PDF sole entry 1.0.0 first release; KVR Win 1.0.0 exact, KVR Mac 1.0.1 not adopted (no vendor build number)"
+      ]
     },
     {
       "id": "wa-production--vocalshaper",
