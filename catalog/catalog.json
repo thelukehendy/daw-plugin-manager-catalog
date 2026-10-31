@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-30T13:01:19Z",
+  "updatedAt": "2026-10-31T13:01:59Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -2941,6 +2941,12 @@
       "name": "M Media Audio",
       "updatePortalUrl": "https://www.mmediaaudio.com/plugins/drop-collection-bundle",
       "websiteUrl": "https://www.mmediaaudio.com"
+    },
+    {
+      "id": "map-audio",
+      "name": "MAP Audio",
+      "updatePortalUrl": "https://map.audio/mfx",
+      "websiteUrl": "https://map.audio"
     },
     {
       "id": "ml-sound-lab",
@@ -15784,6 +15790,50 @@
       ]
     },
     {
+      "id": "klevgrand--altitude",
+      "manufacturerId": "klevgrand",
+      "name": "Altitude",
+      "matchPatterns": [
+        "Altitude"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://klevgrand.com/products/altitude",
+      "notes": "Vocal performance station from Klevgrand: formant-aware pitch correction, a smart three-voice harmonizer that follows the lead in key, a MIDI-playable Play module that turns a voice into an instrument, and three independent modulators with up to eight targets each, all in real time with a zero-latency live mode. Dual doubler modes, stereo widener, micro tuning and multi-out support. VST, VST3, AU and AAX on macOS 10.13 or later and Windows 10 or later; also on iPad as AUv3/standalone. $149.99, or rent-to-own at $9.99 a month for 15 months. Released spring 2026. Distinct product from Altitude Harmony (the simpler spin-off with tuning plus three harmonies) — the two are separate rows. Version 1.0.3 from the vendor downloads section (see version observation).",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "1.0.3",
+      "versionSourceUrl": "https://klevgrand.com/products/altitude",
+      "versionVerifiedAt": "2026-10-31T05:24:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor downloads section prints v1.0.3 for both macOS and Windows with changelog"
+      ]
+    },
+    {
+      "id": "klevgrand--altitude-harmony",
+      "manufacturerId": "klevgrand",
+      "name": "Altitude Harmony",
+      "matchPatterns": [
+        "Altitude Harmony"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://klevgrand.com/products/altitudeharmony",
+      "notes": "Vocal tuning and harmony plugin from Klevgrand, their first plugin made together with Focusrite, and a simpler companion to the full Altitude vocal plugin. Tunes a lead vocal and stacks up to three harmony voices above or below it, following the chosen scale (15 scales plus custom notes), with a Style dial from subtle polish to hard-tuned sound and formants preserved. Four one-button characters: Clones, Droid, Vibrato and Tremolo. Low-latency mode for tracking and performing. VST, VST3, AU and AAX on macOS 10.13 or later and Windows 10 or later. Introductory price $29.99 (regular $49.99), released October 23, 2026, with an upgrade path to the full Altitude. No version number printed on the vendor page — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "audio-ease--altiverb",
       "manufacturerId": "audio-ease",
       "name": "Altiverb",
@@ -23543,12 +23593,11 @@
       "popularityTier": 1,
       "finalVersion": "1.3.3",
       "versionSourceUrl": "https://www.zynaptiq.com/support/legacy-software-downloads/",
-      "versionVerifiedAt": "2026-09-10T08:52:39Z",
+      "versionVerifiedAt": "2026-10-31T05:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Manufacturer legacy-software-downloads changelog lists AURA 1.3.3",
-        "Frozen/discontinued SKU — last public manufacturer semver"
+        "Vendor legacy-support page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -24435,13 +24484,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2026.4.0",
+      "latestVersion": "2026.10.0",
       "versionSourceUrl": "https://kb.avid.com/pkb/articles/user_guide/Avid-Link-Documentation",
-      "versionVerifiedAt": "2026-09-25T20:21:49Z",
+      "versionVerifiedAt": "2026-10-30T17:35:30Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "vendor knowledge base; exact version string; first-hand verified 2026-09-25"
+        "Vendor KB documentation landing page (last updated Oct 29, 2026) lists Avid Link ReadMe v2026.10.0 and User Guide v2026.10.0 dated Oct 29, 2026; discounted because the same page's Release Notes table still tops at 2026.4.0"
       ]
     },
     {
@@ -30214,6 +30263,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.bettermaker.eq232d"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "BMKR",
+            "subtype": "X78c"
+          }
+        ]
+      },
       "popularityTier": 3,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq232d",
@@ -30309,6 +30370,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.Bettermaker.BMvPEdsp"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Bmkr",
+            "subtype": "Bvsp"
+          }
+        ]
+      },
       "popularityTier": 3,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/passive-equalizer",
@@ -47977,13 +48050,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-10-30T17:35:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Vendor release-notes article for train 2.6.46 (Oct 28, 2026) with All-plug-ins section plus Console 1 System section, same anchor rule as prior 2.6.41 acceptance"
       ]
     },
     {
@@ -48058,13 +48131,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:03Z",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-10-30T17:35:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Vendor release-notes article for train 2.6.46 (Oct 28, 2026) with All-plug-ins section, same anchor rule as prior 2.6.41 acceptance"
       ]
     },
     {
@@ -98640,6 +98713,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.karanyisounds.wave"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Kara",
+            "subtype": "Wave"
+          }
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -99192,6 +99277,16 @@
         "AU",
         "VST3"
       ],
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [],
+        "auComponents": [
+          {
+            "manufacturer": "Kiiv",
+            "subtype": "Pata"
+          }
+        ]
+      },
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.1",
@@ -100446,13 +100541,13 @@
       "portalApp": "Native Access",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "8.13.0",
+      "latestVersion": "8.14.0",
       "versionSourceUrl": "https://community.native-instruments.com/discussion/39/official-update-status-kontakt-current-version-8-13-0",
-      "versionVerifiedAt": "2026-09-10T11:31:47Z",
+      "versionVerifiedAt": "2026-10-31T05:27:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "NI community Official update status public thread: currently available software version is 8.13.0 (2026-09-03)"
+        "NI community Official update status thread (staff Matt_NI): currently available software version is 8.14.0 (2026-10-22); supersedes 8.13.0; user scan 8.13.1 is behind current"
       ]
     },
     {
@@ -106303,6 +106398,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.lindellplugins.LindellDS902"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Brwx",
+            "subtype": "Lds1"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/902-de-esser",
@@ -106794,6 +106901,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.lindellplugins.MU-66"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Brwx",
+            "subtype": "LCvm"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mu-66",
@@ -111699,6 +111818,22 @@
       "versionConfidenceReasons": [
         "manual accept via CLI (confidence=85)"
       ]
+    },
+    {
+      "id": "map-audio--mfx",
+      "manufacturerId": "map-audio",
+      "name": "MFX",
+      "matchPatterns": [
+        "MFX"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://map.audio/mfx",
+      "notes": "Modular multi-effects router from MAP Audio, spun out of the effects system of their PAM instrument. Four cells patched in series, parallel or feedback from one insert, with a level control on every cable; each cell holds all 34 built-in effects (EQ, Crusher, Delay, Flanger, Filter, Wavefold, Resonator, Vocoder, Spectral Delay, Grain, Codec and more). Six global LFOs, followers and a parameter sequencer, combo knobs, third-party plugin hosting, and a preset library users can share without an account. Over 200 factory presets. VST3, AU, AAX and CLAP plus standalone on macOS and Windows; VST3, CLAP and standalone on Linux. One payment for a perpetual license on up to three machines, updates included. $80, released October 27, 2026. A fully featured demo runs in the browser on the vendor page. No version number printed on the vendor page — seeded versionless."
     },
     {
       "id": "meldaproduction--mfilter",
@@ -119397,6 +119532,32 @@
       "popularityTier": 1
     },
     {
+      "id": "native-instruments--massive-xl-player",
+      "manufacturerId": "native-instruments",
+      "name": "Massive XL Player",
+      "matchPatterns": [
+        "Massive XL Player"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.native-instruments.com/products/massive-xl",
+      "notes": "Free player edition of Native Instruments' Massive XL wavetable synthesizer. Plays the included presets plus presets from any Massive X Expansion; Morpher and Animator are included to personalize sounds and control movement, but the Mutator and Preset Generator are not (those need the full Massive XL). Also works as a free demo of Massive XL via Demo Mode. Mac: VST, VST3, AU, AAX (macOS 14, 15 or 26); Windows: VST, VST3, AAX (Windows 10 or 11, 64-bit). Installed via Native Access; no version number printed on the vendor page — seeded versionless. Distinct product from Massive XL, same precedent as Massive X Player.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "mixed",
+      "popularityTier": 1
+    },
+    {
       "id": "audio-damage--master-destrukto",
       "manufacturerId": "audio-damage",
       "name": "Master Destrukto",
@@ -124092,6 +124253,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.mixland.vacatt"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Mixl",
+            "subtype": "Paml"
+          }
+        ]
+      },
       "popularityTier": 3,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/vac-attack",
@@ -133246,6 +133419,33 @@
       "popularityTier": 1
     },
     {
+      "id": "ddmf--obercomp",
+      "manufacturerId": "ddmf",
+      "name": "OberComp",
+      "matchPatterns": [
+        "OberComp"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://ddmf.eu/obercomp-multiband-autocompressor/",
+      "notes": "Four-band multiband auto-compressor from DDMF. Each band has its own compressor that automatically picks attack, release and knee shape for the incoming signal, so only threshold and levels need setting by hand; crossovers use phase-adjusted Linkwitz-Riley filters. Two automation algorithms (Mode A / Mode B), per-band pre- and post-compression gain, solo and bypass per band, sidechain input, global mix control for parallel compression and 2 ms lookahead. VST, VST3, AU and AAX on macOS 12 or later (Intel and Apple Silicon), Windows 10 or later and Linux (ARM and x86_64); also available for iOS as an AUv3 plugin. No dongle or iLok — a license file is used. $59, released October 13, 2026; iOS version released October 29, 2026. Version 1.0 from the official vendor manual (see version observation).",
+      "appleSilicon": "universal",
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://ddmf.eu/pdfmanuals/OberCompManual.pdf",
+      "versionVerifiedAt": "2026-10-31T05:24:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official vendor manual stating version 1.0 (CONFIDENCE.md manual rule)",
+        "Product launched 2026-10-13; no newer DDMF version evidence found this chip"
+      ]
+    },
+    {
       "id": "gforce-software--oberheim-dmx",
       "manufacturerId": "gforce-software",
       "name": "Oberheim DMX",
@@ -135060,12 +135260,11 @@
       "popularityTier": 1,
       "latestVersion": "4.0.6",
       "versionSourceUrl": "https://www.zynaptiq.com/orange-vocoder-nano/orange-vocoder-nano-downloads/",
-      "versionVerifiedAt": "2026-09-10T08:52:39Z",
+      "versionVerifiedAt": "2026-10-31T05:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Manufacturer Nano downloads/changelog page lists Version 4.0.6 June 8th 2025",
-        "Nano not listed on support Current Versions table; product-specific changelog is authoritative"
+        "Vendor downloads-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -146623,13 +146822,13 @@
       ],
       "updatePortalUrl": "https://www.credland.net/",
       "popularityTier": 3,
-      "latestVersion": "1.1.1",
+      "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.credland.net/pink.html",
-      "versionVerifiedAt": "2026-09-10T06:29:36Z",
+      "versionVerifiedAt": "2026-10-30T17:37:03Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Official Credland download hrefs encode 1.1.1 in installer filenames"
+        "Lane C tail bulk re-verification: same automatic oracle (Credland Pink page installer links) shows 2.0.1 vs stored 1.1.1; installer filename on official vendor page"
       ]
     },
     {
@@ -188316,11 +188515,11 @@
       "popularityTier": 1,
       "latestVersion": "2.2.8",
       "versionSourceUrl": "https://tal-software.com/products/tal-dub-x",
-      "versionVerifiedAt": "2026-09-10T09:20:53Z",
+      "versionVerifiedAt": "2026-10-31T05:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "TAL Software product page Downloads v2.2.8"
+        "Vendor product page (canonical URL; curl egress 404s, evidence via text-fetch copy crawled 2026-10-31 04:52 UTC, product identity confirmed TAL-DUB-X): Downloads v2.2.8, changelog top Version 2.2.8 / 03.11.2025"
       ]
     },
     {
@@ -188823,13 +189022,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-lx-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "5.1.3",
+      "latestVersion": "5.1.5",
       "versionSourceUrl": "https://tal-software.com/products/tal-u-no-lx",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-10-31T05:27:51Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "TAL Software product page Downloads v5.1.3"
+        "Vendor product page (canonical URL; curl egress 404s, evidence via text-fetch copy crawled 2026-10-30 10:03 UTC, product identity confirmed TAL-U-NO-LX): Downloads v5.1.5, changelog top Version 5.1.5 / 07.04.2026"
       ]
     },
     {
@@ -191253,6 +191452,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.thxltd.SpatialCreator"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Manu",
+            "subtype": "Mqhv"
+          }
+        ]
+      },
       "portalApp": "PA Installation Manager",
       "popularityTier": 2,
       "latestVersion": "1.1.0",
@@ -201934,13 +202145,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.11.0.3877",
-      "versionSourceUrl": "https://builds.uaudio.com/apps/UA_Connect/UA_Connect_1_11_0_3877_Mac.dmg",
-      "versionVerifiedAt": "2026-10-26T00:02:10Z",
+      "latestVersion": "1.11.0.3905",
+      "versionSourceUrl": "https://builds.uaudio.com/apps/UA_Connect/UA_Connect_1_11_0_3905_Mac.dmg",
+      "versionVerifiedAt": "2026-10-30T17:35:30Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Vendor installer redirect (uaudio.com/apps/uaconnect/mac/installer) 301-resolves to UA_Connect_1_11_0_3905_Mac.dmg on builds.uaudio.com; HEAD 200"
       ]
     },
     {
@@ -210262,6 +210473,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Battalion"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaBL"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.2.0",
@@ -210292,11 +210515,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/battalion",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Battalion'; public Installer v1.2.0 (Mac) label; sha256=4d73e651a395e06f…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210353,12 +210576,11 @@
       "popularityTier": 1,
       "finalVersion": "1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/pages/legacy-installers",
-      "versionVerifiedAt": "2026-09-10T09:06:33Z",
+      "versionVerifiedAt": "2026-10-31T05:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "PA Legacy Installers page labels Dent v1.0 with matching *_1_0.zip installer filenames",
-        "Gen1 only; Dent 2 is separate SKU at /products/dent-2 — not stamped"
+        "PA legacy-installers page lists Unfiltered Audio Dent v1.0, first-hand 2026-10-30"
       ]
     },
     {
@@ -210428,6 +210650,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Fault"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaFa"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4.1",
@@ -210458,11 +210692,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/fault",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Fault'; public Installer v1.4.1 (Mac) label; sha256=db51b8fb06827018…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210478,6 +210712,19 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.G8",
+          "com.unfilteredaudio.G8"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "Gate"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.6.2",
@@ -210508,11 +210755,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/g8",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio G8'; public Installer v1.6.2 (Mac) label; sha256=c66ec0b6b6f65bc5…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210550,7 +210797,18 @@
       ],
       "updatePortalUrl": "https://www.plugin-alliance.com/en/products.html",
       "discontinued": true,
-      "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-indent-by-plugin-alliance",
+      "notes": "KVR product https://www.kvraudio.com/product/unfiltered-audio-indent-by-plugin-alliance | identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.unfilteredaudio.Indent"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaId"
+          }
+        ]
+      },
       "notesForUser": "The older Indent; Indent 2 is tracked as its own product.",
       "identityKind": "discontinued",
       "appleSilicon": "native",
@@ -210594,6 +210852,19 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.InstantDelay",
+          "com.unfilteredaudio.InstantDelay"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaID"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.3.1",
@@ -210624,11 +210895,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/instant-delay",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Instant Delay'; public Installer v1.3.1 (Mac) label; sha256=a92fe43a809d4542…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210644,6 +210915,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.LION"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaLI"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.5.0",
@@ -210674,11 +210957,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/lion",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio LION'; public Installer v1.5.0 (Mac) label; sha256=bdb80672f04f4d12…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210700,11 +210983,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.11",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/lo-fi-af",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio LO-FI-AF'; public Installer v1.1.11 (Mac) label; sha256=f35283db659b15af…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210720,6 +211003,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Needlepoint"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uAnP"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.7",
@@ -210750,11 +211045,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/needlepoint",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Needlepoint'; public Installer v1.0.7 (Mac) label; sha256=d019d2efd668efae…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210776,11 +211071,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.7",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/silo",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Brainworx SILO'; public Installer v1.1.7 (Mac) label; sha256=6879f6b3d86d4682…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210796,6 +211091,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Sandman"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "snDM"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4.1",
@@ -210826,11 +211133,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/sandman",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Sandman'; public Installer v1.4.1 (Mac) label; sha256=0e6476a19af88065…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210899,6 +211206,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.SpecOps"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaSO"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4.0",
@@ -210929,11 +211248,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/specops",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio SpecOps'; public Installer v1.4.0 (Mac) label; sha256=976eda2b5460500f…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -210955,11 +211274,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/tails",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio TAILS'; public Installer v1.1.0 (Mac) label; sha256=9c865fdbc17c1c58…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -211004,6 +211323,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Triad"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaTR"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.3.5",
@@ -211034,11 +211365,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.5",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/triad",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio TRIAD'; public Installer v1.3.5 (Mac) label; sha256=b76e67805b72726f…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -211054,6 +211385,19 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.UnfilteredAudio.Zip",
+          "com.unfilteredaudio.Zip"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "UnAu",
+            "subtype": "uaZP"
+          }
+        ]
+      },
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4.2",
@@ -211084,11 +211428,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/zip",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-10-31T05:28:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Unfiltered Audio Zip'; public Installer v1.4.2 (Mac) label; sha256=4011d6d207796a09…"
+        "PA product-page changelog top, first-hand 2026-10-30"
       ]
     },
     {
@@ -214351,6 +214695,24 @@
       "versionConfidenceReasons": [
         "Black Rooster Audio news 2025-04-11: official release of v3.0.0 across its entire plugin catalog (framework + VST3); product pages serve /download/current/ without per-file semver"
       ]
+    },
+    {
+      "id": "kazrog--vac-rac-tsl",
+      "manufacturerId": "kazrog",
+      "name": "Vac Rac TSL",
+      "matchPatterns": [
+        "Vac Rac TSL"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://kazrog.com/products/vac-rac-tsl",
+      "notes": "Official plugin emulation of the Inward Connections Vac Rac tube optical compressor/limiter, developed with Vac Rac designer Steve Firlotte. Models four hardware units: the TSL-5 and TSL-4 voicings, the TSL-3 voicing, plus a blend control for the transformerless TLM-1 signal path. Ratios from 2:1 to 12:1 with up to 40 dB of gain reduction, THD control for driving the tube stages, sidechain high-pass and low-pass filters, stereo link, mid/side processing, wet/dry mix and per-channel component variation. VST, VST3, AU and AAX on macOS, Windows and Linux (LV2 also available). Perpetual license, no iLok. Introductory price $49.99 (regular $79.99), released October 27, 2026. No version number printed on the vendor page — seeded versionless.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "air--vacuum",
@@ -220041,6 +220403,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.wedgeforce.hydro"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "WeFo",
+            "subtype": "HyRo"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.wedgeforce.com/hydro-synth-download/",
@@ -220091,6 +220465,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.wedgeforce.keemun"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "Wefo",
+            "subtype": "Kemu"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/keemun-synth-download/",
@@ -220141,6 +220527,20 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.wedgeforce.aax.matcha",
+          "com.wedgeforce.audiounit.matcha",
+          "com.wedgeforce.vst3.matcha"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "WeFo",
+            "subtype": "MaTc"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.wedgeforce.com/updates-matcha/",
@@ -220164,6 +220564,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.wedgeforce.oolong"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "WeFo",
+            "subtype": "OoLo"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/oolong-synth-download/",
@@ -230601,6 +231013,18 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "notes": "identity keys from user scan feedback 2026-10-30-71 (MBP scan; PA twin row left keyless by design)",
+      "identityKeys": {
+        "bundleIds": [
+          "com.fiedler-audio.splat"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "FIAU",
+            "subtype": "SPLT"
+          }
+        ]
+      },
       "popularityTier": 2,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/splat",
