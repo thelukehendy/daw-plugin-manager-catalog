@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-10-31T13:01:59Z",
+  "updatedAt": "2026-11-01T14:01:18Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -742,6 +742,12 @@
       "updatePortalUrl": "https://github.com/baconpaul/two-filters",
       "websiteUrl": "https://github.com/baconpaul/two-filters",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "bangzilla",
+      "name": "BangZilla",
+      "updatePortalUrl": "https://bangzilla.audio/products/wave-theory",
+      "websiteUrl": "https://bangzilla.audio"
     },
     {
       "id": "oas--bart-brouns",
@@ -3347,6 +3353,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "musik-hack",
+      "name": "Musik Hack",
+      "updatePortalUrl": "https://www.musikhack.com/products/masterplan/",
+      "websiteUrl": "https://www.musikhack.com"
+    },
+    {
       "id": "oas--nl-sounds",
       "name": "NL Sounds",
       "updatePortalUrl": "https://github.com/NiLace/TheMonoHawk",
@@ -4220,6 +4232,12 @@
       ],
       "notes": "Magic AB / Boost / Klip + select soundsets; expand5. [2026-09-15 compat: No official Apple Silicon architecture statement found 2026-09-15.] [2026-09-16 compat: Current vendor site states Sample Magic has joined the Splice family and now sells loops/samples/presets only. No active plugin architecture, version, download, or changelog information found.]",
       "popularityTier": 2
+    },
+    {
+      "id": "sampleroll",
+      "name": "SampleRoll",
+      "updatePortalUrl": "https://sampleroll.com/fltr",
+      "websiteUrl": "https://sampleroll.com"
     },
     {
       "id": "oas--samuel-santana",
@@ -12237,7 +12255,16 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "identityKind": "soundset",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/abstract-textures-sfz-edition-by-audiority",
+      "versionVerifiedAt": "2026-11-01T05:24:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only, crowdsourced - skeptical default",
+        "Vendor shop page 404s (product no longer sold); no vendor version evidence"
+      ]
     },
     {
       "id": "native-instruments--absynth-6",
@@ -32932,11 +32959,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.5",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -45978,6 +46005,31 @@
       "popularityTier": 2
     },
     {
+      "id": "vitric-audio--clearwall-limiter",
+      "manufacturerId": "vitric-audio",
+      "name": "Clearwall Limiter",
+      "matchPatterns": [
+        "Clearwall Limiter",
+        "Clearwall"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://vitricaudio.com/clearwall",
+      "notes": "True-peak mastering limiter from Vitric Audio in three styles — Clear, Punch and Dense — sharing one structure and one latency. Holds a true-peak ceiling from -12 to 0 dBTP with 8x oversampled detection and a final verify stage. Set a loudness target in LUFS, short-term maximum or PLR and Learn Drive sets Drive to meet it; Unity listens at matched loudness and Delta plays only what the limiter removes. Master quality 25.8 ms at 48 kHz, Live quality under 10 ms. AU, VST3 and AAX on macOS (10.15 or later on Intel, 11 or later on Apple Silicon); VST3, AAX and a standalone app on Windows 10 or later, 64-bit. Launch price $49 through October 31, 2026, then $99; free 3-day trial. Included in the Vitric Bundle, Vitric Access and Vitric Pro. Version 1.0.5 from the official vendor manual (see version observation).",
+      "latestVersion": "1.0.5",
+      "versionSourceUrl": "https://vitricaudio.com/guides/clearwall-manual",
+      "versionVerifiedAt": "2026-10-31T17:25:43Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Official vendor manual stating version",
+        "Changelog runs 1.0.0 -> 1.0.2 -> 1.0.5; KVR product page corroborates 1.0.2 as a prior build, not current"
+      ]
+    },
+    {
       "id": "uvi--click",
       "manufacturerId": "uvi",
       "name": "Click",
@@ -50769,11 +50821,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -52637,6 +52689,21 @@
       "popularityTier": 3
     },
     {
+      "id": "sampleroll--drft",
+      "manufacturerId": "sampleroll",
+      "name": "DRFT",
+      "matchPatterns": [
+        "DRFT",
+        "drft"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://sampleroll.com/drft",
+      "notes": "VHS and CRT circuit-bend effect from SampleRoll. Six character knobs — burn, drift, bend, dropout, wash and noise — run audio through a dying tape machine while a CRT on the panel shows the same damage on a picture: your own video, GIF or still, a live camera, or one of 23 built-in generators you can blend with your footage. Dropouts tear picture and sound together, the picture feeds back into the audio, and REC exports picture and sound together as a real MP4 in 16:9, 9:16 or ultrawide. VST3, AU and a standalone app on macOS (Apple Silicon and Intel); VST3 and a standalone app on Windows. One-time purchase, free updates; $29 at seeding (regular $49). The $59 three-plugin bundle with SHFT and FLTR ran through October 31, 2026. No version number printed on the vendor page — seeded versionless. A v1.1.3 string for DRFT appears only on cracked-distribution listings and was not adopted."
+    },
+    {
       "id": "antelope-audio--drm-60",
       "manufacturerId": "antelope-audio",
       "name": "DRM-60",
@@ -54346,11 +54413,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -55748,11 +55815,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -55780,11 +55847,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -58669,12 +58736,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dr-drive-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/dr-drive/",
+      "versionVerifiedAt": "2026-10-31T17:26:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.4 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog: v1.4 (Dec 2025)",
+        "Exact match to prior KVR current 1.4, now vendor-confirmed"
       ]
     },
     {
@@ -58695,12 +58763,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dr-phase-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/blog/",
+      "versionVerifiedAt": "2026-10-31T17:26:40Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.3 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor blog update notice: Dr Phase updated to v1.3 December 5, 2025",
+        "Exact match to prior KVR current 1.3, now vendor-confirmed"
       ]
     },
     {
@@ -63607,11 +63676,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -63639,11 +63708,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "First-hand vendor release log: top entry Soundtoys 5.5.5 Update, July 7 2026; suite version applies to all Soundtoys 5 family rows"
       ]
     },
     {
@@ -64969,11 +65038,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -70879,6 +70948,20 @@
       ]
     },
     {
+      "id": "sampleroll--fltr",
+      "manufacturerId": "sampleroll",
+      "name": "FLTR",
+      "matchPatterns": [
+        "FLTR"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://sampleroll.com/fltr",
+      "notes": "Playable morphing filter from SampleRoll built around one Shape control and nine filter characters: Ladder, SEM, Fold, Comb, Formant, Phase, Shift, Chord and Harmony. Chord snaps incoming audio to the notes of a chosen chord and Harmony rings it through a resonator bank, both following a root and one of 14 scales. Every patch is two complete sounds, A and B, with a morph bar between them (Blend, Morph, Follow, Weave, Random, Split). Two filter cores wired Single, Series, Parallel, Split L/R, Split M/S or Band, with drag-routed modulation (Follow, Move, Draw, Macro) and a Push tab for Tune, Key, Feedback, FM, Space, Comp, Freeze and Arp. VST3, AU and a standalone app on macOS (Apple Silicon and Intel); VST3 and a standalone app on Windows. $29 launch price (regular $49); bundle with SHFT and DRFT $59 through October 31, 2026. Third SampleRoll plugin after SHFT and DRFT. No version number printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "applied-acoustics--fm-core-for-multiphonics-cv-3",
       "manufacturerId": "applied-acoustics",
       "name": "FM Core for Multiphonics CV-3",
@@ -73619,11 +73702,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -73651,11 +73734,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -80570,11 +80653,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:23:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026"
       ]
     },
     {
@@ -80600,11 +80683,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:23:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80630,11 +80713,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80660,11 +80743,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80689,11 +80772,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80718,11 +80801,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80747,11 +80830,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80777,11 +80860,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80806,11 +80889,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80835,11 +80918,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80865,11 +80948,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80895,11 +80978,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80925,11 +81008,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -80955,11 +81038,11 @@
       "popularityTier": 1,
       "latestVersion": "3.14.1",
       "versionSourceUrl": "https://goodhertz.com/downloads/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-10-31T17:24:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "First-hand vendor downloads page: Latest Bundle Release heading reads Goodhertz 3.14.1, June 30 2026; single shared bundle covers all Goodhertz rows"
       ]
     },
     {
@@ -85589,11 +85672,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -85612,12 +85695,12 @@
       "portalApp": "SSL Download Manager",
       "popularityTier": 1,
       "latestVersion": "2.0.20",
-      "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -85637,11 +85720,11 @@
       "popularityTier": 1,
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -85661,11 +85744,11 @@
       "popularityTier": 1,
       "latestVersion": "5.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -85685,11 +85768,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://support.harrisonaudio.com/hc/en-gb/articles/15986119874845-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-26T18:04:43Z",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -93934,7 +94017,15 @@
       "notesForUser": "Steinberg library/content (Iconica Sections & Players).",
       "identityKind": "soundset",
       "appleSilicon": "mixed",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/iconica-sections-and-players-by-steinberg",
+      "versionVerifiedAt": "2026-10-31T17:28:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only (verwin 1.0); disclaimer present: version numbers are for Iconica Sections & Players; KVR timeline silent (no tracked updates); Steinberg publishes no per-library version anywhere"
+      ]
     },
     {
       "id": "krotos--igniter",
@@ -101179,12 +101270,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.4.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/l12x-solid-state-amplifier-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/l12x-solid-state-amplifier/",
+      "versionVerifiedAt": "2026-11-01T05:24:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.4.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.4.1 (June 2025)",
+        "Matches prior KVR current 1.4.1"
       ]
     },
     {
@@ -107519,11 +107611,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -107551,11 +107643,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -107608,11 +107700,11 @@
       "popularityTier": 1,
       "latestVersion": "5.5.5",
       "versionSourceUrl": "https://www.soundtoys.com/release-log/",
-      "versionVerifiedAt": "2026-09-23T17:25:00Z",
+      "versionVerifiedAt": "2026-11-01T05:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -118659,7 +118751,16 @@
       "notesForUser": "A Kontakt sample library, not a standalone plugin.",
       "identityKind": "soundset",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/marimbula-by-audiority",
+      "versionVerifiedAt": "2026-11-01T05:24:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only, crowdsourced - skeptical default",
+        "Vendor shop page 404s (product no longer sold); no vendor version evidence"
+      ]
     },
     {
       "id": "puremagnetik--mark-one-brooklyn-electric-rhodes-circa-75",
@@ -119623,6 +119724,21 @@
       "versionConfidenceReasons": [
         "KVR product page verwin/verosx 1.0.3 (exact match score=1.00)"
       ]
+    },
+    {
+      "id": "musik-hack--master-plan-2",
+      "manufacturerId": "musik-hack",
+      "name": "Master Plan 2",
+      "matchPatterns": [
+        "Master Plan 2"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.musikhack.com/products/masterplan/",
+      "notes": "Complete rebuild of Musik Hack's flagship mastering plugin. A redesigned limiting architecture, overhauled multipressor, improved true-peak circuit, new Gain, Spectral, EQ and Imaging meter views, an Optimal Loudness Meter, reference-track comparisons, latency-compensated bypass, LUFS-matched unity comparison and up to three automatable snapshots, plus the Aura, Silk, Presence, Body, Glow and Tape circuits. Legacy Mode switches back to the complete original Master Plan 1 signal chain, and a Low Latency Mode switches all circuits to low-latency versions. AAX, AU and VST3 on macOS 11 or later and Windows 10 or later. Rent-to-own $14.92 a month for 12 months. No version number printed on the vendor product page or in the official user guide — seeded versionless."
     },
     {
       "id": "wave-arts--master-restoration-suite-6",
@@ -120644,11 +120760,11 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-27T05:30:26Z",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -146698,7 +146814,16 @@
       "notesForUser": "A Kontakt sample library, not a standalone plugin.",
       "identityKind": "soundset",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/pills-1-metal-leads-by-audiority",
+      "versionVerifiedAt": "2026-11-01T05:24:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only, crowdsourced - skeptical default",
+        "Vendor shop page 404s (product no longer sold); no vendor version evidence"
+      ]
     },
     {
       "id": "audiority--pills-2-synth-strings",
@@ -146718,7 +146843,16 @@
       "notesForUser": "A Kontakt sample library, not a standalone plugin.",
       "identityKind": "soundset",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/pills-2-synth-strings-by-audiority",
+      "versionVerifiedAt": "2026-11-01T05:24:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only, crowdsourced - skeptical default",
+        "Vendor shop page 404s (product no longer sold); no vendor version evidence"
+      ]
     },
     {
       "id": "mixed-in-key--pilot",
@@ -163629,6 +163763,21 @@
       ]
     },
     {
+      "id": "sampleroll--shft",
+      "manufacturerId": "sampleroll",
+      "name": "SHFT",
+      "matchPatterns": [
+        "SHFT",
+        "shft"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://sampleroll.com/shft",
+      "notes": "Tempo-synced rhythmic gate grown into a gated multi-FX from SampleRoll. A 16-step sequencer chops audio with a morphable per-step gate shape (swell, pluck, pulse, ramp, triangle), per-step beat repeat in forward, reverse or granular form, and a Chaos control for generative variation. Built-in chain after the gate: gated plate reverb with pitch-shift shimmer, tempo-synced ping-pong delay that flips into a frequency-shifter echo, a compressor that swaps to 3-band OTT-style multiband, and heat saturation with ten drive models, plus four tempo-synced LFOs feeding a lane-based mod matrix and eight snapshots. VST3, AU and a standalone app on macOS (Apple Silicon and Intel); VST3 and a standalone app on Windows. One-time purchase, free updates; $29 at seeding (regular $49). The $59 three-plugin bundle with DRFT and FLTR ran through October 31, 2026. No version number printed on the vendor page — seeded versionless. A v1.1.3 string for SHFT appears only on cracked-distribution listings and was not adopted."
+    },
+    {
       "id": "oas--figbug-sid",
       "manufacturerId": "oas--roland-rabien",
       "name": "SID",
@@ -163798,13 +163947,13 @@
       "notes": "Audiomodern products page; expand10 plugin.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.3.0",
+      "latestVersion": "1.3.7",
       "versionSourceUrl": "https://audiomodern.com/shop/plugins/soundbox/",
-      "versionVerifiedAt": "2026-09-10T12:23:17Z",
+      "versionVerifiedAt": "2026-11-01T05:27:50Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "Audiomodern public product page download filename semver"
+        "Lane C tail bulk re-verification: same oracle (AudioModern shop page trial zip) shows 1.3.7 on both WIN and MAC installers; installer filename on official CDN per CONFIDENCE.md"
       ]
     },
     {
@@ -165148,11 +165297,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.9",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -165174,11 +165323,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.8",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -165404,11 +165553,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -165429,11 +165578,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -165527,11 +165676,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://support.solidstatelogic.com/hc/en-gb/articles/4849510029085-SSL-and-Harrison-Plug-in-Downloads",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -171065,16 +171214,18 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.audiority.com/user-area/",
+      "discontinued": true,
       "notesForUser": "An Audiority plugin.",
       "appleSilicon": "universal",
       "popularityTier": 2,
-      "latestVersion": "1.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/side-filter-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "finalVersion": "1.3",
+      "versionSourceUrl": "https://www.audiority.com/shop/side-filter/",
+      "versionVerifiedAt": "2026-11-01T05:24:06Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.3 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.3 (November 2020)",
+        "Matches prior KVR current 1.3"
       ]
     },
     {
@@ -194449,12 +194600,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/the-bluesman-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/the-bluesman/",
+      "versionVerifiedAt": "2026-11-01T05:24:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.0.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.0.1 (July 2021)",
+        "Matches prior KVR current 1.0.1"
       ]
     },
     {
@@ -194691,12 +194843,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/the-driver-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/the-driver/",
+      "versionVerifiedAt": "2026-11-01T05:24:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.0.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.0.1 (July 2021)",
+        "Matches prior KVR current 1.0.1"
       ]
     },
     {
@@ -195195,7 +195348,16 @@
       "notesForUser": "A Kontakt sample library, not a standalone plugin.",
       "identityKind": "soundset",
       "appleSilicon": "universal",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/the-modular-piano-by-audiority",
+      "versionVerifiedAt": "2026-11-01T05:24:21Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only, crowdsourced - skeptical default",
+        "Vendor shop page 404s (product no longer sold); no vendor version evidence"
+      ]
     },
     {
       "id": "oas--nilace-themonohawk",
@@ -195333,12 +195495,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/the-overseer-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/the-overseer/",
+      "versionVerifiedAt": "2026-11-01T05:24:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.0.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.0.1 (July 2021)",
+        "Matches prior KVR current 1.0.1"
       ]
     },
     {
@@ -195504,12 +195667,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/the-shredder-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/the-shredder/",
+      "versionVerifiedAt": "2026-11-01T05:24:07Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.0.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor product-page changelog, top entry v1.0.1 (July 2021)",
+        "Matches prior KVR current 1.0.1"
       ]
     },
     {
@@ -196135,7 +196299,16 @@
       "notes": "AudioThing plugins page gap; expand11 plugin.",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.2.1",
+      "versionSourceUrl": "https://www.audiothing.net/effects/things-tilt/",
+      "versionVerifiedAt": "2026-10-31T17:26:30Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor product-page changelog: v1.2.1 2026/03/11",
+        "Product renamed Things - Tilt to Things - Flip EQ in v1.1; vendor page slug still things-tilt, same lineage"
+      ]
     },
     {
       "id": "audiothing--things-voice",
@@ -221539,6 +221712,21 @@
       "notesForUser": "Not yet checked against the vendor's site."
     },
     {
+      "id": "bangzilla--wave-theory",
+      "manufacturerId": "bangzilla",
+      "name": "Wave Theory",
+      "matchPatterns": [
+        "Wave Theory"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://bangzilla.audio/products/wave-theory",
+      "notes": "MIDI plugin from BangZilla (a new plugin label from The Audio Programmer), made with UK instrument-makers Boxed Ear. Turns the shape of a waveform into an evolving melody line: start from one of 100-plus included wavetables or import your own Serum or Vital format wavetable, pick a key and scale, and route the MIDI output to any hardware or software synth. Four parallel sequencers with their own length and speed, a central quantiser that can follow the chords you play, and sixteen memory slots for saved variations. Sends MIDI, not audio, so it makes no sound on its own. VST3, AU and AAX on macOS 11 or later (universal binary for Apple Silicon and Intel) and Windows 10 or later. $59, 49 euros or 49 pounds, with a free 14-day trial. No version number printed on the vendor product page or the vendor press release — seeded versionless. BZ-001 on the vendor page is a product code, not a version, and was not stamped as one."
+    },
+    {
       "id": "steinberg--wavelab",
       "manufacturerId": "steinberg",
       "name": "WaveLab",
@@ -234775,11 +234963,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.1",
       "versionSourceUrl": "https://oeksound.com/downloads/",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
@@ -234826,11 +235014,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.3",
       "versionSourceUrl": "https://oeksound.com/downloads/",
-      "versionVerifiedAt": "2026-09-24T10:18:09-07:00",
+      "versionVerifiedAt": "2026-11-01T05:24:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "page-confirmed manufacturer downloads/release page"
       ]
     },
     {
