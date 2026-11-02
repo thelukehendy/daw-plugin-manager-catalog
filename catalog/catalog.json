@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-01T14:01:18Z",
+  "updatedAt": "2026-11-02T14:01:52Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -451,6 +451,12 @@
       "updatePortalUrl": "https://github.com/Kiriki-liszt/Relief_EQ",
       "websiteUrl": "https://github.com/Kiriki-liszt/Relief_EQ",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "art-dsp",
+      "name": "Art DSP",
+      "updatePortalUrl": "https://www.artdsp.net/canvas",
+      "websiteUrl": "https://www.artdsp.net"
     },
     {
       "id": "oas--artem-popov",
@@ -1155,6 +1161,12 @@
       "websiteUrl": "https://www.cockos.com/",
       "notes": "Makers of REAPER.",
       "popularityTier": 1
+    },
+    {
+      "id": "codwaves",
+      "name": "CodWaves",
+      "updatePortalUrl": "https://codwaves.com/quance/",
+      "websiteUrl": "https://codwaves.com"
     },
     {
       "id": "oas--colin-raab",
@@ -9578,7 +9590,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/ar-1-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/ar-1-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.1.1",
+      "latestVersionWindows": "1.0.7",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.1",
@@ -16005,11 +16019,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-4-by-acustica-audio/details",
-      "versionVerifiedAt": "2026-10-25T19:32:21Z",
+      "versionVerifiedAt": "2026-11-01T20:47:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Grok Bot 2026-10-25 D3a, operator spot-verified KVR split"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -16208,13 +16222,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-11-01T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
       ]
     },
     {
@@ -16332,12 +16346,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-4-by-acustica-audio",
-      "versionVerifiedAt": "2026-10-25T19:32:21Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-4-by-acustica-audio/details",
+      "versionVerifiedAt": "2026-11-01T20:47:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Grok Bot 2026-10-25 D3a, operator spot-verified KVR split"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -18616,13 +18630,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:01Z",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-11-01T17:23:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
       ]
     },
     {
@@ -22530,13 +22544,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-11-01T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
       ]
     },
     {
@@ -24130,15 +24144,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:07Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "airwindows--autopan",
@@ -24937,13 +24943,12 @@
       "notes": "KVR product https://www.kvraudio.com/product/b-i-t-2-by-rob-papen",
       "popularityTier": 2,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.robpapen.com/B.I.T.2.php",
-      "versionVerifiedAt": "2026-09-10T08:04:28Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/b-i-t-2-by-rob-papen",
+      "versionVerifiedAt": "2026-11-01T20:47:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Manufacturer page corroborates KVR version 1.0",
-        "https://www.robpapen.com/B.I.T.2.php"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -25037,13 +25042,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/b00ga-by-audiothing",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.audiothing.net/effects/b00ga/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "latestVersion": "1.1",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/b00ga/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -25691,15 +25696,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:07Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "antelope-audio--bbd-chorus",
@@ -25950,15 +25947,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "avid--bf-3a",
@@ -25978,15 +25967,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "avid--bf-76",
@@ -26006,15 +25987,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "nembrini-audio--bg-extasy-boutique-guitar-amplifier",
@@ -26727,12 +26700,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.3",
-      "versionSourceUrl": "https://noiseash.com/products/backseq/",
-      "versionVerifiedAt": "2026-09-16T05:51:18Z",
+      "versionSourceUrl": "https://noiseash.com/product/backs-eq/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 70,
       "versionConfidenceReasons": [
-        "[\"Version encoded in vendor-hosted product image filename; one step removed from a written version statement, hence amber 70\"]"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -26785,13 +26758,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.46",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
+      "versionVerifiedAt": "2026-11-01T17:23:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
       ]
     },
     {
@@ -32080,15 +32053,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--black-oyster",
@@ -32127,15 +32092,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "avid--black-spring",
@@ -32155,15 +32112,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--black-velvet",
@@ -34695,7 +34644,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/blyss-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/blyss-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.2.3",
+      "latestVersionWindows": "1.1.0",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.3",
@@ -37104,15 +37055,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "waves--c1-compressor",
@@ -40372,6 +40315,22 @@
       "popularityTier": 2
     },
     {
+      "id": "art-dsp--canvas",
+      "manufacturerId": "art-dsp",
+      "name": "Canvas",
+      "matchPatterns": [
+        "Canvas",
+        "Art DSP Canvas"
+      ],
+      "formats": [
+        "VST3",
+        "AAX",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.artdsp.net/canvas",
+      "notes": "Visual mixing plugin from Art DSP that turns a mix into a 3D soundstage: every track becomes a blob of light you can see, grab and move. Drag a sound to pan it and change its tone in one move, lift it for more top end or lower it for warmth, widen it by pulling its edges. Spectral sidechain makes space between competing tracks, a built-in EQ editor gives band-by-band control, and a built-in reverb plus mix presets that rebalance a whole mix in one click round it out. Every Canvas in a session sees the others, so one window edits the whole mix. VST3 and AAX on macOS and Windows, AU on macOS; macOS 12 or later (Apple Silicon and Intel), Windows 10 or later (64-bit host). One license covers up to three machines with free lifetime updates. $79 at seeding (regular $99), with a 14-day free trial and a rent-to-own option. No version number printed on the vendor product page — seeded versionless. Press coverage (MusicTech, October 27, 2026) calls it \"Canvas 2.0\", but the vendor page states no version and other coverage reports it with no version number, so no version was adopted pending vendor confirmation. Not Puremagnetik's Canvas Texture Microsampler, a different product."
+    },
+    {
       "id": "puremagnetik--canvas-texture-microsampler",
       "manufacturerId": "puremagnetik",
       "name": "Canvas | Texture Microsampler",
@@ -42565,15 +42524,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "audio-damage--channelstrip",
@@ -46099,15 +46050,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "airwindows--cliponly",
@@ -52000,15 +51943,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:08Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "plugin-boutique--dc-snares",
@@ -52976,15 +52911,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "audified--dw-drum-enhancer",
@@ -57856,15 +57783,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "airwindows--ditherfloat",
@@ -58680,15 +58599,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "fuse-audio-labs--dozer-drive-dual-drivology-pedal",
@@ -61634,15 +61545,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "native-instruments--dynamo",
@@ -62895,15 +62798,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "dmg-audio--equality",
@@ -65592,7 +65487,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/electra-dsp-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/electra-dsp-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.7.1",
+      "latestVersionWindows": "1.6.0",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.7.1",
@@ -66346,15 +66243,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "flux--elixir-essential",
@@ -70258,13 +70147,13 @@
       "notes": "Kawai K3/K3m simulation",
       "isFreeware": true,
       "popularityTier": 4,
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.fullbucket.de/music/vst.html?sfnsn=scwspmo",
-      "versionVerifiedAt": "2026-09-15T17:43:43Z",
+      "versionVerifiedAt": "2026-11-02T05:26:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "SURGE universe expansion 2026-09-15 (official-product-index)"
+        "Lane C tail bulk re-verification: same vendor oracle lists 1.1.1 vs stored 1.0.0; vendor product page, prior band kept"
       ]
     },
     {
@@ -71434,7 +71323,8 @@
       ],
       "productLine": "FX Collection",
       "updatePortalUrl": "https://www.arturia.com/technology/asc",
-      "notes": "Arturia software catalog gap; expand10 bundle.",
+      "notes": "Arturia software catalog gap; expand10 bundle. | edition number moved from version to generation per bundle T1/T2 rule, 2026-11-01 verdict (Grok Bot pass kvr-bundle-divergence)",
+      "generation": "6",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -71445,15 +71335,7 @@
       },
       "identityKind": "bundle",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "6",
-      "versionSourceUrl": "https://www.arturia.com/products/software-effects/fx-collection/overview",
-      "versionVerifiedAt": "2026-09-17T16:10:39Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "Official Arturia bundle page; bundle generation version only"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "arturia--fx-collection-6-pro",
@@ -71466,7 +71348,8 @@
       ],
       "productLine": "FX Collection",
       "updatePortalUrl": "https://www.arturia.com/technology/asc",
-      "notes": "Arturia software catalog gap; expand10 bundle.",
+      "notes": "Arturia software catalog gap; expand10 bundle. | edition number moved from version to generation per bundle T1/T2 rule, 2026-11-01 verdict (Grok Bot pass kvr-bundle-divergence)",
+      "generation": "6",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -71477,15 +71360,7 @@
       },
       "identityKind": "bundle",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "6",
-      "versionSourceUrl": "https://www.arturia.com/products/software-effects/fx-collection/overview",
-      "versionVerifiedAt": "2026-09-17T16:10:39Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 65,
-      "versionConfidenceReasons": [
-        "Official Arturia bundle page replaces KVR bundle-marketing source; generation version normalized from 6.0"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "spectrasonics--fx-omnisphere",
@@ -72610,15 +72485,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "avid--fairchild670",
@@ -72638,15 +72505,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:09Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--fairfax-vol-1-adpak",
@@ -73205,7 +73064,7 @@
         "Fields"
       ],
       "updatePortalUrl": "https://www.audiothing.net/account/",
-      "notes": "KVR product https://www.kvraudio.com/product/fields-by-audiothing",
+      "notes": "KVR product https://www.kvraudio.com/product/fields-by-audiothing | oracle dead 2026-11-01: no plugin successor found (/apps/fields/ is a different iOS product); value kept",
       "notesForUser": "AudioThing Fields is an iOS field-recorder app, not a DAW plugin expansion. Was mistagged expansion.",
       "identityKind": "standalone_app",
       "appleSilicon": "native",
@@ -75164,15 +75023,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "blue-cat-audio--flanger",
@@ -81472,15 +81323,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "sknote--grasso",
@@ -81566,15 +81409,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "8dio--greek-percussion",
@@ -81641,15 +81476,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "audiority--green-reaper",
@@ -85020,12 +84847,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.5.3",
-      "versionSourceUrl": "https://www.audiothing.net/effects/hand-clapper/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/hand-clapper/",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -86145,12 +85972,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.5.2",
-      "versionSourceUrl": "https://www.audiothing.net/effects/hats/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/hats/",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -94607,15 +94434,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "antelope-audio--intune-chorus",
@@ -96227,15 +96046,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "audio-assault--invicto",
@@ -97808,19 +97619,11 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.image-line.com/vst-downloads",
-      "notes": "KVR product https://www.kvraudio.com/product/juice-pack-by-image-line",
+      "notes": "KVR product https://www.kvraudio.com/product/juice-pack-by-image-line | version cleared per bundle T1/T2 rule: prior 2.1.16 rested on a KVR news post only; corroboration only, 2026-11-01 verdict",
       "notesForUser": "Image-Line Juice Pack marketing bundle.",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2.1.16",
-      "versionSourceUrl": "https://www.kvraudio.com/news/image-line-updates-various-vst-plug-ins-incl-directwave-64-bit-25057",
-      "versionVerifiedAt": "2026-09-14T05:25:56Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 76,
-      "versionConfidenceReasons": [
-        "kvr-release-archive-pack-version-maps-to-pack-tied-identity"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--juice-an-fm-injection-for-abletons-operator",
@@ -102273,7 +102076,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/lg-drive-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/lg-drive-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.1.2",
+      "latestVersionWindows": "1.0.0",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.2",
@@ -105227,12 +105032,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.7",
-      "versionSourceUrl": "https://www.audiothing.net/effects/latin-percussion/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/latin-percussion/",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -107964,15 +107769,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "uvi--lofi-dreams-for-falcon",
@@ -109639,14 +109436,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.1.0",
-      "versionSourceUrl": "https://www.gforcesoftware.com/products/map/",
-      "versionVerifiedAt": "2026-09-10T10:34:33Z",
+      "versionSourceUrl": "https://www.gforcesoftware.com/product/gforce-map/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "GForce Software product-page CDN official installer/product evidence matches KVR 1.1.0",
-        "evidence: MAP-1.1-Installer (trailing-zero ≡ KVR 1.1.0)",
-        "yellow→green corroboration raise-16"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -119832,15 +119627,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "united-plugins--mastermind",
@@ -120211,15 +119998,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "venomode--venomode-maximal-3",
@@ -124572,15 +124351,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:10Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "xhun-audio--modflorus",
@@ -128492,18 +128263,10 @@
       "matchPatterns": [
         "NEED Preamp and EQ Collection"
       ],
-      "notes": "Universe expansion: identity verified against official vendor pages 2026-09-16; no public version yet.",
+      "notes": "Universe expansion: identity verified against official vendor pages 2026-09-16; no public version yet. | version cleared per bundle T1/T2 rule: prior 1.5.0 rested on a marketing image filename only; versionless-pending, 2026-11-01 verdict",
       "identityKind": "bundle",
       "appleSilicon": "native",
-      "popularityTier": 2,
-      "latestVersion": "1.5.0",
-      "versionSourceUrl": "https://noiseash.com/product/need-preamp-and-eq-collection/",
-      "versionVerifiedAt": "2026-09-16T05:51:18Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "[\"Version encoded in vendor-hosted product image filename; one step removed from a written version statement, hence amber 70\"]"
-      ]
+      "popularityTier": 2
     },
     {
       "id": "noiseash--need-preamps",
@@ -131862,15 +131625,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "ugritone--northern-artillery-drums",
@@ -131993,15 +131748,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "presonus--notion",
@@ -132149,7 +131896,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/novatron-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/novatron-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.2.3",
+      "latestVersionWindows": "1.1.0",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.3",
@@ -133579,14 +133328,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.1.0",
-      "versionSourceUrl": "https://www.gforcesoftware.com/products/dmx/",
-      "versionVerifiedAt": "2026-09-10T10:34:34Z",
+      "versionSourceUrl": "https://www.gforcesoftware.com/product/oberheim-dmx/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "GForce Software product-page CDN official installer/product evidence matches KVR 1.1.0",
-        "evidence: DMX-1.1.0-Installer",
-        "yellow→green corroboration raise-16"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -133635,14 +133382,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 2,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.gforcesoftware.com/products/tvs-pro/",
-      "versionVerifiedAt": "2026-09-10T10:34:34Z",
+      "versionSourceUrl": "https://www.gforcesoftware.com/product/oberheim-tvs-pro/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "GForce Software product-page CDN official installer/product evidence matches KVR 1.0",
-        "evidence: TVSPro-1.0-Installer",
-        "yellow→green corroboration raise-16"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -134471,7 +134216,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/omega-n-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/omega-n-by-kush-audio | citation rotated 2026-11-01: Kush downloads page no longer lists an Omega N version; value 1.2.1 kept (KVR verosx corroborates family Mac build); Omega 2 is a separate generation, see generation review",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.1",
@@ -134501,13 +134246,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1",
-      "versionSourceUrl": "https://www.thehouseofkush.com/products/omega-twk",
-      "versionVerifiedAt": "2026-09-10T08:04:39Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/omega-twk-by-kush-audio",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Manufacturer page corroborates KVR version 1.1",
-        "https://www.thehouseofkush.com/products/omega-twk"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -135295,15 +135039,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "zynaptiq--orange-vocoder-au",
@@ -135473,13 +135209,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/orbita-by-audiothing",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.audiothing.net/effects/orbita/",
-      "versionVerifiedAt": "2026-09-10T05:06:04Z",
+      "latestVersion": "1.1",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/orbita/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -139081,6 +138817,30 @@
       "notes": "[Track C 2026-09-15] No official current-version statement found.",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 3
+    },
+    {
+      "id": "map-audio--pam",
+      "manufacturerId": "map-audio",
+      "name": "PAM",
+      "matchPatterns": [
+        "PAM",
+        "MAP Audio PAM"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://map.audio/pam",
+      "notes": "Eight-cell creative sampler and drum synth from MAP Audio. Every cell has its own sampler, 34 built-in effects, sequencer and modulation matrix, and cells can be programmed together in a tracker or piano roll, with an eight-track looper on top. A built-in MCP bridge lets an AI agent work inside PAM while it runs. VST3, AU and CLAP plus a standalone app; macOS 14 or later on Apple Silicon, macOS 12 or later on Intel, Windows 10 or 11. $150 with a rent-to-own option and a 7-day free trial. Current version 1.8.6 per the vendor product page (corroborated by the vendor user manual, v1.8.6). Not MAP Audio's MFX, a separate multi-effect plugin that shares PAM's 34 effects.",
+      "latestVersion": "1.8.6",
+      "versionSourceUrl": "https://map.audio/pam",
+      "versionVerifiedAt": "2026-11-02T05:25:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page System Requirements prints 'Current version: 1.8.6', corroborated by vendor user manual v1.8.6"
+      ]
     },
     {
       "id": "audiomodern--panflow",
@@ -143669,13 +143429,13 @@
       "notes": "Crumar Trilogy/Stratus simulation",
       "isFreeware": true,
       "popularityTier": 4,
-      "latestVersion": "1.0.1",
+      "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.fullbucket.de/music/vst.html?sfnsn=scwspmo",
-      "versionVerifiedAt": "2026-09-15T17:43:43Z",
+      "versionVerifiedAt": "2026-11-02T05:26:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "SURGE universe expansion 2026-09-15 (official-product-index)"
+        "Lane C tail bulk re-verification: same vendor oracle lists 1.0.2 vs stored 1.0.1; vendor product page, prior band kept"
       ]
     },
     {
@@ -147264,15 +147024,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "kilohearts--pitch-shifter",
@@ -147340,15 +147092,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "airwindows--pitchdelay",
@@ -147417,15 +147161,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "zynaptiq--pitchmap",
@@ -149361,13 +149097,12 @@
       "notes": "KVR product https://www.kvraudio.com/product/powerchord-by-rob-papen",
       "popularityTier": 2,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.robpapen.com/PowerChord.php",
-      "versionVerifiedAt": "2026-09-10T08:04:30Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/powerchord-by-rob-papen",
+      "versionVerifiedAt": "2026-11-01T20:47:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Manufacturer page corroborates KVR version 1.0",
-        "https://www.robpapen.com/PowerChord.php"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -150656,15 +150391,7 @@
       },
       "notesForUser": "A stock Pro Tools compressor; it updates with Pro Tools.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-29T05:26:30Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "Bundle-train versioning: Avid publishes no per-component version for this bundled plugin; catalog convention (matching sibling bundled Avid rows) versions it at the current Pro Tools release. Official Avid 'What's new in Pro Tools' page (title verified first-hand via rendered browser, no WAF gate) heads its newest release 'PRO TOOLS 2026.4.1 (JULY 2026)'. Yellow band reflects bundle-train rather than component-published versioning."
-      ]
+      "popularityTier": 1
     },
     {
       "id": "eastwest--prodrummer-volume-1",
@@ -153134,15 +152861,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--purple-kit-a-custom-built-maple-drumset",
@@ -153426,6 +153145,48 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "rob-papen--quad-2",
+      "manufacturerId": "rob-papen",
+      "name": "QUAD-2",
+      "matchPatterns": [
+        "QUAD-2",
+        "Quad-2"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.robpapen.com/Quad-2.html",
+      "notes": "Sixteen-voice virtual synthesizer from Rob Papen, the follow-up to QUAD (a separate catalog row, unchanged). Two oscillators with phase distortion and wave shaping, driven by two XY pads each plus a new ribbon controller; 43 filter types including the Albino-3 Legend Cream filter; 48 effect types with stereo tape delay, reverb, modulation, distortion and EQ; an arpeggiator with ratcheting and a free row; a bank manager for over 1,200 presets. VST, VST3, AU and AAX on macOS 10.15 or later (Apple Silicon compatible) and Windows 7 or later. 49 euros / 49 dollars; upgrade from QUAD or QUAD-RE 25 euros / 25 dollars, free if bought after July 1, 2026; included in the eXplorer-11 bundle. Launched October 7, 2026. No version number printed on the vendor product page — seeded versionless; 1.0.0 was not inferred from the launch.",
+      "popularityTier": 2
+    },
+    {
+      "id": "codwaves--quance",
+      "manufacturerId": "codwaves",
+      "name": "QUANCE",
+      "matchPatterns": [
+        "QUANCE",
+        "Quance"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://codwaves.com/quance/",
+      "notes": "Resonance suppressor from CodWaves that finds harsh peaks and ringing in a recording and pulls them down in real time. Intelligent Learn places focus points on the most prominent resonances; up to eight focus points and four detection ranges steer detection by hand. Tone Protect guards harmonics and vocal formants and Transient Protect guards attacks, so the performance keeps its character. Six modes (Default, Vocal, Instrument, Drums, Mix, Hard), sidechain unmasking, four stereo modes including Mid-Side, Delta monitoring that plays only what was removed, automatic loudness matching, and 53 factory presets. Five quality grades from zero-latency Live Zero to high-resolution Studio Ultra. VST3 and AAX on Windows, VST3, AU and AAX on macOS; Windows 10 or newer (64-bit), macOS 10.15 or newer (Intel and Apple Silicon). Buy once or rent-to-own; 49.99 euros introductory price through November 30, 2026 (regular 79.99 euros), 7-day free trial, up to three activations. Version 1.0.0 per the vendor product page changelog (\"Initial Release\").",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://codwaves.com/quance/",
+      "versionVerifiedAt": "2026-11-01T17:23:26Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor product page changelog section prints 'Version 1.0.0 - Initial Release'"
       ]
     },
     {
@@ -154567,7 +154328,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/reddi-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/reddi-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.1.1",
+      "latestVersionWindows": "1.0.3",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.1",
@@ -154637,12 +154400,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1",
-      "versionSourceUrl": "https://www.audiothing.net/effects/res-09/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/res-09/",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -158990,15 +158753,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "mercuriall-audio--rectofire",
@@ -161414,15 +161169,7 @@
       },
       "notesForUser": "A stock Pro Tools reverb; it updates with Pro Tools.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-09-29T05:26:30Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "Bundle-train versioning: Avid publishes no per-component version for this bundled plugin; catalog convention (matching sibling bundled Avid rows) versions it at the current Pro Tools release. Official Avid 'What's new in Pro Tools' page (title verified first-hand via rendered browser, no WAF gate) heads its newest release 'PRO TOOLS 2026.4.1 (JULY 2026)'. Yellow band reflects bundle-train rather than component-published versioning."
-      ]
+      "popularityTier": 1
     },
     {
       "id": "cableguys--reverbshaper",
@@ -161508,15 +161255,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "kilohearts--reverser",
@@ -161660,16 +161399,18 @@
       "matchPatterns": [
         "Rhino"
       ],
-      "notes": "Universe expansion: identity verified against official vendor pages 2026-09-16; no public version yet.",
+      "notes": "Universe expansion: identity verified against official vendor pages 2026-09-16; no public version yet. | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.7.5",
+      "latestVersionWindows": "1.7.7",
       "appleSilicon": "native",
       "popularityTier": 3,
       "latestVersion": "1.7.5",
-      "versionSourceUrl": "https://auroradsp.com/get-rhino/",
-      "versionVerifiedAt": "2026-09-16T05:51:18Z",
+      "versionSourceUrl": "https://auroradsp.com/plugins/rhino-guitar-plugin",
+      "versionVerifiedAt": "2026-11-01T20:47:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "[\"Official vendor downloads page lists Version 1.7.5 for macOS\", \"macOS is the catalog's platform; the separately listed Linux 1.7.6 is not stamped\"]"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -162880,15 +162621,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:11Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "applied-acoustics--rotors-for-multiphonics-cv-3",
@@ -163013,6 +162746,24 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "united-plugins--royal-compressor-xt",
+      "manufacturerId": "united-plugins",
+      "name": "Royal Compressor XT",
+      "matchPatterns": [
+        "Royal Compressor XT",
+        "RoyalCompressorXT"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://unitedplugins.com/RoyalCompressorXT/",
+      "notes": "Dual vari-mu compressor from Soundevice Digital, sold via United Plugins, building on the original Royal Compressor. Two complete Royal Compressor units in one plugin, each with its own Trim, Input Control, A/B/C Model, Recovery with Hold, Saturation, Output Attenuator and Dry/Wet. Split modes run the units on left/right, mid/side, or low/high with an adjustable crossover frequency. Three circuit models with different attack characters, smooth vari-mu compression with adjustable valve saturation and a random saturation algorithm, automatic gain control, smart bypass and sleep on silence. VST, VST3, AU and AAX; Windows 10 or later, macOS 10.14 or later. Needs sidechain routing, so hosts without it (including GarageBand) do not work well with it. 15-day free trial; 15 euros introductory price through November 30, 2026 (regular 69 euros); owners of the original Royal Compressor get a free upgrade. No version number printed on the United Plugins product page — seeded versionless.",
+      "popularityTier": 2
     },
     {
       "id": "ik-multimedia--royal-upright-y5",
@@ -165205,12 +164956,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.6.2",
-      "versionSourceUrl": "https://www.audiothing.net/effects/sr-88/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/sr-88/",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -166993,12 +166744,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1",
-      "versionSourceUrl": "https://www.audiothing.net/effects/sx1000/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/sx1000/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -167760,15 +167511,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "8dio--santur",
@@ -168926,15 +168669,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "discodsp--scope-visualizer",
@@ -171494,15 +171229,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "oas--jthorborg-signalizer",
@@ -171583,7 +171310,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/silika-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/silika-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.2.2",
+      "latestVersionWindows": "1.1.0",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.2",
@@ -172640,15 +172369,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "waves--smack-attack",
@@ -175237,7 +174958,8 @@
       ],
       "productLine": "Presets",
       "updatePortalUrl": "https://www.arturia.com/technology/asc",
-      "notes": "Arturia software catalog gap; expand10 bundle.",
+      "notes": "Arturia software catalog gap; expand10 bundle. | edition number moved from version to generation per bundle T1/T2 rule, 2026-11-01 verdict (Grok Bot pass kvr-bundle-divergence)",
+      "generation": "2",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -175248,15 +174970,7 @@
       },
       "identityKind": "bundle",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "2",
-      "versionSourceUrl": "https://www.arturia.com/products/software-instruments-effects/sound-explorers-collection/overview",
-      "versionVerifiedAt": "2026-09-17T16:10:39Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "Official Arturia bundle page; bundle generation version only"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "nembrini-audio--sound-master-custom-tube-guitar-amplifier",
@@ -176412,6 +176126,33 @@
       "versionConfidenceReasons": [
         "UVI's own Sparkverb changelog PDF lists 1.5.0 as the latest entry (read-only worker verified PDF contents 2026-09-17)",
         "Corroborated by press: Sonic State 2025-12-08 and KVR Mar 2026 reference 1.5 as current"
+      ]
+    },
+    {
+      "id": "audiority--spatial-d320",
+      "manufacturerId": "audiority",
+      "name": "Spatial D320",
+      "matchPatterns": [
+        "Spatial D320",
+        "Audiority Spatial D320"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://www.audiority.com/2026/10/28/spatial-d320-updated-to-v1-0-2/",
+      "notes": "BBD-based chorus and spatial enhancer from Audiority, inspired by the Roland SDD-320 Dimension D. Where the hardware had four fixed buttons, Spatial D320 gives continuous control over every dimension of the effect, plus an adjustable Drift LFO rate, X-Depth for wider spatial textures, a 12AU7 valve stage, an ambience generator, a Focus highpass filter with intelligent mid/side routing, a mid/side width processor, an integrated goniometer, MIDI mapping and a resizable interface. VST3, AU, AAX and CLAP on macOS and Windows. Released June 2026; 69 euros (39 euros introductory until July 5, 2026). Version 1.0.2 per the vendor blog, October 28, 2026.",
+      "appleSilicon": "universal",
+      "popularityTier": 2,
+      "latestVersion": "1.0.2",
+      "versionSourceUrl": "https://www.audiority.com/2026/10/28/spatial-d320-updated-to-v1-0-2/",
+      "versionVerifiedAt": "2026-11-02T05:25:42Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor blog post dated 2026-10-28 states 'Spatial D320 has been updated to v1.0.2'"
       ]
     },
     {
@@ -181992,7 +181733,7 @@
       "matchPatterns": [
         "Studio One Pro"
       ],
-      "notes": "Final 7.x line; rebranded by Fender as Fender Studio Pro 8 (Jan 2026). Patch-level 7.2.2 seen only in changelog mirrors; vendor KB page not directly retrievable.",
+      "notes": "Final 7.x line; rebranded by Fender as Fender Studio Pro 8 (Jan 2026). Patch-level 7.2.2 seen only in changelog mirrors; vendor KB page not directly retrievable. | oracle is third-party press (production-expert); needs PreSonus first-hand re-point, queued 2026-11-01",
       "generation": "7",
       "successorPluginId": "fender--fender-studio-pro",
       "supersededByPluginId": "fender--fender-studio-pro",
@@ -182129,15 +181870,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "xln-audio--studio-rock-adpak",
@@ -183433,7 +183166,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.ikmultimedia.com/userarea/",
-      "notes": "KVR product https://www.kvraudio.com/product/sunset-sound-studio-reverb-ii-by-ik-multimedia",
+      "notes": "KVR product https://www.kvraudio.com/product/sunset-sound-studio-reverb-ii-by-ik-multimedia | oracle dead 2026-11-01: news URL dead; product page live (Shopify) but versionless, so value 1.0.2 is unverified; PreSonus-style first-hand re-point queued",
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.0.2",
@@ -185362,13 +185095,12 @@
       "notes": "KVR product https://www.kvraudio.com/product/synfex-by-rob-papen",
       "popularityTier": 2,
       "latestVersion": "1.0",
-      "versionSourceUrl": "https://www.robpapen.com/SynFeX.php",
-      "versionVerifiedAt": "2026-09-10T08:04:35Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/synfex-by-rob-papen",
+      "versionVerifiedAt": "2026-11-01T20:47:29Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Manufacturer page corroborates KVR version 1.0",
-        "https://www.robpapen.com/SynFeX.php"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -192301,16 +192033,18 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.audiority.com/user-area/",
+      "discontinued": true,
       "notesForUser": "An Audiority plugin.",
       "appleSilicon": "universal",
       "popularityTier": 2,
-      "latestVersion": "1.3.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ts-1-transient-shaper-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "finalVersion": "1.3.1",
+      "versionSourceUrl": "https://www.audiority.com/shop/ts-1-transient-shaper/",
+      "versionVerifiedAt": "2026-11-02T05:26:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.3.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor shop page offers v1.3.1 as current demo download",
+        "Matches prior KVR-only current 1.3.1"
       ]
     },
     {
@@ -193037,15 +192771,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "softube--tape-echoes",
@@ -195796,12 +195522,13 @@
       "appleSilicon": "universal",
       "popularityTier": 2,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/the-sword-by-audiority",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionSourceUrl": "https://www.audiority.com/shop/the-sword/",
+      "versionVerifiedAt": "2026-11-02T05:26:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=1.0.1 (Win=Mac); manufacturer silent/walled or not on public versions table"
+        "Vendor shop-page changelog lists v1.0.1 as latest",
+        "Matches prior KVR-only current 1.0.1"
       ]
     },
     {
@@ -196823,15 +196550,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "sonuscore--time-textures",
@@ -196869,15 +196588,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "audio-damage--timefnk",
@@ -200554,15 +200265,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "airwindows--trianglizer",
@@ -200801,15 +200504,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:12Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "acustica-audio--trinity2",
@@ -208681,7 +208376,9 @@
         "AAX"
       ],
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
-      "notes": "KVR product https://www.kvraudio.com/product/ubk-pusher-by-kush-audio",
+      "notes": "KVR product https://www.kvraudio.com/product/ubk-pusher-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "latestVersionMac": "1.2.2",
+      "latestVersionWindows": "1.1.2",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.2",
@@ -212747,7 +212444,8 @@
       ],
       "productLine": "V Collection",
       "updatePortalUrl": "https://www.arturia.com/technology/asc",
-      "notes": "Arturia software catalog gap; expand10 bundle.",
+      "notes": "Arturia software catalog gap; expand10 bundle. | edition number moved from version to generation per bundle T1/T2 rule, 2026-11-01 verdict (Grok Bot pass kvr-bundle-divergence)",
+      "generation": "11",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -212758,15 +212456,7 @@
       },
       "identityKind": "bundle",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "11",
-      "versionSourceUrl": "https://www.arturia.com/products/software-instruments/v-collection/overview",
-      "versionVerifiedAt": "2026-09-17T16:10:38Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "Official Arturia bundle page; bundle generation version only"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "arturia--v-collection-11-pro",
@@ -212779,7 +212469,8 @@
       ],
       "productLine": "V Collection",
       "updatePortalUrl": "https://www.arturia.com/technology/asc",
-      "notes": "Arturia software catalog gap; expand10 bundle.",
+      "notes": "Arturia software catalog gap; expand10 bundle. | edition number moved from version to generation per bundle T1/T2 rule, 2026-11-01 verdict (Grok Bot pass kvr-bundle-divergence)",
+      "generation": "11",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
@@ -212790,15 +212481,7 @@
       },
       "identityKind": "bundle",
       "appleSilicon": "universal",
-      "popularityTier": 1,
-      "latestVersion": "11",
-      "versionSourceUrl": "https://www.arturia.com/products/software-instruments/v-collection/overview",
-      "versionVerifiedAt": "2026-10-22T05:25:37Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
-      "versionConfidenceReasons": [
-        "official Arturia bundle page: still V Collection 11 generation, product named V Collection 11 Pro"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "antelope-audio--v-amp",
@@ -215677,15 +215360,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:13Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "analog-obsession--varimoon",
@@ -215887,15 +215562,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:13Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "izotope--velvet",
@@ -216639,15 +216306,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:13Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "8dio--vibraphone",
@@ -222175,6 +221834,7 @@
         "Waves Central"
       ],
       "updatePortalUrl": "https://www.waves.com/downloads",
+      "notes": "lagging_surface: release-notes page tops at 17.1.3, behind YAML 17.1.4 (operator-verified 2026-11-01; P4 lag per disagreement protocol, not a version dispute; 17.1.4 stays @90)",
       "identityKeys": {
         "bundleIds": [
           "com.WavesAudio.central"
@@ -223122,15 +222782,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:13Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "metric-halo--whiteroom",
@@ -223961,12 +223613,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.3",
-      "versionSourceUrl": "https://www.audiothing.net/effects/wurly/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionSourceUrl": "https://www.audiothing.net/instruments/wurly/",
+      "versionVerifiedAt": "2026-11-01T20:47:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
       ]
     },
     {
@@ -224102,15 +223754,7 @@
       "portalApp": "Avid Link",
       "notesForUser": "Comes with Pro Tools and updates along with it — there's no separate version number to check.",
       "appleSilicon": "native",
-      "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.avid.com/pro-tools/whats-new",
-      "versionVerifiedAt": "2026-10-01T05:25:13Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 70,
-      "versionConfidenceReasons": [
-        "cohort fetch: host-version proxy; all stock/bundled plugs re-stamped together"
-      ]
+      "popularityTier": 1
     },
     {
       "id": "waves--x-hum",
@@ -234935,6 +234579,7 @@
       ],
       "productLine": "oeksound soothe",
       "updatePortalUrl": "https://oeksound.com/downloads/",
+      "notes": "per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "generation": "1",
       "generationRank": 1,
       "updateClass": "paid_upgrade",
@@ -234951,6 +234596,8 @@
           }
         ]
       },
+      "latestVersionMac": "1.5.1",
+      "latestVersionWindows": "1.5.0",
       "installedVersionRule": {
         "source": "CFBundleShortVersionString",
         "transforms": [
