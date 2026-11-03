@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-02T14:01:52Z",
+  "updatedAt": "2026-11-03T14:02:39Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -788,6 +788,12 @@
       "updatePortalUrl": "https://github.com/BespokeSynth/BespokeSynth",
       "websiteUrl": "https://github.com/BespokeSynth/BespokeSynth",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "betarabbit",
+      "name": "BetaRabbit",
+      "updatePortalUrl": "https://github.com/wn6134/the-calm",
+      "websiteUrl": "https://github.com/wn6134/the-calm"
     },
     {
       "id": "bettermaker",
@@ -2141,6 +2147,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "hivetune",
+      "name": "Hivetune",
+      "updatePortalUrl": "https://www.hivetune.com/",
+      "websiteUrl": "https://www.hivetune.com/"
+    },
+    {
       "id": "hornet",
       "name": "HoRNet",
       "updatePortalUrl": "https://www.hornetplugins.com/hornet-doin/",
@@ -2876,6 +2888,12 @@
       "versionExample": "3.15",
       "notes": "Helix Native / Amp Farm / Metallurgy software; Helix/POD hardware SKUs marked hardware\nApple Silicon: mixed. Helix Native natively supports M1; legacy POD Farm 2, Echo Farm 3.0, Amp Farm 4.0 work under Rosetta only per Line 6. Evidence: https://line6.com/support/topic/64224-helix-native-and-mac-studio-not-working-m1-124-daw-rosetta-native/",
       "popularityTier": 2
+    },
+    {
+      "id": "liquid-sky-d-vices",
+      "name": "Liquid Sky d-vices",
+      "updatePortalUrl": "https://liquidskyeurope.com/",
+      "websiteUrl": "https://liquidskyeurope.com/"
     },
     {
       "id": "liquidsonics",
@@ -3672,6 +3690,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "past-to-future-plugins",
+      "name": "Past To Future Plugins",
+      "updatePortalUrl": "https://pasttofutureplugins.com/",
+      "websiteUrl": "https://pasttofutureplugins.com/"
+    },
+    {
       "id": "oas--patric-schmitz",
       "name": "Patric Schmitz",
       "updatePortalUrl": "https://github.com/drlight-code/osccontrol-light",
@@ -3778,6 +3802,12 @@
       "changelogUrl": "https://pitchinnovations.com/blog/fluid-chords-v-1-4-update-everything-you-need-to-know/",
       "notes": "Portal URL is a search fallback until a direct manufacturer page is curated.\nApple Silicon: no manufacturer statement found (researched 2026-09-15). Official site identified as pitchinnovations.com. Help Center system-requirements article ('Is my DAW supported?'): hardware line reads 'Intel, AMD, M1' for Fluid Chords and Fluid Pitch — M1 compatibility mention with no native/Rosetta clarity, so null per precedent. 'How do I update my plugin?' article says to check the dashboard for the latest version number; no real version strings observed on [2026-09-15 compat: Checked Help Center install articles and product pages (Eternal Arps, Groove Shaper, Fluid Chords 2, Rhythm Box) on pitchinnovations.com. System Requirements consistently list Hardware as 'Intel, AMD, Apple Silicon' with] [2026-09-15 compat: No manufacturer-owned result with an architecture statement found 2026-09-15. Official product pages list 'Apple Silicon' as supported hardware (e.g. Eternal Arps 'HARDWARE: Intel, AMD, Apple Silicon'; Loop 2 Kit 'Apple Silicon and Intel') which is hardware support, not native/universal architecture.] [2026-09-16 compat: No Apple Silicon architecture statement on official pages 2026-09-16. Fluid Chords 2 page (https://pitchinnovations.com/products/fluid-chords-2) lists 'Hardware: Intel, AMD, Apple Silicon.' — hardware compatibility, declined. M1-native wording appears only on third-party reseller pages. Vendor blog release notes list Fluid Chords 1.4.0 / 1.3.0 / 1.2.0 / v1.1.1 / v1.1.0 (product-specific changelog).]",
       "popularityTier": 2
+    },
+    {
+      "id": "pittsburgh-modular",
+      "name": "Pittsburgh Modular",
+      "updatePortalUrl": "https://pittsburghmodular.com/",
+      "websiteUrl": "https://pittsburghmodular.com/"
     },
     {
       "id": "platinum-samples",
@@ -5358,6 +5388,12 @@
       "changelogUrl": "https://www.waproduction.com/plugins/view/multibender",
       "notes": "Update via manufacturer account / downloads portal. Installers are user-driven.",
       "popularityTier": 2
+    },
+    {
+      "id": "wet-vst",
+      "name": "WET VST",
+      "updatePortalUrl": "https://wetvst.com/",
+      "websiteUrl": "https://wetvst.com/"
     },
     {
       "id": "waldorf",
@@ -10060,13 +10096,13 @@
       ],
       "notes": "Akai AX73 analog synth emulation. Note: current product page slug is 'ax73-plus'; free upgrades through v1.x.x.",
       "popularityTier": 4,
-      "latestVersion": "1.4.2",
+      "latestVersion": "1.4.4",
       "versionSourceUrl": "https://www.martinic.com/en/products/ax73-plus/downloads",
-      "versionVerifiedAt": "2026-09-15T17:43:47Z",
+      "versionVerifiedAt": "2026-11-02T17:27:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "SURGE universe expansion 2026-09-15 (official-downloads-page)"
+        "Vendor downloads page lists exact latest version"
       ]
     },
     {
@@ -23957,6 +23993,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "10.6.0",
@@ -23993,6 +24030,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "9.6.0",
@@ -24059,6 +24097,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "10.6.1",
@@ -24089,6 +24128,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "9.6.0",
@@ -24193,6 +24233,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.2.1",
@@ -24223,7 +24264,7 @@
           }
         ]
       },
-      "notesForUser": "Not yet checked against the vendor's site.",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1
     },
@@ -24267,6 +24308,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "11.6.0",
@@ -38793,13 +38835,14 @@
       "updatePortalUrl": "https://www.fractalaudio.com/support/",
       "notes": "Fractal Audio public software/hardware identity; expand5.",
       "popularityTier": 3,
-      "latestVersion": "1.02.00",
+      "latestVersion": "1.02.01",
       "versionSourceUrl": "https://www.fractalaudio.com/cab-lab-4/",
-      "versionVerifiedAt": "2026-10-26T00:02:07Z",
+      "versionVerifiedAt": "2026-11-03T05:23:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Vendor product page downloads list Version 1.02.01 for macOS and Windows, dated October 30, 2026",
+        "Same recorded oracle as stored 1.02.00"
       ]
     },
     {
@@ -55839,14 +55882,13 @@
       "notesForUser": "FOSS plugin (Dexed). OAS twin may also exist.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://github.com/asb2m10/dexed/releases/tag/v1.0.1",
-      "versionVerifiedAt": "2026-09-10T10:41:02Z",
+      "latestVersion": "1.1.0",
+      "versionSourceUrl": "https://github.com/asb2m10/dexed/releases/tag/v1.1.0",
+      "versionVerifiedAt": "2026-11-03T05:23:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "asset-filename-semver"
+        "First-party GitHub release tag v1.1.0, published 2026-10-31, non-draft non-prerelease, versioned installers Dexed-1.1.0-macOS.dmg/win.exe"
       ]
     },
     {
@@ -65184,11 +65226,11 @@
       "popularityTier": 1,
       "latestVersion": "1.6.3",
       "versionSourceUrl": "https://sugar-bytes.de/en/egoist",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-02T17:34:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.6.3 label"
+        "Vendor Downloads label is the offered build; September adjudication stands"
       ]
     },
     {
@@ -92343,7 +92385,15 @@
         "compareSegments": 3
       },
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0.1",
+      "versionSourceUrl": "https://babyaudio.com/downloads",
+      "versionVerifiedAt": "2026-11-02T17:25:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor downloads page lists exact version"
+      ]
     },
     {
       "id": "puremagnetik--hyperbent-a-world-of-circuit-modified-gizmos",
@@ -118529,6 +118579,21 @@
       "popularityTier": 1
     },
     {
+      "id": "hivetune--marimbox",
+      "manufacturerId": "hivetune",
+      "name": "Marimbox",
+      "matchPatterns": [
+        "Marimbox",
+        "Hivetune Marimbox"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.hivetune.com/store/marimbox/",
+      "notes": "Sampled marimba instrument from Hivetune: high-fidelity stereo recordings of an acoustic marimba with a custom playback engine, five articulations (Cord, Deadstroke, Rubber, Yarn, Roll) switchable by MIDI keyswitching, built-in reverb and BPM-synced delay, and up to 64 voices. VST3 and AU on macOS 11 or later, VST3 on Windows 10 or later, plus standalone versions. Free edition with four articulations; the $4.99 Complete Edition adds the Roll articulation. Released October 2026. No version number is printed on the vendor store page — seeded versionless; no version was inferred from the launch."
+    },
+    {
       "id": "audiority--marimbula",
       "manufacturerId": "audiority",
       "name": "Marimbula",
@@ -122160,6 +122225,21 @@
       "identityKind": "bundle",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "pittsburgh-modular--microvolt-3901",
+      "manufacturerId": "pittsburgh-modular",
+      "name": "Microvolt 3901",
+      "matchPatterns": [
+        "Microvolt 3901",
+        "Pittsburgh Modular Microvolt 3901"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://pittsburghmodular.com/microvolt-3901",
+      "notes": "Semi-modular software synthesizer from Pittsburgh Modular, the company's first plugin: a component-level emulation of its Microvolt 3900 hardware plus modelled Eurorack modules, fully patchable, with 6-voice polyphony, 19 effects and 200 presets. VST3 and AU on macOS, VST3 on Windows, plus a standalone app; an iPad AUv3 version is coming soon. $69 with a free 7-day trial. Released October 2026. No version number is printed on the vendor product page — seeded versionless; no version was inferred from the launch."
     },
     {
       "id": "waldorf--microwave-1",
@@ -142227,6 +142307,22 @@
       ]
     },
     {
+      "id": "past-to-future-plugins--ptf-s950-sampler",
+      "manufacturerId": "past-to-future-plugins",
+      "name": "PTF S950 Sampler",
+      "matchPatterns": [
+        "PTF S950",
+        "PTF-S950",
+        "PTF S950 Sampler"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://pasttofutureplugins.com/product/ptf-s950-sampler/",
+      "notes": "12-bit sampler plugin from Past To Future Plugins, modelled on the Akai S950 rackmount sampler: a captured analogue input stage, bandwidth reduction, 12-bit conversion (adjustable 6 to 16 bits) and a fully playable eight-voice sampler with keygroups, envelopes and an LFO. VST3 and AU on macOS (Intel and Apple Silicon), VST3 on Windows. 7-day trial; 53 euros. Released October 2026. No version number is printed on the vendor product page — seeded versionless; no version was inferred from the launch."
+    },
+    {
       "id": "8dio--px-add-on-1971-estonia-grand",
       "manufacturerId": "8dio",
       "name": "PX Add On 1971 Estonia Grand",
@@ -161805,16 +161901,19 @@
         "VST3"
       ],
       "minMacOS": "12.0",
+      "generation": "4",
+      "generationRank": 4,
       "portalApp": "Audiomodern account",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "3.1.2",
+      "latestVersion": "4.0.2",
       "versionSourceUrl": "https://audiomodern.com/updates/",
-      "versionVerifiedAt": "2026-10-01T05:25:06Z",
+      "versionVerifiedAt": "2026-11-03T05:23:48Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "User has 3.1.4 installed but the vendor's own updates page still serves 3.1.2 — user's 3.1.4 is uncorroborated (possible beta or private installer build). No ra"
+        "Vendor updates page lists RIFFER current version 4.0.2",
+        "Same recorded oracle as stored 3.1.2; major-version jump flagged for operator generation/paid-upgrade review"
       ]
     },
     {
@@ -172190,6 +172289,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.0",
@@ -175155,13 +175255,14 @@
         ]
       },
       "popularityTier": 3,
-      "latestVersion": "2.6.7",
+      "latestVersion": "2.6.9",
       "versionSourceUrl": "https://www.sonarworks.com/soundid-produce/voiceai/release-notes",
-      "versionVerifiedAt": "2026-09-28T17:20:56Z",
+      "versionVerifiedAt": "2026-11-03T05:23:47Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "vendor release-notes page, first-hand (88)"
+        "Vendor release-notes page, top entry 2.6.9 dated 6th October 2026",
+        "Same recorded oracle as stored 2.6.7; supersedes it"
       ]
     },
     {
@@ -175212,6 +175313,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "6.6.0",
@@ -194370,6 +194472,30 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "betarabbit--the-calm",
+      "manufacturerId": "betarabbit",
+      "name": "The Calm",
+      "matchPatterns": [
+        "The Calm",
+        "BetaRabbit The Calm"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://github.com/wn6134/the-calm",
+      "notes": "Free octave pedal plugin from BetaRabbit, built for foot-controlled octave jumps: hold the UP switch for one octave up or WAY UP for two octaves up through a grainy, slightly broken pitch shifter, with momentary or latching modes, glide time from instant to 1.5 seconds or tempo-synced, Chill, Order and Sloth character controls, nine factory presets and MIDI learn. VST3, AU and CLAP on macOS 11 or later (Apple Silicon and Intel), VST3 and CLAP on Windows. Version 1.0, released October 2026.",
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://github.com/wn6134/the-calm/releases/tag/v1.0",
+      "versionVerifiedAt": "2026-11-03T05:23:45Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=90)"
+      ]
     },
     {
       "id": "black-rooster-audio--the-canary",
@@ -214585,9 +214711,17 @@
       ],
       "minMacOS": "12.0",
       "portalApp": "inMusic Software Center",
-      "notesForUser": "Vacuum was renamed Vacuum Classic in the 2025 inMusic update. No version is shown yet: Windows and Mac compatibility tables disagree (1.2.0 vs 1.4.0).",
+      "notesForUser": "Vacuum was renamed Vacuum Classic in the 2025 inMusic update.",
       "appleSilicon": "mixed",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.4.0",
+      "versionSourceUrl": "http://support.airmusictech.com/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-11-03T05:22:46Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor-published macOS 26 Tahoe compatibility matrix lists Vacuum Classic 1.4.0 as the current tested build (first-hand, 2026-11-02); row match patterns include 'Vacuum Classic'"
+      ]
     },
     {
       "id": "sinevibes--vague",
@@ -218925,6 +219059,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.0",
@@ -218961,6 +219096,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.0",
@@ -219338,6 +219474,7 @@
         ]
       },
       "portalApp": "AutoTune Central",
+      "notesForUser": "This row covers your whole Auto-Tune family — the app groups Pro, AutoTune, Advanced, Access, Artist, EFX+, and others into one row, so the version shown belongs to just one of them. Check Auto-Tune Central for each product update.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.6.0",
@@ -222585,6 +222722,29 @@
       ]
     },
     {
+      "id": "wet-vst--wetreducer",
+      "manufacturerId": "wet-vst",
+      "name": "WetReducer",
+      "matchPatterns": [
+        "WetReducer",
+        "WET VST WetReducer"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://wetvst.com/wetreducer/",
+      "notes": "Free open-source creative plugin from WET VST that replaces selected parts of a mix with synthesized sound: five frequency bands, each blending the incoming signal with a generated waveform from sine to square, pitch-snapped to the nearest note, with up to eight voices per band. VST3 and AU on Windows, macOS (Intel and Apple Silicon) and Linux. Version 1.0.0, released October 2026.",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://github.com/yonie/WetReducer/releases/tag/v1.0.0",
+      "versionVerifiedAt": "2026-11-03T05:23:45Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=90)"
+      ]
+    },
+    {
       "id": "oas--unicornsasfuel-whetstone",
       "manufacturerId": "oas--daniel-unicornfurnace-crowley",
       "name": "Whetstone",
@@ -223901,6 +224061,22 @@
       "notes": "universe-expansion surge-1318",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 3
+    },
+    {
+      "id": "liquid-sky-d-vices--xen-fx-lab",
+      "manufacturerId": "liquid-sky-d-vices",
+      "name": "XEN FX LAB",
+      "matchPatterns": [
+        "XEN FX LAB",
+        "Liquid Sky XEN FX LAB",
+        "XEN FX Lab"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://liquidskyeurope.com/products/xen_fx_lab",
+      "notes": "Experimental delay and multi-effects laboratory from Liquid Sky d-vices, the successor to Zen Delay Virtual (existing Zen Delay Virtual owners get it as a free update). Tape, digital and vintage delay modes with ping-pong variations, a multimode virtual analogue filter, tube-style drive, a physically modelled spring reverb with Strike and Dub controls, two LFOs and MIDI learn, built for live dub performance and experimental sound design. VST3 and AU plus standalone on macOS 12 or later (Apple Silicon and Intel), VST3 on Windows 10 or later. 27.27 euros. Released October 2026. No version number is printed on the vendor product page — seeded versionless; no version was inferred from the launch."
     },
     {
       "id": "airwindows--xhighpass",
