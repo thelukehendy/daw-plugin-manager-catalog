@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-03T14:02:39Z",
+  "updatedAt": "2026-11-04T14:07:51Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -307,6 +307,12 @@
       "updatePortalUrl": "https://github.com/Everither/dust-saturator",
       "websiteUrl": "https://github.com/Everither/dust-saturator",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "animus-vertex",
+      "name": "Animus Vertex",
+      "updatePortalUrl": "https://animusvertex.com/",
+      "websiteUrl": "https://animusvertex.com/"
     },
     {
       "id": "oas--anis-dadou",
@@ -1577,6 +1583,12 @@
       "updatePortalUrl": "https://github.com/martindylan/granola",
       "websiteUrl": "https://github.com/martindylan/granola",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "dystopian-waves",
+      "name": "Dystopian Waves",
+      "updatePortalUrl": "https://dystopianwaves.gumroad.com/",
+      "websiteUrl": "https://dystopianwaves.gumroad.com/"
     },
     {
       "id": "oas--echoes-lab",
@@ -5227,6 +5239,12 @@
       ],
       "notes": "VCV Rack modular environment (hub_app); Cardinal already under oas--distrho-cardinal",
       "popularityTier": 1
+    },
+    {
+      "id": "vnl-works",
+      "name": "VNL Works Inc.",
+      "updatePortalUrl": "https://vnlaccount.gumroad.com/",
+      "websiteUrl": "https://vnlaccount.gumroad.com/"
     },
     {
       "id": "oas--valdemar-erlingsson",
@@ -16293,13 +16311,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T05:25:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -27199,13 +27217,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T05:25:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -27472,13 +27490,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T05:25:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -32701,13 +32719,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T05:25:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -35969,13 +35987,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T05:25:32Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -41386,6 +41404,30 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "animus-vertex--centtune",
+      "manufacturerId": "animus-vertex",
+      "name": "CentTune",
+      "matchPatterns": [
+        "CentTune",
+        "Animus Vertex CentTune"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://animusvertex.com/centtune",
+      "notes": "Free guitar tuner plugin from Animus Vertex: play a string and the peg to turn lights up on a guitar headstock. VST3, AU and CLAP on Mac and Windows.",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://animusvertex.com/centtune",
+      "versionVerifiedAt": "2026-11-04T05:25:32Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor page header badge + installer filenames"
+      ]
     },
     {
       "id": "waves--center",
@@ -50942,13 +50984,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15431&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "latestVersion": "15.0.40",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/cubase-15.html",
+      "versionVerifiedAt": "2026-11-03T17:25:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg Cubase 15.0.30 public installer exact match KVR Artist"
+        "vendor downloads page"
       ]
     },
     {
@@ -51007,13 +51049,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15431&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "latestVersion": "15.0.40",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/cubase-15.html",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg Cubase 15.0.30 public installer exact match KVR Elements"
+        "vendor page"
       ]
     },
     {
@@ -51134,13 +51176,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.30",
-      "versionSourceUrl": "https://forums.steinberg.net/t/cubase-15-0-30-maintenance-update/1033959",
-      "versionVerifiedAt": "2026-09-25T20:29:33Z",
+      "latestVersion": "15.0.40",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/cubase-15.html",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 75,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg official forum announcement, not a release-notes page; treat as amber until vendor RN confirms"
+        "vendor page"
       ]
     },
     {
@@ -59607,6 +59649,22 @@
       "popularityTier": 1
     },
     {
+      "id": "animus-vertex--dropshift",
+      "manufacturerId": "animus-vertex",
+      "name": "DropShift",
+      "matchPatterns": [
+        "DropShift",
+        "Animus Vertex DropShift"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://animusvertex.com/",
+      "notes": "Polyphonic drop-tune plugin from Animus Vertex: whole chords down 1 to 7 semitones or an octave, with four engines (Live, Classic, Studio, HQ). VST3, AU and CLAP on Mac and Windows. No version number is printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "united-plugins--dropkick",
       "manufacturerId": "united-plugins",
       "name": "Dropkick",
@@ -62315,6 +62373,21 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
       "popularityTier": 1
+    },
+    {
+      "id": "subverselab--elek",
+      "manufacturerId": "subverselab",
+      "name": "ELEK",
+      "matchPatterns": [
+        "ELEK",
+        "SubverseLab ELEK"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://subverselab.com/plugins/elek/",
+      "notes": "Stem splitter, vocal remover and key/tempo tool from SubverseLab, running locally (HT-Demucs). Standalone, VST3 and AU on Mac; standalone and VST3 on Windows. Launch price advertised at time of seeding until Dec 1, 2026. No version number is printed on the vendor product page — seeded versionless; the manual's 'from version 1.0.3' is a floor, never stamped."
     },
     {
       "id": "nembrini-audio--en-hardball-metal-head-guitar-amplifier",
@@ -129931,13 +130004,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/mikeoliphant/neural-amp-modeler-lv2",
       "notes": "OAS package mikeoliphant/neural-amp-modeler-lv2",
-      "latestVersion": "0.2.2",
+      "latestVersion": "0.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/mikeoliphant/neural-amp-modeler-lv2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-04T05:25:32Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry per-plugin index.json top-level version field"
       ]
     },
     {
@@ -132211,13 +132284,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "15.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/nuendo_15.html",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "latestVersion": "15.0.40",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/nuendo-15.html",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg Nuendo 15.0.30 public installer exact match KVR"
+        "vendor page"
       ]
     },
     {
@@ -161487,6 +161560,22 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "dystopian-waves--rheton",
+      "manufacturerId": "dystopian-waves",
+      "name": "Rheton",
+      "matchPatterns": [
+        "Rheton",
+        "RHETON",
+        "Dystopian Waves Rheton"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://dystopianwaves.gumroad.com/l/prheton",
+      "notes": "Generative MIDI effect from Dystopian Waves: turns chord progressions into performances, 70+ performance styles and 20+ generative engines. VST3 on Windows, VST3/AU on macOS 10.13 or later (Universal Binary). Intro offer advertised at time of seeding, ending Nov 30, 2026. No version number is printed on the vendor product page — seeded versionless; no version inferred from the launch."
     },
     {
       "id": "auroradsp--rhino",
@@ -201252,13 +201341,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "vendor page"
       ]
     },
     {
@@ -201287,13 +201376,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "vendor page"
       ]
     },
     {
@@ -222311,13 +222400,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:16Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-03T17:26:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "vendor page"
       ]
     },
     {
@@ -222346,13 +222435,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:16Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-03T17:26:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Train verdict applies to all ~100 softube rows at 2.6.41; 15 sampled per task. Newest RN 2.6.42 (Aug 21 2026) re-read first-hand: covers ONLY Monoment Bass/Para"
+        "vendor page"
       ]
     },
     {
@@ -222416,13 +222505,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-03T17:26:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "vendor page"
       ]
     },
     {
@@ -225255,6 +225344,36 @@
       "portalApp": "Mercurial Tones Hub",
       "notesForUser": "Updates only through the Mercurial Tones Hub, which doesn't publish individual version numbers.",
       "popularityTier": 3
+    },
+    {
+      "id": "vnl-works--yeetzclarity",
+      "manufacturerId": "vnl-works",
+      "name": "YeetzClarity",
+      "matchPatterns": [
+        "YeetzClarity",
+        "VNL YeetzClarity"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://vnlaccount.gumroad.com/l/yeetzclarity",
+      "notes": "Free resonance suppressor from VNL Works Inc.: one-knob control. VST3 and AU on Mac, VST3 on Windows. No version number is printed on the vendor product page — seeded versionless; sibling products' versions were not carried over."
+    },
+    {
+      "id": "vnl-works--yeetzsaturator",
+      "manufacturerId": "vnl-works",
+      "name": "YeetzSaturator",
+      "matchPatterns": [
+        "YeetzSaturator",
+        "VNL YeetzSaturator"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://vnlaccount.gumroad.com/l/yeetzsaturator",
+      "notes": "Free 4-in-1 saturator from VNL Works Inc.: tube, tape, desk and fold in one knob, with a Curve display and a Mix knob for parallel saturation. VST3 and AU on Mac, VST3 on Windows. No version number is printed on the vendor product page — seeded versionless; sibling products' versions were not carried over."
     },
     {
       "id": "acustica-audio--yellow",
