@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-04T14:07:51Z",
+  "updatedAt": "2026-11-05T14:02:22Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -924,6 +924,15 @@
       "websiteUrl": "https://www.boomlibrary.com/",
       "notes": "Added 2026-09-15 via research-engine-10x universe expansion (surge-1918). Boom Library 'Boom Interactive' sound-design plugin line (12 tools). Apple Silicon: yes (Thomann Enforcer specs list 'Apple Silicon, Intel Core'). Outside-pool replacement for exhausted pool candidates (verified zero collision).",
       "popularityTier": 3
+    },
+    {
+      "id": "borisfx",
+      "name": "Boris FX",
+      "updatePortalUrl": "https://www.izotope.com/products/photon",
+      "websiteUrl": "https://borisfx.com",
+      "aliases": [
+        "CrumplePop"
+      ]
     },
     {
       "id": "boz-digital",
@@ -3540,6 +3549,12 @@
       "websiteUrl": "https://noiseworksaudio.com"
     },
     {
+      "id": "nolvra",
+      "name": "Nolvra",
+      "updatePortalUrl": "https://nolvra.com",
+      "websiteUrl": "https://nolvra.com"
+    },
+    {
       "id": "nomad-factory",
       "name": "Nomad Factory",
       "updatePortalUrl": "https://download.plugivery.com",
@@ -3720,6 +3735,12 @@
       "updatePortalUrl": "https://github.com/Pachii/topaz-pan",
       "websiteUrl": "https://github.com/Pachii/topaz-pan",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "patrick-alavi",
+      "name": "Patrick Alavi",
+      "updatePortalUrl": "https://patrickalavi.com/",
+      "websiteUrl": "https://patrickalavi.com/"
     },
     {
       "id": "oas--patrizio-rullo",
@@ -4299,6 +4320,12 @@
       "updatePortalUrl": "https://github.com/samuelsantanaoficial/ModernKit",
       "websiteUrl": "https://github.com/samuelsantanaoficial/ModernKit",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "scramble",
+      "name": "Scramble",
+      "updatePortalUrl": "https://scrambleplugin.com/",
+      "websiteUrl": "https://scrambleplugin.com/"
     },
     {
       "id": "scuffham-amps",
@@ -78584,6 +78611,21 @@
       ]
     },
     {
+      "id": "nolvra--gloam",
+      "manufacturerId": "nolvra",
+      "name": "GLOAM",
+      "matchPatterns": [
+        "GLOAM",
+        "Nolvra GLOAM"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://nolvra.com",
+      "notes": "Free automatic resonance suppressor from Nolvra: it turns a ringing frequency down only while it rings, so the rest of the take keeps its level. VST3 on Windows, VST3 and AU on Mac. No version number is printed on the vendor page — seeded versionless."
+    },
+    {
       "id": "heavyocity--grid-ii",
       "manufacturerId": "heavyocity",
       "name": "GRID II",
@@ -106028,15 +106070,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.45",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T17:24:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party Softube RN page re-fetched 2026-10-11",
-        "'Release Notes for version 2.6.45 (Released on October 7th, 2026)'",
-        "'New product: Limit Go' listed in the 2.6.45 notes; 2.6.45 is the launch version"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -106065,15 +106105,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.45",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-11T19:54:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T17:24:36Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "first-party Softube RN page re-fetched 2026-10-11",
-        "'Release Notes for version 2.6.45 (Released on October 7th, 2026)'",
-        "'New product: Limit Pro' listed in the 2.6.45 notes; 2.6.45 is the launch version"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -126036,13 +126074,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T17:24:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -128139,7 +128177,15 @@
       "notesForUser": "Acustica's Nebula player; libraries are managed inside it.",
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "2.6.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/n4-player-by-acustica-audio",
+      "versionVerifiedAt": "2026-11-04T17:24:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "First KVR version for versionless row: verwin/verosx DOM ids both 2.6.0; 2026-09-15 surge skip was a text-fetch gap, now cured by DOM-id method"
+      ]
     },
     {
       "id": "acustica-audio--n4-5",
@@ -128160,7 +128206,15 @@
       "notesForUser": "Acustica's Nebula host line, not an effect plugin.",
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "2.5.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/n4-5-by-acustica-audio",
+      "versionVerifiedAt": "2026-11-04T17:24:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "First KVR version for versionless row: verwin/verosx DOM ids both 2.5.0; 2026-09-15 surge skip was a tool failure, not a deliberate hold"
+      ]
     },
     {
       "id": "analog-obsession--n492me",
@@ -138972,6 +139026,70 @@
       "popularityTier": 3
     },
     {
+      "id": "patrick-alavi--pa-1",
+      "manufacturerId": "patrick-alavi",
+      "name": "PA.1",
+      "matchPatterns": [
+        "PA.1",
+        "Patrick Alavi PA.1",
+        "PA PA.1"
+      ],
+      "updatePortalUrl": "https://patrickalavi.com/",
+      "notes": "Compressor you wire yourself from Patrick Alavi: five stages in any order, over 4 billion routings. Mac, Windows and Linux.",
+      "latestVersion": "1.1",
+      "versionSourceUrl": "https://patrickalavi.com/",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=90)"
+      ]
+    },
+    {
+      "id": "patrick-alavi--pa-678",
+      "manufacturerId": "patrick-alavi",
+      "name": "PA.678",
+      "matchPatterns": [
+        "PA.678",
+        "Patrick Alavi PA.678",
+        "PA PA.678"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://patrickalavi.com/",
+      "notes": "Three-sound instrument from Patrick Alavi: a warm synth, strings and an electric piano, playable alone or mixed, with 73 strings you can bend by hand. AU and VST3 on Mac, plus a standalone version.",
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://patrickalavi.com/",
+      "versionVerifiedAt": "2026-11-04T17:24:36Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor homepage shop listing: pa.678 1.0 in stock"
+      ]
+    },
+    {
+      "id": "patrick-alavi--pa-mastering",
+      "manufacturerId": "patrick-alavi",
+      "name": "PA.Mastering",
+      "matchPatterns": [
+        "PA.Mastering",
+        "Patrick Alavi PA.Mastering",
+        "PA PA.Mastering"
+      ],
+      "updatePortalUrl": "https://patrickalavi.com/",
+      "notes": "Mastering plugin from Patrick Alavi: listens to your whole song and lands it on your LUFS target, with auto and reference matching. Mac, Windows and Linux.",
+      "latestVersion": "1.1",
+      "versionSourceUrl": "https://patrickalavi.com/",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=90)"
+      ]
+    },
+    {
       "id": "map-audio--pam",
       "manufacturerId": "map-audio",
       "name": "PAM",
@@ -143578,13 +143696,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T17:24:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -145798,6 +145916,23 @@
         "matches KVR 1.2.0",
         "confidence raise 10"
       ]
+    },
+    {
+      "id": "borisfx--photon",
+      "manufacturerId": "borisfx",
+      "name": "Photon",
+      "matchPatterns": [
+        "Photon",
+        "Photon ARA2",
+        "iZotope Photon"
+      ],
+      "updatePortalUrl": "https://www.izotope.com/products/photon",
+      "notes": "Standalone app and ARA2 plugin from iZotope (Boris FX) for AI stem separation and audio cleanup; models run locally on your GPU. Formerly CrumplePop SoundApp; launched 3 November 2026. No version number is printed on the vendor product page — seeded versionless.",
+      "identityKeys": {
+        "bundleIds": [
+          "com.borisfx.crumplepop.soundapp-ara"
+        ]
+      }
     },
     {
       "id": "venomode--venomode-phrasebox-2",
@@ -158412,6 +158547,35 @@
       ]
     },
     {
+      "id": "wavemachine-labs--restem-2",
+      "manufacturerId": "wavemachine-labs",
+      "name": "ReStem 2",
+      "matchPatterns": [
+        "ReStem 2"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST",
+        "VST3"
+      ],
+      "updatePortalUrl": "https://restemapp.com/",
+      "notes": "Drum stem separator from WaveMachine Labs: splits a drum recording into seven stems (kick, snare, hi-hat, toms, ride, crash, other). AU, VST, VST3, AAX and ARA2, plus a standalone app. Seeded versionless from feedback #73 scan-miss; installed 2.0.18 not stamped (scan evidence only).",
+      "identityKeys": {
+        "bundleIds": [
+          "com.wavemachinelabs.restem2"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "WavM",
+            "subtype": "RSt2",
+            "type": "aufx"
+          }
+        ]
+      },
+      "popularityTier": 2
+    },
+    {
       "id": "headrush--revalver",
       "manufacturerId": "headrush",
       "name": "ReValver",
@@ -164344,7 +164508,18 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/drumxchanger",
       "identityKeys": {
         "bundleIds": [
-          "com.plugin-alliance.plugins.vst.SPLDrumXchanger"
+          "com.plugin-alliance.plugins.vst.SPLDrumXchanger",
+          "com.plugin-alliance.aax.spldrumxchanger",
+          "com.plugin-alliance.au.spldrumxchanger",
+          "com.plugin-alliance.vst2.spldrumxchanger",
+          "com.plugin-alliance.vst3.spldrumxchanger"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "SPL1",
+            "subtype": "SPDX",
+            "type": "aufx"
+          }
         ]
       },
       "portalApp": "PA Installation Manager",
@@ -164592,7 +164767,18 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/iron",
       "identityKeys": {
         "bundleIds": [
-          "com.plugin-alliance.plugins.vst.SPLIron"
+          "com.plugin-alliance.plugins.vst.SPLIron",
+          "com.plugin-alliance.aax.spliron",
+          "com.plugin-alliance.au.spliron",
+          "com.plugin-alliance.vst2.spliron",
+          "com.plugin-alliance.vst3.spliron"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "SPL1",
+            "subtype": "SPIR",
+            "type": "aufx"
+          }
         ]
       },
       "portalApp": "PA Installation Manager",
@@ -164752,7 +164938,18 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/passeq",
       "identityKeys": {
         "bundleIds": [
-          "com.plugin-alliance.plugins.vst.SPLPasseq"
+          "com.plugin-alliance.plugins.vst.SPLPasseq",
+          "com.plugin-alliance.aax.splpasseq",
+          "com.plugin-alliance.au.splpasseq",
+          "com.plugin-alliance.vst2.splpasseq",
+          "com.plugin-alliance.vst3.splpasseq"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "SPL1",
+            "subtype": "SPP2",
+            "type": "aufx"
+          }
         ]
       },
       "portalApp": "PA Installation Manager",
@@ -164923,7 +165120,18 @@
       "updatePortalUrl": "https://www.plugin-alliance.com/products/twintube",
       "identityKeys": {
         "bundleIds": [
-          "com.plugin-alliance.plugins.vst.SPLTwinTube"
+          "com.plugin-alliance.plugins.vst.SPLTwinTube",
+          "com.plugin-alliance.aax.spltwintube",
+          "com.plugin-alliance.au.spltwintube",
+          "com.plugin-alliance.vst2.spltwintube",
+          "com.plugin-alliance.vst3.spltwintube"
+        ],
+        "auComponents": [
+          {
+            "manufacturer": "SPL1",
+            "subtype": "SPTT",
+            "type": "aufx"
+          }
         ]
       },
       "portalApp": "PA Installation Manager",
@@ -169025,6 +169233,22 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "scramble--scramble",
+      "manufacturerId": "scramble",
+      "name": "Scramble",
+      "matchPatterns": [
+        "Scramble",
+        "SCRAMBLE.",
+        "Scramble Plugin"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://scrambleplugin.com/",
+      "notes": "Free multi-effect plugin you play like a Rubik's cube: every twist rewires tape, delay, reverb, pitch and slicing, and Solve returns the signal to dry. VST3 and AU on Mac, VST3 plus standalone on Windows. No version number is printed on the vendor page — seeded versionless."
     },
     {
       "id": "spitfire-audio--scraped-percussion",
@@ -179077,13 +179301,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.42",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-04T17:24:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes All-plug-ins train adoption"
       ]
     },
     {
@@ -192005,6 +192229,21 @@
       "versionConfidenceReasons": [
         "KVR product page Product Version (crowdsourced; yellow band)"
       ]
+    },
+    {
+      "id": "subverselab--torna",
+      "manufacturerId": "subverselab",
+      "name": "TORNA",
+      "matchPatterns": [
+        "TORNA",
+        "SubverseLab TORNA"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://subverselab.com/plugins/torna",
+      "notes": "Graphic equalizer from SubverseLab: twelve bands from 16 Hz to 32 kHz with separate left and right banks and a spectrum analyzer, modelled on a 1983 schematic. For the mix bus and the master. VST3 and AU plus standalone on Mac, VST3 plus standalone on Windows. No version number is printed on the vendor pages — seeded versionless."
     },
     {
       "id": "ignite-amps--tpa-1",
@@ -214683,13 +214922,13 @@
       "identityKind": "unknown_other",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "7",
-      "versionSourceUrl": "https://www.production-expert.com/production-expert-1/steven-slate-audio-vsx-7-new-binaural-room-modelling-engine-and-more",
-      "versionVerifiedAt": "2026-09-15T11:32:31Z",
+      "latestVersion": "8.0",
+      "versionSourceUrl": "https://stevenslateaudio.com/en/vsx",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 68,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "[\"Trade-press release announcement (production-expert.com, Jun 2026)\",\"Single source for VSX 7; exact build not publicly pinned\",\"IDENTITY: VSX is Steven Slate Audio product, not Slate Digital/inMusic — catalog mapping flagged\"]"
+        "manual accept via CLI (confidence=88)"
       ]
     },
     {
@@ -222470,13 +222709,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:16Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -222540,13 +222779,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -222575,13 +222814,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:16Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -222610,13 +222849,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -222674,13 +222913,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:17Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T05:26:14Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
