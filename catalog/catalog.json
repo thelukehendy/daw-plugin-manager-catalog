@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-05T14:02:22Z",
+  "updatedAt": "2026-11-05T17:11:44Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -150618,13 +150618,14 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "2026.4.1",
-      "versionSourceUrl": "https://www.production-expert.com/production-expert-1/avid-announces-pro-tools-202641-release-with-support-for-m5-mac-computers",
-      "versionVerifiedAt": "2026-10-02T16:10:00Z",
+      "latestVersion": "2026.11",
+      "versionSourceUrl": "https://www.avid.com/resource-center/whats-new-in-pro-tools-202611",
+      "versionVerifiedAt": "2026-11-05T17:10:12Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "multiple independent outlets quote Avid 2026.4.1 notes (M5 + PT- ticket numbers); user lab machine runs Avid build 26.4.1.179; no newer release in any source"
+        "Vendor's own release page states 2026.11 is now available; corroborated by Avid's What's New index listing 2026.11 (November 2026) above 2026.4.1",
+        "First-party availability statement, not a third-party report"
       ]
     },
     {
