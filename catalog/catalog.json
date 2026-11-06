@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-05T17:11:44Z",
+  "updatedAt": "2026-11-06T14:04:47Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -12755,13 +12755,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T05:24:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
+        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
       ]
     },
     {
@@ -12980,11 +12981,11 @@
       "popularityTier": 2,
       "latestVersion": "1.3.352",
       "versionSourceUrl": "https://www.kvraudio.com/product/acquavox-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -13116,13 +13117,14 @@
       "notesForUser": "Updates through Softube Central.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-19T05:25:14Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T05:24:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
+        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
       ]
     },
     {
@@ -14049,11 +14051,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/aero-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -16069,11 +16071,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-3-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -16100,11 +16102,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-4-by-acustica-audio/details",
-      "versionVerifiedAt": "2026-11-01T20:47:28Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -16428,11 +16430,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-4-by-acustica-audio/details",
-      "versionVerifiedAt": "2026-11-01T20:47:28Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -18097,11 +18099,11 @@
       "popularityTier": 1,
       "latestVersion": "4.10.0.b",
       "versionSourceUrl": "https://www.kvraudio.com/product/amplitube-4-max-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 4.10.0.b Win+Mac"
       ]
     },
     {
@@ -18196,11 +18198,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/amplitube-acoustic-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 1.0.3"
       ]
     },
     {
@@ -20939,11 +20941,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/aquamarine-5-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -20997,11 +20999,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/aquamarine4-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-05T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
       ]
     },
     {
@@ -21806,7 +21808,7 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/arctic-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -22354,7 +22356,7 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/ash-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -22383,7 +22385,7 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/ash-2-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -22954,7 +22956,7 @@
       "popularityTier": 2,
       "latestVersion": "3.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/aubergine-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -30752,7 +30754,7 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/big-ceil-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -36309,13 +36311,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T17:26:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
       ]
     },
     {
@@ -36836,13 +36838,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:18Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T05:24:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
+        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
       ]
     },
     {
@@ -40311,7 +40314,7 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/camel-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -40733,7 +40736,7 @@
       "popularityTier": 2,
       "latestVersion": "3.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/cardinal-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-06T05:25:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -41395,13 +41398,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T17:26:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
       ]
     },
     {
@@ -42295,13 +42298,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:02Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T17:26:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
       ]
     },
     {
@@ -46278,13 +46281,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T05:24:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
+        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
       ]
     },
     {
@@ -54892,13 +54896,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T05:24:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
+        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
       ]
     },
     {
@@ -59171,13 +59176,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:03Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T17:26:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
       ]
     },
     {
@@ -63849,13 +63854,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:03Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-05T17:26:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
       ]
     },
     {
@@ -70811,6 +70816,26 @@
         "Page label Version 1.1.3 matches accepted KVR 1.1.3",
         "Official audiomodern.com cloudfront zip filename"
       ]
+    },
+    {
+      "id": "acustica-audio--finn",
+      "manufacturerId": "acustica-audio",
+      "name": "FINN",
+      "matchPatterns": [
+        "FINN",
+        "Acustica FINN"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
+      "notes": "Vendor product page https://www.acustica-audio.com/shop/products/FINN — all-in-one analog processor (preamp/shape/EQ/dynamics, 9 dynamic behaviours), NOVA modeling. Released 2 Oct 2026, intro EUR 79 until 29 Oct 2026.",
+      "portalApp": "Aquarius",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "image-line--fl-studio-all-plugins-edition",
@@ -78626,6 +78651,28 @@
       "notes": "Free automatic resonance suppressor from Nolvra: it turns a ringing frequency down only while it rings, so the rest of the take keeps its level. VST3 on Windows, VST3 and AU on Mac. No version number is printed on the vendor page — seeded versionless."
     },
     {
+      "id": "acustica-audio--gold-6",
+      "manufacturerId": "acustica-audio",
+      "name": "GOLD 6",
+      "matchPatterns": [
+        "GOLD 6"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
+      "notes": "Vendor product page https://www.acustica-audio.com/shop/products/GOLD6 — four-plugin suite (PRE, EQ, COMP, Multi-View channel strip), NOVA processing, 52 preamp models, 9 British EQs, 2 compressors. Released Sep 2026, intro EUR 99 until 25 Sep 2026.",
+      "generation": "6",
+      "predecessorPluginId": "acustica-audio--gold-5",
+      "portalApp": "Aquarius",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "identityKind": "suite_component",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "heavyocity--grid-ii",
       "manufacturerId": "heavyocity",
       "name": "GRID II",
@@ -80332,6 +80379,7 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/gold-5-by-acustica-audio",
+      "successorPluginId": "acustica-audio--gold-6",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
@@ -114024,11 +114072,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/modo-bass-1-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 1.5.2 Win+Mac"
       ]
     },
     {
@@ -123553,12 +123601,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.1.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/miroslav-philharmonik-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "http://download.somanuals.com/pdf/view.php?id=5788660",
+      "versionVerifiedAt": "2026-11-06T05:25:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "Official-manual mirror states Philharmonik v1.1.2; no newer v1 signal"
       ]
     },
     {
@@ -133544,6 +133592,33 @@
       ]
     },
     {
+      "id": "gforce-software--oberheim-matrix-12",
+      "manufacturerId": "gforce-software",
+      "name": "Oberheim Matrix-12",
+      "matchPatterns": [
+        "Oberheim Matrix-12",
+        "GForce Oberheim Matrix-12"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.gforcesoftware.com/account/",
+      "notes": "Official software instrument of the Oberheim Matrix-12 and Xpander, released 5 November 2026. VST, VST3, AU and AAX on Mac and Windows.",
+      "appleSilicon": "mixed",
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/oberheim-matrix-12-by-gforce-software",
+      "versionVerifiedAt": "2026-11-05T17:27:50Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR-only version (verwin/verosx 1.0); launch corroborated by KVR news 5 Nov 2026 and the vendor product page, which prints no version."
+      ]
+    },
+    {
       "id": "gforce-software--oberheim-ob-x",
       "manufacturerId": "gforce-software",
       "name": "Oberheim OB-X",
@@ -139487,6 +139562,29 @@
       ]
     },
     {
+      "id": "nolvra--plume",
+      "manufacturerId": "nolvra",
+      "name": "PLUME",
+      "matchPatterns": [
+        "PLUME",
+        "Nolvra PLUME"
+      ],
+      "formats": [
+        "AU",
+        "VST3"
+      ],
+      "updatePortalUrl": "https://nolvra.com/products/plume",
+      "notes": "Plate, chamber and space reverb from Nolvra with six reverb modes and 211 presets. AU and VST3 on Mac, VST3 on Windows. Launch price until 14 November 2026.",
+      "latestVersion": "1.0.3",
+      "versionSourceUrl": "https://nolvra.com/products/plume",
+      "versionVerifiedAt": "2026-11-05T17:27:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor product page states Version 1.0.3 in its Technical specs."
+      ]
+    },
+    {
       "id": "puremagnetik--pm-grand-immaculate-ivory",
       "manufacturerId": "puremagnetik",
       "name": "PM Grand | Immaculate Ivory",
@@ -140385,6 +140483,34 @@
         "official PSP CDN installer filename matches KVR 1.8.0",
         "CDN URL https://download-eu2.pspaudioware.net/PSP_ClassicQ/OSX/PSP_ClassicQ_1.8.0.dmg",
         "Mac OSX .dmg HEAD 200"
+      ]
+    },
+    {
+      "id": "psp-audioware--psp-classicqlite",
+      "manufacturerId": "psp-audioware",
+      "name": "PSP ClassicQlite",
+      "matchPatterns": [
+        "PSP ClassicQlite",
+        "ClassicQlite",
+        "PSPClassicQlite"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.pspaudioware.net/UserArea/identify",
+      "notes": "Free British-style three-band EQ from PSP Audioware, released 2 November 2026. VST, VST3, AU and AAX; a free iLok account is needed to activate it.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1,
+      "latestVersion": "1.9.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/psp-classicqlite-by-pspaudioware",
+      "versionVerifiedAt": "2026-11-05T17:27:57Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR-only version (verwin/verosx 1.9.0); launch corroborated by vendor page + press; sibling-train context: PSP updated McQ/RetroQ to 1.9.0 on 7 Oct 2026, while paid ClassicQ is still 1.8.0 @88 — divergence noted, not resolved."
       ]
     },
     {
@@ -167476,12 +167602,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "3.7.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-3-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-custom-shop-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR sibling ST3-edition page 3.7.3; own-page block decayed, no newer ST3 signal"
       ]
     },
     {
@@ -167497,12 +167623,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "3.7.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-3-se-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-custom-shop-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR sibling ST3-edition page 3.7.3; own-page block decayed, no newer ST3 signal"
       ]
     },
     {
@@ -167617,11 +167743,11 @@
       "popularityTier": 1,
       "latestVersion": "3.7.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-custom-shop-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 3.7.3 Win+Mac"
       ]
     },
     {
@@ -167659,12 +167785,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.5.5.b",
-      "versionSourceUrl": "https://www.kvraudio.com/product/sampletank-free-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "http://www.kvraudio.com/forum/viewtopic.php?p=4290183",
+      "versionVerifiedAt": "2026-11-06T05:25:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "IK staff forum post states 2.5.5b; KVR product page 403 this chip"
       ]
     },
     {
@@ -187042,11 +187168,11 @@
       "popularityTier": 1,
       "latestVersion": "5.10.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-5-max-v2-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 5.10.4 Win+Mac"
       ]
     },
     {
@@ -187210,11 +187336,11 @@
       "popularityTier": 1,
       "latestVersion": "5.10.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-cs-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionVerifiedAt": "2026-11-06T05:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page 5.10.4 Win+Mac"
       ]
     },
     {
@@ -188364,12 +188490,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-the-farm-stone-room-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188385,12 +188511,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-triad-chorus-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188406,12 +188532,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-vintage-tube-compressor-limiter-model-670-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188427,12 +188553,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-vintage-tube-program-equalizer-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188448,12 +188574,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-white-2a-leveling-amplifier-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188469,12 +188595,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-white-channel-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-6-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR T-RackS 6 host page 6.3.2 Win+Mac; per-module KVR oracle demoted, host-anchor rule"
       ]
     },
     {
@@ -188490,12 +188616,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "5.10.4",
-      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-5-deluxe-by-ik-multimedia",
-      "versionVerifiedAt": "2026-09-10T05:45:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/t-racks-5-max-v2-by-ik-multimedia",
+      "versionVerifiedAt": "2026-11-06T05:24:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR sibling TR5 edition pages both 5.10.4; own-page block decayed, no newer TR5 signal"
       ]
     },
     {
@@ -190928,11 +191054,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-prism/",
-      "versionVerifiedAt": "2026-09-15T14:43:36Z",
+      "versionVerifiedAt": "2026-11-06T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Manufacturer product page states latest version 1.1.4"
       ]
     },
     {
@@ -191020,11 +191146,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1.2",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-slickeq-m/",
-      "versionVerifiedAt": "2026-09-15T14:43:36Z",
+      "versionVerifiedAt": "2026-11-06T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Manufacturer product page states latest version 2.1.2"
       ]
     },
     {
@@ -191079,11 +191205,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.9",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-vos-slickeq/",
-      "versionVerifiedAt": "2026-09-15T14:43:36Z",
+      "versionVerifiedAt": "2026-11-06T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Manufacturer product page states latest version 1.3.9"
       ]
     },
     {
@@ -207711,6 +207837,26 @@
       ]
     },
     {
+      "id": "universal-audio--uadx-capitol-studios",
+      "manufacturerId": "universal-audio",
+      "name": "UADx Capitol Studios",
+      "matchPatterns": [
+        "UADx Capitol Studios",
+        "UAD Capitol Studios",
+        "Capitol Studios"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
+      "notes": "Vendor product page https://www.uaudio.com/products/capitol-studios — native room-modeling/reverb plugin; Studios A and B, mic locker, consoles/outboard, echo chambers 1/3/5/8, Decca Tree. Released 4 Nov 2026, $249, incl. in UAD Spark Studio. Distinct from UAD Capitol Chambers (2019 DSP reverb).",
+      "portalApp": "UA Connect",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "universal-audio--uadx-century-tube-channel-strip",
       "manufacturerId": "universal-audio",
       "name": "UADx Century Tube Channel Strip",
@@ -222311,6 +222457,8 @@
         "transforms": [],
         "compareSegments": 3
       },
+      "latestVersionMac": "17.1.4",
+      "latestVersionWindows": "17.1.5",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
