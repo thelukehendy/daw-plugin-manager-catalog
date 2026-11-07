@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-06T14:04:47Z",
+  "updatedAt": "2026-11-07T14:02:11Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -588,6 +588,13 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "audio-studio-pro",
+      "name": "Audio Studio Pro",
+      "updatePortalUrl": "https://audiostudiopro.com",
+      "websiteUrl": "https://audiostudiopro.com",
+      "notes": "Added 2026-11-06 via research-engine-10x Lane D (chip-20261106-2118-D) KVR new-products sweep. New vendor; NoiseWave synth + Aurora analyzer, VST3/AU, macOS/Windows/Linux. KVR-only version evidence so far (NoiseWave 2.0.2 NOT vendor-confirmed)."
+    },
+    {
       "id": "audiobrain",
       "name": "AudioBrain",
       "updatePortalUrl": "https://audiobraintools.com",
@@ -660,6 +667,13 @@
       "versionExample": "1.3",
       "notes": "FX/amps/creative tools; identity from KVR; expand6.",
       "popularityTier": 2
+    },
+    {
+      "id": "aurally-sound",
+      "name": "Aurally Sound",
+      "updatePortalUrl": "https://aurallysound.com",
+      "websiteUrl": "https://aurallysound.com",
+      "notes": "Added 2026-11-06 via research-engine-10x Lane D (chip-20261106-2118-D) KVR new-products sweep. Audio-to-MIDI plugin vendor (Prism, Prism: Drums); VST3/AU/AAX, ARA support, local processing."
     },
     {
       "id": "oas--aurelien-leblond",
@@ -8069,6 +8083,33 @@
       ]
     },
     {
+      "id": "audio-damage--ad-202",
+      "manufacturerId": "audio-damage",
+      "name": "AD-202",
+      "matchPatterns": [
+        "AD-202",
+        "Audio Damage AD-202"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "notes": "Vendor product page https://www.audiodamage.com/products/ad066-ad202 — single-oscillator monosynth plugin inspired by early-1980s hardware; mono or eight-voice poly, bassline sequencer, MPE and microtuning. Released 17 August 2026, $39 intro ($49 regular). Mac, Windows, Linux and iOS.",
+      "appleSilicon": "universal",
+      "popularityTier": 2,
+      "latestVersion": "1.0.5",
+      "versionSourceUrl": "https://www.audiodamage.com/products/ad066-ad202",
+      "versionVerifiedAt": "2026-11-06T17:33:52Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "Vendor FAQ states sequencer present 'as of version 1.0.5'; 24 Sep 2026 press confirms 1.0.5 release; 29 Oct 2026 download listing still shows 1.0.5 installers; no newer version reported",
+        "Vendor product page does not print a current-version field, so 1.0.5 stays yellow-band until a vendor specs/changelog line confirms it"
+      ]
+    },
+    {
       "id": "plugin-alliance--ada-flanger",
       "manufacturerId": "plugin-alliance",
       "name": "ADA Flanger",
@@ -10561,14 +10602,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/abbey-road-80s-drummer-by-native-instruments",
-      "versionVerifiedAt": "2026-09-15T21:23:43Z",
+      "versionVerifiedAt": "2026-11-07T05:28:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "Exact-title KVR product page carries a product-specific verwin (1.3.1) for Abbey Road 80s Drummer.",
-        "NI official product page corroborates exact product identity (Kontakt Player instrument) but exposes no product version.",
-        "KVR-only unique semver is capped at 60 per engine rubric; never stamped Kontakt Player/Native Access version onto the product.",
-        "KVR product page verwin, exact title"
+        "KVR product page: Product, Version, 1.3.1 with 'version numbers are for Abbey Road 80s Drummer' disclaimer; fresh crawl 2026-11-07; installer-DB probe found no 80s Drummer entry"
       ]
     },
     {
@@ -10585,13 +10623,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:25Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "No new V17 plugin-build signal; V17 across-the-board update still June 23 2026; Central YAMLs still split Mac 17.1.4 / Win 17.1.5"
       ]
     },
     {
@@ -11949,13 +11986,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:26Z",
+      "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "No new V17 plugin-build signal; V17 across-the-board update still June 23 2026; Central YAMLs still split Mac 17.1.4 / Win 17.1.5"
       ]
     },
     {
@@ -28188,11 +28224,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/bazille-strobos-by-u-he",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page verwin 1.0 (cached copy crawled 2026-11-05 19:48 UTC); soundset, not a plugin build"
       ]
     },
     {
@@ -33769,11 +33805,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/blue-flamingo-by-u-he",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page verwin 1.0 (cached copy crawled 2026-11-05 22:53 UTC); soundset, not a plugin build"
       ]
     },
     {
@@ -54394,11 +54430,12 @@
       "popularityTier": 2,
       "latestVersion": "2.0.7",
       "versionSourceUrl": "https://www.kvraudio.com/product/deroom-pro-by-accentize",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "KVR-only source; vendor downloads login-gated, no public version text",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -56837,13 +56874,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T17:28:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -57007,13 +57044,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:18Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T17:28:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -58199,13 +58236,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T17:28:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -58940,12 +58977,12 @@
       "popularityTier": 3,
       "latestVersion": "3.2.10",
       "versionSourceUrl": "https://github.com/michaelwillis/dragonfly-reverb/releases/tag/3.2.10",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -58968,12 +59005,12 @@
       "popularityTier": 3,
       "latestVersion": "3.2.10",
       "versionSourceUrl": "https://github.com/michaelwillis/dragonfly-reverb/releases/tag/3.2.10",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -58996,12 +59033,12 @@
       "popularityTier": 3,
       "latestVersion": "3.2.10",
       "versionSourceUrl": "https://github.com/michaelwillis/dragonfly-reverb/releases/tag/3.2.10",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -59044,12 +59081,12 @@
       "popularityTier": 3,
       "latestVersion": "3.2.10",
       "versionSourceUrl": "https://github.com/michaelwillis/dragonfly-reverb/releases/tag/3.2.10",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -59072,12 +59109,12 @@
       "popularityTier": 3,
       "latestVersion": "3.2.10",
       "versionSourceUrl": "https://github.com/michaelwillis/dragonfly-reverb/releases/tag/3.2.10",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -59106,13 +59143,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T17:28:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -59141,13 +59178,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-06T17:28:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -64207,13 +64244,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:03Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
       ]
     },
     {
@@ -64242,13 +64279,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:03Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
       ]
     },
     {
@@ -66890,13 +66927,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
       ]
     },
     {
@@ -66925,13 +66962,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
       ]
     },
     {
@@ -66960,13 +66997,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
       ]
     },
     {
@@ -70653,12 +70690,11 @@
       "popularityTier": 1,
       "latestVersion": "2.5.2.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/fg-2a-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--fg-2a"
+        "KVR product page verwin 2.5.2.1 (cached copy crawled 2026-11-06 06:58 UTC); deployables API standalone train 1.0.6.0 is a parallel train, not a contradiction"
       ]
     },
     {
@@ -70679,13 +70715,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.6.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fg-a-vintage-eq-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--fg-a-vintage-eq"
+        "Slate public deployables API (vendor feed): fg-a-standalone Win==Mac 1.0.6.0-060e455b84"
       ]
     },
     {
@@ -70707,12 +70742,11 @@
       "popularityTier": 1,
       "latestVersion": "2.3.1.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/fg-stress-compressor-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--fg-stress-compressor"
+        "KVR product page verwin 2.3.1.2 (cached copy crawled 2026-11-06 17:25 UTC); deployables API standalone train 1.0.6.0 is a parallel train, not a contradiction"
       ]
     },
     {
@@ -70758,13 +70792,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.4.0.4",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fg-x-mastering-processor-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--fg-x-mastering-processor"
+        "Slate public deployables API (vendor feed): fg-x Win==Mac 1.4.0.4"
       ]
     },
     {
@@ -82721,12 +82754,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82747,12 +82779,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82773,12 +82804,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82799,12 +82829,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82825,12 +82854,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82851,12 +82879,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82877,12 +82904,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82903,12 +82929,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82929,12 +82954,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82955,12 +82979,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -82981,12 +83004,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -83007,12 +83029,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -83033,12 +83054,11 @@
       "popularityTier": 3,
       "latestVersion": "0.47.0",
       "versionSourceUrl": "https://github.com/brummer10/guitarix/releases/tag/V0.47.0",
-      "versionVerifiedAt": "2026-09-10T11:24:55Z",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "GitHub release tag V0.47.0 on brummer10/guitarix",
-        "Suite release covers hub + LV2 modules"
+        "github-releases re-verify: latest stable release V0.47.0 matches current"
       ]
     },
     {
@@ -83886,6 +83906,22 @@
         "Vendor Eventide downloads page Mac head",
         "Win-side 2.12.7 anomaly noted, not silently corrected"
       ]
+    },
+    {
+      "id": "slate-ash--halo",
+      "manufacturerId": "slate-ash",
+      "name": "HALO",
+      "matchPatterns": [
+        "HALO",
+        "Slate + Ash HALO"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Vendor product page https://slateandash.com/products/halo — spatial delay effect plugin that surrounds a sound with a field of echoes. Released 10 July 2026, £49. Mac and Windows.",
+      "popularityTier": 2
     },
     {
       "id": "steinberg--halion-7",
@@ -95138,13 +95174,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.1.2.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/infinity-bass-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--infinity-bass"
+        "Slate public deployables API (vendor feed): infinity-bass Win==Mac 1.1.2.0-060e455b84"
       ]
     },
     {
@@ -102738,14 +102773,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102769,14 +102804,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102800,14 +102835,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102831,14 +102866,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:10Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:58Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102862,14 +102897,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102893,14 +102928,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102924,14 +102959,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102955,14 +102990,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -102986,14 +103021,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103017,14 +103052,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103048,14 +103083,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103079,14 +103114,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103110,14 +103145,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103141,14 +103176,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103172,14 +103207,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103203,14 +103238,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:23:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103234,14 +103269,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103265,14 +103300,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103296,14 +103331,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103327,14 +103362,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103358,14 +103393,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103389,14 +103424,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103420,14 +103455,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103451,14 +103486,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103482,14 +103517,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103513,14 +103548,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:00Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103544,14 +103579,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103575,14 +103610,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103606,14 +103641,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103637,14 +103672,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103668,14 +103703,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103699,14 +103734,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -103730,14 +103765,14 @@
       "notesForUser": "Part of the LSP Plugins family.",
       "appleSilicon": "native",
       "popularityTier": 3,
-      "latestVersion": "1.2.35",
-      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.35",
-      "versionVerifiedAt": "2026-09-10T11:16:11Z",
+      "latestVersion": "1.2.37",
+      "versionSourceUrl": "https://github.com/lsp-plugins/lsp-plugins/releases/tag/1.2.37",
+      "versionVerifiedAt": "2026-11-06T17:24:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "github-release-tag",
-        "suite-monorepo"
+        "Vendor GitHub release feed (releases/latest) — official repo release tag",
+        "Stable release: not draft, not prerelease"
       ]
     },
     {
@@ -104835,11 +104870,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/silver-bullet-mk2",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Louder Than Liftoff SILVER BULLET mk2'; public Installer v1.1.0 (Mac) label; sha256=01545a0309c5ac59…"
+        "PA product page: changelog top + installer label agree on 1.1.0"
       ]
     },
     {
@@ -106621,11 +106656,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/354e",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio 354E'; public Installer v1.0.4 (Mac) label; sha256=4d55d923c96ae0e2…"
+        "PA product-page dated changelog top: Version 1.0.4 (Sep 27, 2023)"
       ]
     },
     {
@@ -106647,11 +106682,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/50-series",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio 50 Series'; public Installer v1.0.4 (Mac) label; sha256=2138fde86500138d…"
+        "PA product-page dated changelog top: Version 1.0.4 (Nov 11, 2024)"
       ]
     },
     {
@@ -106685,11 +106720,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/6x-500",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio 6X-500'; public Installer v1.2.2 (Mac) label; sha256=8b8394ac779dc672…"
+        "PA product-page dated changelog top: Version 1.2.2 (Mar 23, 2023)"
       ]
     },
     {
@@ -106723,11 +106758,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/7x-500",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio 7X-500'; public Installer v1.2.2 (Mac) label; sha256=61b70acd11a8a394…"
+        "PA product-page dated changelog top: Version 1.2.2 (Mar 23, 2023)"
       ]
     },
     {
@@ -106749,11 +106784,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/80-series",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio 80 Series - Plugin Alliance'; public Installer v1.0.6 (Mac) label; sha256=ca3c36d8be0498b9…"
+        "PA product-page dated changelog top: Version 1.0.6 (Sep 27, 2023)"
       ]
     },
     {
@@ -106787,11 +106822,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/channelx",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio ChannelX'; public Installer v1.2.2 (Mac) label; sha256=8ab00ac8ce68bc75…"
+        "PA product page: changelog top + installer label agree on 1.2.2"
       ]
     },
     {
@@ -106813,11 +106848,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/lindell-audio-eq825",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio Lindell Audio - EQ825'; public Installer v1.0.1 (Mac) label; sha256=d6a143784acbc9e7…"
+        "PA product page: changelog top + installer label agree on 1.0.1"
       ]
     },
     {
@@ -106839,11 +106874,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mbc",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio MBC'; public Installer v1.0.4 (Mac) label; sha256=28bc8c6168da907c…"
+        "PA product page: changelog top + installer label agree on 1.0.4"
       ]
     },
     {
@@ -106877,11 +106912,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/pex-500",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio PEX-500'; public Installer v1.2.2 (Mac) label; sha256=e887851809861e1e…"
+        "PA product page: changelog top + installer label agree on 1.2.2"
       ]
     },
     {
@@ -106903,11 +106938,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/sbc",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio SBC'; public Installer v1.0.4 (Mac) label; sha256=669975b940ad4b3e…"
+        "PA product page: changelog top + installer label agree on 1.0.4"
       ]
     },
     {
@@ -106941,11 +106976,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/te-100",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio TE-100'; public Installer v1.1.3 (Mac) label; sha256=c5f7a22cd431de6f…"
+        "PA product page: changelog top + installer label agree on 1.1.3"
       ]
     },
     {
@@ -107048,11 +107083,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/mu-66",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-07T05:25:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Lindell Audio MU-66'; public Installer v1.0.0 (Mac) label; sha256=0ca5dfc5c2e8dfb7…"
+        "PA product page: changelog top + installer label agree on 1.0.0"
       ]
     },
     {
@@ -120170,6 +120205,24 @@
       ]
     },
     {
+      "id": "getgood-drums--matt-garstka-signature-drums",
+      "manufacturerId": "getgood-drums",
+      "name": "Matt Garstka Signature Drums",
+      "matchPatterns": [
+        "Matt Garstka Signature Drums",
+        "MattGarstkaSignatureDrums"
+      ],
+      "formats": [
+        "AU",
+        "VST3",
+        "AAX"
+      ],
+      "minMacOS": "10.14",
+      "updatePortalUrl": "https://ggd.co/products/matt-garstka-signature-drums",
+      "appleSilicon": "mixed",
+      "popularityTier": 2
+    },
+    {
       "id": "getgood-drums--matt-halpern-signature-pack",
       "manufacturerId": "getgood-drums",
       "name": "Matt Halpern Signature Pack",
@@ -128105,11 +128158,11 @@
       "popularityTier": 1,
       "latestVersion": "1.12.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq2",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Mäag Audio EQ2'; public Installer v1.12.0 (Mac) label; sha256=608d12c1bff12d3b…"
+        "PA product page: changelog top + installer label agree on 1.12.0"
       ]
     },
     {
@@ -131604,6 +131657,20 @@
       "versionConfidenceReasons": [
         "Same vendor model: no per-Shaper version published; value holds per no-churn"
       ]
+    },
+    {
+      "id": "audio-studio-pro--noisewave",
+      "manufacturerId": "audio-studio-pro",
+      "name": "NoiseWave",
+      "matchPatterns": [
+        "NoiseWave",
+        "Audio Studio Pro NoiseWave"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://audiostudiopro.com"
     },
     {
       "id": "audiothing--noises",
@@ -149812,7 +149879,16 @@
       "notes": "KVR product https://www.kvraudio.com/product/prefet-by-accentize",
       "notesForUser": "The Mac and Windows versions don't match, so no single version is shown.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.0.1",
+      "versionSourceUrl": "https://www.kvraudio.com/product/prefet-by-accentize",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 40,
+      "versionConfidenceReasons": [
+        "KVR Mac/Win mismatch: macOS 1.0.1 vs Windows 1.0.0; capped per CONFIDENCE.md",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
+      ]
     },
     {
       "id": "accentize--pretube",
@@ -149833,11 +149909,12 @@
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/pretube-by-accentize",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "KVR-only source; vendor downloads login-gated, no public version text",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -150347,6 +150424,21 @@
       "notes": "Free. Product page: https://cymatics.fm/collections/plugins/products/prism",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 3
+    },
+    {
+      "id": "aurally-sound--prism-drums",
+      "manufacturerId": "aurally-sound",
+      "name": "Prism: Drums",
+      "matchPatterns": [
+        "Prism: Drums",
+        "Aurally Sound Prism: Drums"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://aurallysound.com"
     },
     {
       "id": "rob-papen--prisma",
@@ -154575,12 +154667,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/rc-tube-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--rc-tube"
+        "KVR product page verwin 2.0 (cached copy crawled 2026-11-05 20:45 UTC); no RC-Tube entry in Slate deployables API"
       ]
     },
     {
@@ -158576,11 +158667,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/repercussion-by-u-he",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page verwin 1.1.1 (cached copy crawled 2026-11-06 01:53 UTC); soundset, not a plugin build"
       ]
     },
     {
@@ -170680,11 +170771,11 @@
       "popularityTier": 1,
       "latestVersion": "3.6.3",
       "versionSourceUrl": "https://downloads.cableguys.com/Cableguys-ShaperBox-3-Manual.pdf",
-      "versionVerifiedAt": "2026-09-15T14:48:15Z",
+      "versionVerifiedAt": "2026-11-07T05:26:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Cableguys manual PDF cover stamps v3.6.3, matching stored version"
       ]
     },
     {
@@ -174977,11 +175068,11 @@
       "popularityTier": 1,
       "latestVersion": "2.01.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/sonnox-restore-by-sonnox",
-      "versionVerifiedAt": "2026-09-10T08:18:53Z",
+      "versionVerifiedAt": "2026-11-06T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR Audio product page crowdsourced version (yellow)"
+        "KVR product page verwin 2.01.1 (cached copy crawled 2026-10-26, 10 days old); vendor installer sheet re-fetched 2026-11-06 still has no Restore row, components DeBuzzer/DeClicker/DeNoiser unchanged 3.02.0 Mac / 3.01.0 Win"
       ]
     },
     {
@@ -182659,11 +182750,12 @@
       "popularityTier": 2,
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodeclicker-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Clean Pack, KVR marks replaced by Restoration Suite 3",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182679,11 +182771,12 @@
       "popularityTier": 2,
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodeclipper-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Clean Pack, KVR marks replaced by Restoration Suite 3",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182719,11 +182812,12 @@
       "popularityTier": 2,
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodenoiser-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Clean Pack, KVR marks replaced by Restoration Suite 3",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182739,11 +182833,12 @@
       "popularityTier": 2,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodynamics-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Necessities Pack DirectX-era plugin",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182759,11 +182854,12 @@
       "popularityTier": 2,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/studioeq-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Necessities Pack DirectX-era plugin",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182779,11 +182875,12 @@
       "popularityTier": 2,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiolimiter-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Necessities Pack DirectX-era plugin",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -182799,11 +182896,12 @@
       "popularityTier": 2,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiomodulator-by-acon-digital",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-07T05:25:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR-only source; legacy Studio Necessities Pack DirectX-era plugin",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -183746,13 +183844,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.1.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/super-8-by-native-instruments",
-      "versionVerifiedAt": "2026-09-10T08:49:14Z",
+      "versionSourceUrl": "https://www.advanceduninstaller.com/Super-8-R2-e0578f555a157a9c223f1588f2c5ef67-application.htm",
+      "versionVerifiedAt": "2026-11-06T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product-page Product Version (verwin) @60 crowdsourced",
-        "title matched store name; no Alliance Manager stamp"
+        "Advanced Uninstaller installer DB lists Super 8 R2 version 2.1.0.26, matching held 2.1.0; KVR cached copy (60 days old) showed no version row - render variance, no downgrade per Monark precedent"
       ]
     },
     {
@@ -184723,11 +184820,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/bde",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Swivel Audio BDE'; public Installer v1.2.1 (Mac) label; sha256=5445948370da1fb1…"
+        "PA product page: installer label v1.2.1 (Mac+Win) + versioned installer files confirm stored version; changelog top lags"
       ]
     },
     {
@@ -184749,11 +184846,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/click-boom",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:53Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Swivel Audio Click Boom'; public Installer v1.1.1 (Mac) label; sha256=05f129d993e9773d…"
+        "PA product page: installer label v1.1.1 (Mac+Win) + versioned installer files confirm stored version; changelog top lags"
       ]
     },
     {
@@ -184775,11 +184872,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/hitstrip",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Swivel Audio HitStrip'; public Installer v1.3.1 (Mac) label; sha256=cae86ac11aa961b7…"
+        "PA product page: installer label v1.3.1 (Mac+Win) + versioned installer files confirm stored version; changelog top lags"
       ]
     },
     {
@@ -184801,11 +184898,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/knocktonal",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Swivel Audio Knocktonal'; public Installer v1.2.1 (Mac) label; sha256=ebc4c281e2ad0024…"
+        "PA product page: installer label v1.2.1 (Mac+Win) + versioned installer files confirm stored version; changelog top lags"
       ]
     },
     {
@@ -196847,11 +196944,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/trinity-shaper",
-      "versionVerifiedAt": "2026-09-10T08:52:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='Three-Body Technology Trinity Shaper'; public Installer v1.1.2 (Mac) label; sha256=e8ff94e960b6cd78…"
+        "PA product page: installer label v1.1.2 (Mac+Win) + versioned installer files confirm stored version; changelog top lags"
       ]
     },
     {
@@ -200284,13 +200381,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.6.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/transient-shaper-by-slate-digital",
-      "versionVerifiedAt": "2026-09-10T08:48:49Z",
-      "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionSourceUrl": "https://app.completeaccess.audio/api/installers/deployables/public",
+      "versionVerifiedAt": "2026-11-06T17:28:25Z",
+      "versionEvidence": "manufacturer-feed",
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version only; Slate Activate/inMusic hub-walled for manufacturer corroboration",
-        "matches sibling naming where applicable but accepted onto exact store id slate-digital--transient-shaper"
+        "Slate public deployables API (vendor feed): transient-shaper-standalone Win==Mac 1.0.6.0-060e455b84"
       ]
     },
     {
@@ -203454,11 +203550,11 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Archives JSON unchanged since 2026-10-22; installer basename unchanged; component version from 12.0.0 installer bundle table"
       ]
     },
     {
@@ -203513,11 +203609,11 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Archives JSON unchanged since 2026-10-22; installer basename unchanged; component version from 12.0.0 installer bundle table"
       ]
     },
     {
@@ -203574,11 +203670,11 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-07T05:25:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Archives JSON unchanged since 2026-10-22; installer basename unchanged; component version from 12.0.0 installer bundle table"
       ]
     },
     {
@@ -220056,11 +220152,12 @@
       "popularityTier": 2,
       "latestVersion": "2.1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/voicegate-by-accentize",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "KVR-only source; vendor page lists no version, downloads login-gated",
+        "KVR product page re-fetched 2026-11-06, version unchanged"
       ]
     },
     {
@@ -220105,6 +220202,23 @@
       "notesForUser": "Free plugin from Airwindows. New builds are date-stamped rather than version-numbered, so there's no version number to check for updates.",
       "isFreeware": true,
       "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
+      "id": "karanyi--voicemax",
+      "manufacturerId": "karanyi",
+      "name": "Voicemax",
+      "matchPatterns": [
+        "Voicemax",
+        "Karanyi Voicemax"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "notes": "Vendor product page https://karanyisounds.com/products/voicemax — real-time vocal tuning plugin with smart harmonies and a full vocal editor. Released 14 September 2026, $59. Mac and Windows.",
+      "appleSilicon": "native",
       "popularityTier": 2
     },
     {
@@ -227326,11 +227440,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/zebratron-by-u-he",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-06T17:28:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page verwin 1.0 (cached copy crawled 2026-11-05 23:28 UTC); soundset, not a plugin build"
       ]
     },
     {
@@ -231570,11 +231684,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/splat",
-      "versionVerifiedAt": "2026-09-10T08:52:23Z",
+      "versionVerifiedAt": "2026-11-06T17:28:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Live PA product page title='fiedler audio splat'; public Installer v1.0.0 (Mac) label; sha256=b666a0fea37268db…"
+        "PA product-page dated changelog top: Version 1.0.0 (Sep 4, 2024)"
       ]
     },
     {
