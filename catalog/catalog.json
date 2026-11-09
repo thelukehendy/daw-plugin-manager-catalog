@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-08T14:04:07Z",
+  "updatedAt": "2026-11-09T14:03:24Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -1711,6 +1711,12 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "established-audio",
+      "name": "Established Audio",
+      "updatePortalUrl": "https://establishedaudio.bandcamp.com",
+      "websiteUrl": "https://establishedaudio.bandcamp.com"
+    },
+    {
       "id": "eventide",
       "name": "Eventide",
       "updatePortalUrl": "https://www.eventideaudio.com/downloads/",
@@ -2098,6 +2104,12 @@
       "updatePortalUrl": "https://github.com/gregrecco67/AudiblePlanets",
       "websiteUrl": "https://github.com/gregrecco67/AudiblePlanets",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "greybox-audio",
+      "name": "Greybox Audio",
+      "updatePortalUrl": "https://store.greyboxaudio.com/",
+      "websiteUrl": "https://greyboxaudio.com"
     },
     {
       "id": "oas--guillermo-monino-canovas",
@@ -7525,11 +7537,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://uvi.s3.amazonaws.com/SC90-8-Bit_Synth/8-bit-synth_manual.pdf",
-      "versionVerifiedAt": "2026-09-16T05:51:17Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 75,
       "versionConfidenceReasons": [
-        "[\"Official UVI soundbank manual stamps 'Software Version 1.0'; initial-release marker, no update evidence found\"]"
+        "Official UVI manual PDF re-fetched 2026-11-08 states Software Version 1.0"
       ]
     },
     {
@@ -9751,6 +9763,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/ar-1-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.1.1",
       "latestVersionWindows": "1.0.7",
+      "notesForUser": "Latest version is 1.1.1 on Mac and 1.0.7 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.1",
@@ -16162,7 +16175,7 @@
       "latestVersionMac": "3.0.1",
       "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.1 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -20470,13 +20483,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:26Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/aphex-vintage-aural-exciter-by-waves",
+      "versionVerifiedAt": "2026-11-08T17:25:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "KVR version table"
       ]
     },
     {
@@ -22125,12 +22137,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.3.6",
-      "versionSourceUrl": "https://www.kvraudio.com/product/artillery-by-sugar-bytes",
-      "versionVerifiedAt": "2026-09-10T09:50:22Z",
+      "versionSourceUrl": "https://sugar-bytes.de/artillery2",
+      "versionVerifiedAt": "2026-11-09T05:28:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\">2.3.6 (Win=Mac) (match score=1.00); manufacturer silent/portal"
+        "Official Sugar Bytes Artillery 2 product page: What's-new/changelog section tops at v2.3.6 (Native AAX Apple Silicon support), matching the KVR-only 2.3.6 — first-party corroboration raises confidence"
       ]
     },
     {
@@ -23295,13 +23307,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:27Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/audiotrack-by-waves",
+      "versionVerifiedAt": "2026-11-08T17:25:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "KVR version table"
       ]
     },
     {
@@ -23961,11 +23972,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://uvi.s3.amazonaws.com/SC71-Key_Suite/austrian-grand_manual.pdf",
-      "versionVerifiedAt": "2026-09-16T05:51:17Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 75,
       "versionConfidenceReasons": [
-        "[\"Official UVI soundbank manual stamps 'Software Version 1.0'; initial-release marker, no update evidence found\"]"
+        "Official UVI manual PDF re-fetched 2026-11-08 states Software Version 1.0"
       ]
     },
     {
@@ -25214,13 +25225,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:27Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/b360-by-waves",
+      "versionVerifiedAt": "2026-11-09T05:25:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "KVR verwin and verosx re-sighted first-hand this chip (raw HTML fetch): 17.1.42.50 on both macOS and Windows",
+        "Official Waves V17 membership (offline-installer V17 list) unchanged; uniform V17 build corroboration"
       ]
     },
     {
@@ -28516,11 +28527,12 @@
       "popularityTier": 1,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/forum/viewtopic.php?p=7695401",
-      "versionVerifiedAt": "2026-09-16T05:51:18Z",
+      "versionVerifiedAt": "2026-11-08T17:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "[\"KVR forum quotes the official UVI changelog listing 1.0.4 as latest; single third-party source at skeptical default 60\"]"
+        "KVR forum changelog re-fetched 2026-11-08 tops at 1.0.4",
+        "KVR product-page 1.0.0 is the stale launch value, not a regression; timeline silent"
       ]
     },
     {
@@ -28617,12 +28629,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.2.16",
-      "versionSourceUrl": "https://apps.apple.com/us/app/beathawk/id839563064?uo=4",
-      "versionVerifiedAt": "2026-09-16T08:44:30Z",
+      "versionSourceUrl": "https://apps.apple.com/us/app/beathawk/id839563064",
+      "versionVerifiedAt": "2026-11-08T17:24:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 75,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Boundary assault via public App Store listing (vendor-authored metadata, served by Apple's lookup API). BeatHawk is a discontinued/legacy iOS app, so 2.2.16 (2022-09-01) is plausibly final; version is"
+        "Apple App Store page re-fetched 2026-11-08 lists Version 2.2.16 (09/01/2022)"
       ]
     },
     {
@@ -29462,11 +29474,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T05:50:42Z",
+      "versionVerifiedAt": "2026-11-08T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official vendor Current Versions reference (orchestraltools.helpscoutdocs.com) names this product with the version, re-verified 2026-09-16\", \"Per-product rows for OT collections; not hub/studio-app versions\"]"
+        "Orchestral Tools Current Versions ledger, re-fetched 2026-11-08, lists Berlin Brass Additional Instruments 1.0"
       ]
     },
     {
@@ -29488,11 +29500,11 @@
       "popularityTier": 1,
       "latestVersion": "2.1",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T05:50:42Z",
+      "versionVerifiedAt": "2026-11-08T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official vendor Current Versions reference (orchestraltools.helpscoutdocs.com) names this product with the version, re-verified 2026-09-16\", \"Per-product rows for OT collections; not hub/studio-app versions\"]"
+        "Orchestral Tools Current Versions ledger, re-fetched 2026-11-08, lists Berlin Brass French Horn SFX 2.1"
       ]
     },
     {
@@ -29592,11 +29604,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T05:50:42Z",
+      "versionVerifiedAt": "2026-11-08T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official vendor Current Versions reference (orchestraltools.helpscoutdocs.com) names this product with the version, re-verified 2026-09-16\", \"Per-product rows for OT collections; not hub/studio-app versions\"]"
+        "Orchestral Tools Current Versions ledger, re-fetched 2026-11-08, lists Berlin Harpsichords 1.0"
       ]
     },
     {
@@ -34784,6 +34796,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/blyss-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.2.3",
       "latestVersionWindows": "1.1.0",
+      "notesForUser": "Latest version is 1.2.3 on Mac and 1.1.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.3",
@@ -44651,11 +44664,11 @@
       "popularityTier": 1,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:44Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\", \"Supersedes prior 1.7 observation from an older Cinesamples PDF\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists CineBrass CORE 1.8.0"
       ]
     },
     {
@@ -44794,11 +44807,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:44Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\", \"Supersedes prior 1.2 observation from an older Cinesamples PDF\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists CinePerc 1.3.0"
       ]
     },
     {
@@ -44924,11 +44937,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists CineWinds CORE 1.4.0"
       ]
     },
     {
@@ -44948,11 +44961,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists CineWinds Monster Low Winds 1.0.0"
       ]
     },
     {
@@ -44972,11 +44985,11 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists CineWinds PRO 1.4.0"
       ]
     },
     {
@@ -47065,11 +47078,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Collision Impact Designer 1.0.0"
       ]
     },
     {
@@ -54838,11 +54851,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Deep Percussion Beds 1 1.0.1"
       ]
     },
     {
@@ -54862,11 +54875,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Deep Percussion Beds 2 1.0.0"
       ]
     },
     {
@@ -58474,7 +58487,7 @@
       "predecessorPluginId": "steinberg--dorico-pro-5",
       "latestVersionMac": "6.2.31",
       "latestVersionWindows": "6.2.30",
-      "notesForUser": "Steinberg DAW/editor/hub (Dorico Pro).",
+      "notesForUser": "Steinberg DAW/editor/hub (Dorico Pro). Latest version is 6.2.31 on Mac and 6.2.30 on Windows.",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -59870,6 +59883,29 @@
       "popularityTier": 1
     },
     {
+      "id": "established-audio--drum-culture",
+      "manufacturerId": "established-audio",
+      "name": "Drum Culture",
+      "matchPatterns": [
+        "Drum Culture",
+        "Established Audio Drum Culture"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://establishedaudio.bandcamp.com/album/drum-culture-drum-buss-processor",
+      "notes": "All-in-one drum buss processing plugin from Established Audio, built to make drums feel bigger, sound fuller and hit harder - aimed at house, UK garage, speed garage, tech house and other electronic styles. VST3 and AU on 64-bit macOS (Intel or Apple Silicon), VST3 on Windows 10 or 11 64-bit. Sold through the vendor's Bandcamp page for 5 GBP; purchase includes a PDF with a secure download link and licence key.",
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://establishedaudio.bandcamp.com/album/drum-culture-drum-buss-processor",
+      "versionVerifiedAt": "2026-11-09T05:28:41Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor Bandcamp page about text states DRUM CULTURE v1.0; KVR product page agrees 1.0"
+      ]
+    },
+    {
       "id": "uvi--drum-designer",
       "manufacturerId": "uvi",
       "name": "Drum Designer",
@@ -60577,11 +60613,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Drums of War 1 1.0.0"
       ]
     },
     {
@@ -60601,11 +60637,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:43Z",
+      "versionVerifiedAt": "2026-11-08T17:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Drums of War 2 1.0.0"
       ]
     },
     {
@@ -60625,11 +60661,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:44Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Drums of War 3 1.0.0"
       ]
     },
     {
@@ -61285,11 +61321,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T05:50:44Z",
+      "versionVerifiedAt": "2026-11-08T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "[\"Official Cinesamples Product Compatibility & Version Chart names the product with the version, re-verified 2026-09-16\"]"
+        "Cinesamples Product Compatibility & Version Chart, re-fetched 2026-11-08, lists Dulcimer and Zither 1.0.0"
       ]
     },
     {
@@ -80477,11 +80513,13 @@
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
       "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-15T11:34:40Z",
+      "versionVerifiedAt": "2026-11-08T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "[\"Manufacturer official: waves.com release notes 'All Waves Plugins: Across-the-board software update to V17' (June 23, 2026)\", \"Manufacturer official: waves.com/v17 'The V17 update includes plugins and bundles only'\", \"KVR per-product current-version readings: 17.1.42.50 (multiple products)\", \"No newer build anywhere; hub-app version (Waves Central v17.0.4) explicitly excluded per zero-trust\", \"Unified-build model: bundle ships inside the single V17 installer; KVR bundle table cells stale (14.x) and ignored\"]"
+        "Official Waves release notes re-fetched 2026-11-08: V17 still current, no V18 line, no new per-plugin build",
+        "Uniform build 17.1.42.50 from KVR per-product pages; official pages prove V17 membership only",
+        "KVR bundle page stale train stamps 14.0.83/16.7.33 are older generations, not a regression signal"
       ]
     },
     {
@@ -85466,13 +85504,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.7.1",
+      "latestVersion": "4.8.0",
       "versionSourceUrl": "https://plugins.bbesound.com/products/b1757-Sonic-Sweet/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-08T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Lane C tail bulk re-verification: same oracle (BBE Sonic Sweet downloads page) shows 4.8.0 vs stored 4.7.1"
       ]
     },
     {
@@ -98665,6 +98703,25 @@
       ]
     },
     {
+      "id": "kiive-audio--kstrip",
+      "manufacturerId": "kiive-audio",
+      "name": "KStrip",
+      "matchPatterns": [
+        "KStrip",
+        "Kiive KStrip",
+        "Kiive Audio KStrip"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://kiiveaudio.com/products/kstrip",
+      "notes": "Channel strip plugin from Kiive Audio blending three classic console designs (A, N and S) into one strip: choose each design independently for the preamp, four-band EQ and compressor (27 combinations), rearrange PRE/EQ/COMP order, with saturation (independent odd/even harmonics, preamp Mix, Auto Gain), transient shaping, stereo width and mid/side processing, Global Link auditioning, presets and A/B. VST3, AU and AAX on macOS and Windows; native Apple Silicon. Listed on the Kiive Shopify storefront (published 2025-03-26), $69 Black Friday pricing at time of check (regular $99), 14-day free trial, free updates for life. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "tracktion--kult",
       "manufacturerId": "tracktion",
       "name": "KULT",
@@ -99165,13 +99222,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:05Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-08T17:25:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes"
       ]
     },
     {
@@ -100996,13 +101053,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:05Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-08T17:25:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes"
       ]
     },
     {
@@ -105415,13 +105472,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:05Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-08T17:25:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes"
       ]
     },
     {
@@ -107332,13 +107389,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:05Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-08T17:25:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes"
       ]
     },
     {
@@ -108883,13 +108940,13 @@
       "minMacOS": "12.0",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.7.1",
+      "latestVersion": "4.8.0",
       "versionSourceUrl": "https://plugins.bbesound.com/products/b1757-Sonic-Sweet/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-08T17:25:56Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Lane C tail bulk re-verification: same oracle (BBE Sonic Sweet downloads page) shows 4.8.0 vs stored 4.7.1"
       ]
     },
     {
@@ -113538,6 +113595,26 @@
       ]
     },
     {
+      "id": "kiive-audio--mk-609",
+      "manufacturerId": "kiive-audio",
+      "name": "MK-609",
+      "matchPatterns": [
+        "MK-609",
+        "Kiive MK-609",
+        "AudioScape MK-609",
+        "Kiive Audio MK-609"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://kiiveaudio.com/products/mk-609",
+      "notes": "Diode-bridge compressor and limiter plugin from Kiive Audio developed with AudioScape Engineering (AudioScape Collection). Compressor with five ratios, Stock/Fast/Slow attack, 50/100 Hz sidechain filters; separate limiter stage (Fast/Slow/Super Fast attack, fixed or automatic recovery) usable alone or after the compressor. Mix, THD, Width, stereo/mid-side and Mono/Stereo/Quad detector linking, oversampling, A/B, undo/redo, presets. VST3, AU and AAX on macOS and Windows; native Apple Silicon. Listed on the Kiive Shopify storefront (published 2024-10-25), $59 at time of check, 14-day free trial, free updates for life. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "ml-sound-lab--ml-drums",
       "manufacturerId": "ml-sound-lab",
       "name": "ML Drums",
@@ -117415,13 +117492,13 @@
       "minMacOS": "12.0",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.7.1",
+      "latestVersion": "4.8.0",
       "versionSourceUrl": "https://plugins.bbesound.com/products/b1757-Sonic-Sweet/",
-      "versionVerifiedAt": "2026-09-10T04:02:36Z",
+      "versionVerifiedAt": "2026-11-08T17:25:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Lane C tail bulk re-verification: same oracle (BBE Sonic Sweet downloads page) shows 4.8.0 vs stored 4.7.1"
       ]
     },
     {
@@ -118967,13 +119044,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:05Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-08T17:25:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes"
       ]
     },
     {
@@ -118996,13 +119073,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes 2.6.47 (released Nov 3, 2026) carry an 'All plug-ins:' section covering the whole 2.6.x installer train",
+        "Prior accepted anchor 2.6.41 @90 (2026-10-18), clean history, no 2.6.46 observation — not a held anchor"
       ]
     },
     {
@@ -119025,13 +119103,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes 2.6.47 (released Nov 3, 2026) carry an 'All plug-ins:' section covering the whole 2.6.x installer train",
+        "Prior accepted anchor 2.6.41 @90 (2026-10-18), clean history, no 2.6.46 observation — not a held anchor"
       ]
     },
     {
@@ -119054,13 +119133,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T05:24:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes 2.6.47 (released Nov 3, 2026) carry an 'All plug-ins:' section covering the whole 2.6.x installer train",
+        "Prior accepted anchor 2.6.41 @90 (2026-10-18), clean history, no 2.6.46 observation — not a held anchor"
       ]
     },
     {
@@ -119083,13 +119163,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes 2.6.47 (released Nov 3, 2026) carry an 'All plug-ins:' section covering the whole 2.6.x installer train",
+        "Prior accepted anchor 2.6.41 @90 (2026-10-18), clean history, no 2.6.46 observation — not a held anchor"
       ]
     },
     {
@@ -121524,13 +121605,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T05:24:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes 2.6.47 (released Nov 3, 2026) carry an 'All plug-ins:' section covering the whole 2.6.x installer train",
+        "Prior accepted anchor 2.6.41 @90 (2026-10-18), clean history, no 2.6.46 observation — not a held anchor"
       ]
     },
     {
@@ -162035,18 +162117,20 @@
       "matchPatterns": [
         "Rhino"
       ],
-      "notes": "Universe expansion: identity verified against official vendor pages 2026-09-16; no public version yet. | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
+      "notes": "Rhino guitar processor; Mac build 1.7.5, Windows build 1.7.7, Linux build 1.7.6 (vendor product page, 2026-11-08).",
       "latestVersionMac": "1.7.5",
       "latestVersionWindows": "1.7.7",
+      "notesForUser": "Rhino is at version 1.7.7 on Windows and 1.7.5 on Mac — the latest build differs by system.",
       "appleSilicon": "native",
       "popularityTier": 3,
       "latestVersion": "1.7.5",
       "versionSourceUrl": "https://auroradsp.com/plugins/rhino-guitar-plugin",
-      "versionVerifiedAt": "2026-11-01T20:47:31Z",
+      "versionVerifiedAt": "2026-11-09T05:23:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "operator verdict 2026-11-01 (Grok Bot pass kvr-bundle-divergence, first-hand re-verified)"
+        "Official Aurora DSP Rhino product page, System requirements & downloads section: macOS Version 1.7.5, Windows Version 1.7.7, Linux Version 1.7.6 — first-hand vendor-page re-check 2026-11-08 confirms the Windows 1.7.7 build that previously had no observation backing it",
+        "Tip is the newest build across OSes (1.7.7 Windows); per-OS columns mac 1.7.5 / win 1.7.7 already correct"
       ]
     },
     {
@@ -164083,6 +164167,24 @@
       ]
     },
     {
+      "id": "greybox-audio--sg-323",
+      "manufacturerId": "greybox-audio",
+      "name": "SG-323",
+      "matchPatterns": [
+        "SG-323",
+        "Greybox SG-323",
+        "Greybox Audio SG-323"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://store.greyboxaudio.com/",
+      "notes": "Reverb plugin from Greybox Audio emulating the Ursa Major Stargate 323 and Stargate 626, with 16 reverb and delay programs, input gain and filters, mix, pre-delay, decay time, 16-bit mode, artificial noise and a clear function. VST3, AU, AAX and CLAP on macOS and Windows; VST3 and CLAP on Linux. DRM-free and open source (GPL 3), 34 EUR with a 30-day money-back guarantee. No version number is printed on the vendor store page - seeded versionless; no version was inferred."
+    },
+    {
       "id": "korg--sgx-2",
       "manufacturerId": "korg",
       "name": "SGX-2",
@@ -165910,6 +166012,7 @@
       "latestVersionMac": "1.0.18",
       "latestVersionWindows": "1.0.19",
       "portalApp": "SSL Download Manager",
+      "notesForUser": "Latest version is 1.0.18 on Mac and 1.0.19 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.0.18",
@@ -168139,18 +168242,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/sand-fab4-by-acustica-audio",
+      "latestVersionMac": "1.4.122",
+      "latestVersionWindows": "1.4.118",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 1.4.122 on Mac and 1.4.118 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.4.118",
+      "latestVersion": "1.4.122",
       "versionSourceUrl": "https://www.kvraudio.com/product/sand-fab4-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:01Z",
+      "versionVerifiedAt": "2026-11-08T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page re-fetch 2026-11-08: verwin 1.4.118, verosx 1.4.122 — genuine Mac/Win split, pointer is the max (Mac build)",
+        "KVR-only source, skeptical default 60; Acustica versions are Aquarius-hub-walled, no public vendor version page"
       ]
     },
     {
@@ -168914,18 +169020,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/scarlet-5-by-acustica-audio",
+      "latestVersionMac": "3.0.1",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
+      "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/scarlet-5-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:01Z",
+      "versionVerifiedAt": "2026-11-08T17:24:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page re-fetch 2026-11-08: verwin 3.0.0, verosx 3.0.1 — genuine Mac/Win split, pointer is the max (Mac build)",
+        "KVR-only source, skeptical default 60; Acustica versions are Aquarius-hub-walled, no public vendor version page"
       ]
     },
     {
@@ -174805,13 +174914,13 @@
       "minMacOS": "12.0",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.7.1",
+      "latestVersion": "4.8.0",
       "versionSourceUrl": "https://plugins.bbesound.com/products/b1757-Sonic-Sweet/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-08T17:25:57Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Lane C tail bulk re-verification: same oracle (BBE Sonic Sweet downloads page) shows 4.8.0 vs stored 4.7.1"
       ]
     },
     {
@@ -189270,13 +189379,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/tal-j-8-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.0.6",
+      "latestVersion": "2.0.7",
       "versionSourceUrl": "https://tal-software.com/products/tal-j-8",
-      "versionVerifiedAt": "2026-09-10T09:20:53Z",
+      "versionVerifiedAt": "2026-11-09T05:25:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "TAL Software product page Downloads v2.0.6"
+        "Official TAL product page: Downloads header v2.0.7 and newest-first changelog top entry Version 2.0.7 / 25.10.2026 (prior entry 2.0.6 / 26.05.2026)"
       ]
     },
     {
@@ -189732,6 +189841,29 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "KVR product page Product Version (crowdsourced)"
+      ]
+    },
+    {
+      "id": "nolvra--tandem",
+      "manufacturerId": "nolvra",
+      "name": "TANDEM",
+      "matchPatterns": [
+        "TANDEM",
+        "Nolvra TANDEM"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://nolvra.com/products/tandem",
+      "notes": "Two-stage FET and optical compressor from Nolvra, with both stages in series on one insert: run the FET stage alone for fast peak control, the opto stage alone for smooth levelling, or both together, with one VU meter showing the combined gain reduction. FET stage with Input, Output, Attack, Release and Ratio; opto stage with Peak Reduction, Gain and Compress/Limit mode. 19 presets. VST3 and AU on macOS 11 or later (Apple Silicon), VST3 on Windows 10 or 11 64-bit. $179, installed and kept up to date through the Nolvra Hub; also included in Nolvra All-Access.",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://nolvra.com/products/tandem",
+      "versionVerifiedAt": "2026-11-09T05:28:41Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor product page technical specs print Version 1.0.0; KVR product page agrees 1.0.0"
       ]
     },
     {
@@ -204073,12 +204205,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "11.8.0",
-      "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
-      "versionEvidence": "page-confirmed",
+      "versionSourceUrl": "https://help.uaudio.com/api/v2/help_center/en-us/articles/215267203.json",
+      "versionVerifiedAt": "2026-11-08T17:25:33Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD archives JSON unchanged"
       ]
     },
     {
@@ -204103,11 +204235,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T05:25:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD software-archives article still lists UAD 12.0.0 (Current), updated Oct 22, 2026; installer pkg HEAD 200, Last-Modified Sep 8, 2026, unchanged — no re-extraction trigger",
+        "Component version 11.8.0 from the current installer's pkg bundle table (CFBundleShortVersionString per component); installer version is never stamped onto components"
       ]
     },
     {
@@ -204130,11 +204263,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T05:25:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD software-archives article still lists UAD 12.0.0 (Current), updated Oct 22, 2026; installer pkg HEAD 200, Last-Modified Sep 8, 2026, unchanged — no re-extraction trigger",
+        "Component version 11.8.0 from the current installer's pkg bundle table (CFBundleShortVersionString per component); installer version is never stamped onto components"
       ]
     },
     {
@@ -204160,11 +204294,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T05:25:26Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD software-archives article still lists UAD 12.0.0 (Current), updated Oct 22, 2026; installer pkg HEAD 200, Last-Modified Sep 8, 2026, unchanged — no re-extraction trigger",
+        "Component version 11.8.0 from the current installer's pkg bundle table (CFBundleShortVersionString per component); installer version is never stamped onto components"
       ]
     },
     {
@@ -204329,12 +204464,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "11.8.0",
-      "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
-      "versionEvidence": "page-confirmed",
+      "versionSourceUrl": "https://help.uaudio.com/api/v2/help_center/en-us/articles/215267203.json",
+      "versionVerifiedAt": "2026-11-08T17:25:33Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD archives JSON unchanged"
       ]
     },
     {
@@ -207731,12 +207866,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "11.8.0",
-      "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
-      "versionEvidence": "page-confirmed",
+      "versionSourceUrl": "https://help.uaudio.com/api/v2/help_center/en-us/articles/215267203.json",
+      "versionVerifiedAt": "2026-11-08T17:25:33Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "UAD archives JSON unchanged"
       ]
     },
     {
@@ -215341,6 +215476,25 @@
       "versionConfidenceReasons": [
         "Black Rooster Audio news 2025-04-11: official release of v3.0.0 across its entire plugin catalog (framework + VST3); product pages serve /download/current/ without per-file semver"
       ]
+    },
+    {
+      "id": "kiive-audio--vx-q",
+      "manufacturerId": "kiive-audio",
+      "name": "VX-Q",
+      "matchPatterns": [
+        "VX-Q",
+        "Kiive VX-Q",
+        "Kiive Audio VX-Q"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://kiiveaudio.com/products/vxq",
+      "notes": "British-style EQ and tone-shaping plugin from Kiive Audio. Four musical bands (low/high shelves or bells, two proportional-Q mids with Hi Q), adjustable high-pass and low-pass filters with per-filter bypass, Auto Gain, and five transformer saturation models with independent Odd/Even harmonic controls and PRE/POS placement before or after the EQ. Stereo, mid/side and Variance channel-difference controls, oversampling, A/B, undo/redo, resizable interface. VST3, AU and AAX on macOS and Windows; 14-day free trial, free updates for life. Listed on the Kiive Shopify storefront (published 2025-12-10), $35 Black Friday pricing at time of check (regular $49). No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "kazrog--vac-rac-tsl",
