@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-09T14:03:24Z",
+  "updatedAt": "2026-11-10T14:03:45Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -7504,6 +7504,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/8-bit-shaper-by-xfer-records",
       "latestVersionMac": "1.106",
       "latestVersionWindows": "1.05",
+      "notesForUser": "Latest version is 1.106 on Mac and 1.05 on Windows.",
       "isFreeware": true,
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -12684,9 +12685,14 @@
         "VST",
         "VST3"
       ],
+      "discontinued": true,
+      "updateClass": "discontinued",
+      "successorPluginId": "acon-digital--restoration-suite-3",
+      "supersededByPluginId": "acon-digital--restoration-suite-3",
+      "notesForUser": "Superseded by Restoration Suite 3 — Acon Digital no longer lists Restoration Suite 2.x; the vendor states an upgrade path from 2.x to 3.x.",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "2.1.27",
+      "finalVersion": "2.1.27",
       "versionSourceUrl": "https://acondigital.com/software/RestorationSuite_macOS_2_1_27.pkg.zip",
       "versionVerifiedAt": "2026-09-14T17:41:11Z",
       "versionEvidence": "page-confirmed",
@@ -14550,14 +14556,13 @@
       "isFreeware": true,
       "appleSilicon": "universal",
       "popularityTier": 2,
-      "latestVersion": "2026-09-05-2a6d1c0",
+      "latestVersion": "2026-11-08-316a048",
       "versionSourceUrl": "https://github.com/baconpaul/airwin2rack/releases/tag/DAWPlugin",
-      "versionVerifiedAt": "2026-09-10T09:55:28Z",
-      "versionEvidence": "page-confirmed",
+      "versionVerifiedAt": "2026-11-09T20:05:40Z",
+      "versionEvidence": "manufacturer-feed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer-linked GitHub DAWPlugin rolling release; version = date+shortsha from release body+asset naming",
-        "airwindows.com Consolidated page points to this GitHub release; no Homebrew cask"
+        "Rolling DAWPlugin channel assets carry date-hash; VCV 2.12.0 is a different product shape"
       ]
     },
     {
@@ -16503,7 +16508,7 @@
       "latestVersionMac": "3.0.2",
       "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.2 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -26470,13 +26475,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:28Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/bss-dpr-402-by-waves",
+      "versionVerifiedAt": "2026-11-09T17:24:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "KVR Product Version verwin/verosx agree at 17.1.42.50",
+        "Prior 17.1.42.50 @82 accepted 2026-09-17, no rejections"
       ]
     },
     {
@@ -27393,13 +27398,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.waves.com/downloads/latest-offline-installer",
-      "versionVerifiedAt": "2026-09-17T15:37:27Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/bass-fingers-by-waves",
+      "versionVerifiedAt": "2026-11-09T17:24:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
-        "waves.com latest offline installer page (fetched 2026-09-17): product listed under 'All Waves plugins V17' (page last updated 2026-06-23) - manufacturer-published V17 membership",
-        "exact build corroborated via KVR uniform V17 build (re-verified 2026-09-17: CLA-76 product page shows 17.1.42.50; 39-product uniform-build verification 2026-09-16)"
+        "KVR Product Version verwin/verosx agree at 17.1.42.50",
+        "Prior 17.1.42.50 @82 accepted 2026-09-17, no rejections"
       ]
     },
     {
@@ -40696,6 +40701,21 @@
       ]
     },
     {
+      "id": "mixed-in-key--captain-plugins-8",
+      "manufacturerId": "mixed-in-key",
+      "name": "Captain Plugins 8",
+      "matchPatterns": [
+        "Captain Plugins 8",
+        "Mixed In Key Captain Plugins 8"
+      ],
+      "updatePortalUrl": "https://mixedinkey.com/captain-plugins/",
+      "notes": "Captain Plugins 8 from Mixed In Key — write chord progressions, melodies and bass in your DAW. No version number is printed on the vendor page — seeded versionless; no version was inferred.",
+      "generation": "8",
+      "predecessorPluginId": "mixed-in-key--captain-plugins",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "sknote--carbon",
       "manufacturerId": "sknote",
       "name": "Carbon",
@@ -49959,6 +49979,25 @@
       "popularityTier": 2
     },
     {
+      "id": "safari-pedals--cosmic-parrot-echo",
+      "manufacturerId": "safari-pedals",
+      "name": "Cosmic Parrot Echo",
+      "matchPatterns": [
+        "Cosmic Parrot Echo",
+        "Safari Cosmic Parrot Echo",
+        "Safari Pedals Cosmic Parrot Echo"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.safaripedals.com/products/cosmic-parrot-echo-vintage-echo-tape-wobble-spring",
+      "notes": "Vintage echo plugin from Safari Pedals, released 2026-10-12 ($49): warm vintage repeats with worn-tape movement and spring ambience in one creative delay. Feedback, Wobble (tape pitch movement), Spring reverb in the delay signal, Width, Low/High Cut, free or tempo-synced Time, and two echo characters (America/Japan). First Safari plugin with the new preset system (folders, tags, favorites, search), plus A/B comparison, Auto Gain, oversampling and a LUFS short-term meter. VST3, AU and AAX on macOS 10.13 or later; VST3 and AAX on Windows 8 or later. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
       "id": "nomad-factory--cosmos",
       "manufacturerId": "nomad-factory",
       "name": "Cosmos",
@@ -55711,6 +55750,23 @@
       ]
     },
     {
+      "id": "morpheral-machines--desense",
+      "manufacturerId": "morpheral-machines",
+      "name": "Desense",
+      "matchPatterns": [
+        "Desense",
+        "Morpheral Desense",
+        "Morpheral Machines Desense"
+      ],
+      "formats": [
+        "VST3",
+        "CLAP",
+        "AU"
+      ],
+      "updatePortalUrl": "https://morpheral-machines.com/plugins/desense/",
+      "notes": "Free interference instrument from Morpheral Machines, released 2026-11-05: the buzz, stutter and whine a phone puts into a nearby amp, played from the keyboard. Four noise modes - GSM, Mains, Data, Radio - with a sidechain input that carries audio along with the interference, host-tempo grid snap and a two-bar Lock loop. Up to 8 voices, poly or mono. VST3 and CLAP on Windows 10/11, macOS 11 or newer and Linux (glibc 2.35+); AUv2 on macOS; Apple Silicon native. Free, no account needed. No version number is printed on the vendor product page or manual - seeded versionless; no version was inferred."
+    },
+    {
       "id": "acustica-audio--desert",
       "manufacturerId": "acustica-audio",
       "name": "Desert",
@@ -58394,7 +58450,7 @@
       "predecessorPluginId": "steinberg--dorico-elements-5",
       "latestVersionMac": "6.2.31",
       "latestVersionWindows": "6.2.30",
-      "notesForUser": "Steinberg DAW/editor/hub (Dorico Elements).",
+      "notesForUser": "Steinberg DAW/editor/hub (Dorico Elements). Latest version is 6.2.31 on Mac and 6.2.30 on Windows.",
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
@@ -65739,6 +65795,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/electra-dsp-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.7.1",
       "latestVersionWindows": "1.6.0",
+      "notesForUser": "Latest version is 1.7.1 on Mac and 1.6.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.7.1",
@@ -76971,14 +77028,13 @@
       "notes": "KVR product https://www.kvraudio.com/product/free-amp-by-blue-cat-audio",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.3",
-      "versionSourceUrl": "https://www.bluecataudio.com/Download/Products/",
-      "versionVerifiedAt": "2026-09-10T08:00:58Z",
+      "latestVersion": "2.0",
+      "versionSourceUrl": "https://www.bluecataudio.com/Products/Product_FreeAmp/",
+      "versionVerifiedAt": "2026-11-09T20:05:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Download/Products table with Last updated + version",
-        "bluecataudio.com primary"
+        "Same product page and URL, Versions History entry, V1 models retained: continuity raise, not a generation seed"
       ]
     },
     {
@@ -102444,6 +102500,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/lg-drive-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.1.2",
       "latestVersionWindows": "1.0.0",
+      "notesForUser": "Latest version is 1.1.2 on Mac and 1.0.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.2",
@@ -120517,6 +120574,26 @@
       ]
     },
     {
+      "id": "safari-pedals--meaw-chain",
+      "manufacturerId": "safari-pedals",
+      "name": "Meaw:Chain",
+      "matchPatterns": [
+        "Meaw:Chain",
+        "Meaw Chain",
+        "Safari Meaw:Chain",
+        "Safari Pedals Meaw:Chain"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.safaripedals.com/products/meaw-chain-ai-plugin-chain-builder",
+      "notes": "AI-powered chain-builder plugin from Safari Pedals, released 2026-06-10 ($49, perpetual license): type what you want or record audio into it and it builds a plugin chain from the plugins already installed on the system (Safari plugins, third-party plugins, or both), powered by Safari's in-house Meaw AI model. Works in Pro Tools, Cubase, Logic, Ableton Live, FL Studio and Reaper. VST3, AU and AAX on macOS 10.15 or later; VST3 and AAX on Windows 8 or later. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
       "id": "native-instruments--mechanix",
       "manufacturerId": "native-instruments",
       "name": "Mechanix",
@@ -124847,13 +124924,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T17:22:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 All plug-ins section covers whole installer train",
+        "Prior 2.6.41 @90 accepted 2026-10-18, no rejections, no prior 2.6.46/2.6.47 observation"
       ]
     },
     {
@@ -124882,13 +124960,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:06Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T17:22:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 All plug-ins section covers whole installer train",
+        "Prior 2.6.41 @90 accepted 2026-10-18, no rejections, no prior 2.6.46/2.6.47 observation"
       ]
     },
     {
@@ -124946,13 +125025,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T17:22:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 All plug-ins section covers whole installer train",
+        "Prior 2.6.41 @90 accepted 2026-10-18, no rejections, no prior 2.6.46/2.6.47 observation"
       ]
     },
     {
@@ -124975,13 +125055,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T17:22:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 All plug-ins section covers whole installer train",
+        "Prior 2.6.41 @90 accepted 2026-10-18, no rejections, no prior 2.6.46/2.6.47 observation"
       ]
     },
     {
@@ -125010,13 +125091,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-09T17:22:30Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 All plug-ins section covers whole installer train",
+        "Prior 2.6.41 @90 accepted 2026-10-18, no rejections, no prior 2.6.46/2.6.47 observation"
       ]
     },
     {
@@ -125074,13 +125156,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -127988,13 +128070,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -132331,6 +132413,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/novatron-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.2.3",
       "latestVersionWindows": "1.1.0",
+      "notesForUser": "Latest version is 1.2.3 on Mac and 1.1.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.3",
@@ -133474,13 +133557,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:07Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -133595,13 +133678,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -137232,13 +137315,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -143193,13 +143276,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -143228,13 +143311,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -144303,13 +144386,13 @@
       "notesForUser": "Updates through Softube Central.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-19T05:25:15Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -144332,13 +144415,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -149255,6 +149338,25 @@
         "Manufacturer official Plugin Versions page with Curr Version column",
         "Row matched DB plugin 'PolyComp' → table 'PolyComp' = v1.3.1"
       ]
+    },
+    {
+      "id": "safari-pedals--polyrex",
+      "manufacturerId": "safari-pedals",
+      "name": "PolyRex",
+      "matchPatterns": [
+        "PolyRex",
+        "Safari PolyRex",
+        "Safari Pedals PolyRex"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.safaripedals.com/products/polyrex-vintage-polyphonic-synthesizer",
+      "notes": "Vintage polyphonic synthesizer plugin from Safari Pedals (SuperKeys series), released 2026-07-13 ($49): inspired by early-80s Japanese polysynths, with square + sub oscillators, noise generator, PWM, LFO pitch modulation, resonant filter with high-pass filter and full ADSR, envelope/gate mode, built-in arpeggiator, glide, and built-in chorus, delay and spring reverb. VST3, AU and AAX on macOS 10.15 or later; VST3 and AAX on Windows 10 or later. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "universal",
+      "popularityTier": 2
     },
     {
       "id": "blue-cat-audio--polyvibe",
@@ -155006,6 +155108,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/reddi-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.1.1",
       "latestVersionWindows": "1.0.3",
+      "notesForUser": "Latest version is 1.1.1 on Mac and 1.0.3 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.1.1",
@@ -159775,13 +159878,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:08Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T05:23:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Softube 2.6.47 release-notes article carries an 'All plug-ins:' section; train anchor covers whole 2.6.x installer family (settled rule 2026-10-30)"
       ]
     },
     {
@@ -161004,6 +161107,30 @@
       "versionConfidence": 60,
       "versionConfidenceReasons": [
         "SURGE universe expansion 2026-09-15 (third-party-package-index)"
+      ]
+    },
+    {
+      "id": "acon-digital--restoration-suite-3",
+      "manufacturerId": "acon-digital",
+      "name": "Restoration Suite 3",
+      "matchPatterns": [
+        "Restoration Suite 3",
+        "Acon Digital Restoration Suite 3"
+      ],
+      "updatePortalUrl": "https://acondigital.com/products/restoration-suite/",
+      "notes": "Acon Digital Restoration Suite 3 — noise reduction plug-in collection (DeNoise 3, DeHum 3, DeClick 3 and DeClip 3 in one plug-in). Successor to Restoration Suite 2.x.",
+      "generation": "3",
+      "predecessorPluginId": "acon-digital--restoration",
+      "supersedesPluginId": "acon-digital--restoration",
+      "appleSilicon": "native",
+      "popularityTier": 2,
+      "latestVersion": "3.0.0",
+      "versionSourceUrl": "https://acondigital.com/products/restoration-suite/",
+      "versionVerifiedAt": "2026-11-09T20:05:59Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor product page installer name plus KVR legs agree"
       ]
     },
     {
@@ -169023,7 +169150,7 @@
       "latestVersionMac": "3.0.1",
       "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.1 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -172124,6 +172251,7 @@
       "notes": "KVR product https://www.kvraudio.com/product/silika-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.2.2",
       "latestVersionWindows": "1.1.0",
+      "notesForUser": "Latest version is 1.2.2 on Mac and 1.1.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.2",
@@ -182687,6 +182815,33 @@
       "popularityTier": 1
     },
     {
+      "id": "audiority--studio-reverb",
+      "manufacturerId": "audiority",
+      "name": "Studio Reverb",
+      "matchPatterns": [
+        "Studio Reverb",
+        "Audiority Studio Reverb"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX",
+        "CLAP"
+      ],
+      "updatePortalUrl": "https://www.audiority.com/shop/studio-reverb/",
+      "notes": "Stereo algorithmic reverb plugin from Audiority, released 2026-11-09 (changelog v1.0 Nov 2026 - Original release). 5 early-reflection algorithms (Room, Hall, Plate, Random, Reverse) with ER contour, pre-delay up to 500 ms, room size and decay controls with estimated decay display, independent early/late blend, 3-band damping and late-reverb EQ, true stereo / stereo / mono-sum routing, preset browser, MIDI mapping and resizable interface. VST3, AU, AAX and CLAP on Windows 7 64-bit or later, macOS 10.13 or later (Intel) and macOS 11 or later (Apple Silicon). $39 intro price, $69 regular.",
+      "appleSilicon": "universal",
+      "popularityTier": 2,
+      "latestVersion": "1.0",
+      "versionSourceUrl": "https://www.audiority.com/shop/studio-reverb/",
+      "versionVerifiedAt": "2026-11-09T17:25:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "manual accept via CLI (confidence=92)"
+      ]
+    },
+    {
       "id": "xln-audio--studio-rock-adpak",
       "manufacturerId": "xln-audio",
       "name": "Studio Rock ADpak",
@@ -182926,10 +183081,15 @@
         "StudioDeclicker"
       ],
       "updatePortalUrl": "https://acondigital.com/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/studiodeclicker-by-acon-digital",
+      "updateClass": "discontinued",
+      "successorPluginId": "acon-digital--restoration-suite-3",
+      "supersededByPluginId": "acon-digital--restoration-suite-3",
+      "notesForUser": "Superseded by Restoration Suite 3 (DeClick 3); Acon Digital no longer lists this plug-in.",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.6.2",
+      "finalVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodeclicker-by-acon-digital",
       "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
@@ -182947,10 +183107,15 @@
         "StudioDeclipper"
       ],
       "updatePortalUrl": "https://acondigital.com/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/studiodeclipper-by-acon-digital",
+      "updateClass": "discontinued",
+      "successorPluginId": "acon-digital--restoration-suite-3",
+      "supersededByPluginId": "acon-digital--restoration-suite-3",
+      "notesForUser": "Superseded by Restoration Suite 3 (DeClip 3); Acon Digital no longer lists this plug-in.",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.6.2",
+      "finalVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodeclipper-by-acon-digital",
       "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
@@ -182989,10 +183154,15 @@
         "StudioDenoiser"
       ],
       "updatePortalUrl": "https://acondigital.com/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/studiodenoiser-by-acon-digital",
+      "updateClass": "discontinued",
+      "successorPluginId": "acon-digital--restoration-suite-3",
+      "supersededByPluginId": "acon-digital--restoration-suite-3",
+      "notesForUser": "Superseded by Restoration Suite 3 (DeNoise 3); Acon Digital no longer lists this plug-in.",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.6.2",
+      "finalVersion": "1.6.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/studiodenoiser-by-acon-digital",
       "versionVerifiedAt": "2026-11-07T05:25:18Z",
       "versionEvidence": "page-confirmed",
@@ -188979,10 +189149,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-bassline",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-bassline-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.5.5",
+      "finalVersion": "1.5.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-bassline-by-togu-audio-line",
       "versionVerifiedAt": "2026-09-10T09:25:40Z",
       "versionEvidence": "page-confirmed",
@@ -189110,10 +189283,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-dub-ii-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page names TAL-DUB-II).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.55",
+      "finalVersion": "1.55",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-ii-by-togu-audio-line",
       "versionVerifiedAt": "2026-09-10T09:25:40Z",
       "versionEvidence": "page-confirmed",
@@ -189137,10 +189313,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-dub-iii-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page names TAL-DUB-III).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "0.95",
+      "finalVersion": "0.95",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-iii-by-togu-audio-line",
       "versionVerifiedAt": "2026-09-10T09:25:40Z",
       "versionEvidence": "page-confirmed",
@@ -189191,10 +189370,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-dub",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-dub-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page covers TAL-Dub/DUB-II/DUB-III).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.2",
+      "finalVersion": "1.1.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-by-togu-audio-line",
       "versionVerifiedAt": "2026-09-10T09:25:40Z",
       "versionEvidence": "page-confirmed",
@@ -189218,10 +189400,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-dub-x",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-dub-x-by-tal-software\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page via live browser).\n",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.2.8",
+      "finalVersion": "2.2.8",
       "versionSourceUrl": "https://tal-software.com/products/tal-dub-x",
       "versionVerifiedAt": "2026-10-31T05:28:10Z",
       "versionEvidence": "page-confirmed",
@@ -189272,10 +189457,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-elek7ro",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-elek7ro-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.7",
+      "finalVersion": "2.7",
       "versionSourceUrl": "https://tal-software.com/products/tal-elek7ro",
       "versionVerifiedAt": "2026-09-10T09:56:31Z",
       "versionEvidence": "page-confirmed",
@@ -189700,10 +189888,13 @@
         "AAX"
       ],
       "updatePortalUrl": "https://tal-software.com/products/tal-u-no-62",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tal-u-no-62-by-togu-audio-line\n2026-10-01: portal URL fixed (dead tal-software.com root -> verified live product page; page text uses original U-NO-60 name).",
+      "updateClass": "discontinued",
+      "notesForUser": "TAL lists this plug-in under 'Deprecated Plug-Ins (not supported)' on its products page.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.7",
+      "finalVersion": "1.7",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-u-no-62-by-togu-audio-line",
       "versionVerifiedAt": "2026-09-10T09:25:40Z",
       "versionEvidence": "page-confirmed",
@@ -202966,11 +203157,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T17:24:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Per-plugin payload version inside the 12.0.0 installer; archives + pkg unchanged",
+        "Prior 11.8.0 @95 accepted 2026-09-27, no rejections"
       ]
     },
     {
@@ -202995,11 +203187,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T17:24:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Per-plugin payload version inside the 12.0.0 installer; archives + pkg unchanged",
+        "Prior 11.8.0 @95 accepted 2026-09-27, no rejections"
       ]
     },
     {
@@ -203024,11 +203217,12 @@
       "popularityTier": 1,
       "latestVersion": "11.8.0",
       "versionSourceUrl": "https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg",
-      "versionVerifiedAt": "2026-09-27T01:28:48Z",
+      "versionVerifiedAt": "2026-11-09T17:24:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "vendor installer PackageInfo range-fetch; AU CFBundleShortVersionString; operator-verified 2026-09-26"
+        "Per-plugin payload version inside the 12.0.0 installer; archives + pkg unchanged",
+        "Prior 11.8.0 @95 accepted 2026-09-27, no rejections"
       ]
     },
     {
@@ -209303,7 +209497,7 @@
       "updatePortalUrl": "https://www.thehouseofkush.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/ubk-pusher-by-kush-audio | per-OS split from vendor page, operator-verified 2026-11-01 (Grok Bot 2026-11-01 pass, verdict accepted)",
       "latestVersionMac": "1.2.2",
-      "latestVersionWindows": "1.1.2",
+      "latestVersionWindows": "1.1.4",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "1.2.2",
@@ -217506,6 +217700,24 @@
       "versionConfidenceReasons": [
         "universe-expansion seed, coordinator-verified 2026-09-15"
       ]
+    },
+    {
+      "id": "vienna-symphonic-library--vienna-performer",
+      "manufacturerId": "vienna-symphonic-library",
+      "name": "Vienna Performer",
+      "matchPatterns": [
+        "Vienna Performer",
+        "VSL Vienna Performer"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://performer.vsl.co.at/",
+      "notes": "AI-assisted MIDI-to-performance plugin from Vienna Symphonic Library, released 2026-11-09: it takes the MIDI written in a DAW or notation program and renders it as a performed part, using models trained on recordings made at Vienna Synchron Stage. Launches with 9 instruments (solo Violin, Cello, Flute, Clarinet, French Horn; ensembles of 1st Violins, 2nd Violins, Violas, Cellos); Solo Trumpet and Double Bass ensemble follow shortly. Subscription only (Entry EUR 9.99, Standard EUR 19.99, Pro EUR 49.99 per month; render minutes 140/360/1000). Rendering happens on VSL servers - requires a VSL account and an internet connection, no offline rendering, no standalone version. VST3, AU and AAX on macOS 12 or later; VST3 and AAX on Windows 10 or later. No version number is printed on the vendor page - seeded versionless; no version was inferred.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "vienna-symphonic-library--vienna-power-house",
@@ -235623,7 +235835,7 @@
         ],
         "compareSegments": 3
       },
-      "notesForUser": "Legacy soothe 1; soothe2 is tracked separately.",
+      "notesForUser": "Legacy soothe 1; soothe2 is tracked separately. Latest version is 1.5.1 on Mac and 1.5.0 on Windows.",
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "1.5.1",
