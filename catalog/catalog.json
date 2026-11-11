@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-10T14:03:45Z",
+  "updatedAt": "2026-11-11T14:02:41Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -566,6 +566,16 @@
       "appleSilicon": "mixed",
       "notes": "Identity from KVR; PluginHub direct partner Apple Silicon: MIXED (verified 2026-09-15). audioease.com — main product pages state 'Native Apple silicon' (M1/M2/M3 & Intel fully supported), but official 360pan suite FAQ confirms 360pan suite 3 is still 'Rosetta 2 only'.",
       "popularityTier": 3
+    },
+    {
+      "id": "audio-hertz",
+      "name": "Audio Hertz",
+      "updatePortalUrl": "https://audiohertz.com",
+      "websiteUrl": "https://audiohertz.com",
+      "aliases": [
+        "Audio Hertz"
+      ],
+      "notes": "Character-rich analog-style plugins (preamps, tape, amp, guitar synth); offline activation, no iLok; free trials on every plugin. Bundle 8 (Nov 2026) holds Soklo GS-5, Ten Piece, VHS, FAN, Porta.pre, AM.pre, Echo Clock, AC-1. Back-catalog gap noted 2026-11-10: Mk.pre, Ten Piece, VHS, FAN, Porta.pre, AM.pre, Echo Clock, AC-1 have no catalog rows yet - future intake, not this lane's new-product scope."
     },
     {
       "id": "audiomodern",
@@ -2252,6 +2262,16 @@
       "versionExample": "5.10.1",
       "notes": "Update via manufacturer account / downloads portal. Installers are user-driven. [2026-09-16 compat: MIXED re-verified. IK FAQ 1306 (ikmultimedia.com): Most IK products compatible with Apple Silicon natively or using Rosetta 2; non-native older products listed; unlisted non-legacy products should be native. Re-fetch recipe: FAQ 1306 (watch Rosetta list) + product spec pages; installer versions via IK Product Manager.]",
       "popularityTier": 1
+    },
+    {
+      "id": "insektiq",
+      "name": "INSEKTIQ",
+      "updatePortalUrl": "https://insektiq.com",
+      "websiteUrl": "https://insektiq.com",
+      "aliases": [
+        "Insektiq"
+      ],
+      "notes": "Free audio-to-MIDI plugin (TONIQ) with a paid Pro tier in the same download; email/code activation on first open, no card, no time limit on the free tier."
     },
     {
       "id": "oas--ircam",
@@ -5292,6 +5312,16 @@
       "popularityTier": 1
     },
     {
+      "id": "unusable-engineering",
+      "name": "Unusable Engineering",
+      "updatePortalUrl": "https://www.unusable.net",
+      "websiteUrl": "https://www.unusable.net",
+      "aliases": [
+        "Unusable"
+      ],
+      "notes": "One-person Danish vendor (Rasmus Nyaker); direct sales, offline license file, no plugin manager, no call-home, no demos, 30-day no-questions-asked refund. Synths: Curves & Membranes, Partials & Discrepancies, Currents & Nostalgia."
+    },
+    {
       "id": "oas--utokusa",
       "name": "Utokusa",
       "updatePortalUrl": "https://github.com/utokusa/OS-251",
@@ -6204,6 +6234,16 @@
       "updatePortalUrl": "https://github.com/QVbDev/quantumVerb",
       "websiteUrl": "https://github.com/QVbDev/quantumVerb",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "quietformat",
+      "name": "quietformat",
+      "updatePortalUrl": "https://www.quietformat.com",
+      "websiteUrl": "https://www.quietformat.com",
+      "aliases": [
+        "quietformat"
+      ],
+      "notes": "Independent audio developer founded by GILLA (producer, South Korea), focused on expressive sound-design tools. First release Meltone (2025, MPE synth - no catalog row yet, future intake); Cernion + CERNION FX released 9 Nov 2026. Perpetual or Subscribe to Own licensing, up to 3 computers, 14-day trial, no card required."
     },
     {
       "id": "refx",
@@ -12128,13 +12168,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -16223,6 +16264,25 @@
       ]
     },
     {
+      "id": "fuse-audio-labs--amber-drive",
+      "manufacturerId": "fuse-audio-labs",
+      "name": "Amber Drive",
+      "matchPatterns": [
+        "Amber Drive",
+        "Fuse Audio Labs Amber Drive"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.fuseaudiolabs.com/",
+      "notes": "Free British-style guitar amp plugin from Fuse Audio Labs, released 10 Nov 2026: medium-gain amp modelling cascading 12AX7 preamp stages, the EL84 output section and a passive tone stack, with three controls (Gain, Tone, Volume) and a built-in cabinet simulation that can be bypassed for an external IR loader. Optional anti-aliasing, zero latency, low CPU use. VST2, VST3 and AAX plus AU on macOS; macOS 10.12 or later (Intel and Apple Silicon), Windows 7 or later, 2 GB RAM. A free Fuse Audio Labs account is required to download. No version number is printed in the vendor evidence read - seeded versionless; no version was inferred.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "oas--odoare-ambirr2",
       "manufacturerId": "oas--olivier-doare",
       "name": "AmbiRR2",
@@ -16389,13 +16449,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-11-01T17:23:11Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -16643,13 +16704,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:01Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -18794,13 +18856,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-11-01T17:23:11Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -22707,13 +22770,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-11-01T17:23:11Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -24974,7 +25038,7 @@
       ],
       "updatePortalUrl": "https://surge-synthesizer.github.io/downloads/",
       "notes": "Surge Synth Team FOSS fill; expand5.",
-      "notesForUser": "FOSS (GPL) via Surge Synth Team / GitHub. Stable listing from public registry/KVR; GitHub release channel is Nightly-tagged.",
+      "notesForUser": "FOSS (GPL) via Surge Synth Team / GitHub.",
       "isFreeware": true,
       "appleSilicon": "native",
       "popularityTier": 1,
@@ -26846,12 +26910,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.6.20",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/backbone.html",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/backbone.html",
+      "versionVerifiedAt": "2026-11-11T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg Backbone_1.6.20_Installer_* matches KVR 1.6.20.1076"
+        "Official Steinberg downloads page / Version History PDF",
+        "Backbone 1.6.20 installer (Mac DMG + Win ZIP) on official Steinberg downloads page"
       ]
     },
     {
@@ -26923,13 +26988,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-11-01T17:23:11Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article with All plug-ins section, same basis as Console 1 rows promoted 2026-10-30"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -36940,13 +37006,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -42094,6 +42161,23 @@
       ]
     },
     {
+      "id": "quietformat--cernion",
+      "manufacturerId": "quietformat",
+      "name": "Cernion",
+      "matchPatterns": [
+        "Cernion",
+        "CERNION",
+        "quietformat Cernion",
+        "quietformat CERNION"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.quietformat.com/cernion",
+      "notes": "Wavetable synthesizer from quietformat, released 9 Nov 2026 ($99.99 introductory until 9 Dec 2026, $179.99 regular; Subscribe to Own $6.99 a month; 14-day free trial, no card required). Full MPE with independent Pitch (up to +/-48 semitones), Slide and Press per note; two arpeggiators (GILLA ARP and CLASSIC ARP); custom waveforms and wavetables up to 256 frames; 4 custom LFOs, 4 envelopes, 8 macros and an XY pad; 11 reorderable effects in serial or parallel lanes; 498 presets (417 factory + 4 artist packs). The dedicated CERNION FX effects plugin is included with the same license. AU and VST3 on macOS 11 or later (Universal); VST3 on Windows 10 or later. No version number is printed on the vendor product page - seeded versionless; no version was inferred."
+    },
+    {
       "id": "native-instruments--certified-gold",
       "manufacturerId": "native-instruments",
       "name": "Certified Gold",
@@ -42315,13 +42399,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-14 18:29:44",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:59Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -42476,7 +42561,7 @@
         "compareSegments": 3
       },
       "portalApp": "Softube Central",
-      "notesForUser": "Console 1 edition-pack component — not a standalone plugin KVR title.",
+      "notesForUser": "Console 1 edition-pack component — not a standalone plugin.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -48242,13 +48327,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-10-30T17:35:29Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article for train 2.6.46 (Oct 28, 2026) with All-plug-ins section plus Console 1 System section, same anchor rule as prior 2.6.41 acceptance"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -48323,13 +48409,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.46",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-46-(released-on-october-28th-2026)",
-      "versionVerifiedAt": "2026-10-30T17:35:29Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor release-notes article for train 2.6.46 (Oct 28, 2026) with All-plug-ins section, same anchor rule as prior 2.6.41 acceptance"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -51401,6 +51488,30 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "unusable-engineering--currents-and-nostalgia",
+      "manufacturerId": "unusable-engineering",
+      "name": "Currents & Nostalgia",
+      "matchPatterns": [
+        "Currents & Nostalgia",
+        "Unusable Currents & Nostalgia",
+        "Unusable Engineering Currents & Nostalgia"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.unusable.net/synthesizers/currents-and-nostalgia/",
+      "notes": "Six-voice virtual analog synthesizer from Unusable Engineering, released 8-9 Nov 2026 (EUR 89 including Danish VAT): two circuit-modelled saw-core oscillators, resonant ladder low-pass and state-variable high-pass filters, two independent eight-slot systems for oscillator/mixer and filter movement, MPE and MTS-ESP support, 350 factory presets. AU and VST3 on macOS 12 or later; VST3 on Windows 10/11. Version 1.0.0 per the vendor product page.",
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.unusable.net/synthesizers/currents-and-nostalgia/",
+      "versionVerifiedAt": "2026-11-10T17:49:46Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Manufacturer product page states version 1.0.0 (factory preset download 'Currents & Nostalgia 1.0.0'; 'Version 1.0.0 is not part of a bundle')"
+      ]
     },
     {
       "id": "applied-acoustics--currents-for-multiphonics-cv-3",
@@ -67153,7 +67264,7 @@
         "compareSegments": 3
       },
       "portalApp": "Softube Central",
-      "notesForUser": "Console 1 edition-pack component — not a standalone plugin KVR title.",
+      "notesForUser": "Console 1 edition-pack component — not a standalone plugin.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 1
@@ -82228,12 +82339,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "6.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/groove_agent_6.html",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/groove-agent-6.html",
+      "versionVerifiedAt": "2026-11-11T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg GrooveAgent_Application_6.0.30_Installer_* matches KVR 6.0.30.1098"
+        "Official Steinberg downloads page / Version History PDF",
+        "Groove Agent 6.0.30 Application Installer on official Steinberg downloads page"
       ]
     },
     {
@@ -84065,14 +84177,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "7.5.0",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/halion_7.html",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/halion-7.html",
+      "versionVerifiedAt": "2026-11-11T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg public downloads HALion_7.5_Installer_*.dmg/zip",
-        "Version_History_HALion_7.5.0_en.pdf dated 2026-08-04",
-        "matches KVR 7.5.0.1153 prefix"
+        "Official Steinberg downloads page / Version History PDF",
+        "HALion 7.5 installer dated Aug 4 2026; Version History PDF tops at HALion 7.5.0 (2026-08-04)"
       ]
     },
     {
@@ -84121,14 +84232,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "7.5.0",
-      "versionSourceUrl": "https://o.steinberg.net/en/support/downloads/halion_sonic_7.html",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/halion-sonic-7.html",
+      "versionVerifiedAt": "2026-11-11T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg public Halion_Sonic_7.5_Installer_*",
-        "Version_History_HALion_7.5.0_en.pdf HALion Sonic 7.5.0",
-        "matches KVR 7.5.0.1153 prefix"
+        "Official Steinberg downloads page / Version History PDF",
+        "HALion Sonic 7.5 installer dated Aug 4 2026; Version History PDF tops at HALion Sonic 7.5.0 (2026-08-04)"
       ]
     },
     {
@@ -84169,12 +84279,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "3.5.10",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=downloads_halion_sonic_se_3&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/halion-sonic-se-3.html",
+      "versionVerifiedAt": "2026-11-11T05:25:37Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg public installer filename 3.5.10 exact match KVR"
+        "Official Steinberg downloads page / Version History PDF",
+        "HALion Sonic SE 3.5.10 installer (Mac DMG + Win EXE) on official Steinberg downloads page"
       ]
     },
     {
@@ -133400,7 +133511,7 @@
       ],
       "updatePortalUrl": "https://www.waproduction.com/users/login",
       "notes": "KVR product https://www.kvraudio.com/product/og-series-unkwn-by-w-a-production",
-      "notesForUser": "WA / OCTVE.CO OG Series: UNKWN sample pack (one-shots, loops, Serum presets) — soundware, not a plugin. KVR news 2018-07-10.",
+      "notesForUser": "WA / OCTVE.CO OG Series: UNKWN sample pack (one-shots, loops, Serum presets) — soundware, not a plugin.",
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 2
@@ -135506,14 +135617,14 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.6.5",
+      "latestVersion": "1.6.6",
       "versionSourceUrl": "https://www.soundsonline.com/support/updates",
-      "versionVerifiedAt": "2026-09-17T16:12:53Z",
+      "versionVerifiedAt": "2026-11-10T18:00:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "EastWest official updates page lists Opus 1.6.5 (June 4, 2026) as the latest release",
-        "No newer public release found (latest KVR news: 1.6.2, Dec 2025)"
+        "Official EastWest updates page, OPUS section top entry 1.6.6 dated Oct 27 2026",
+        "Supersedes 1.6.5 (Jun 4 2026) from same page"
       ]
     },
     {
@@ -143339,12 +143450,12 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://download.steinberg.net/automated_updates/sda_downloads/b1a5fbc5-b52a-4e00-8be0-f2e22b963057/Version_History_Padshop_2_3_0.pdf",
-      "versionVerifiedAt": "2026-09-10T11:29:38Z",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Version History PDF title Padshop 2.3.0 (2026-03-12)",
-        "CDN installer filenames Padshop_2.3_Installer_mac.dmg / win64.zip HEAD 200"
+        "Official Steinberg downloads page / Version History PDF",
+        "Official Version History PDF dated 2026-03-12 tops at Padshop 2.3.0; downloads page is SDA-only with no version"
       ]
     },
     {
@@ -146332,6 +146443,23 @@
           "com.borisfx.crumplepop.soundapp-ara"
         ]
       }
+    },
+    {
+      "id": "izotope--photon",
+      "manufacturerId": "izotope",
+      "name": "Photon",
+      "matchPatterns": [
+        "Photon",
+        "iZotope Photon"
+      ],
+      "formats": [
+        "ARA2",
+        "Standalone"
+      ],
+      "updatePortalUrl": "https://www.izotope.com/products/photon",
+      "notes": "Standalone app and ARA2 plugin from iZotope, launched 3 Nov 2026 ($349; introductory $259 through 7 Dec 2026): AI stem separation and audio cleanup with 12 custom-trained models (6 demix, 6 denoise) running locally on the GPU - no uploads, no usage caps. ARA2 plugin only: no VST3, AU or AAX insert version; works in Pro Tools, REAPER, Cubase and other ARA2 hosts (plus Sequoia and Samplitude on Windows). macOS 14 or later on Apple silicon only; Windows 10 or later 64-bit with a GPU with at least 4 GB VRAM. First iZotope product installed via the Boris FX Hub. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "appleSilicon": "mixed",
+      "popularityTier": 1
     },
     {
       "id": "venomode--venomode-phrasebox-2",
@@ -159913,13 +160041,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -161562,12 +161691,12 @@
       "popularityTier": 1,
       "latestVersion": "2.5.0",
       "versionSourceUrl": "https://download.steinberg.net/automated_updates/sda_downloads/a893191a-add4-4550-b8ef-36d238f31de2/Version_History_Retrologue_2_5_0.pdf",
-      "versionVerifiedAt": "2026-09-10T11:29:38Z",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manufacturer Version History PDF title Retrologue 2.5.0 (2026-03-12)",
-        "CDN installer filenames Retrologue_2.5_Installer_mac.dmg / win64.zip HEAD 200"
+        "Official Steinberg downloads page / Version History PDF",
+        "Official Version History PDF dated 2026-03-12 tops at Retrologue 2.5.0; downloads page is SDA-only with no version"
       ]
     },
     {
@@ -174176,13 +174305,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -174205,13 +174335,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
     },
     {
@@ -174234,14 +174365,32 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-10T17:48:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
+        "Official installers page lists per-product 2.6.47 installers"
       ]
+    },
+    {
+      "id": "audio-hertz--soklo-gs-5",
+      "manufacturerId": "audio-hertz",
+      "name": "Soklo GS-5",
+      "matchPatterns": [
+        "Soklo GS-5",
+        "Audio Hertz Soklo GS-5",
+        "GS-5"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://audiohertz.com",
+      "notes": "Guitar synth plugin from Audio Hertz, developed with Los Angeles guitarist/producer Soklo and released 10 Nov 2026 ($39 introductory, $59 regular; full-featured free trial with audio muting for five seconds every minute). Five synth engines - Deep, Vintage, Solo, Strings, Harmony - driven directly from guitar audio with monophonic tracking that follows bends, slides and vibrato, no MIDI pickup or special hardware; pitch detection and resynthesis take about 12 ms. Built-in Distortion, Bitcrush, Ring Mod, Modulation and stereo Gated Reverb, plus presets by Soklo. VST3, AU and AAX on macOS (Intel and Apple Silicon); VST3 and AAX on Windows. No version number is printed in the vendor evidence read - seeded versionless; no version was inferred. Portal URL is the vendor homepage: the launch-day product-page slug was not verifiable first-hand at sweep time."
     },
     {
       "id": "dawesome--sol",
@@ -179211,13 +179360,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -180257,13 +180407,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:09Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -184029,13 +184180,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:10Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -184064,13 +184216,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:10Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -184099,13 +184252,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:10Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -186288,7 +186442,7 @@
       "updatePortalUrl": "https://soniccharge.com/download",
       "notes": "KVR product https://www.kvraudio.com/product/synplant-by-sonic-charge",
       "generation": "2",
-      "notesForUser": "Version 2024.08.30 was the six-product multi-installer date, not Synplant's version; no compare version is shown until an installed read. KVR corroboration 2.0.2.309 (candidate only).",
+      "notesForUser": "Version 2024.08.30 was the six-product multi-installer date, not Synplant's version; no compare version is shown until an installed read.",
       "appleSilicon": "native",
       "popularityTier": 2
     },
@@ -190803,7 +190957,7 @@
       "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/tb-sibalance-v3-by-toneboosters",
       "successorPluginId": "toneboosters--tb-sibalance-v4",
-      "notesForUser": "Legacy Sibalance v3; current retail line is Sibalance 4 (tb-sibalance-v4). KVR Product Version dual 3.1.8 vs 3.3.0 skipped. Successor: toneboosters--tb-sibalance-v4.",
+      "notesForUser": "Legacy Sibalance v3; current retail line is Sibalance 4.",
       "identityKind": "discontinued",
       "popularityTier": 3
     },
@@ -192855,6 +193009,31 @@
       ]
     },
     {
+      "id": "insektiq--toniq",
+      "manufacturerId": "insektiq",
+      "name": "TONIQ",
+      "matchPatterns": [
+        "TONIQ",
+        "Toniq",
+        "INSEKTIQ TONIQ"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://insektiq.com/",
+      "notes": "Free polyphonic audio-to-MIDI plugin and standalone app from INSEKTIQ, released 5 Nov 2026: turns any recording into MIDI, every voice of every chord with velocity, from guitar, piano, vocals, bass, drums or a full mix; ARA 2 in Pro Tools, Cubase, Nuendo, Studio One and REAPER. TONIQ Pro (note editing inside the audio, $129 introductory, reg $149) is in the same download. AU, VST3 and AAX plus standalone on macOS 12 or later; VST3 and AAX plus standalone on Windows 10/11. Version 0.7.19 (built 8 Nov 2026) per the vendor homepage.",
+      "latestVersion": "0.7.19",
+      "versionSourceUrl": "https://insektiq.com/",
+      "versionVerifiedAt": "2026-11-10T17:49:46Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Vendor homepage states 'Version 0.7.19, built 8 Nov 2026'"
+      ]
+    },
+    {
       "id": "subverselab--torna",
       "manufacturerId": "subverselab",
       "name": "TORNA",
@@ -193749,13 +193928,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:10Z",
+      "latestVersion": "2.6.47",
+      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
+      "versionVerifiedAt": "2026-11-11T05:22:58Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
+        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
       ]
     },
     {
@@ -215451,12 +215631,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "5.6.10",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=downloads_vst_connect_pro&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/vst-connect-se-pro.html",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg VST Connect SE/Pro 5.6.10 public installer exact match KVR"
+        "Official Steinberg downloads page / Version History PDF",
+        "VST Connect SE/Pro 5.6.10 headed Current version; full installers Mac/Win"
       ]
     },
     {
@@ -222650,12 +222831,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "2.0.50",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15367&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/wavelab-cast-2.html",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg WaveLab Cast 2.0.50 public installer exact match KVR"
+        "Official Steinberg downloads page / Version History PDF",
+        "WaveLab Cast 2.0.50 full installer Mac/Win on official Steinberg downloads page"
       ]
     },
     {
@@ -222706,13 +222888,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "13.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15434&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/wavelab-13.html",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg WaveLab_13.0.30_Installer_* public",
-        "manufacturer newer than KVR 13.0.20"
+        "Official Steinberg downloads page / Version History PDF",
+        "WaveLab 13.0.30 full installer; one installer for both WaveLab 13 versions, dated Jul 22 2026"
       ]
     },
     {
@@ -222735,13 +222917,13 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "13.0.30",
-      "versionSourceUrl": "https://o.steinberg.net/index.php?id=15434&L=1",
-      "versionVerifiedAt": "2026-09-10T11:13:38Z",
+      "versionSourceUrl": "https://download.steinberg.net/downloads/software/wavelab-13.html",
+      "versionVerifiedAt": "2026-11-11T05:25:38Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Steinberg WaveLab_13.0.30_Installer_* public",
-        "manufacturer newer than KVR 13.0.20"
+        "Official Steinberg downloads page / Version History PDF",
+        "WaveLab 13.0.30 full installer; one installer for both WaveLab 13 versions, dated Jul 22 2026"
       ]
     },
     {
@@ -223602,7 +223784,7 @@
         "compareSegments": 3
       },
       "portalApp": "Softube Central",
-      "notesForUser": "Console 1 edition-pack / series component — not a standalone plugin KVR title.",
+      "notesForUser": "Console 1 edition-pack / series component — not a standalone plugin.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 1
