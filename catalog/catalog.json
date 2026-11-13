@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-12T14:07:26Z",
+  "updatedAt": "2026-11-13T14:03:31Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -7055,7 +7055,7 @@
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
       "versionSourceUrl": "https://www.kvraudio.com/product/360-surround-tools-by-waves",
-      "versionVerifiedAt": "2026-09-15T11:34:39Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -9779,7 +9779,7 @@
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
       "versionSourceUrl": "https://www.kvraudio.com/marketplace/api-collection-by-waves",
-      "versionVerifiedAt": "2026-09-15T11:34:39Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -12189,14 +12189,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T05:22:58Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
-        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -12902,14 +12902,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-06T05:24:21Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
-        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -13121,18 +13121,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/acquavox-by-acustica-audio",
+      "latestVersionMac": "1.3.452",
+      "latestVersionWindows": "1.3.352",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.3.352",
+      "latestVersion": "1.3.452",
       "versionSourceUrl": "https://www.kvraudio.com/product/acquavox-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-05T17:24:21Z",
+      "versionVerifiedAt": "2026-11-13T05:29:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin 1.3.352 / verosx 1.3.452 — genuine per-OS split; pointer moved to max (Mac 1.3.452); per-OS columns set"
       ]
     },
     {
@@ -13264,14 +13266,14 @@
       "notesForUser": "Updates through Softube Central.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-06T05:24:21Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026), All plug-ins section",
-        "RN index tops at 2.6.47, re-read fresh 2026-11-05"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -14198,11 +14200,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/aero-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-05T17:24:21Z",
+      "versionVerifiedAt": "2026-11-13T05:29:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 3.0.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -15313,11 +15315,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/alice9-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 3.0.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -16217,11 +16219,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-3-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-05T17:24:21Z",
+      "versionVerifiedAt": "2026-11-13T05:29:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 2.3.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -16270,18 +16272,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amber-4-ultra-by-acustica-audio",
+      "latestVersionMac": "3.0.2",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
+      "latestVersion": "3.0.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/amber-4-ultra-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:31Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin 3.0.0 / verosx 3.0.2 — genuine per-OS split; pointer moved to max (Mac 3.0.2); per-OS columns set"
       ]
     },
     {
@@ -16470,14 +16474,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-10T17:48:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
-        "Official installers page lists per-product 2.6.47 installers"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -16506,13 +16510,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T05:25:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:42Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -16565,11 +16570,11 @@
       "popularityTier": 2,
       "latestVersion": "1.4.037",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 1.4.037, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -16625,11 +16630,11 @@
       "popularityTier": 2,
       "latestVersion": "1.4.054",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst2-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 1.4.054, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -16647,18 +16652,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amethyst3-by-acustica-audio",
+      "latestVersionMac": "2.16.0",
+      "latestVersionWindows": "1.4.169",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.4.169",
+      "latestVersion": "2.16.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/amethyst3-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin 1.4.169 / verosx 2.16.0 — genuine per-OS split by div id, but Mac 2.16.0 is a large jump from stored 1.4.169; no date on KVR page and no independent corroboration found (web search 2026-11-12) — vendor cross-check via Aquarius still pending; per-OS columns set, pointer moved to max (Mac)"
       ]
     },
     {
@@ -16725,14 +16732,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T05:22:59Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
-        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -17416,7 +17423,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/ampire-xt-metal-pack-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -18877,14 +18884,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-10T17:48:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
-        "Official installers page lists per-product 2.6.47 installers"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -21105,11 +21112,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/aquamarine-5-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-05T17:24:21Z",
+      "versionVerifiedAt": "2026-11-13T05:29:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 2.3.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -21134,11 +21141,11 @@
       "popularityTier": 2,
       "latestVersion": "1.4.097",
       "versionSourceUrl": "https://www.kvraudio.com/product/aquamarine3-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:58Z",
+      "versionVerifiedAt": "2026-11-13T05:29:32Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 1.4.097, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -21163,11 +21170,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/aquamarine4-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-05T17:24:21Z",
+      "versionVerifiedAt": "2026-11-13T05:29:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (crowdsourced); Lane B stability re-verification 2026-11-05"
+        "KVR product page only (crowdsourced, skeptical default); Raw-HTML re-fetch 2026-11-12: verwin and verosx both 2.3.2, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -21194,7 +21201,15 @@
       "notesForUser": "Acustica's installer app, not a plugin.",
       "identityKind": "hub_app",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "1.1.004",
+      "versionSourceUrl": "https://www.kvraudio.com/product/aquarius-by-acustica-audio",
+      "versionVerifiedAt": "2026-11-13T05:29:33Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR product page only (crowdsourced, skeptical default); First accepted version for this row: raw-HTML re-fetch 2026-11-12 verwin/verosx both 1.1.004 (Aquarius hub app)"
+      ]
     },
     {
       "id": "native-instruments--aquarius-earth",
@@ -22276,7 +22291,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/artist-bundle---studio-one-artist-and-notion-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -22791,14 +22806,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-10T17:48:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
-        "Official installers page lists per-product 2.6.47 installers"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -24576,7 +24591,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.23",
       "versionSourceUrl": "https://www.kvraudio.com/news/image-line-updates-various-vst-plug-ins-incl-directwave-64-bit-25057",
-      "versionVerifiedAt": "2026-09-14T05:25:55Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
@@ -27009,14 +27024,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-10T17:48:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes 2.6.47 (Nov 3 2026) 'All plug-ins' section covers whole 2.6.x installer train",
-        "Official installers page lists per-product 2.6.47 installers"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -27409,13 +27424,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T05:25:31Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-13T05:28:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Softube train-anchor rule: 2.6.48 article carries All plug-ins section (blanket rebuild), same class as 2.6.46/2.6.47 adoptions",
+        "2.6.48 article re-read first-hand this chip; index still tops at 2.6.48"
       ]
     },
     {
@@ -28386,7 +28402,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-09-15T11:30:23Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -38937,7 +38953,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/ctc-1-pro-console-shaper-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -50597,6 +50613,36 @@
       "popularityTier": 1
     },
     {
+      "id": "air--creative-fx-collection-2",
+      "manufacturerId": "air",
+      "name": "Creative FX Collection 2",
+      "matchPatterns": [
+        "Creative FX Collection 2",
+        "AIR Creative FX Collection 2"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://airmusictech.com/effects/air-creative-fx-collection-2",
+      "notes": "Effects bundle from AIR Music Technology: a curated collection of 40 high-calibre audio tools, including 12 brand-new FX, covering production, mixing and mastering (delay/reverb, dynamics, EQ/filter, harmonic, modulation). Launched 16 Jul 2024 ($129.99, $77.99 intro). VST 2/3, AU and AAX; macOS 12-15, Windows 10/11; 10-day trial available. Version 1.2.1.14 is stamped from AIR/inMusic's own macOS 26 Tahoe compatibility matrix (Sonoma matrix agrees) at confidence 60 - the matrix records the compatibility-tested version, not a release announcement, and the same 1.2.1.14 build appears across many AIR lines. Distinct from AIR Creative FX Collection Plus (2.0.0, separate product). The 20 classic AIR FX components exist as their own rows; this row is the bundle itself.",
+      "identityKind": "bundle",
+      "appleSilicon": "mixed",
+      "popularityTier": 2,
+      "latestVersion": "1.2.1.14",
+      "versionSourceUrl": "https://inmusicsupport.freshdesk.com/en/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
+      "versionVerifiedAt": "2026-11-13T05:33:38Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "AIR/inMusic official macOS 26 Tahoe compatibility matrix lists Creative FX Collection 2 at version 1.2.1.14",
+        "macOS 14 Sonoma compatibility matrix lists the same version 1.2.1.14",
+        "Matrix records the compatibility-tested version, not a release announcement; same 1.2.1.14 build appears across many AIR lines (shared inMusic build train) - capped at 60 per chip brief"
+      ]
+    },
+    {
       "id": "native-instruments--creator-bundle",
       "manufacturerId": "native-instruments",
       "name": "Creator Bundle",
@@ -57282,7 +57328,7 @@
       "popularityTier": 1,
       "latestVersion": "1.6.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/news/image-line-updates-various-vst-plug-ins-incl-directwave-64-bit-25057",
-      "versionVerifiedAt": "2026-09-14T05:25:55Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
@@ -60537,7 +60583,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.30",
       "versionSourceUrl": "https://www.kvraudio.com/news/image-line-updates-various-vst-plug-ins-incl-directwave-64-bit-25057",
-      "versionVerifiedAt": "2026-09-14T05:25:55Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
@@ -70254,7 +70300,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/eyeq-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -72026,7 +72072,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.izotope.com/pages/product-downloads",
-      "versionVerifiedAt": "2026-09-15T05:33:34Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -82564,7 +82610,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.shouldiremoveit.com/Edison-23516-program.aspx",
-      "versionVerifiedAt": "2026-09-14T05:25:56Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 75,
       "versionConfidenceReasons": [
@@ -98174,11 +98220,12 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/jet-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionVerifiedAt": "2026-11-12T17:25:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default)",
+        "Raw-HTML re-fetch 2026-11-12: verwin and verosx both 2.3.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -102780,7 +102827,7 @@
       "popularityTier": 1,
       "latestVersion": "1.805",
       "versionSourceUrl": "https://xferrecords.com/forums/general/can-t-find-lfo-tool-on-cubase-13-apple-silicon-and-i-bought-lfo-tool-on-splice",
-      "versionVerifiedAt": "2026-09-14T17:36:56Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -105783,11 +105830,12 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/latte-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionVerifiedAt": "2026-11-12T17:25:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default)",
+        "Raw-HTML re-fetch 2026-11-12: verwin and verosx both 3.0.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -106197,11 +106245,12 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/lemon-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionVerifiedAt": "2026-11-12T17:25:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default)",
+        "Raw-HTML re-fetch 2026-11-12: verwin and verosx both 2.3.5, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -106540,11 +106589,12 @@
       "popularityTier": 2,
       "latestVersion": "1.4.152",
       "versionSourceUrl": "https://www.kvraudio.com/product/lime-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionVerifiedAt": "2026-11-12T17:25:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page only (crowdsourced, skeptical default)",
+        "Raw-HTML re-fetch 2026-11-12: verwin and verosx both 1.4.152, matches stored current — stability re-verification, no version change"
       ]
     },
     {
@@ -112823,7 +112873,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/mguitar-by-steinberg",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -121337,7 +121387,7 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-15T05:31:34Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -121365,7 +121415,7 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-15T05:31:34Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -121393,7 +121443,7 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-15T05:31:34Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -121421,7 +121471,7 @@
       "popularityTier": 1,
       "latestVersion": "5.4.2",
       "versionSourceUrl": "https://helpcenter.celemony.com/M5/doc/melodyneStudio5/en/M5tour_VersionHistory",
-      "versionVerifiedAt": "2026-09-15T05:31:34Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -122034,6 +122084,27 @@
       "notes": "KVR product https://www.kvraudio.com/product/metal-collection-by-xln-audio",
       "notesForUser": "XLN Audio bundle/collection (Metal Collection).",
       "identityKind": "bundle",
+      "popularityTier": 1
+    },
+    {
+      "id": "toontrack--metal-machine-2-ezx",
+      "manufacturerId": "toontrack",
+      "name": "Metal Machine 2 EZX",
+      "matchPatterns": [
+        "Metal Machine 2 EZX",
+        "Toontrack Metal Machine 2 EZX",
+        "Metal Machine 2"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.toontrack.com/product/metal-machine-2-ezx/",
+      "notes": "Drum expansion (EZX) for EZdrummer 3 and Superior Drummer 3 from Toontrack, released Nov 2026 ($89; 77th EZX title). Engineered and produced by Andy Sneap at his Backstage Recording Studio; sampled by Carcass drummer Dan Wilding, who also contributed the included MIDI grooves and fills. Three complete kits with distinct tonal identities for the 1990s (six-tom kit + 4 octobans), 2010s and 2020s; 7 kicks, 12 snares, 15 toms, 4 octobans, 19 cymbals, 3 hi-hat sets; 25+ mix-ready presets crafted by Sneap and Toontrack's sound design team. Companion to the original 2011 Metal Machine EZX, not an upgrade that replaces it. Requires EZdrummer 3.1.2+ or Superior Drummer 3.4.4+. No version number is printed in the vendor evidence read - seeded versionless; no version was inferred.",
+      "identityKind": "expansion",
+      "appleSilicon": "native",
       "popularityTier": 1
     },
     {
@@ -125546,7 +125617,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0.0.34",
       "versionSourceUrl": "https://www.kvraudio.com/product/model-e-by-steinberg",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -130435,6 +130506,27 @@
       ]
     },
     {
+      "id": "toontrack--neon-void-ekx",
+      "manufacturerId": "toontrack",
+      "name": "Neon Void EKX",
+      "matchPatterns": [
+        "Neon Void EKX",
+        "Toontrack Neon Void EKX",
+        "Neon Void"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.toontrack.com/product/neon-void-ekx/",
+      "notes": "Expansion for EZkeys 2 from Toontrack, released 10 Nov 2026 ($89). A focused toolkit for darkwave, synth-driven industrial metal and sci-fi-inspired cinematic sound design: 67 playable presets covering keys, pads, textures, leads and basses, plus subs, impacts, hits, risers and other cinematic effects. The core synth material was created using classic hardware instruments and outboard gear, then mixed, layered, saturated and sculpted; the FX combine modular synthesis with foley and contact-microphone recordings, processed with granular effects, distortion and compression. Includes a library of MIDI songs developed specifically for its sounds. Requires EZkeys 2. No version number is printed in the vendor evidence read - seeded versionless; no version was inferred.",
+      "identityKind": "expansion",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "audiority--neonverb-mv2",
       "manufacturerId": "audiority",
       "name": "NeonVerb MV2",
@@ -132593,7 +132685,7 @@
       "popularityTier": 1,
       "finalVersion": "6.8.2",
       "versionSourceUrl": "https://support.presonus.com/hc/en-us/articles/42608019438989-PreSonus-Notion-6-Announcement",
-      "versionVerifiedAt": "2026-09-14T17:48:57Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -135295,7 +135387,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.5 beta",
       "versionSourceUrl": "https://www.kvraudio.com/product/omnivocal-by-yamaha",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -143899,7 +143991,7 @@
       "popularityTier": 1,
       "latestVersion": "4.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/panshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-14T05:25:57Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 81,
       "versionConfidenceReasons": [
@@ -150621,7 +150713,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/presonus-sphere-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -151186,7 +151278,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/pro-bundle---studio-one-pro-and-notion-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -153477,6 +153569,34 @@
         "Software Version 1.0.1.6372 equals prior KVR current",
         "ASC not required — public product download listing"
       ]
+    },
+    {
+      "id": "arturia--pure-lofi",
+      "manufacturerId": "arturia",
+      "name": "Pure LoFi",
+      "matchPatterns": [
+        "Pure LoFi",
+        "Arturia Pure LoFi",
+        "Pure Lo-Fi"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.arturia.com/products/software-instruments/pure-lofi/overview",
+      "notes": "Low-fidelity synthesizer from Arturia, new in V Collection 11 (EUR 149 standalone; included in V Collection 11 Pro & Intro). Blends acoustic samples and digital oscillators with vintage-sampler charm: two parallel engine slots (Realistic Instrument, Creative Sampler, Lofi Oscillator) each with 9 hardware modes emulating vintage samplers (MPC, SP1200, CMI, SK1, EMU, Weary900 + 3 Arturia modes), a LoFi processor with 6 degradation styles, a dedicated noise engine, 3 filter types, 4 FX slots, drag-and-drop modulation, MPE and NKS support. 40+ multisampled instruments, 130+ waveforms, 130+ melodic samples, 250 presets. macOS 11+, Windows 10+ (64-bit). No version number is printed in the vendor evidence read - seeded versionless; no version was inferred.",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "strip-build-suffix",
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "universal",
+      "popularityTier": 1
     },
     {
       "id": "arturia--pure-sub",
@@ -173310,7 +173430,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.0.4",
       "versionSourceUrl": "https://gearspace.com/threads/slate-digital-fg-x-1-4-0-4-64bit-support-for-aax-au-and-vst.989892/",
-      "versionVerifiedAt": "2026-09-15T11:30:29Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 82,
       "versionConfidenceReasons": [
@@ -183020,7 +183140,7 @@
       "popularityTier": 1,
       "latestVersion": "6.6.3",
       "versionSourceUrl": "https://www.kvraudio.com/product/studio-one-artist-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -183047,7 +183167,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/studio-one-artist-vst-and-au-and-rewire-support-by-presonus",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -183818,7 +183938,7 @@
       "popularityTier": 1,
       "latestVersion": "1.05cn",
       "versionSourceUrl": "https://www.izotope.com/en/products/release-notes/",
-      "versionVerifiedAt": "2026-09-15T05:33:10Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -191677,7 +191797,7 @@
       "popularityTier": 1,
       "finalVersion": "2.0.1",
       "versionSourceUrl": "https://www.tokyodawn.net/tdr-feedback-compressor-2/",
-      "versionVerifiedAt": "2026-09-15T05:31:35Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -197865,6 +197985,25 @@
       ]
     },
     {
+      "id": "discodsp--thrillme-classic",
+      "manufacturerId": "discodsp",
+      "name": "ThrillMe Classic",
+      "matchPatterns": [
+        "ThrillMe Classic",
+        "discoDSP ThrillMe Classic"
+      ],
+      "formats": [
+        "AU",
+        "VST",
+        "VST3",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.discodsp.com/fx/",
+      "notes": "Tube compressor effect from discoDSP, added to the FX Bundle (3.15) on 1 Nov 2026. The original 2002 ThrillMe rebuilt from its own DSP: an exciter EQ, a three-band compressor with fixed attack and release per band, a peak limiter and a tube stage, followed by a lookahead true-peak limiter so the output never clips. Release runs in Classic mode (original fixed times) or as an SSL-style Auto release. Tube stage runs at 8x oversampling in realtime and 16x linear-phase when bouncing offline. Every knob takes MIDI learn and the window scales from 100% to 200%. AU, VST, VST3, AAX and standalone on macOS and Windows; VST, VST3 and standalone on Linux; Universal Binary 2 (native Intel and Apple Silicon). Part of the $99.99 FX Bundle; the bundle version (3.15) is not this component's version. No standalone version number is printed in the vendor evidence read - seeded versionless; no version was inferred. Distinct from ThrillMe 3 (discodsp--thrillme), the four-band successor in the same bundle.",
+      "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
       "id": "antares--avox-throat",
       "manufacturerId": "antares",
       "name": "Throat",
@@ -198133,7 +198272,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/timeshaper-by-cableguys",
-      "versionVerifiedAt": "2026-09-14T05:25:57Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 81,
       "versionConfidenceReasons": [
@@ -203189,6 +203328,26 @@
       "notes": "Ampbox module (in-app purchase). Fender Tweed.",
       "notesForUser": "Not yet checked against the vendor's site.",
       "popularityTier": 4
+    },
+    {
+      "id": "uvi--twin-88-keys",
+      "manufacturerId": "uvi",
+      "name": "Twin 88 Keys",
+      "matchPatterns": [
+        "Twin 88 Keys",
+        "UVI Twin 88 Keys"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.uvi.net/twin-88-keys",
+      "notes": "Sampled instrument from UVI, released Nov 2026 ($49 introductory price through 22 Nov 2026, regularly $99; also included in SonicPass). It blends a pristine concert grand (CFX, recorded in California with close, cinematic and mono microphones) with a vintage 88-key electric piano (deeply sampled in Paris on every key at multiple velocities, with mixable DI and mic signals) on a single keyboard, with blend-by-velocity, range-split and blend-by-tone modes, per-piano microphones, filters, EQ, envelope and modulation, a motion arpeggiator and effects. 11,889 samples and 121 presets, 3.9 GB (FLAC). Runs in UVI Player 5.0.2 or Falcon 27.0.2 (those are the host versions, not this instrument's version); iLok account required; macOS 10.14+, Windows 10/11. No version number is printed in the vendor evidence read - seeded versionless; no version was inferred.",
+      "identityKind": "soundset",
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "spl--twintube",
@@ -214184,7 +214343,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/vb-1-by-steinberg",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-12T17:29:39Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -214402,13 +214561,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -216579,13 +216738,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/release-notes/release-notes-for-version-2-6-41-(released-on-august-20th-2026)",
-      "versionVerifiedAt": "2026-10-01T05:25:18Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Same train verdict as softube--weiss-ds1-mk3 above."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -217145,7 +217304,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://www.izotope.com/pages/release-notes/velvet",
-      "versionVerifiedAt": "2026-09-15T05:33:53Z",
+      "versionVerifiedAt": "2026-11-13T05:38:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -218269,13 +218428,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -220499,13 +220658,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -222796,13 +222955,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -224108,13 +224267,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -224570,13 +224729,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.41",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-45-(released-on-october-7th-2026)",
-      "versionVerifiedAt": "2026-10-18T17:23:13Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-12T17:24:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Vendor RN index + 2.6.45 article body fetched first-hand 2026-10-18; train-anchor hold"
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
