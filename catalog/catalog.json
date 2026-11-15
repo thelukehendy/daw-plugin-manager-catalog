@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-14T14:09:49Z",
+  "updatedAt": "2026-11-15T14:03:53Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -2944,6 +2944,13 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "lese",
+      "name": "Lese",
+      "updatePortalUrl": "https://lese.io/",
+      "websiteUrl": "https://lese.io/",
+      "notes": "Lese Audio — small developer of creative spatial/reverb plugins (Eigen, Recurse, Herman). No dedicated update portal; updates announced on the vendor blog."
+    },
+    {
       "id": "lexicon",
       "name": "Lexicon",
       "updatePortalUrl": "https://www.flux.audio",
@@ -4412,6 +4419,13 @@
       "websiteUrl": "https://sampleroll.com"
     },
     {
+      "id": "samplescience",
+      "name": "SampleScience",
+      "updatePortalUrl": "https://www.samplescience.info/",
+      "websiteUrl": "https://www.samplescience.info/",
+      "notes": "SampleScience — small developer of sample-based instruments and effects (felt pianos, lo-fi keys). Products sold via Gumroad; no dedicated update portal; updates announced on the vendor blog."
+    },
+    {
       "id": "oas--samuel-santana",
       "name": "Samuel Santana",
       "updatePortalUrl": "https://github.com/samuelsantanaoficial/ModernKit",
@@ -5448,6 +5462,13 @@
       "notes": "Open Audio Stack registry author (FOSS)"
     },
     {
+      "id": "vir2",
+      "name": "Vir2 Instruments",
+      "updatePortalUrl": "https://www.vir2.com/",
+      "websiteUrl": "https://www.vir2.com/",
+      "notes": "Vir2 Instruments — Big Fish Audio brand; Kontakt Player virtual instrument libraries (MOJO, Apollo, Electri6ity). Storefront at bigfishaudio.com."
+    },
+    {
       "id": "vital-audio",
       "name": "Vital Audio",
       "updatePortalUrl": "https://vital.audio/",
@@ -5732,6 +5753,14 @@
       ],
       "notes": "Identity from KVR; expansions marked soundset/expansion\nApple Silicon: unknown (researched 2026-09-15). Quote: \"Xhun Audio products are natively compatible with any Intel-based Mac. Support for Apple Silicon will be introduced further. Today, several ways can be taken in order to flawlessly run Xhun Audio softwares on an ARM-based Mac (Apple Silicon): By using a tool included in macOS, cal\" (https://www.xhun-audio.com/site/xhun.php?page=support)",
       "popularityTier": 3
+    },
+    {
+      "id": "yamaha",
+      "name": "Yamaha",
+      "updatePortalUrl": "https://www.vocaloid.com/en/news/category/support/",
+      "websiteUrl": "https://www.yamaha.com/",
+      "notes": "Yamaha Corporation; parent of Steinberg. VOCALOID product line lives at vocaloid.com; update portal URL points at the VOCALOID update category page.",
+      "popularityTier": 1
     },
     {
       "id": "oas--yan-han",
@@ -18260,7 +18289,7 @@
       "popularityTier": 1,
       "latestVersion": "4.9.0",
       "versionSourceUrl": "https://www.ikmultimedia.com/news/?id=at4catalina",
-      "versionVerifiedAt": "2026-09-15T14:48:16Z",
+      "versionVerifiedAt": "2026-11-14 17:31:44",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -23187,7 +23216,7 @@
       "notes": "OAS package rty65tt/audioanalyzer",
       "latestVersion": "0.3.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rty65tt/audioanalyzer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -29811,7 +29840,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -29838,7 +29867,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -29920,7 +29949,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -29973,7 +30002,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -30000,7 +30029,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -30025,14 +30054,14 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0",
-      "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "latestVersion": "3.1",
+      "versionSourceUrl": "https://orchestraltools.helpscoutdocs.com/article/289-current-versions",
+      "versionVerifiedAt": "2026-11-14T17:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer official 'Current Versions' helpdesk page (orchestraltools.helpscoutdocs.com); page last updated 2024-09-25",
-        "SINE-collection table; parenthesized version; identity matches exactly"
+        "Official Orchestral Tools helpdesk Current Versions ledger, SINE table",
+        "Dated September 2026 entry, newer than stored 3.0"
       ]
     },
     {
@@ -30052,14 +30081,14 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0",
-      "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "latestVersion": "3.1",
+      "versionSourceUrl": "https://orchestraltools.helpscoutdocs.com/article/289-current-versions",
+      "versionVerifiedAt": "2026-11-14T17:26:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer official 'Current Versions' helpdesk page (orchestraltools.helpscoutdocs.com); page last updated 2024-09-25",
-        "SINE-collection table; parenthesized version; identity matches exactly"
+        "Official Orchestral Tools helpdesk Current Versions ledger, SINE table",
+        "Dated September 2026 entry, newer than stored 3.0"
       ]
     },
     {
@@ -30081,7 +30110,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:23Z",
+      "versionVerifiedAt": "2026-11-14 17:26:16",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -30160,7 +30189,7 @@
       "popularityTier": 1,
       "latestVersion": "2.1",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:24Z",
+      "versionVerifiedAt": "2026-11-14 17:26:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -30206,7 +30235,7 @@
       "popularityTier": 1,
       "latestVersion": "2.2",
       "versionSourceUrl": "http://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T17:44:24Z",
+      "versionVerifiedAt": "2026-11-14 17:26:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -40578,7 +40607,7 @@
       "notes": "OAS package pierreguillot/camomile",
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/pierreguillot/camomile/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -41868,7 +41897,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "https://vi-control.net/community/threads/latest-8dio-library-updates.124714/",
-      "versionVerifiedAt": "2026-09-16T20:46:45Z",
+      "versionVerifiedAt": "2026-11-14 17:31:43",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -41983,7 +42012,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1",
       "versionSourceUrl": "https://vi-control.net/community/threads/latest-8dio-library-updates.124714/",
-      "versionVerifiedAt": "2026-09-16T20:46:45Z",
+      "versionVerifiedAt": "2026-11-14 17:31:43",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -42098,7 +42127,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "https://8dio.com/products/the-new-century-solo-brass-trombone",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
@@ -42177,7 +42206,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "https://8dio.com/products/new-century-ensemble-strings-2-0-sordino",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -43828,7 +43857,7 @@
       "notes": "OAS package peastman/chorus-ex-machina",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/peastman/chorus-ex-machina/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -45870,7 +45899,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2",
       "versionSourceUrl": "https://vi-control.net/community/threads/latest-8dio-library-updates.124714/",
-      "versionVerifiedAt": "2026-09-16T20:46:45Z",
+      "versionVerifiedAt": "2026-11-14 17:31:43",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -53146,7 +53175,7 @@
       "notes": "OAS package potatoteto/dpcm-bitcrusher",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/potatoteto/dpcm-bitcrusher/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -56632,9 +56661,17 @@
       ],
       "updatePortalUrl": "https://www.accentize.com/",
       "notes": "KVR product https://www.kvraudio.com/product/dialogueenhance-by-accentize",
-      "notesForUser": "The Mac and Windows versions don't match, so no single version is shown.",
       "appleSilicon": "native",
-      "popularityTier": 2
+      "popularityTier": 2,
+      "latestVersion": "2.0.5",
+      "versionSourceUrl": "https://www.kvraudio.com/product/dialogueenhance-by-accentize/timeline",
+      "versionVerifiedAt": "2026-11-14T17:28:24Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR /timeline Latest Version Changes: macOS 2.0.5 and Windows 2.0.5, both *3 Mar 25*; prior row had no current observation. Chip-2026-11-14-0918 Lane B.",
+        "KVR-only, no vendor corroboration (Accentize user area is login-walled)"
+      ]
     },
     {
       "id": "audiothing--dials",
@@ -56877,7 +56914,7 @@
       "notes": "OAS package rsk21x/dicefx",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rsk21x/dicefx/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -58709,13 +58746,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-06T17:28:02Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -59199,12 +59237,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/dove-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/dove-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-15T05:27:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR /timeline re-sight; both OS legs agree at stored version"
       ]
     },
     {
@@ -59616,13 +59654,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-06T17:28:02Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -59651,13 +59690,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-06T17:28:02Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -59686,13 +59726,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T17:26:37Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -60968,13 +61009,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/psemiletov/drumlabooh",
       "notes": "OAS package psemiletov/drumlabooh",
-      "latestVersion": "12.2.0",
+      "latestVersion": "13.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/psemiletov/drumlabooh/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15T05:25:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS master registry and per-plugin index.json agree on 13.0.0"
       ]
     },
     {
@@ -64123,12 +64164,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ebony-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/ebony-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-15T05:27:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR /timeline re-sight; both OS legs agree at stored version"
       ]
     },
     {
@@ -64404,13 +64445,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T17:26:38Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube RN 2.6.47 All-plug-ins section re-read fresh 2026-11-05; RN index still tops at 2.6.47"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -64757,13 +64799,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T05:25:22Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -64792,13 +64835,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T05:25:22Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -66078,13 +66122,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.4",
-      "versionSourceUrl": "https://www.kvraudio.com/product/el-rey-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-07T17:23:19Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/el-rey-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-15T05:27:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (verwin); version block present Win 3.0.4 / Mac 3.0.4, matches current @60",
-        "KVR copy crawled 2026-11-07 17:22 UTC (fresh); vendor page acustica-audio.com/shop/products/elrey shows no semver — no raise"
+        "KVR /timeline re-sight; both OS legs agree at stored version"
       ]
     },
     {
@@ -66792,7 +66835,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5",
       "versionSourceUrl": "https://discuss.cakewalk.com/topic/12263-native-instruments-will-no-longer-activate-discontinued-products-after-may-31st/",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
@@ -67197,13 +67240,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/emerald-2-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-07T17:23:19Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/emerald-2-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-15T05:27:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page only (verwin); version block present Win 2.3.5 / Mac 2.3.5, matches current @60",
-        "KVR copy crawled 2026-11-07 17:22 UTC (fresh); vendor old store URL 404s, no semver found — no raise"
+        "KVR /timeline re-sight; both OS legs agree at stored version"
       ]
     },
     {
@@ -67443,13 +67485,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T05:25:23Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -67478,13 +67521,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T05:25:23Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -67513,13 +67557,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T05:25:23Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-14T17:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "RN 2.6.47 All plug-ins section; train pivot 2.6.41 to 2.6.47, same blanket-change class as 2.6.46"
+        "Official Softube release notes for version 2.6.48 (released November 11, 2026), All plug-ins section",
+        "Train-anchor rule: All plug-ins section covers all Softube component rows"
       ]
     },
     {
@@ -67943,13 +67988,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/quamplex/entropictron",
       "notes": "OAS package quamplex/entropictron",
-      "latestVersion": "1.2.0",
+      "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/quamplex/entropictron/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15T05:25:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS master registry and per-plugin index.json agree on 1.3.0"
       ]
     },
     {
@@ -68398,13 +68443,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T17:23:10Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -68982,7 +69027,7 @@
       "popularityTier": 1,
       "latestVersion": "2.0",
       "versionSourceUrl": "https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/play-series/ETHEREAL_EARTH_Manual_English_05_10_2020.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -71063,13 +71108,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T17:23:11Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -71098,13 +71143,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T17:23:11Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -73006,7 +73051,7 @@
       "notes": "OAS package rudro085/facemelter",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rudro085/facemelter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -75676,13 +75721,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T17:23:11Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -75711,13 +75756,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-07T17:23:11Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Manufacturer release notes"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -80149,13 +80194,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/quamplex/geonkick",
       "notes": "OAS package quamplex/geonkick",
-      "latestVersion": "3.7.0",
+      "latestVersion": "3.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/quamplex/geonkick/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15T05:25:54Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS master registry and per-plugin index.json agree on 3.9.0"
       ]
     },
     {
@@ -80187,7 +80232,7 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/george-duke-soul-treasures-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -80465,7 +80510,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/play-series/GLAZE_Manual_English_15_07_2021.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -80501,7 +80546,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/glaze-2-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -84966,7 +85011,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://cdn.uvi.net/UVISC120_Hx-20/manuals/20250603_145829/HX-20_manual_en.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -84994,7 +85039,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://uvi.s3.amazonaws.com/Manuals/hx-oddy_manual.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -87731,6 +87776,21 @@
       "identityKind": "soundset",
       "appleSilicon": "native",
       "popularityTier": 2
+    },
+    {
+      "id": "lese--herman",
+      "manufacturerId": "lese",
+      "name": "Herman",
+      "matchPatterns": [
+        "Herman"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://lese.io/plugin/herman",
+      "notes": "Self-reprocessing reverb plugin; contour processors morph the reverb tail over time, with MIDI control via the Bloom effect. Released 11 November 2026. Vendor page: https://lese.io/plugin/herman"
     },
     {
       "id": "airwindows--hermetrim",
@@ -92683,6 +92743,21 @@
       ]
     },
     {
+      "id": "samplescience--hush-piano",
+      "manufacturerId": "samplescience",
+      "name": "Hush Piano",
+      "matchPatterns": [
+        "Hush Piano"
+      ],
+      "formats": [
+        "VST",
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.samplescience.info/2026/11/hush-piano.html",
+      "notes": "Felt piano instrument with built-in distortion, delay, chorus, reverb and multi-LFO; 1.18 GB of samples. Released 12 November 2026. Vendor page: https://www.samplescience.info/2026/11/hush-piano.html"
+    },
+    {
       "id": "uvi--hybrid-6000",
       "manufacturerId": "uvi",
       "name": "Hybrid 6000",
@@ -93416,7 +93491,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://uvi.s3.amazonaws.com/Manuals/hypnotic-dive_manual.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -95310,7 +95385,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/india-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-14 17:27:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -95964,7 +96039,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://uvi.s3.amazonaws.com/FCX19-Inner_Dimensions/inner-dimensions_manual.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 88,
       "versionConfidenceReasons": [
@@ -97872,7 +97947,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.native-instruments.com/fileadmin/ni_media/downloads/manuals/Jacob_Collier_Audience_Choir/Jacob_Collier_Audience_Choir_Manual_27_02_24.pdf",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -99895,7 +99970,7 @@
       "notes": "OAS package quentinfaidide/kholorsstation",
       "latestVersion": "1.26.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/quentinfaidide/kholorsstation/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -100341,7 +100416,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/kinetic-metal-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -103180,7 +103255,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/lores-by-native-instruments/details",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -106442,7 +106517,7 @@
       "notes": "OAS package psyberfly/librekick",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/psyberfly/librekick/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -106716,13 +106791,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T17:24:36Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -106751,13 +106826,13 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T17:24:36Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -109176,7 +109251,7 @@
       "notes": "OAS package rbmannchued/looperpedal",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rbmannchued/looperpedal/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -109802,7 +109877,7 @@
       "notes": "OAS package pixelsncodes/lumen",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/pixelsncodes/lumen/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -112242,13 +112317,14 @@
       "requiresIlok": true,
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.1.1",
-      "versionSourceUrl": "https://www.plugin-alliance.com/en/products/mega_sampler.html",
-      "versionVerifiedAt": "2026-09-15T14:50:11Z",
+      "latestVersion": "1.2.0",
+      "versionSourceUrl": "https://www.kvraudio.com/product/mega-sampler-by-plugin-alliance/timeline",
+      "versionVerifiedAt": "2026-11-14T17:28:25Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 55,
+      "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "last observed on PA product page; source URL now dead (2026-09-28): /products/mega-sampler 404, legacy URL redirects to online-sample-player page with no version string. 1.1.1 retained as historical figure (55)"
+        "KVR /timeline top entry, both OSes at 1.2.0, dated 15 Jul 2026",
+        "PA product page carries no versioned changelog field this chip; KVR is the only first-hand version source"
       ]
     },
     {
@@ -113516,13 +113592,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/valsteen/midi_bpm_detection",
       "notes": "OAS package valsteen/midi-bpm-detection",
-      "latestVersion": "0.1.0",
+      "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/valsteen/midi-bpm-detection/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:44Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry vendorFeed (manufacturer-feed) with clear version"
       ]
     },
     {
@@ -114827,6 +114903,23 @@
       "identityKind": "soundset",
       "appleSilicon": "mixed",
       "popularityTier": 1
+    },
+    {
+      "id": "vir2--mojo-flutes",
+      "manufacturerId": "vir2",
+      "name": "MOJO: Flutes",
+      "matchPatterns": [
+        "MOJO: Flutes",
+        "MOJO Flutes"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.bigfishaudio.com/MOJO-Flutes",
+      "notes": "Jazz flute virtual instrument for Kontakt Player: concert and alto flutes, 22 articulations with true legato. Released 13 November 2026. Requires Kontakt 7.10.9 or Kontakt 7 Player. Vendor page: https://www.bigfishaudio.com/MOJO-Flutes",
+      "identityKind": "soundset"
     },
     {
       "id": "meldaproduction--moscillator",
@@ -118074,7 +118167,7 @@
       "notes": "OAS package reece4000/macro-oscillator",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reece4000/macro-oscillator/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -118151,18 +118244,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/magenta-5-by-acustica-audio",
+      "latestVersionMac": "3.0.2",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.2 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/magenta-5-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "latestVersion": "3.0.2",
+      "versionSourceUrl": "https://www.kvraudio.com/product/magenta-5-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-14T17:28:24Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR /timeline Latest Version Changes: macOS 3.0.2 (from 3.0.0) *22 Nov 24*; Windows 3.0.0 (from 2.3.5) *11 Nov 24* — genuine per-OS split; pointer = max 3.0.2. Chip-2026-11-14-0918 Lane B.",
+        "KVR-only, no vendor corroboration (Acustica pages print no semver)"
       ]
     },
     {
@@ -118973,6 +119069,32 @@
       "versionConfidence": 92,
       "versionConfidenceReasons": [
         "Polyverse update page \"Current versions: Manipulator v1.4.9\""
+      ]
+    },
+    {
+      "id": "plugin-alliance--manley-ecliptic",
+      "manufacturerId": "plugin-alliance",
+      "name": "Manley ecliptic",
+      "matchPatterns": [
+        "Manley ecliptic"
+      ],
+      "formats": [
+        "AAX",
+        "AU",
+        "VST3"
+      ],
+      "updatePortalUrl": "https://www.plugin-alliance.com/products/manley-ecliptic",
+      "notes": "Manley's first original EQ plugin; parallel saturating variable Mid/Side mastering EQ with analog transformer models. Released 12 November 2026, $99.99. Vendor page: https://www.plugin-alliance.com/products/manley-ecliptic",
+      "appleSilicon": "native",
+      "popularityTier": 1,
+      "latestVersion": "1.0.0",
+      "versionSourceUrl": "https://www.plugin-alliance.com/products/manley-ecliptic",
+      "versionVerifiedAt": "2026-11-15T05:28:05Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 92,
+      "versionConfidenceReasons": [
+        "Manufacturer product page changelog lists Version 1.0.0 (Nov 12, 2026) - Initial Release",
+        "First-hand vendor evidence on plugin-alliance.com"
       ]
     },
     {
@@ -121069,7 +121191,7 @@
       "notes": "OAS package rclement/meeblip-controller",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rclement/meeblip-controller/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126199,7 +126321,7 @@
       "notes": "OAS package rochen-sound-collective/modular-collection",
       "latestVersion": "0.1.0-beta.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rochen-sound-collective/modular-collection/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126841,13 +126963,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T17:24:35Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -127771,7 +127893,7 @@
       "notes": "OAS package polygon/mucap",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/polygon/mucap/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128625,7 +128747,7 @@
       "notes": "OAS package realsigmamusic/mydrum7",
       "latestVersion": "1.5.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/realsigmamusic/mydrum7/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128723,12 +128845,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/mystic-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/mystic-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-15T05:27:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR /timeline re-sight; both OS legs agree at stored version"
       ]
     },
     {
@@ -130868,7 +130990,7 @@
       "notes": "OAS package rodrigodzf/neuralresonatorvst",
       "latestVersion": "0.1.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rodrigodzf/neuralresonatorvst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -132255,7 +132377,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.1",
       "versionSourceUrl": "http://kvraudio.com/product/noire-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:46Z",
+      "versionVerifiedAt": "2026-11-14 17:27:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -133501,7 +133623,7 @@
       "notes": "OAS package reales/ob-xd",
       "latestVersion": "3.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reales/ob-xd/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133972,7 +134094,7 @@
       "notes": "OAS package reales/opl",
       "latestVersion": "2.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reales/opl/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -135008,7 +135130,7 @@
       "notes": "OAS package publicsamples/oi-grandad",
       "latestVersion": "2.4.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/publicsamples/oi-grandad/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -137907,7 +138029,7 @@
       "notes": "OAS package pentagrampro/owlbass",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/pentagrampro/owlbass/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -144590,13 +144712,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T17:24:35Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -146821,12 +146943,9 @@
         "iZotope Photon"
       ],
       "updatePortalUrl": "https://www.izotope.com/products/photon",
-      "notes": "Standalone app and ARA2 plugin from iZotope (Boris FX) for AI stem separation and audio cleanup; models run locally on your GPU. Formerly CrumplePop SoundApp; launched 3 November 2026. No version number is printed on the vendor product page — seeded versionless.",
-      "identityKeys": {
-        "bundleIds": [
-          "com.borisfx.crumplepop.soundapp-ara"
-        ]
-      }
+      "notes": "Standalone app and ARA2 plugin from iZotope (Boris FX) for AI stem separation and audio cleanup; models run locally on your GPU. Formerly CrumplePop SoundApp; launched 3 November 2026. No version number is printed on the vendor product page — seeded versionless. Duplicate row merged into izotope--photon 2026-11-14 (operator decision; vendor page brands it iZotope Photon, continued development of SoundApp). BundleId moved to the surviving row.",
+      "successorPluginId": "izotope--photon",
+      "supersededByPluginId": "izotope--photon"
     },
     {
       "id": "izotope--photon",
@@ -146834,14 +146953,20 @@
       "name": "Photon",
       "matchPatterns": [
         "Photon",
-        "iZotope Photon"
+        "iZotope Photon",
+        "Photon ARA2"
       ],
       "formats": [
         "ARA2",
         "Standalone"
       ],
       "updatePortalUrl": "https://www.izotope.com/products/photon",
-      "notes": "Standalone app and ARA2 plugin from iZotope, launched 3 Nov 2026 ($349; introductory $259 through 7 Dec 2026): AI stem separation and audio cleanup with 12 custom-trained models (6 demix, 6 denoise) running locally on the GPU - no uploads, no usage caps. ARA2 plugin only: no VST3, AU or AAX insert version; works in Pro Tools, REAPER, Cubase and other ARA2 hosts (plus Sequoia and Samplitude on Windows). macOS 14 or later on Apple silicon only; Windows 10 or later 64-bit with a GPU with at least 4 GB VRAM. First iZotope product installed via the Boris FX Hub. No version number is printed on the vendor product page - seeded versionless; no version was inferred.",
+      "notes": "Standalone app and ARA2 plugin from iZotope, launched 3 Nov 2026 ($349; introductory $259 through 7 Dec 2026): AI stem separation and audio cleanup with 12 custom-trained models (6 demix, 6 denoise) running locally on the GPU - no uploads, no usage caps. ARA2 plugin only: no VST3, AU or AAX insert version; works in Pro Tools, REAPER, Cubase and other ARA2 hosts (plus Sequoia and Samplitude on Windows). macOS 14 or later on Apple silicon only; Windows 10 or later 64-bit with a GPU with at least 4 GB VRAM. First iZotope product installed via the Boris FX Hub. No version number is printed on the vendor product page - seeded versionless; no version was inferred. Scan bundleId com.borisfx.crumplepop.soundapp-ara carried over from borisfx--photon on twin merge 2026-11-14 (legacy CrumplePop SoundApp ID; installs via Boris FX Hub).",
+      "identityKeys": {
+        "bundleIds": [
+          "com.borisfx.crumplepop.soundapp-ara"
+        ]
+      },
       "appleSilicon": "mixed",
       "popularityTier": 1
     },
@@ -149759,7 +149884,7 @@
       "notes": "OAS package potr-soft/chord-filter",
       "latestVersion": "0.0.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/potr-soft/chord-filter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -151163,7 +151288,7 @@
       "notes": "OAS package powerpcme/prism",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/powerpcme/prism/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -154876,7 +155001,7 @@
       "notes": "OAS package qvbdev/quantumverb",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/qvbdev/quantumverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -155044,7 +155169,7 @@
       "notes": "OAS package publicsamples/quetzalcoatl",
       "latestVersion": "0.8.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/publicsamples/quetzalcoatl/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -155482,7 +155607,7 @@
       "notes": "OAS package rcjach/rcsiner",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rcjach/rcsiner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -156325,7 +156450,7 @@
       "notes": "OAS package reillypascal/rsalgorithmicverb",
       "latestVersion": "0.5.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reillypascal/rsalgorithmicverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -156345,7 +156470,7 @@
       "notes": "OAS package reillypascal/rsbrokenmedia",
       "latestVersion": "0.3.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/reillypascal/rsbrokenmedia/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -159176,7 +159301,7 @@
       "popularityTier": 1,
       "latestVersion": "1.7.1",
       "versionSourceUrl": "http://www.kvraudio.com/product/razor-by-native-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -163406,7 +163531,7 @@
       "notes": "OAS package prg318/ripchord",
       "latestVersion": "2.8.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/prg318/ripchord/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -169597,7 +169722,7 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/scarbee_jay_bass_by_native_instruments_ni",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -170901,7 +171026,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/session-guitarist---electric-mint-by-native-instruments/details",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -171058,7 +171183,7 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/session-horns-by-e-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -171095,7 +171220,7 @@
       "popularityTier": 1,
       "latestVersion": "1.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/session-horns-pro-by-e-instruments",
-      "versionVerifiedAt": "2026-09-16T20:46:47Z",
+      "versionVerifiedAt": "2026-11-15 05:28:25",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
@@ -171269,13 +171394,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/rullopat/sfizioso-player",
       "notes": "OAS package rullopat/sfizioso-player",
-      "latestVersion": "0.11.0",
+      "latestVersion": "0.12.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rullopat/sfizioso-player/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:50Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry vendorFeed (manufacturer-feed) with clear version"
       ]
     },
     {
@@ -175550,7 +175675,7 @@
       "notes": "OAS package peastman/sonatina-symphonic-orchestra",
       "latestVersion": "4.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/peastman/sonatina-symphonic-orchestra/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -178201,7 +178326,7 @@
       "notes": "OAS package pschaupp/spectral-abyss-multiband-saturation",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/pschaupp/spectral-abyss-multiband-saturation/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -180455,13 +180580,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-04T17:24:35Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-15T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Softube 2.6.47 release-notes All-plug-ins train adoption"
+        "Vendor release-notes train anchor: 2.6.48 'All plug-ins:' section covers all component rows"
       ]
     },
     {
@@ -185463,7 +185588,7 @@
       "notes": "OAS package resonantdsp/swankyamp",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/resonantdsp/swankyamp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -199968,7 +200093,7 @@
       "notes": "OAS package rerdavies/toobamp",
       "latestVersion": "1.2.77",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rerdavies/toobamp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -203217,7 +203342,7 @@
       "notes": "OAS package paynebc/tunefish",
       "latestVersion": "4.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/paynebc/tunefish/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -209094,6 +209219,25 @@
       ]
     },
     {
+      "id": "universal-audio--uadx-cooper-time-cube",
+      "manufacturerId": "universal-audio",
+      "name": "UADx Cooper Time Cube Delay",
+      "matchPatterns": [
+        "UADx Cooper Time Cube Delay",
+        "UAD Cooper Time Cube Delay",
+        "Cooper Time Cube Delay"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.uaudio.com/downloads/ua-connect/",
+      "notes": "Vendor product page https://www.uaudio.com/products/cooper-time-cube — native (UADx) version of the garden-hose mechanical delay; dual delay lines with tempo sync. Released 10 November 2026, $99 ($49 intro; $1 with any $29+ purchase until 30 Nov 2026), incl. in UAD Spark Studio. Distinct from the UAD DSP row UAD Cooper Time Cube MkII.",
+      "appleSilicon": "native",
+      "popularityTier": 1
+    },
+    {
       "id": "universal-audio--uadx-dream-65-reverb-amplifier",
       "manufacturerId": "universal-audio",
       "name": "UADx Dream '65 Reverb Amplifier",
@@ -214581,7 +214725,7 @@
       "popularityTier": 1,
       "latestVersion": "1.4.11",
       "versionSourceUrl": "https://www.native-instruments.com/en/products/komplete/effects/vc-160/?tx_rsmdemodownload_pi1[action]=show&tx_rsmdemodownload_pi1[controller]=Demo",
-      "versionVerifiedAt": "2026-09-16T17:39:07Z",
+      "versionVerifiedAt": "2026-11-14 17:27:17",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
@@ -215511,6 +215655,23 @@
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
       ]
+    },
+    {
+      "id": "yamaha--vocaloid7",
+      "manufacturerId": "yamaha",
+      "name": "VOCALOID7 Editor",
+      "matchPatterns": [
+        "VOCALOID7 Editor",
+        "VOCALOID7"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://www.vocaloid.com/en/news/category/support/",
+      "notes": "Singing voice synthesis editor with second-generation VOCALOID:AI engine; VST3/AU/ARA2 and standalone. Released 11 November 2026. Includes the asa voicebank and Cubase AI. Vendor page: https://www.vocaloid.com/en/vocaloid7/",
+      "generation": "7",
+      "popularityTier": 1
     },
     {
       "id": "arturia--vox-continental-v",
@@ -219014,7 +219175,7 @@
       "notes": "OAS package peastman/viola-ex-machina",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/peastman/viola-ex-machina/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -222042,7 +222203,7 @@
       "notes": "OAS package quentinstoll/vstprofiler",
       "latestVersion": "2026.7.15-112",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/quentinstoll/vstprofiler/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -226297,7 +226458,7 @@
       "notes": "OAS package raphaelradna/xenos",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/raphaelradna/xenos/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -226473,7 +226634,7 @@
       "notes": "OAS package publicsamples/xolotl",
       "latestVersion": "0.9.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/publicsamples/xolotl/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-15 05:26:17",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
