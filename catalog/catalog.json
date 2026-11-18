@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-17T14:05:01Z",
+  "updatedAt": "2026-11-18T14:04:40Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -7276,7 +7276,7 @@
       "notes": "OAS package luna-co-software/4k-eq",
       "latestVersion": "1.0.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/luna-co-software/4k-eq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -7799,7 +7799,7 @@
       "notes": "OAS package jamesstubbseng/8ridgelite",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jamesstubbseng/8ridgelite/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -8107,7 +8107,7 @@
       "notes": "OAS package danielrudrich/abcomparisonplugin",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/danielrudrich/abcomparisonplugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:37Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -8362,7 +8362,7 @@
       "notes": "OAS package jpcima/adlplug",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jpcima/adlplug/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -8690,7 +8690,7 @@
       "notes": "OAS package spotlightkid/adt",
       "latestVersion": "0.2.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/adt/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -10243,7 +10243,7 @@
       "notes": "OAS package studiorack/avl-drumkits",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/studiorack/avl-drumkits/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -10263,7 +10263,7 @@
       "notes": "OAS package studiorack/avl-percussions",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/studiorack/avl-percussions/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -14237,7 +14237,7 @@
       "notes": "OAS package dougal-s/aether",
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dougal-s/aether/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -14591,7 +14591,7 @@
       "notes": "OAS package airwindows/airwindows",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/airwindows/airwindows/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -15996,7 +15996,7 @@
       "notes": "OAS package iamlamprey/altar",
       "latestVersion": "0.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/iamlamprey/altar/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -19871,7 +19871,7 @@
       "notes": "OAS package filter87/vst-analogchannel",
       "latestVersion": "0.6.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/filter87/vst-analogchannel/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -20104,7 +20104,7 @@
       "notes": "OAS package harsha-vardhan-r/analytiks",
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/harsha-vardhan-r/analytiks/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -22430,7 +22430,7 @@
       "notes": "OAS package spatian-dev/artix",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spatian-dev/artix/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -23180,7 +23180,7 @@
       "notes": "OAS package gregrecco67/audibleplanets",
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gregrecco67/audibleplanets/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -23240,13 +23240,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/flarkflarkflark/AudioRestorationVST",
       "notes": "OAS package flarkflarkflark/audiorestorationvst",
-      "latestVersion": "1.6.35",
+      "latestVersion": "1.6.36",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/flarkflarkflark/audiorestorationvst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:35:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.6.36 vs stored 1.6.35",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -25190,7 +25191,7 @@
       "notes": "OAS package sjaehn/bangr",
       "latestVersion": "1.6.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bangr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -25210,7 +25211,7 @@
       "notes": "OAS package sjaehn/bchoppr",
       "latestVersion": "1.12.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bchoppr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -25255,7 +25256,7 @@
       "notes": "OAS package sjaehn/bjumblr",
       "latestVersion": "1.6.8",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bjumblr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -25275,7 +25276,7 @@
       "notes": "OAS package sjaehn/boops",
       "latestVersion": "1.8.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/boops/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -25295,7 +25296,7 @@
       "notes": "OAS package sjaehn/bschaffl",
       "latestVersion": "1.4.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bschaffl/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -25315,7 +25316,7 @@
       "notes": "OAS package sjaehn/bvibratr",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bvibratr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -26598,7 +26599,7 @@
       "notes": "OAS package sjaehn/bsequencer",
       "latestVersion": "1.8.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjaehn/bsequencer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -26793,7 +26794,7 @@
       "popularityTier": 2,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/byod/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -27265,7 +27266,7 @@
       "notes": "OAS package jsvaldezv/banana-split",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jsvaldezv/banana-split/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -27986,7 +27987,7 @@
       "notes": "OAS package gmoican/basspreamp",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/basspreamp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -28599,7 +28600,7 @@
       "notes": "OAS package sfzinstruments/bear-sax",
       "latestVersion": "1004.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/bear-sax/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -28785,7 +28786,7 @@
       "notes": "OAS package innermost47/beatcrafter",
       "latestVersion": "13.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/innermost47/beatcrafter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -28833,7 +28834,7 @@
       "notes": "OAS package lbartoletti/beatit",
       "latestVersion": "0.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lbartoletti/beatit/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -29439,7 +29440,7 @@
       "notes": "OAS package tphbrok/beatrec",
       "latestVersion": "0.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tphbrok/beatrec/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -30427,7 +30428,7 @@
       "popularityTier": 2,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/bespokesynth/bespokesynth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -31270,7 +31271,7 @@
       "notes": "OAS package ewonrael/billiedrum",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ewonrael/billiedrum/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -32191,7 +32192,7 @@
       "notes": "OAS package killbizz/biztortion",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/killbizz/biztortion/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -32485,7 +32486,7 @@
       "notes": "OAS package sfzinstruments/black-and-green-guitars",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/black-and-green-guitars/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -32531,7 +32532,7 @@
       "notes": "OAS package khrykin/blackbird",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/khrykin/blackbird/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -35290,7 +35291,7 @@
       "notes": "OAS package filipeborato/borato-224",
       "latestVersion": "0.0.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/filipeborato/borato-224/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -35574,6 +35575,31 @@
       "notesForUser": "Not yet checked against the vendor's site.",
       "identityKind": "soundset",
       "popularityTier": 2
+    },
+    {
+      "id": "deadsignalaudio--brace",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Brace",
+      "matchPatterns": [
+        "Brace",
+        "Dead Signal Brace"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/brace/",
+      "notes": "Mono-safety guard that narrows the side signal only when correlation falls below your threshold, with low mono, a goniometer, and a mono-loss readout. $15 one time, no trial. Mac AU/VST3 and Windows VST3, with AAX for Mac as a separate download. Version 0.1.0 per the vendor changelog, November 10, 2026.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/changelog/",
+      "versionVerifiedAt": "2026-11-17T17:25:12Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor changelog first-hand 2026-11-17: 0.1.0 Nov 10, 2026 first release",
+        "Product page confirms out now, Mac AU/VST3 + Windows VST3, 5"
+      ]
     },
     {
       "id": "oas--masseyis-braids-vst",
@@ -35988,7 +36014,7 @@
       "notes": "OAS package juansetarros/breakdowner",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/juansetarros/breakdowner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -36926,7 +36952,7 @@
       "notes": "OAS package fsecada01/bus-channel-strip",
       "latestVersion": "0.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/fsecada01/bus-channel-strip/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -37906,7 +37932,7 @@
       "popularityTier": 2,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/chow/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -37928,7 +37954,7 @@
       "popularityTier": 2,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/chowmatrix/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -38721,7 +38747,7 @@
       "notes": "OAS package calgoheen/crasshhfy",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/calgoheen/crasshhfy/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:21Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -39012,7 +39038,7 @@
       "notes": "OAS package billydm/ctagdrc",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/billydm/ctagdrc/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -41250,7 +41276,7 @@
       "notes": "OAS package falktx/carla",
       "latestVersion": "2.5.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/falktx/carla/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -41430,7 +41456,7 @@
       "notes": "OAS package lucianoiam/castello",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lucianoiam/castello/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -42395,7 +42421,7 @@
       "notes": "OAS package guitarml/chameleon",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/guitarml/chameleon/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -44067,7 +44093,7 @@
       "popularityTier": 2,
       "latestVersion": "2.11.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/chowtapemodel/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -44111,7 +44137,7 @@
       "popularityTier": 2,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/chowkick/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -44133,7 +44159,7 @@
       "popularityTier": 2,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chowdhury-dsp/chowmultitool/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -45786,7 +45812,7 @@
       "notes": "OAS package gulldsp/circulate-vst",
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gulldsp/circulate-vst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -46949,7 +46975,7 @@
       "notes": "OAS package xunil-cloud/cloudreverb",
       "latestVersion": "0.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/xunil-cloud/cloudreverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -46969,7 +46995,7 @@
       "notes": "OAS package valdemarorn/cloudseed",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/valdemarorn/cloudseed/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -47267,7 +47293,7 @@
       "notes": "OAS package toni-lyttinen/cognitoniblkfx",
       "latestVersion": "0.2.0-alpha",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/toni-lyttinen/cognitoniblkfx/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -49612,7 +49638,7 @@
       "notes": "OAS package lucianoiam/consul",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lucianoiam/consul/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -49778,7 +49804,7 @@
       "notes": "OAS package imjimmi/contrast",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/imjimmi/contrast/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -50862,7 +50888,7 @@
       "notes": "OAS package herzplatinedurchgebrannt/juce-crispy-linux",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/herzplatinedurchgebrannt/juce-crispy-linux/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -50910,7 +50936,7 @@
       "notes": "OAS package erroreyes/crrshrr",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/erroreyes/crrshrr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -51209,7 +51235,7 @@
       "notes": "OAS package vitling/crypt",
       "latestVersion": "2.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vitling/crypt/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -51279,7 +51305,7 @@
       "notes": "OAS package icebreakeraudio/crystal-bowie",
       "latestVersion": "0.8.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/icebreakeraudio/crystal-bowie/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -51441,7 +51467,7 @@
       "notes": "OAS package damiensellier/ctrlrx",
       "latestVersion": "5.6.35",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/damiensellier/ctrlrx/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:21Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -52338,7 +52364,7 @@
       "notes": "OAS package eyaldelarea/cycloscope",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/eyaldelarea/cycloscope/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -52759,7 +52785,7 @@
       "notes": "OAS package wheatbread1306/dcoffsetter",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wheatbread1306/dcoffsetter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:04Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -52898,7 +52924,7 @@
       "notes": "OAS package spotlightkid/dfjpverb",
       "latestVersion": "0.2.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/dfjpverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -52918,7 +52944,7 @@
       "notes": "OAS package spotlightkid/dfzitarev1",
       "latestVersion": "0.2.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/dfzitarev1/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -53248,7 +53274,7 @@
       "notes": "OAS package distrho/dpf-plugins",
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/distrho/dpf-plugins/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -54328,7 +54354,7 @@
       "notes": "OAS package igorski/darvaza",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/darvaza/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -55999,7 +56025,7 @@
       "notes": "OAS package igorski/delirion",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/delirion/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -56552,7 +56578,7 @@
       "notes": "OAS package juanmalopezg/de-lio",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/juanmalopezg/de-lio/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -58102,7 +58128,7 @@
       "notes": "OAS package dimethoxy/disflux",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dimethoxy/disflux/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -58471,7 +58497,7 @@
       "notes": "OAS package gmoican/distortiondesigner",
       "latestVersion": "0.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/distortiondesigner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -58787,7 +58813,7 @@
       "notes": "OAS package datanoisetv/doobie",
       "latestVersion": "0.25.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/datanoisetv/doobie/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:37Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -59164,7 +59190,7 @@
       "notes": "OAS package sfzinstruments/double-bass",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/double-bass/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -60384,7 +60410,7 @@
       "notes": "OAS package clearly-broken-software/drops",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/clearly-broken-software/drops/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -60621,7 +60647,7 @@
       "notes": "OAS package chmod666music/drumcloud",
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chmod666music/drumcloud/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -60667,7 +60693,7 @@
       "notes": "OAS package wamphyre/drumcraker",
       "latestVersion": "1.3.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wamphyre/drumcraker/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -60712,7 +60738,7 @@
       "notes": "OAS package intoetherion/drumgroovepro",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/intoetherion/drumgroovepro/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -61780,7 +61806,7 @@
       "notes": "OAS package jsvaldezv/duck-sampler",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jsvaldezv/duck-sampler/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -61800,7 +61826,7 @@
       "notes": "OAS package jsvaldezv/duck-synth",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jsvaldezv/duck-synth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -61990,7 +62016,7 @@
       "notes": "OAS package everither/dust-saturator",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/everither/dust-saturator/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -62437,7 +62463,7 @@
       "notes": "OAS package vertver/dynation",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vertver/dynation/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -63814,7 +63840,7 @@
       "notes": "OAS package lluisestape-upc/basiclimiter",
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lluisestape-upc/basiclimiter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -68471,7 +68497,7 @@
       "notes": "OAS package egor-sm/equalize-it",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/egor-sm/equalize-it/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:46Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -68712,7 +68738,7 @@
       "notes": "OAS package interspectral6/erode",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/interspectral6/erode/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -73525,7 +73551,7 @@
       "notes": "OAS package juho/ft2-plugin",
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/juho/ft2-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -75238,18 +75264,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/fire-the-clip-by-acustica-audio",
+      "latestVersionMac": "3.0.1",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fire-the-clip-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "latestVersion": "3.0.1",
+      "versionSourceUrl": "https://www.kvraudio.com/product/fire-the-clip-by-acustica-audio/details",
+      "versionVerifiedAt": "2026-11-18T05:25:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page verwin/vermac (crowdsourced)",
+        "Per-OS split: Mac 3.0.1 newer than Windows 3.0.0; headline is newest across OSes per per-OS rule"
       ]
     },
     {
@@ -75663,7 +75692,7 @@
       "notes": "OAS package sjoerdvankreel/firefly-synth-2",
       "latestVersion": "2.1.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sjoerdvankreel/firefly-synth-2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -76132,13 +76161,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/floe-audio/Floe",
       "notes": "OAS package floe-audio/floe",
-      "latestVersion": "2.0.1",
+      "latestVersion": "2.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/floe-audio/floe/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:35:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 2.0.5 vs stored 2.0.1",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -76341,7 +76371,7 @@
       "notes": "OAS package cannerycoders/fluidsynth.clap",
       "latestVersion": "0.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cannerycoders/fluidsynth.clap/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -76668,7 +76698,7 @@
       "notes": "OAS package igorski/fogpad",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/fogpad/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -76688,7 +76718,7 @@
       "notes": "OAS package sout233/folder",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sout233/folder/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -77731,7 +77761,7 @@
       "notes": "OAS package garebear99/freeeq8",
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/garebear99/freeeq8/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -77856,7 +77886,7 @@
       "notes": "OAS package gluton-official/freqchain",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gluton-official/freqchain/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -78475,7 +78505,7 @@
       "notes": "OAS package blubass/funky-moose-rootflow-synth",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/blubass/funky-moose-rootflow-synth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -78495,7 +78525,7 @@
       "notes": "OAS package blubass/funkymooseviz",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/blubass/funkymooseviz/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -78721,7 +78751,7 @@
       "notes": "OAS package fake-industries/fuzzball",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/fake-industries/fuzzball/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -79875,7 +79905,7 @@
       "notes": "OAS package lukemcraig/dafx19-gamelanizer",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lukemcraig/dafx19-gamelanizer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -80582,7 +80612,7 @@
       "notes": "OAS package freepats/glasses-of-water",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/freepats/glasses-of-water/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -80808,7 +80838,7 @@
       "notes": "OAS package titanchariotsbb/glorious",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/titanchariotsbb/glorious/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:08Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -80866,7 +80896,7 @@
       "notes": "OAS package crowbait/gnomedistort-2",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/crowbait/gnomedistort-2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:21Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -81876,7 +81906,7 @@
       "notes": "OAS package s-oram/grace",
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/s-oram/grace/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -83030,7 +83060,7 @@
       "notes": "OAS package gmoican/guitpreamp",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/guitpreamp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -83319,7 +83349,7 @@
       "notes": "OAS package duncanwold/guitarvocoder",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/duncanwold/guitarvocoder/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -83361,7 +83391,7 @@
       "notes": "OAS package tobiaskozel/guitard",
       "latestVersion": "0.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tobiaskozel/guitard/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:08Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -83397,7 +83427,7 @@
       "notes": "OAS package geraldmwangi/guitarmidi-lv2",
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/geraldmwangi/guitarmidi-lv2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -85027,7 +85057,7 @@
       "notes": "OAS package christoskonstantas/htekdistortion",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/christoskonstantas/htekdistortion/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -85589,7 +85619,7 @@
       "notes": "OAS package davit-g/hamburger",
       "latestVersion": "0.7.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/davit-g/hamburger/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -85804,7 +85834,7 @@
       "notes": "OAS package eulmour/handyosc",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/eulmour/handyosc/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -85824,7 +85854,7 @@
       "notes": "OAS package freepats/hang-d-minor",
       "latestVersion": "20220330.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/freepats/hang-d-minor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -86180,7 +86210,7 @@
       "notes": "OAS package brummer10/harmonicexciter",
       "latestVersion": "2022.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/brummer10/harmonicexciter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -86253,7 +86283,7 @@
       "notes": "OAS package sreyasaju/harmonize",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sreyasaju/harmonize/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -92178,7 +92208,7 @@
       "notes": "OAS package igorski/homecorrupter",
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/homecorrupter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -92409,7 +92439,7 @@
       "notes": "OAS package sfzinstruments/horse-pulse",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/horse-pulse/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -92607,7 +92637,7 @@
       "notes": "OAS package bljustice/hue",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/bljustice/hue/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -92841,7 +92871,7 @@
       "notes": "OAS package sfzinstruments/hungarian-zither",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/hungarian-zither/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -94218,7 +94248,7 @@
       "notes": "OAS package tucktuckg00se/intersect",
       "latestVersion": "0.15.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tucktuckg00se/intersect/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -96440,7 +96470,7 @@
       "notes": "OAS package hariel1985/instawidth",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hariel1985/instawidth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97533,7 +97563,7 @@
       "notes": "OAS package cjitter/jcbcompressor",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbcompressor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97553,7 +97583,7 @@
       "notes": "OAS package cjitter/jcbdistortion",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbdistortion/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97573,7 +97603,7 @@
       "notes": "OAS package cjitter/jcbexpander",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbexpander/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97593,7 +97623,7 @@
       "notes": "OAS package cjitter/jcbimager",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbimager/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97613,7 +97643,7 @@
       "notes": "OAS package cjitter/jcbmaximizer",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbmaximizer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97633,7 +97663,7 @@
       "notes": "OAS package cjitter/jcbreverb",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbreverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97653,7 +97683,7 @@
       "notes": "OAS package cjitter/jcbtransient",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cjitter/jcbtransient/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -97918,7 +97948,7 @@
       "notes": "OAS package kiriki-liszt/js-inflator",
       "latestVersion": "2.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kiriki-liszt/js-inflator/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -98702,11 +98732,36 @@
       "notes": "OAS package bsutherland/juceoplvsti",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/bsutherland/juceoplvsti/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--judder",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Judder",
+      "matchPatterns": [
+        "Judder",
+        "Dead Signal Judder"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/judder/",
+      "notes": "Tremolo and auto-pan locked to your DAW's bar position, so it starts in the same place on every pass, with six shapes, stereo phase, and a smoothing control that removes clicks. $12 one time, no trial. Mac AU/VST3 and Windows VST3, with AAX for Mac as a separate download. Version 0.1.0 per the vendor changelog, November 10, 2026.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/changelog/",
+      "versionVerifiedAt": "2026-11-17T17:25:12Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor changelog first-hand 2026-11-17: 0.1.0 Nov 10, 2026 first release",
+        "Product page confirms out now, Mac AU/VST3 + Windows VST3, 2"
       ]
     },
     {
@@ -98777,7 +98832,7 @@
       "notes": "OAS package birch-san/juicysfplugin",
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/birch-san/juicysfplugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -99009,7 +99064,7 @@
       "notes": "OAS package bobona/just-a-sample",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/bobona/just-a-sample/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -100042,7 +100097,7 @@
       "notes": "OAS package gnuoyohes/key-detect",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gnuoyohes/key-detect/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -102051,7 +102106,7 @@
       "notes": "OAS package hollance/krunch",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hollance/krunch/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -105999,7 +106054,7 @@
       "notes": "OAS package iunusov/lamevst",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/iunusov/lamevst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -106244,7 +106299,7 @@
       "notes": "OAS package samplaman/layerengine",
       "latestVersion": "0.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/samplaman/layerengine/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -106323,7 +106378,7 @@
       "notes": "OAS package speechrezz/le-phonk",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/speechrezz/le-phonk/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -108725,7 +108780,7 @@
       "notes": "OAS package davvos11/live-midi-splitter",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/davvos11/live-midi-splitter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -109551,7 +109606,7 @@
       "notes": "OAS package brummer10/loopino",
       "latestVersion": "0.9.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/brummer10/loopino/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -109637,7 +109692,7 @@
       "notes": "OAS package hollance/lost-and-found-piano",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hollance/lost-and-found-piano/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -110997,6 +111052,26 @@
         "MPluginManager app itself reports 'Plugin v17.10'; downloads-page 'kernel version: 17.10.01' is a vendor mistype",
         "Melda: 'we use kernel version numbers, therefore all plugins have the same version number'"
       ]
+    },
+    {
+      "id": "metric-halo--mb-angus-404",
+      "manufacturerId": "metric-halo",
+      "name": "MB Angus 404",
+      "matchPatterns": [
+        "MB Angus 404",
+        "Angus 404",
+        "Metric Halo MB Angus 404"
+      ],
+      "formats": [
+        "VST2",
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.makebelievestudio.com/plugins/angus-404",
+      "notes": "Eight-band graphic EQ modelling the Aengus 404, co-developed by Metric Halo and Make Believe Studios. $89 introductory price (reg $179). Mac AU/VST2/VST3/AAX, Windows VST/AAX; iLok account required, two activations. The vendor product page does not publish a version number yet, so no version is shown here. NOTE: the user's guide header 'Metric Halo Revision: 4.1.33.298' is the manual revision, not the plugin version — do not stamp it as a version.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "metric-halo--mb-mixhead",
@@ -113886,7 +113961,7 @@
       "notes": "OAS package longkelvin/midi-chord-detector-plugin",
       "latestVersion": "3.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/longkelvin/midi-chord-detector-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -114143,7 +114218,7 @@
       "notes": "OAS package yeeking/ai-improviser-plugin",
       "latestVersion": "4.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/yeeking/ai-improviser-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -117644,13 +117719,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/mverb",
       "notes": "OAS package figbug/mverb",
-      "latestVersion": "1.1.5",
+      "latestVersion": "1.1.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/mverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:54Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.1.10 vs stored 1.1.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -117666,7 +117742,7 @@
       "notes": "OAS package distrho/mverb",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/distrho/mverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -118022,7 +118098,7 @@
       "notes": "OAS package liuanlin-mx/mxtune",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/liuanlin-mx/mxtune/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -118738,7 +118814,7 @@
       "notes": "OAS package yokemura/magical8bitplug2",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/yokemura/magical8bitplug2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -121395,7 +121471,7 @@
       "notes": "OAS package geissmannsbin/measure-counter-vst",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/geissmannsbin/measure-counter-vst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -121754,7 +121830,7 @@
       "notes": "OAS package usdivad/melodrumatic",
       "latestVersion": "0.1.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/usdivad/melodrumatic/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -122826,7 +122902,7 @@
       "notes": "OAS package leon-focker/metrefiddler",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/leon-focker/metrefiddler/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -123629,7 +123705,7 @@
       "notes": "OAS package yan-h/midi-lattice",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/yan-h/midi-lattice/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -123689,7 +123765,7 @@
       "notes": "OAS package whoadrian/midipad",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/whoadrian/midipad/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:04Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -123962,7 +124038,7 @@
       "notes": "OAS package gaheldev/millisecond",
       "latestVersion": "0.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gaheldev/millisecond/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -125342,7 +125418,7 @@
       "notes": "OAS package jun-murakami/mixcompare",
       "latestVersion": "3.0.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/mixcompare/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126134,7 +126210,7 @@
       "notes": "OAS package colinraab/modern-distortion-synth",
       "latestVersion": "20240831.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/colinraab/modern-distortion-synth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126237,7 +126313,7 @@
       "notes": "OAS package samuelsantanaoficial/modernkit",
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/samuelsantanaoficial/modernkit/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126718,7 +126794,7 @@
       "notes": "OAS package hyakkei/molluskvoicechanger",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hyakkei/molluskvoicechanger/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -126915,7 +126991,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://surge-synthesizer.github.io/downloads/",
-      "notes": "Surge Synth Team FOSS fill; expand5.",
+      "notes": "Free open-source monosynth from the Surge Synth Team.",
       "notesForUser": "FOSS (GPL) via Surge Synth Team / GitHub. Stable listing from public registry/KVR; GitHub release channel is Nightly-tagged.",
       "isFreeware": true,
       "appleSilicon": "native",
@@ -127008,7 +127084,7 @@
       "notes": "OAS package jonet/monksynth",
       "latestVersion": "0.2.0-beta.15",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jonet/monksynth/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -127338,7 +127414,7 @@
       "notes": "OAS package isaiahdoyle/moorerreverb",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/isaiahdoyle/moorerreverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128211,7 +128287,7 @@
       "notes": "OAS package luna-co-software/multi-comp",
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/luna-co-software/multi-comp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -128414,7 +128490,7 @@
       "notes": "OAS package zhiyualexzhang/multimeter",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zhiyualexzhang/multimeter/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -129476,7 +129552,7 @@
       "notes": "OAS package tr3m/nam-juce",
       "latestVersion": "0.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tr3m/nam-juce/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -129496,7 +129572,7 @@
       "notes": "OAS package dlc86/nam-oversampler",
       "latestVersion": "2.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dlc86/nam-oversampler/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -129550,7 +129626,7 @@
       "notes": "OAS package danielwray/neampmod-the-tweed",
       "latestVersion": "3.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/danielwray/neampmod-the-tweed/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:37Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -129570,7 +129646,7 @@
       "notes": "OAS package danielwray/neampmod-the-victor",
       "latestVersion": "2.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/danielwray/neampmod-the-victor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:37Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -130389,7 +130465,7 @@
       "notes": "OAS package sfzinstruments/nakeddrums",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/nakeddrums/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -132278,7 +132354,7 @@
       "notes": "OAS package hyperfocusdsp/niner",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hyperfocusdsp/niner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -132378,7 +132454,7 @@
       "notes": "OAS package clearly-broken-software/ninjas2",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/clearly-broken-software/ninjas2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -132732,7 +132808,7 @@
       "popularityTier": 2,
       "latestVersion": "1.10.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/werman/noise-suppression-for-voice/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-10-23T17:27:25Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -133870,7 +133946,7 @@
       "notes": "OAS package echoe/oao",
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/echoe/oao/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -134049,7 +134125,7 @@
       "notes": "OAS package innermost47/ai-dj",
       "latestVersion": "328.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/innermost47/ai-dj/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -134429,7 +134505,7 @@
       "notes": "OAS package jpcima/opnplug",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jpcima/opnplug/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -134534,7 +134610,7 @@
       "notes": "OAS package utokusa/os-251",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/utokusa/os-251/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -134706,7 +134782,7 @@
       "notes": "OAS package samplaman/owmb",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/samplaman/owmb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -135139,7 +135215,7 @@
       "notes": "OAS package greatest-ape/octasine",
       "latestVersion": "0.9.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/greatest-ape/octasine/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -135333,7 +135409,7 @@
       "notesForUser": "This registry entry is Odin 2 under a second key (same repo, file and checksum as Odin 2), not Odin 1.",
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/thewavewarden/odin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -136336,7 +136412,7 @@
       "notes": "OAS package digidigital/openlightshow",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/digidigital/openlightshow/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -136356,7 +136432,7 @@
       "notes": "OAS package httpsworldview/openmeters",
       "latestVersion": "1.13.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/httpsworldview/openmeters/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -136376,7 +136452,7 @@
       "notes": "OAS package spatial-media-lab/openspatialdelay",
       "latestVersion": "0.9.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spatial-media-lab/openspatialdelay/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -136722,7 +136798,7 @@
       "notes": "OAS package tywr/orbital-bass-engine",
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tywr/orbital-bass-engine/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -137799,7 +137875,7 @@
       "notes": "OAS package waddafunk/oscilloscope",
       "latestVersion": "0.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/waddafunk/oscilloscope/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -137846,7 +137922,7 @@
       "notes": "OAS package jacobweber/ostinato",
       "latestVersion": "0.0.13",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jacobweber/ostinato/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -140502,13 +140578,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/PAPU",
       "notes": "OAS package figbug/papu",
-      "latestVersion": "1.2.5",
+      "latestVersion": "1.2.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/papu/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:54Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.2.10 vs stored 1.2.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -140799,7 +140876,7 @@
       "notes": "OAS package huberp/phu-beat-sync-multi-scope",
       "latestVersion": "0.5.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/huberp/phu-beat-sync-multi-scope/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -144614,7 +144691,7 @@
       "notes": "OAS package consint/panacea",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/consint/panacea/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -145265,7 +145342,7 @@
       "notes": "OAS package ircam-partiels/partiels",
       "latestVersion": "2.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ircam-partiels/partiels/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -145662,7 +145739,7 @@
       "notes": "OAS package vvvar/peakeater",
       "latestVersion": "0.8.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vvvar/peakeater/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -145986,7 +146063,7 @@
       "notes": "OAS package hqrrr/perceptomap",
       "latestVersion": "0.18.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hqrrr/perceptomap/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -147111,7 +147188,7 @@
       "notes": "OAS package igorski/phlegetron",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/phlegetron/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -149623,7 +149700,7 @@
       "notes": "OAS package kevin-jenkins/plugnspectr",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kevin-jenkins/plugnspectr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -150344,6 +150421,24 @@
         "matches accepted KVR current 1.2.0 (trailing-zero normalized)",
         "public deniseaudio.com legacy-downloads; most up to date versions stated on page"
       ]
+    },
+    {
+      "id": "minimal-audio--poly-flanger",
+      "manufacturerId": "minimal-audio",
+      "name": "Poly Flanger",
+      "matchPatterns": [
+        "Poly Flanger",
+        "Minimal Audio Poly Flanger"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.minimal.audio/products/poly-flanger",
+      "notes": "Musically-intelligent flanger: scale-aware arpeggiated patterns and stacked chords, multi-voice resonance, flexible stereo modulation. $49 one time (rent-to-own $15/mo), 2 activations, free updates & support. The vendor product page does not publish a version number yet, so no version is shown here.",
+      "appleSilicon": "native",
+      "popularityTier": 2
     },
     {
       "id": "audiority--polycomp",
@@ -152389,7 +152484,7 @@
       "notes": "OAS package rudro085/proco-rat",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/rudro085/proco-rat/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:08Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -152847,7 +152942,7 @@
       "notes": "OAS package guitarml/proteus",
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/guitarml/proteus/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -152914,7 +153009,7 @@
       "notes": "OAS package efirio-git/psymelody",
       "latestVersion": "0.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/efirio-git/psymelody/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:46Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153060,7 +153155,7 @@
       "notes": "OAS package vivekvjyn/pulp-fiction",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vivekvjyn/pulp-fiction/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153354,7 +153449,7 @@
       "notes": "OAS package consint/pult-eq",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/consint/pult-eq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153908,7 +154003,7 @@
       "notes": "OAS package gmoican/punkboost",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkboost/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153928,7 +154023,7 @@
       "notes": "OAS package gmoican/punkdist-lstm",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkdist-lstm/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153948,7 +154043,7 @@
       "notes": "OAS package gmoican/punkeq",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkeq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -153968,7 +154063,7 @@
       "notes": "OAS package gmoican/punkmuff-lstm",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkmuff-lstm/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -154003,7 +154098,7 @@
       "notes": "OAS package gmoican/punkott",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkott/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -154023,7 +154118,7 @@
       "notes": "OAS package gmoican/punkott-mb",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkott-mb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -154043,7 +154138,7 @@
       "notes": "OAS package gmoican/punkxros-lstm",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gmoican/punkxros-lstm/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -155000,7 +155095,7 @@
       "notes": "OAS package skynse/qpitch",
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/skynse/qpitch/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -155275,7 +155370,7 @@
       "notes": "OAS package happyacccident/quadratic-visualizer-plugin",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/happyacccident/quadratic-visualizer-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -156114,7 +156209,7 @@
       "notes": "OAS package je3928/re201models",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/je3928/re201models/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -156797,13 +156892,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/RP2A03",
       "notes": "OAS package figbug/rp2a03",
-      "latestVersion": "1.1.5",
+      "latestVersion": "1.1.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/rp2a03/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:55Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.1.10 vs stored 1.1.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -156819,7 +156915,7 @@
       "notes": "OAS package giulioz/smol-rack",
       "latestVersion": "20250520.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/giulioz/smol-rack/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-13T05:25:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -159766,7 +159862,7 @@
       "notes": "OAS package giulioz/rdpiano",
       "latestVersion": "2025.9.24",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/giulioz/rdpiano/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -160167,7 +160263,7 @@
       "notes": "OAS package sinuslabs/reach",
       "latestVersion": "1.6.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sinuslabs/reach/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -160549,7 +160645,7 @@
       "notes": "OAS package ummshsh/recall-sampler",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ummshsh/recall-sampler/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -160569,7 +160665,7 @@
       "notes": "OAS package igorski/rechoir",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/rechoir/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -161114,7 +161210,7 @@
       "notes": "OAS package igorski/regrader",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/regrader/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -161227,7 +161323,7 @@
       "notes": "OAS package kiriki-liszt/relief-compressor",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kiriki-liszt/relief-compressor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -161247,7 +161343,7 @@
       "notes": "OAS package kiriki-liszt/relief-eq",
       "latestVersion": "1.1.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kiriki-liszt/relief-eq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -162155,13 +162251,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/gabrielsoule/resonarium",
       "notes": "OAS package gabrielsoule/resonarium",
-      "latestVersion": "0.0.11",
+      "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gabrielsoule/resonarium/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:35:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 0.1.1 vs stored 0.0.11",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -164301,7 +164398,7 @@
       "notes": "OAS package kushview/roboverb",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kushview/roboverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -164486,7 +164583,7 @@
       "notes": "OAS package cvde/roomreverb",
       "latestVersion": "1.4.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/cvde/roomreverb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:21Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -164944,7 +165041,7 @@
       "notes": "OAS package brummer10/rumor",
       "latestVersion": "2022.1.14",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/brummer10/rumor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:19Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -165558,13 +165655,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/SID",
       "notes": "OAS package figbug/sid",
-      "latestVersion": "1.1.5",
+      "latestVersion": "1.1.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/sid/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:56Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.1.10 vs stored 1.1.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -165670,13 +165768,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/SN76489",
       "notes": "OAS package figbug/sn76489",
-      "latestVersion": "1.1.5",
+      "latestVersion": "1.1.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/sn76489/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:57Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.1.10 vs stored 1.1.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -165854,7 +165953,7 @@
       "notes": "OAS package leomccormack/sparta",
       "latestVersion": "1.8.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/leomccormack/sparta/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -168943,7 +169042,7 @@
       "notes": "OAS package endolith/salamander-drumkit",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/endolith/salamander-drumkit/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:46Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -168963,7 +169062,7 @@
       "notes": "OAS package sfzinstruments/salamandergrandpiano",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/salamandergrandpiano/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -169036,7 +169135,7 @@
       "notes": "OAS package sfzinstruments/samssonor",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/samssonor/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -169851,7 +169950,7 @@
       "notes": "OAS package homerchel/satumorpher",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/homerchel/satumorpher/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -169915,7 +170014,16 @@
       "portalApp": "Softube Central",
       "notesForUser": "Not yet checked against the vendor's site.",
       "appleSilicon": "native",
-      "popularityTier": 1
+      "popularityTier": 1,
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:30:10Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Softube RN 2.6.48 All-plug-ins section, first-hand read 2026-11-17; KVR per-product table agrees 2.6.48/2.6.48",
+        "Overrides 2026-10-18 class note: first-party number + per-product KVR table agree; prior 2.6.41 @92 precedent"
+      ]
     },
     {
       "id": "denise--saturator",
@@ -170076,7 +170184,7 @@
       "notes": "OAS package xivilay/scale-remapper",
       "latestVersion": "0.7.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/xivilay/scale-remapper/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -170734,7 +170842,7 @@
       "notes": "OAS package janosgit/schrammel-ojd",
       "latestVersion": "0.9.8",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/janosgit/schrammel-ojd/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171107,7 +171215,7 @@
       "notes": "OAS package torsion-audio/scyclone",
       "latestVersion": "0.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/torsion-audio/scyclone/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171222,7 +171330,7 @@
       "notes": "OAS package emprcl/sektron",
       "latestVersion": "0.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/emprcl/sektron/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:46Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171808,7 +171916,7 @@
       "notes": "OAS package fullfxmedia/setekh",
       "latestVersion": "1.0.13",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/fullfxmedia/setekh/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171906,7 +172014,7 @@
       "notes": "OAS package sfztools/sfizz",
       "latestVersion": "1.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfztools/sfizz/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -171926,7 +172034,7 @@
       "notes": "OAS package sfztools/sfizz-ui",
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfztools/sfizz-ui/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -172705,7 +172813,7 @@
       "notes": "OAS package iunusov/shoutvst",
       "latestVersion": "2.1.18",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/iunusov/shoutvst/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -172725,7 +172833,7 @@
       "notes": "OAS package gbevin/showmidi",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gbevin/showmidi/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -173087,7 +173195,7 @@
       "notes": "OAS package jthwho/sickbeatbetty",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jthwho/sickbeatbetty/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -173644,12 +173752,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/silver-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:01Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/silver-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-17T17:25:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -174097,6 +174205,31 @@
       "popularityTier": 3
     },
     {
+      "id": "deadsignalaudio--slab",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Slab",
+      "matchPatterns": [
+        "Slab",
+        "Dead Signal Slab"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/slab/",
+      "notes": "Gated, ramp and reverse drum reverb with a hit-triggered envelope, duck and a wet-level display. $15 one time, no trial. Mac AU/VST3 and Windows VST3, with AAX for Mac as a separate download. Version 0.1.0 per the vendor changelog, November 10, 2026.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/changelog/",
+      "versionVerifiedAt": "2026-11-18T05:24:26Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor changelog lists 0.1.0 Nov 10, 2026 as first release",
+        "Product page confirms out now, Mac + Windows"
+      ]
+    },
+    {
       "id": "beatskillz--slam-dawg",
       "manufacturerId": "beatskillz",
       "name": "Slam Dawg",
@@ -174525,7 +174658,7 @@
       "notes": "OAS package chsh2/slowsampler2",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/chsh2/slowsampler2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -174604,7 +174737,7 @@
       "notes": "OAS package guitarml/smartamppro",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/guitarml/smartamppro/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -174624,7 +174757,7 @@
       "notes": "OAS package guitarml/smartguitaramp",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/guitarml/smartguitaramp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -174644,7 +174777,7 @@
       "notes": "OAS package guitarml/smartguitarpedal",
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/guitarml/smartguitarpedal/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -174733,11 +174866,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/smoke-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:01Z",
+      "versionVerifiedAt": "2026-11-17T17:25:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -176659,7 +176792,7 @@
       "notes": "OAS package sonosaurus/sonobus",
       "latestVersion": "1.7.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sonosaurus/sonobus/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -177246,7 +177379,7 @@
       "notes": "OAS package vivekvjyn/sound-of-music",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vivekvjyn/sound-of-music/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -177553,7 +177686,7 @@
       "notes": "OAS package webprofusion/soundshed-guitar",
       "latestVersion": "1.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/webprofusion/soundshed-guitar/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -177730,12 +177863,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.0.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/space-control-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:01Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/space-control-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-17T17:25:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -178142,7 +178275,7 @@
       "notes": "OAS package freepats/spanish-classical-guitar",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/freepats/spanish-classical-guitar/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -178550,7 +178683,7 @@
       "notes": "OAS package joht/speclet",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/joht/speclet/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -178588,7 +178721,7 @@
       "notes": "OAS package jpcima/spectacle",
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jpcima/spectacle/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -178857,7 +178990,7 @@
       "notes": "OAS package kaixocode/spectralrotator",
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kaixocode/spectralrotator/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -178877,7 +179010,7 @@
       "notes": "OAS package trencrumb/spectralshift",
       "latestVersion": "0.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/trencrumb/spectralshift/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -179069,7 +179202,7 @@
       "notes": "OAS package lluisestape-upc/spectrumanalyzer",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lluisestape-upc/spectrumanalyzer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -179144,7 +179277,7 @@
       "notes": "OAS package yvonneqaq/spekana-audio-plugin",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/yvonneqaq/spekana-audio-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -180197,7 +180330,7 @@
       "notes": "OAS package sfzinstruments/splendidgrandpiano",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/splendidgrandpiano/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -180362,6 +180495,33 @@
       "versionConfidenceReasons": [
         "vendor downloads page; Mac and Win installer lines agree on 1.3.9"
       ]
+    },
+    {
+      "id": "eventide--spliteq-2",
+      "manufacturerId": "eventide",
+      "name": "SplitEQ 2",
+      "matchPatterns": [
+        "SplitEQ 2",
+        "Eventide SplitEQ 2"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.eventideaudio.com/plug-ins/spliteq-2",
+      "notes": "The second generation of Eventide's transient and tonal EQ: per-band compression or expansion on the transient signal, the tonal signal, or both, plus global dynamics, masking visualization, and seven new source types. Over 290 factory presets. $99 introductory price through January 3, 2027, then $199. Mac and Windows, VST3, AU and AAX. The vendor's product page does not publish a version number yet, so no version is shown here.",
+      "generation": "2",
+      "predecessorPluginId": "eventide--spliteq",
+      "installedVersionRule": {
+        "source": "CFBundleShortVersionString",
+        "transforms": [
+          "semver-first-3"
+        ],
+        "compareSegments": 3
+      },
+      "appleSilicon": "native",
+      "popularityTier": 1
     },
     {
       "id": "puremagnetik--splitch-distortion-and-pitch-mangling-machine",
@@ -180640,7 +180800,7 @@
       "notes": "OAS package hornfisk/squelchbox",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hornfisk/squelchbox/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -181021,7 +181181,7 @@
       "popularityTier": 2,
       "latestVersion": "1.6.056",
       "versionSourceUrl": "https://www.siraudiotools.com/StandardCLIP.php",
-      "versionVerifiedAt": "2026-09-10T07:35:26Z",
+      "versionVerifiedAt": "2026-11-17T17:29:25Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
@@ -181510,7 +181670,7 @@
       "notes": "OAS package spotlightkid/stereocrossdelay",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/stereocrossdelay/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -182164,7 +182324,7 @@
       "notes": "OAS package jpcima/stone-phaser",
       "latestVersion": "0.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jpcima/stone-phaser/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -182193,11 +182353,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/stone-pro-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -182562,11 +182722,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/straw-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -184861,7 +185021,7 @@
       "notes": "OAS package echoeslabmusic/sub-orbit",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/echoeslabmusic/sub-orbit/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -185763,7 +185923,7 @@
       "notes": "OAS package vsicurella/supervirtualkeyboard",
       "latestVersion": "0.0.21",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vsicurella/supervirtualkeyboard/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -187792,7 +187952,7 @@
       "notes": "OAS package lluisestape-upc/synth1.0",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lluisestape-upc/synth1.0/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -187906,7 +188066,7 @@
       "notes": "OAS package freepats/synthesizer-percussion",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/freepats/synthesizer-percussion/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -190640,7 +190800,7 @@
       "popularityTier": 1,
       "finalVersion": "1.55",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-ii-by-togu-audio-line",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-11-17T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -190670,7 +190830,7 @@
       "popularityTier": 1,
       "finalVersion": "0.95",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-iii-by-togu-audio-line",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-11-17T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -190727,7 +190887,7 @@
       "popularityTier": 1,
       "finalVersion": "1.1.2",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-dub-by-togu-audio-line",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-11-17T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -191096,7 +191256,7 @@
       "popularityTier": 1,
       "latestVersion": "2.3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-reverb-iii-by-togu-audio-line",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-11-17T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -191299,7 +191459,7 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/tal-useq-by-togu-audio-line",
-      "versionVerifiedAt": "2026-09-10T09:25:40Z",
+      "versionVerifiedAt": "2026-11-17T17:28:35Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
@@ -193850,7 +194010,7 @@
       "notes": "OAS package tiagolr/time12",
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tiagolr/time12/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:08Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -193996,7 +194156,7 @@
       "notes": "OAS package tone-3000/tone3000-plugin",
       "latestVersion": "0.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tone-3000/tone3000-plugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -194488,7 +194648,7 @@
       "notes": "OAS package jamesstubbseng/ts-808-ultra",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jamesstubbseng/ts-808-ultra/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -194549,13 +194709,13 @@
       "notesForUser": "Updates through Softube Central.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T17:23:58Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -194617,13 +194777,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T17:23:58Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:41Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -194867,13 +195027,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T17:23:58Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -195129,14 +195289,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T05:22:58Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:44Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official Softube release notes for 2.6.47 (Nov 3, 2026): 'All plug-ins:' section covers whole 2.6.x installer family",
-        "Release-notes index re-verified this chip still tops at 2.6.47, no newer train"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -195234,13 +195393,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-11T17:23:59Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:45Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -195804,12 +195963,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/taupe-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/taupe-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -195987,7 +196146,7 @@
       "notes": "OAS package creativeintent/temper",
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/creativeintent/temper/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -196184,7 +196343,7 @@
       "notes": "OAS package hergezod/termenflux",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hergezod/termenflux/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:30Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -196273,7 +196432,7 @@
       "notes": "OAS package uberton/uberton",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/uberton/uberton/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -196327,7 +196486,7 @@
       "notes": "OAS package jun-murakami/testtone",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/testtone/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -196568,7 +196727,7 @@
       "notes": "OAS package larrymarmalade/the-archaeologist",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/larrymarmalade/the-archaeologist/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -197458,7 +197617,7 @@
       "notes": "OAS package hollance/thekissofshame",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hollance/thekissofshame/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -197478,7 +197637,7 @@
       "notes": "OAS package erosmarcello/the-kiss-of-shame-rev2",
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/erosmarcello/the-kiss-of-shame-rev2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:46Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -198360,12 +198519,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/thing-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/thing-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -199277,13 +199436,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:22:53Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:46Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -199299,7 +199458,7 @@
       "notes": "OAS package jun-murakami/tinyvu",
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/tinyvu/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -199362,11 +199521,11 @@
       "popularityTier": 2,
       "latestVersion": "1.3.827",
       "versionSourceUrl": "https://www.kvraudio.com/product/titanium-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -199448,11 +199607,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/titanium3-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:02Z",
+      "versionVerifiedAt": "2026-11-17T17:25:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page / timeline only (crowdsourced); no manufacturer version source"
       ]
     },
     {
@@ -200483,7 +200642,15 @@
         "AU"
       ],
       "updatePortalUrl": "https://joeysturgistones.com/collections/toneforge-bassforge/products/toneforge-di-match",
-      "notesForUser": "Not yet checked against the vendor's site."
+      "notesForUser": "Not yet checked against the vendor's site.",
+      "latestVersion": "1.0.4",
+      "versionSourceUrl": "https://www.kvraudio.com/product/toneforge-di-match-by-joey-sturgis-tones/timeline",
+      "versionVerifiedAt": "2026-11-17T17:27:17Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 60,
+      "versionConfidenceReasons": [
+        "KVR /timeline oracle, first-hand read 2026-11-17; both legs 1.0.4"
+      ]
     },
     {
       "id": "joey-sturgis-tones--toneforge-disruptor",
@@ -200604,13 +200771,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:22:55Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:48Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -200655,7 +200822,7 @@
       "notes": "OAS package dusanmsk/tonnetzviz",
       "latestVersion": "0.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dusanmsk/tonnetzviz/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -200769,13 +200936,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:22:57Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:49Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -201359,7 +201526,7 @@
       "notes": "OAS package fannon/trace-tuner",
       "latestVersion": "1.1.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/fannon/trace-tuner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -202023,7 +202190,7 @@
       "notes": "OAS package igorski/transformant",
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/transformant/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:28Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -202880,13 +203047,13 @@
       "notesForUser": "Updates through Softube Central.",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:22:59Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -203515,13 +203682,13 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:01Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-17T17:22:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Softube train-anchor rule: 2.6.48 release notes carry an 'All plug-ins:' section (project-load freeze fix); RN index tops at 2.6.48, released Nov 11 2026, article updated Nov 12 2026, re-read first-hand this chip"
       ]
     },
     {
@@ -203639,13 +203806,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-03T17:26:20Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor page"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -203674,13 +203842,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-03T17:26:20Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor page"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -203960,7 +204129,7 @@
       "notes": "OAS package consint/tumult",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/consint/tumult/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-09T17:23:33Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -204306,7 +204475,7 @@
       "notes": "OAS package baconpaul/two-filters",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/baconpaul/two-filters/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -211030,7 +211199,7 @@
       "notes": "OAS package gptpps/ub-poly16",
       "latestVersion": "0.8.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/gptpps/ub-poly16/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:31Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -211709,7 +211878,7 @@
       "notes": "OAS package dlarseninclusive/uhbikwrapper",
       "latestVersion": "0.3.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dlarseninclusive/uhbikwrapper/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -212351,7 +212520,7 @@
       "notes": "OAS package illdynamics/ultraglitch-bitfucker",
       "latestVersion": "0.4.0-beta.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/illdynamics/ultraglitch-bitfucker/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -212609,7 +212778,7 @@
       "notes": "OAS package kayrockscreenprinting/ultramaster-kr106",
       "latestVersion": "2.5.13",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kayrockscreenprinting/ultramaster-kr106/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -214355,7 +214524,7 @@
       "notes": "OAS package freepats/upright-piano-kw",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/freepats/upright-piano-kw/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:48Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -214939,7 +215108,7 @@
       "notes": "OAS package butchwarns/utilities",
       "latestVersion": "0.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/butchwarns/utilities/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -214959,7 +215128,7 @@
       "notes": "OAS package m1m0zzz/utility-clone",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/m1m0zzz/utility-clone/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -216291,7 +216460,7 @@
       "notes": "OAS package izzyreal/vmpc-juce",
       "latestVersion": "0.9.13",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/izzyreal/vmpc-juce/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -217042,7 +217211,7 @@
       "notes": "OAS package keijiro/vst2413",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/keijiro/vst2413/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -217062,7 +217231,7 @@
       "notes": "OAS package igorski/vstsid",
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/igorski/vstsid/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -217263,7 +217432,7 @@
       "notes": "OAS package tote-bag-labs/valentine",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tote-bag-labs/valentine/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:07Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -217977,7 +218146,7 @@
       "notes": "OAS package vastdynamics/vaporizer2",
       "latestVersion": "3.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/vastdynamics/vaporizer2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -218769,7 +218938,7 @@
       "notes": "OAS package lluisestape-upc/vertex",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/lluisestape-upc/vertex/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:40Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -219100,7 +219269,7 @@
       "notes": "OAS package speechrezz/vibratoplugin",
       "latestVersion": "0.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/speechrezz/vibratoplugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -220842,7 +221011,7 @@
       "notes": "OAS package sfzinstruments/virtuosity_drums",
       "latestVersion": "0.925.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/virtuosity_drums/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -220862,7 +221031,7 @@
       "notes": "OAS package ezforever/viruz2",
       "latestVersion": "231222.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/ezforever/viruz2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:47Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -221019,7 +221188,7 @@
       "notes": "OAS package billydm/vitalium-verb",
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/billydm/vitalium-verb/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -221098,13 +221267,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/Voc",
       "notes": "OAS package figbug/voc",
-      "latestVersion": "1.1.5",
+      "latestVersion": "1.1.10",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/voc/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.1.10 vs stored 1.1.5",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -221470,7 +221640,7 @@
       "notes": "OAS package dan-k-k/vocal-gate",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dan-k-k/vocal-gate/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:37Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223353,7 +223523,7 @@
       "notes": "OAS package wasted-audio/wstd-crshr",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-crshr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223373,7 +223543,7 @@
       "notes": "OAS package wasted-audio/wstd-dlay",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-dlay/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223393,7 +223563,7 @@
       "notes": "OAS package wasted-audio/wstd-eq",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-eq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223413,7 +223583,7 @@
       "notes": "OAS package wasted-audio/wstd-flangr",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-flangr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223433,7 +223603,7 @@
       "notes": "OAS package wasted-audio/wstd-fldr",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-fldr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223453,7 +223623,7 @@
       "notes": "OAS package wasted-audio/wstd-smthr",
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wasted-audio/wstd-smthr/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:05Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -223651,7 +223821,7 @@
       "notes": "OAS package sfzinstruments/war-tuba",
       "latestVersion": "1002.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/war-tuba/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:23:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -224800,13 +224970,14 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/FigBug/Wavetable",
       "notes": "OAS package figbug/wavetable",
-      "latestVersion": "1.0.32",
+      "latestVersion": "1.0.37",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/figbug/wavetable/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:34:59Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS dual oracle: master registry and per-plugin index.json agree on 1.0.37 vs stored 1.0.32",
+        "Old version present in same plugin versions dict (same lineage)"
       ]
     },
     {
@@ -224822,7 +224993,7 @@
       "notes": "OAS package spotlightkid/waxman",
       "latestVersion": "0.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/waxman/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -224946,13 +225117,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-03T17:26:20Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor page"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -224981,13 +225153,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-03T17:26:21Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor page"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225016,13 +225189,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225051,13 +225225,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-03T17:26:21Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor page"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225086,13 +225261,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225121,13 +225297,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:22:59Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225156,13 +225333,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225220,13 +225398,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-05T05:26:14Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-18T05:23:20Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Vendor release notes, All plug-ins section covers every Softube plug-in",
+        "RN index tops at 2.6.48, no 2.6.49, verified first-hand 2026-11-17"
       ]
     },
     {
@@ -225392,7 +225571,7 @@
       "notes": "OAS package unicornsasfuel/whetstone",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/unicornsasfuel/whetstone/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:06Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -225989,7 +226168,7 @@
       "notes": "OAS package dropsnorz/wobbleizer",
       "latestVersion": "2.3.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dropsnorz/wobbleizer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -226009,7 +226188,7 @@
       "notes": "OAS package wolf-plugins/wolf-shaper",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wolf-plugins/wolf-shaper/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -226057,7 +226236,7 @@
       "notes": "OAS package wolf-plugins/wolf-spectrum",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/wolf-plugins/wolf-spectrum/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -227610,7 +227789,7 @@
       "notes": "OAS package spotlightkid/ykchorus",
       "latestVersion": "0.2.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/spotlightkid/ykchorus/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -228340,7 +228519,7 @@
       "notes": "OAS package zl-audio/zlinflator",
       "latestVersion": "0.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zlinflator/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -228360,7 +228539,7 @@
       "notes": "OAS package zl-audio/zllmakeup",
       "latestVersion": "0.2.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zllmakeup/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -228418,7 +228597,7 @@
       "notes": "OAS package zl-audio/zlwarm",
       "latestVersion": "0.2.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zlwarm/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -228438,7 +228617,7 @@
       "notes": "OAS package zl-audio/zllmatch",
       "latestVersion": "0.2.4",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zl-audio/zllmatch/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -228623,7 +228802,7 @@
       "notes": "OAS package zamaudio/zam-plugins",
       "latestVersion": "4.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zamaudio/zam-plugins/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229545,7 +229724,7 @@
       "notes": "OAS package dspiveyvr/zenbleed",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/dspiveyvr/zenbleed/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229642,7 +229821,7 @@
       "notes": "OAS package jun-murakami/zerocomp",
       "latestVersion": "1.1.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/zerocomp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229662,7 +229841,7 @@
       "notes": "OAS package jun-murakami/zeroeq",
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/zeroeq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229682,7 +229861,7 @@
       "notes": "OAS package jun-murakami/zerolimit",
       "latestVersion": "1.1.7",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jun-murakami/zerolimit/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229758,7 +229937,7 @@
       "notes": "OAS package zones-convolution/zones-client",
       "latestVersion": "1.0.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zones-convolution/zones-client/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229849,7 +230028,7 @@
       "notes": "OAS package josescript/zubnetic",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/josescript/zubnetic/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -229894,7 +230073,7 @@
       "notes": "OAS package zynaddsubfx/zynaddsubfx",
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zynaddsubfx/zynaddsubfx/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -231898,7 +232077,7 @@
       "notes": "OAS package calgoheen/cflanger",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/calgoheen/cflanger/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -231918,7 +232097,7 @@
       "notes": "OAS package calgoheen/cphaser",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/calgoheen/cphaser/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:18Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -231938,7 +232117,7 @@
       "notes": "OAS package calgoheen/cstop",
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/calgoheen/cstop/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-17T17:27:20Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -232187,7 +232366,7 @@
       "notes": "OAS package garneek/crunchy",
       "latestVersion": "0.2.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/garneek/crunchy/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T17:34:49Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -232747,7 +232926,7 @@
       "notes": "OAS package davemollen/dm-octaver",
       "latestVersion": "0.0.6",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/davemollen/dm-octaver/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -232867,7 +233046,7 @@
       "notes": "OAS package davemollen/dm-seq",
       "latestVersion": "0.0.6-beta",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/davemollen/dm-seq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -233814,7 +233993,7 @@
       "notes": "OAS package strangeloopsaudio/grainbow",
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/strangeloopsaudio/grainbow/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -234057,7 +234236,7 @@
       "notes": "OAS package sout233/im-disperser",
       "latestVersion": "0.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sout233/im-disperser/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -234289,7 +234468,7 @@
       "notes": "OAS package jmantra/jdrummer",
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jmantra/jdrummer/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -234309,7 +234488,7 @@
       "notes": "OAS package sfzinstruments/jrhodes3c",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/jrhodes3c/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -234329,7 +234508,7 @@
       "notes": "OAS package sfzinstruments/jsteeldrum",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/sfzinstruments/jsteeldrum/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:38Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236134,7 +236313,7 @@
       "notes": "OAS package soerenbnoergaard/maetning",
       "latestVersion": "0.0.3",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/soerenbnoergaard/maetning/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236282,7 +236461,7 @@
       "notes": "OAS package tobanteaudio/modeq",
       "latestVersion": "0.4.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/tobanteaudio/modeq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T17:25:08Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236337,7 +236516,7 @@
       "notes": "OAS package drlight-code/osccontrol-light",
       "latestVersion": "2023.11.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/drlight-code/osccontrol-light/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-10T05:21:39Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236865,7 +237044,7 @@
       "notes": "OAS package kushview/retuner",
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kushview/retuner/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-11T17:23:41Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236885,7 +237064,7 @@
       "notes": "OAS package hollance/smexoscope",
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/hollance/smexoscope/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T17:23:29Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -236962,7 +237141,7 @@
       "notes": "OAS package stevefolta/sfzq",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/stevefolta/sfzq/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:02Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237357,7 +237536,7 @@
       "notes": "OAS package solidfuel/arp",
       "latestVersion": "0.3.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/solidfuel/arp/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237377,7 +237556,7 @@
       "notes": "OAS package solidfuel/utility",
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/solidfuel/utility/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:01Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237579,7 +237758,7 @@
       "notes": "OAS package jurihock/stftpitchshiftplugin",
       "latestVersion": "1.1.5",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/jurihock/stftpitchshiftplugin/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:21:58Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237894,7 +238073,7 @@
       "notes": "OAS package joepvanlier/ysfx",
       "latestVersion": "0.0.33",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/joepvanlier/ysfx/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-12T05:22:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237913,7 +238092,7 @@
       "notes": "OAS package zmann-org/zmann",
       "latestVersion": "2.0.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/zmann-org/zmann/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-14T05:20:34Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
@@ -237933,7 +238112,7 @@
       "notes": "OAS package smiarx/aelapse",
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/smiarx/aelapse/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T05:24:00Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
