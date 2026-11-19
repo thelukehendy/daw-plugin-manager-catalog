@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-18T14:04:40Z",
+  "updatedAt": "2026-11-19T14:02:21Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -9732,11 +9732,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://audiopunks.com/downloads/",
-      "versionVerifiedAt": "2026-09-10T06:29:45Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Official Audiopunks downloads CDN installer filenames encode v1.0.1"
+        "Manufacturer downloads page lists SansAmp Rack 1.0.1"
       ]
     },
     {
@@ -12305,13 +12305,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "12.4.7",
+      "latestVersion": "12.4.16",
       "versionSourceUrl": "https://www.ableton.com/en/release-notes/live-12/",
-      "versionVerifiedAt": "2026-10-26T00:02:04Z",
+      "versionVerifiedAt": "2026-11-19T05:33:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Official Ableton Live 12 release notes top entry: 12.4.16, Release Notes, October 30, 2026"
       ]
     },
     {
@@ -13600,13 +13600,15 @@
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-custom-by-xln-audio",
       "popularityTier": 1,
-      "latestVersion": "2.1.12",
-      "versionSourceUrl": "https://www.kvraudio.com/product/addictive-drums-2-custom-by-xln-audio",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "latestVersion": "2.9.1",
+      "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
+      "versionVerifiedAt": "2026-11-19T05:32:39Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=2.1.12 (Win=Mac); manufacturer silent/walled or no public patch semver"
+        "Official XLN release notes top Addictive Drums 2 entry: 2.9.1, Apr 28 2026 (Support for Progressive Metal ADpak)",
+        "Custom editions ship the Addictive Drums 2 engine (same installer/binary; vendor release notes cover the AD2 product line)",
+        "KVR 2.1.12 is a frozen stamp: identical value printed on every versionless ADpak page, not live data"
       ]
     },
     {
@@ -13626,13 +13628,15 @@
       "updatePortalUrl": "https://www.xlnaudio.com/account",
       "notes": "KVR product https://www.kvraudio.com/product/addictive-drums-2-custom-xl-by-xln-audio",
       "popularityTier": 1,
-      "latestVersion": "2.1.12",
-      "versionSourceUrl": "https://www.kvraudio.com/product/addictive-drums-2-custom-xl-by-xln-audio",
-      "versionVerifiedAt": "2026-09-10T10:49:23Z",
+      "latestVersion": "2.9.1",
+      "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
+      "versionVerifiedAt": "2026-11-19T05:32:50Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "KVR product page Product Version id=\"verwin\"=2.1.12 (Win=Mac); manufacturer silent/walled or no public patch semver"
+        "Official XLN release notes top Addictive Drums 2 entry: 2.9.1, Apr 28 2026 (Support for Progressive Metal ADpak)",
+        "Custom XL edition ships the Addictive Drums 2 engine (same installer/binary; vendor release notes cover the AD2 product line)",
+        "KVR 2.1.12 is a frozen stamp: identical value printed on every versionless ADpak page, not live data"
       ]
     },
     {
@@ -16117,11 +16121,11 @@
       "popularityTier": 3,
       "latestVersion": "8.2.7",
       "versionSourceUrl": "https://www.audioease.com/altiverb/",
-      "versionVerifiedAt": "2026-09-10T05:13:25Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer release-notes page tops at 8.2.7"
       ]
     },
     {
@@ -20950,11 +20954,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/softlimit",
-      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionVerifiedAt": "2026-11-18T17:26:43Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "PA installer label in page metafield JSON is manifest-grade evidence (Cenozoix rule)"
+        "Official Plugin Alliance product page, changelog top entry 1.1.0 (Sep 30, 2026) First Release on Plugin Alliance"
       ]
     },
     {
@@ -22080,11 +22084,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.audiothing.net/effects/arguments/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -27238,6 +27242,21 @@
       "popularityTier": 3
     },
     {
+      "id": "deadsignalaudio--ballast",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Ballast",
+      "matchPatterns": [
+        "Ballast",
+        "Dead Signal Ballast"
+      ],
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/ballast/",
+      "notes": "Bass instrument with a clean, mono low end and a driven, wide top, plus kick ducking and a readout that says what it is doing. 57 patches. $29 early launch price through Dec 15, then $49. 14-day free trial. Mac AU and VST3, Windows VST3. The vendor's changelog lists version 0.1.1, but the product page prints no version number, so no version is shown here."
+    },
+    {
       "id": "puremagnetik--balloon-lo-fi-modulator",
       "manufacturerId": "puremagnetik",
       "name": "Balloon | Lo-Fi Modulator",
@@ -28903,11 +28922,11 @@
       "popularityTier": 1,
       "latestVersion": "3.0.3",
       "versionSourceUrl": "https://ujam.zendesk.com/hc/en-us/articles/28023878713500",
-      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionVerifiedAt": "2026-11-18T17:26:48Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor article text first-hand; host artifact mislinked by vendor, bundle ID unverified"
+        "Official UJAM support article Standalone Installers lists Beatmaker v3.0.3 (host plugin, required)"
       ]
     },
     {
@@ -32076,13 +32095,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "6.1.4",
+      "latestVersion": "6.1.7",
       "versionSourceUrl": "https://www.bitwig.com/download/",
-      "versionVerifiedAt": "2026-10-26T00:02:05Z",
+      "versionVerifiedAt": "2026-11-19T05:33:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Official Bitwig download page: Download Bitwig Studio 6.1.7; installer links /dl/Bitwig Studio/6.1.7/ (Mac/Win/Linux)"
       ]
     },
     {
@@ -41412,11 +41431,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.wavesfactory.com/blog/posts/changelog-and-updates/",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-18T17:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor changelog page (manufacturer release notes)"
       ]
     },
     {
@@ -43413,6 +43432,31 @@
       "versionConfidence": 95,
       "versionConfidenceReasons": [
         "oas-registry: manufacturer package version field (95)"
+      ]
+    },
+    {
+      "id": "deadsignalaudio--chisel",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Chisel",
+      "matchPatterns": [
+        "Chisel",
+        "Dead Signal Chisel"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/chisel/",
+      "notes": "Transient shaper that shapes the attack, body and tail of each hit separately, with a solo button for each part. $19 one time, no trial, 14-day refund. Mac AU and VST3, Windows VST3, AAX for Mac as a separate download.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/changelog/",
+      "versionVerifiedAt": "2026-11-19T05:39:07Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor changelog (deadsignalaudio.com/changelog) lists 0.1.0, Nov 7 2026, first release: transient shaper with separate attack, body and tail",
+        "Vendor product page confirms Chisel out now, Mac + Windows, 9 one time"
       ]
     },
     {
@@ -52533,11 +52577,11 @@
       "popularityTier": 2,
       "latestVersion": "1.2.3",
       "versionSourceUrl": "https://klevgrand.com/products/dawcassette",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -56654,11 +56698,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://sugar-bytes.de/en/dialekt",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.0.6 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.0.6 (label governs per playbook)"
       ]
     },
     {
@@ -56765,11 +56809,11 @@
       "popularityTier": 2,
       "latestVersion": "1.1",
       "versionSourceUrl": "https://www.audiothing.net/effects/dials/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -57306,13 +57350,13 @@
       "successorPluginId": "motu--digital-performer",
       "identityKind": "standalone_app",
       "popularityTier": 1,
-      "latestVersion": "11.36",
+      "latestVersion": "11.37",
       "versionSourceUrl": "https://motu.com/en-us/download/product/489/",
-      "versionVerifiedAt": "2026-09-28T18:18:52Z",
+      "versionVerifiedAt": "2026-11-19T05:33:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "first-hand vendor page fetch by operator 2026-09-28"
+        "MOTU DP11 downloads page top installer: Mac v11.37+102918 and PC v11.37+102918; 11.36 entries below"
       ]
     },
     {
@@ -58388,6 +58432,42 @@
       "notesForUser": "Free plugin from Airwindows. New builds are date-stamped rather than version-numbered, so there's no version number to check for updates.",
       "isFreeware": true,
       "appleSilicon": "universal",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--distinct-pro",
+      "manufacturerId": "kiive-audio",
+      "name": "Distinct Pro",
+      "matchPatterns": [
+        "Distinct Pro",
+        "Kiive Distinct Pro"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/distinct-pro",
+      "notes": "Saturation and dynamics processor with three saturation types, pre-saturation EQ and a flexible dynamics section with transient control. $35 on sale (regular $49), 14-day free trial, free updates for life. VST3, AU and AAX for macOS and Windows. The vendor product page does not publish a version number yet, so no version is shown here.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
+      "id": "kiive-audio--distinct",
+      "manufacturerId": "kiive-audio",
+      "name": "Distinct!",
+      "matchPatterns": [
+        "Distinct!",
+        "Kiive Distinct!"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.kiiveaudio.com/products/distinct",
+      "notes": "Compact distortion unit with three distortion modes, extra saturation, tone shaping and Auto-Gain. $9 on sale, 14-day free trial, free updates for life. VST3, AU and AAX for macOS and Windows. The vendor product page does not publish a version number yet, so no version is shown here. An older forum post mentions version 2.0.1, but the vendor page prints no version, so no version is shown here.",
+      "appleSilicon": "native",
       "popularityTier": 2
     },
     {
@@ -59522,11 +59602,11 @@
       "popularityTier": 3,
       "latestVersion": "5.4.6",
       "versionSourceUrl": "https://www.mathewlane.com/support/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-11-19T05:29:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Mathew Lane support FAQ current version macOS/WIN64 v5.4.6 match for DrMS"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -60852,11 +60932,11 @@
       "popularityTier": 3,
       "latestVersion": "1.16.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/drumxchanger",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.16.0"
       ]
     },
     {
@@ -61457,11 +61537,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.audiothing.net/effects/dub-filter/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -64333,11 +64413,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.audiothing.net/effects/echo-cube/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -65832,11 +65912,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.4",
       "versionSourceUrl": "https://sugar-bytes.de/en/effectrix2",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 2.0.4 label"
+        "Official Sugar Bytes product page Downloads label reads Version 2.0.4 (label governs per playbook)"
       ]
     },
     {
@@ -68135,11 +68215,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.audiothing.net/effects/environments/",
-      "versionVerifiedAt": "2026-09-10T04:58:38Z",
+      "versionVerifiedAt": "2026-11-19T05:29:23Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -69970,12 +70050,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/expanse5-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/expanse5-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -71045,11 +71125,11 @@
       "popularityTier": 3,
       "latestVersion": "3.4",
       "versionSourceUrl": "https://raw.githubusercontent.com/facebookarchive/facebook-360-spatial-workstation/main/docs/Documentation/SpatialWorkstation/SpatialWorkstation.html",
-      "versionVerifiedAt": "2026-09-10T05:25:57Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename (domain not in official list) (85)"
+        "FB360 Spatial Workstation doc names 3.4 installers"
       ]
     },
     {
@@ -71069,11 +71149,11 @@
       "popularityTier": 3,
       "latestVersion": "3.4",
       "versionSourceUrl": "https://raw.githubusercontent.com/facebookarchive/facebook-360-spatial-workstation/main/docs/Documentation/SpatialWorkstation/SpatialWorkstation.html",
-      "versionVerifiedAt": "2026-09-10T05:25:57Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename (domain not in official list) (85)"
+        "FB360 Spatial Workstation doc names 3.4 installers"
       ]
     },
     {
@@ -71093,11 +71173,11 @@
       "popularityTier": 3,
       "latestVersion": "3.4",
       "versionSourceUrl": "https://raw.githubusercontent.com/facebookarchive/facebook-360-spatial-workstation/main/docs/Documentation/SpatialWorkstation/SpatialWorkstation.html",
-      "versionVerifiedAt": "2026-09-10T05:25:57Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename (domain not in official list) (85)"
+        "FB360 Spatial Workstation doc names 3.4 installers"
       ]
     },
     {
@@ -71117,11 +71197,11 @@
       "popularityTier": 3,
       "latestVersion": "3.4",
       "versionSourceUrl": "https://raw.githubusercontent.com/facebookarchive/facebook-360-spatial-workstation/main/docs/Documentation/SpatialWorkstation/SpatialWorkstation.html",
-      "versionVerifiedAt": "2026-09-10T05:25:57Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename (domain not in official list) (85)"
+        "FB360 Spatial Workstation doc names 3.4 installers"
       ]
     },
     {
@@ -71141,11 +71221,11 @@
       "popularityTier": 3,
       "latestVersion": "3.4",
       "versionSourceUrl": "https://raw.githubusercontent.com/facebookarchive/facebook-360-spatial-workstation/main/docs/Documentation/SpatialWorkstation/SpatialWorkstation.html",
-      "versionVerifiedAt": "2026-09-10T05:25:57Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename (domain not in official list) (85)"
+        "FB360 Spatial Workstation doc names 3.4 installers"
       ]
     },
     {
@@ -73225,11 +73305,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://sugar-bytes.de/en/factory",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.1.4 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.1.4 (label governs per playbook)"
       ]
     },
     {
@@ -73648,6 +73728,31 @@
       "versionConfidence": 88,
       "versionConfidenceReasons": [
         "Freshness re-check: vendor installer string Kilohearts Installer 2.4.6 for Windows/Mac; changelog top entry 2.4.6 - March 10, 2026; vendor shared-codebase model honored."
+      ]
+    },
+    {
+      "id": "deadsignalaudio--fault",
+      "manufacturerId": "deadsignalaudio",
+      "name": "Fault",
+      "matchPatterns": [
+        "Fault",
+        "Dead Signal Fault"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://deadsignalaudio.com/fault/",
+      "notes": "Clipper that shaves peaks off, from a hard clip to a soft one, with oversampling up to 8x and a button that plays only what it removed. $15 one time, no trial, 14-day refund. Mac AU and VST3, Windows VST3, AAX for Mac as a separate download.",
+      "latestVersion": "0.1.0",
+      "versionSourceUrl": "https://deadsignalaudio.com/changelog/",
+      "versionVerifiedAt": "2026-11-19T05:39:08Z",
+      "versionEvidence": "page-confirmed",
+      "versionConfidence": 90,
+      "versionConfidenceReasons": [
+        "Vendor changelog (deadsignalaudio.com/changelog) lists 0.1.0, Nov 7 2026, first release: clipper with hard-to-soft shape, 1x-8x oversampling",
+        "Vendor product page confirms Fault out now, Mac + Windows, 5 one time"
       ]
     },
     {
@@ -74357,11 +74462,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for filtercult demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -75267,7 +75372,7 @@
       "latestVersionMac": "3.0.1",
       "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.1 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
@@ -75302,12 +75407,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.3",
-      "versionSourceUrl": "https://www.kvraudio.com/product/fire-the-gold-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/fire-the-gold-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:27:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -75415,11 +75520,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for fireburn demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -76092,11 +76197,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.wavesfactory.com/blog/posts/changelog-and-updates/",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-18T17:28:11Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor changelog page (manufacturer release notes)"
       ]
     },
     {
@@ -76612,12 +76717,12 @@
       "identityKind": "hub_app",
       "popularityTier": 1,
       "latestVersion": "1.1210.0.0",
-      "versionSourceUrl": "https://releases.focusrite.com/com.focusrite.focusrite-control/release/Focusrite-Control-2-1.1210.0.0.dmg",
-      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionSourceUrl": "https://support.focusrite.com/hc/en-gb/articles/13289679039378-Focusrite-Control-2-Release-Notes",
+      "versionVerifiedAt": "2026-11-18T17:28:01Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Official Focusrite release notes top entry 1.1210.0 released 20th October 2026; stored 1.1210.0.0 is the installer-filename form of the same build (trailing .0), also HEAD-200 verified on releases.focusrite.com"
       ]
     },
     {
@@ -77741,11 +77846,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://klevgrand.com/products/freeamp",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -78188,18 +78293,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/frost-by-acustica-audio",
+      "latestVersionMac": "3.0.1",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.1 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/frost-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "latestVersion": "3.0.1",
+      "versionSourceUrl": "https://www.kvraudio.com/product/frost-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:27:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)",
+        "Per-OS split: Mac 3.0.1 newer than Windows 3.0.0; headline is newest across OSes per per-OS rule"
       ]
     },
     {
@@ -79466,13 +79574,13 @@
       },
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "1.3.11",
+      "latestVersion": "1.3.12",
       "versionSourceUrl": "https://www.tbproaudio.de/products/gsatplus",
-      "versionVerifiedAt": "2026-09-10T04:23:24Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -79655,11 +79763,11 @@
       "popularityTier": 3,
       "latestVersion": "1.53",
       "versionSourceUrl": "https://files.letimix.com/gainmatch/version_history.txt",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer version history tops at v 1.53"
       ]
     },
     {
@@ -79683,12 +79791,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gainstation-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/gainstation-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:27:54Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -79712,12 +79820,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gainstation-boost-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/gainstation-boost-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:27:55Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -81074,18 +81182,19 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/gold-3-by-acustica-audio",
+      "successorPluginId": "acustica-audio--gold-4",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gold-3-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/gold-3-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -81103,18 +81212,20 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/gold-4-by-acustica-audio",
+      "successorPluginId": "acustica-audio--gold-5",
+      "predecessorPluginId": "acustica-audio--gold-3",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.2",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gold-4-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/gold-4-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -81133,18 +81244,19 @@
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/gold-5-by-acustica-audio",
       "successorPluginId": "acustica-audio--gold-6",
+      "predecessorPluginId": "acustica-audio--gold-4",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "3.0.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/gold-5-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/gold-5-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-18T17:28:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline verwin/verosx (crowdsourced)"
       ]
     },
     {
@@ -82017,11 +82129,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.6",
       "versionSourceUrl": "https://sugar-bytes.de/en/graindad",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.0.6 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.0.6 (label governs per playbook)"
       ]
     },
     {
@@ -83453,11 +83565,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://sugar-bytes.de/en/guitarist",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.1.1 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.1.1 (label governs per playbook)"
       ]
     },
     {
@@ -92968,6 +93080,24 @@
       "popularityTier": 1
     },
     {
+      "id": "minimal-audio--hybrid-filter",
+      "manufacturerId": "minimal-audio",
+      "name": "Hybrid Filter",
+      "matchPatterns": [
+        "Hybrid Filter",
+        "Minimal Audio Hybrid Filter"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.minimal.audio/products/hybrid-filter",
+      "notes": "Essential multi-mode filter with over 50 filter types, including morphing, formant, comb and phaser modes, plus a low-frequency crossover that keeps the low end intact and a built-in envelope follower for auto-filter effects. $49 one time, or rent-to-own for $15 a month; 2 activations, free updates and support. Free in the Audio Plugin Deals Black Friday bundle until November 26, 2026. The vendor product page does not publish a version number yet, so no version is shown here.",
+      "appleSilicon": "native",
+      "popularityTier": 2
+    },
+    {
       "id": "native-instruments--hybrid-keys",
       "manufacturerId": "native-instruments",
       "name": "Hybrid Keys",
@@ -97227,11 +97357,11 @@
       "popularityTier": 3,
       "latestVersion": "1.8.0",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.8.0 for ironaxe demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -97458,18 +97588,21 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/ivory-by-acustica-audio",
+      "latestVersionMac": "3.0.2",
+      "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
-      "notesForUser": "Installs and updates through Acustica's Aquarius app.",
+      "notesForUser": "Installs and updates through Acustica's Aquarius app. Latest version is 3.0.2 on Mac and 3.0.0 on Windows.",
       "identityKind": "suite_component",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "3.0.0",
-      "versionSourceUrl": "https://www.kvraudio.com/product/ivory-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:54:00Z",
+      "latestVersion": "3.0.2",
+      "versionSourceUrl": "https://www.kvraudio.com/product/ivory-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-19T05:29:36Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product timeline only (crowdsourced) — skeptical default",
+        "Mac 3.0.2 and Windows 3.0.0 both read from the same dated KVR timeline"
       ]
     },
     {
@@ -100306,11 +100439,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for kickbeat demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -100570,12 +100703,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.4.6",
-      "versionSourceUrl": "https://kilohearts.com/data/install/_/mac",
-      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionSourceUrl": "https://kilohearts.com/download",
+      "versionVerifiedAt": "2026-11-18T17:26:42Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Official Kilohearts download page, changelog top entry 2.4.6"
       ]
     },
     {
@@ -108664,11 +108797,11 @@
       "popularityTier": 3,
       "latestVersion": "4.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 4.0.2 for littleone demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -109151,13 +109284,14 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "12.4",
+      "latestVersion": "13.0",
       "versionSourceUrl": "https://itunes.apple.com/lookup?id=634148309",
-      "versionVerifiedAt": "2026-10-01T15:22:00Z",
+      "versionVerifiedAt": "2026-11-19T05:33:09Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Apple-served JSON, first-party"
+        "Apple-served App Store lookup: version 13.0, currentVersionReleaseDate 2026-11-05T14:12:40Z",
+        "Apple Logic Pro for Mac release notes published Nov 5, 2026 list 13.0 (corroborated by MacRumors/Macfolio coverage same day)"
       ]
     },
     {
@@ -109586,11 +109720,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://sugar-bytes.de/en/looperator",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:51Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.1.1 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.1.1 (label governs per playbook)"
       ]
     },
     {
@@ -109936,12 +110070,11 @@
       "popularityTier": 2,
       "latestVersion": "4.4.5",
       "versionSourceUrl": "https://www.applied-acoustics.com/support/",
-      "versionVerifiedAt": "2026-09-10T04:15:31Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 95,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)",
-        "live HTML content hash corroboration (+3)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -110362,11 +110495,11 @@
       "popularityTier": 2,
       "latestVersion": "1.3.7",
       "versionSourceUrl": "https://www.liquidsonics.com/software/lustrous-plates/",
-      "versionVerifiedAt": "2026-09-10T04:23:24Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -112928,12 +113061,12 @@
       "appleSilicon": "native",
       "popularityTier": 1,
       "latestVersion": "2.5.1",
-      "versionSourceUrl": "https://dl.u-he.com/releases/",
-      "versionVerifiedAt": "2026-10-26T00:02:52Z",
+      "versionSourceUrl": "https://u-he.com/downloads/release-archive/mfm2/",
+      "versionVerifiedAt": "2026-11-18T17:26:43Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Official u-he release-archive mfm2 folder, highest installer filename MFM2_251_16742; dl.u-he.com releases index host suspended (BunnyCDN unconfigured) so archive is the working fallback"
       ]
     },
     {
@@ -113449,13 +113582,13 @@
       "predecessorPluginId": "metric-halo--channelstrip-v3",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.1.12",
+      "latestVersion": "4.1.33.298",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -113500,13 +113633,13 @@
       "predecessorPluginId": "metric-halo--character-v3",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.1.12",
+      "latestVersion": "4.1.33.298",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -113599,13 +113732,13 @@
       "predecessorPluginId": "metric-halo--haloverb-v3",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.1.12",
+      "latestVersion": "4.1.33.298",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -113839,13 +113972,13 @@
       "predecessorPluginId": "metric-halo--transientcontrol-v3",
       "appleSilicon": "native",
       "popularityTier": 2,
-      "latestVersion": "4.1.12",
+      "latestVersion": "4.1.33.298",
       "versionSourceUrl": "https://mhsecure.com/metric_halo/support/downloads.html",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -116311,11 +116444,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "https://tekitaudio.itch.io/mscontrol",
-      "versionVerifiedAt": "2026-09-10T04:23:24Z",
+      "versionVerifiedAt": "2026-11-19T05:29:22Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -125568,11 +125701,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/vac-attack",
-      "versionVerifiedAt": "2026-09-10T06:19:36Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.0.1"
       ]
     },
     {
@@ -125776,11 +125909,11 @@
       "popularityTier": 3,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.2.0 for modflorus demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -128285,13 +128418,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/dusk-audio/dusk-audio-plugins",
       "notes": "OAS package luna-co-software/multi-comp",
-      "latestVersion": "1.3.1",
+      "latestVersion": "1.3.9",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/luna-co-software/multi-comp/index.json",
-      "versionVerifiedAt": "2026-11-11T17:23:39Z",
+      "versionVerifiedAt": "2026-11-18T17:28:26Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry top version 1.3.9, release files multi-comp-v1.3.9 dated 2026-11-09"
       ]
     },
     {
@@ -131297,11 +131430,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.9",
       "versionSourceUrl": "https://sugar-bytes.de/en/nest",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.0.9 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.0.9 (label governs per playbook)"
       ]
     },
     {
@@ -135122,11 +135255,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.4",
       "versionSourceUrl": "https://sugar-bytes.de/en/obscurium",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.1.4 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.1.4 (label governs per playbook)"
       ]
     },
     {
@@ -135447,11 +135580,11 @@
       "notes": "OAS package thewavewarden/odin2",
       "latestVersion": "2.4.1",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/thewavewarden/odin2/index.json",
-      "versionVerifiedAt": "2026-09-10T04:56:43Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry top version 2.4.1; files are NightlyDevel 2.4.1 builds dated 2025-05-30"
       ]
     },
     {
@@ -145397,11 +145530,11 @@
       "popularityTier": 3,
       "latestVersion": "1.16.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/passeq",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
+      "versionVerifiedAt": "2026-11-18T17:28:28Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.16.0"
       ]
     },
     {
@@ -147230,13 +147363,13 @@
       ],
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.0.2",
+      "latestVersion": "1.0.3",
       "versionSourceUrl": "https://support.spitfireaudio.com/en/articles/17505521",
-      "versionVerifiedAt": "2026-10-22T17:53:32Z",
+      "versionVerifiedAt": "2026-11-18T17:27:02Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 90,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor help-center changelog article is the primary oracle for Spitfire library versions"
+        "Official Spitfire Help Centre Phoenix Version History, top entry v1.0.3 released 26th October 2026"
       ]
     },
     {
@@ -149698,13 +149831,13 @@
       "productLine": "FOSS / Open Audio Stack",
       "updatePortalUrl": "https://github.com/kevin-jenkins/PlugNspectr",
       "notes": "OAS package kevin-jenkins/plugnspectr",
-      "latestVersion": "1.0.1",
+      "latestVersion": "1.2.0",
       "versionSourceUrl": "https://open-audio-stack.github.io/open-audio-stack-registry/plugins/kevin-jenkins/plugnspectr/index.json",
-      "versionVerifiedAt": "2026-11-11T17:23:41Z",
+      "versionVerifiedAt": "2026-11-18T17:28:26Z",
       "versionEvidence": "manufacturer-feed",
       "versionConfidence": 95,
       "versionConfidenceReasons": [
-        "oas-registry: manufacturer package version field (95)"
+        "OAS registry top version 1.2.0, release files v1.2.0 dated 2026-11-03"
       ]
     },
     {
@@ -156259,13 +156392,13 @@
       "identityKind": "standalone_app",
       "appleSilicon": "unknown",
       "popularityTier": 1,
-      "latestVersion": "7.83",
-      "versionSourceUrl": "https://www.reaper.fm/whatsnew.txt",
-      "versionVerifiedAt": "2026-10-26T00:02:06Z",
+      "latestVersion": "7.86",
+      "versionSourceUrl": "https://www.reaper.fm/download.php",
+      "versionVerifiedAt": "2026-11-19T05:32:50Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=92)"
+        "Official REAPER download page header: Version 7.86: November 13, 2026; installers reaper786_* on all platforms"
       ]
     },
     {
@@ -159736,11 +159869,11 @@
       "popularityTier": 3,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.1.0 for rawprime demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -162190,11 +162323,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.7",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.7 for resonheart demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -165723,11 +165856,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.3",
       "versionSourceUrl": "https://www.wavesfactory.com/blog/posts/changelog-and-updates/",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-18T17:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor changelog page (manufacturer release notes)"
       ]
     },
     {
@@ -166348,11 +166481,11 @@
       "popularityTier": 3,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/eq-ranger-plus",
-      "versionVerifiedAt": "2026-09-10T05:16:06Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.11.3"
       ]
     },
     {
@@ -166510,11 +166643,11 @@
       "popularityTier": 3,
       "latestVersion": "1.1.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/hawkeye",
-      "versionVerifiedAt": "2026-09-10T05:16:06Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.1.0"
       ]
     },
     {
@@ -166572,11 +166705,11 @@
       "popularityTier": 3,
       "latestVersion": "1.7.0",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/iron",
-      "versionVerifiedAt": "2026-09-10T05:16:06Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.7.0"
       ]
     },
     {
@@ -166804,11 +166937,11 @@
       "popularityTier": 3,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.11.3 (distributor twin of Transient Designer Plus)"
       ]
     },
     {
@@ -166863,11 +166996,11 @@
       "popularityTier": 3,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-10T05:16:06Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.11.3"
       ]
     },
     {
@@ -172658,11 +172791,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for shineverb demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -174568,11 +174701,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.24",
       "versionSourceUrl": "https://www.kvraudio.com/product/slicex-by-image-line",
-      "versionVerifiedAt": "2026-09-10T10:26:24Z",
+      "versionVerifiedAt": "2026-11-18T17:29:06Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced; yellow band)"
+        "KVR product page renders Product, Version, 1.0.24; KVR-only evidence at the @60 ceiling per playbook"
       ]
     },
     {
@@ -175103,11 +175236,11 @@
       "popularityTier": 3,
       "latestVersion": "3.1.6",
       "versionSourceUrl": "https://www.audioease.com/snapper/",
-      "versionVerifiedAt": "2026-09-10T05:13:25Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer downloads page tops at 3.1.6"
       ]
     },
     {
@@ -175143,11 +175276,11 @@
       "popularityTier": 2,
       "latestVersion": "2.0.1",
       "versionSourceUrl": "https://www.wavesfactory.com/blog/posts/changelog-and-updates/",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-18T17:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor changelog page (manufacturer release notes)"
       ]
     },
     {
@@ -175168,11 +175301,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for snareclack demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -178599,15 +178732,18 @@
       ],
       "updatePortalUrl": "https://www.audioease.com/download",
       "notes": "KVR product https://www.kvraudio.com/product/speakerphone-by-audio-ease",
+      "latestVersionMac": "3.1.4",
+      "latestVersionWindows": "3.1.5",
+      "notesForUser": "Latest version is 3.1.4 on Mac and 3.1.5 on Windows.",
       "appleSilicon": "mixed",
       "popularityTier": 3,
-      "latestVersion": "3.1.5",
+      "latestVersion": "3.1.4",
       "versionSourceUrl": "https://www.audioease.com/speakerphone/",
-      "versionVerifiedAt": "2026-09-10T05:13:49Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer release-notes page tops at 3.1.5 (Windows); macOS latest listed is 3.1.4, see lane notes"
       ]
     },
     {
@@ -179076,11 +179212,11 @@
       "popularityTier": 2,
       "latestVersion": "1.5.6",
       "versionSourceUrl": "https://www.wavesfactory.com/blog/posts/changelog-and-updates/",
-      "versionVerifiedAt": "2026-09-10T03:57:17Z",
+      "versionVerifiedAt": "2026-11-18T17:28:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Vendor changelog page (manufacturer release notes)"
       ]
     },
     {
@@ -179724,11 +179860,11 @@
       "popularityTier": 1,
       "latestVersion": "3.4.17",
       "versionSourceUrl": "https://d1t3zg51rvnesz.cloudfront.net/p/files/lm/1770184800/mac/SpitfireAudio.Mac-3.4.17.dmg",
-      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "versionVerifiedAt": "2026-11-18T17:28:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 85,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Official Spitfire CloudFront installer URL HEAD 200 for 3.4.17; next-patch probe 3.4.18 under same path token 403 (no newer build on this token; token may rotate per release, so absence is not absolute)"
       ]
     },
     {
@@ -181854,11 +181990,11 @@
       "popularityTier": 3,
       "latestVersion": "2.5.3",
       "versionSourceUrl": "https://www.mathewlane.com/support/",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Mathew Lane support FAQ current version macOS/WIN64 v2.5.3 match for StereoDelta"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -198735,11 +198871,11 @@
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.audiothing.net/effects/things-texture/",
-      "versionVerifiedAt": "2026-09-10T04:23:24Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -199102,11 +199238,11 @@
       "popularityTier": 3,
       "latestVersion": "1.2.8",
       "versionSourceUrl": "https://www.mathewlane.com/support/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-11-19T05:29:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Mathew Lane support FAQ current version macOS/WIN64 v1.2.8 match for TiAMO"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -199127,11 +199263,11 @@
       "popularityTier": 3,
       "latestVersion": "1.5.3",
       "versionSourceUrl": "https://www.mathewlane.com/support/",
-      "versionVerifiedAt": "2026-09-10T09:23:36Z",
+      "versionVerifiedAt": "2026-11-19T05:29:17Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Mathew Lane support FAQ current version macOS/WIN64 v1.5.3 match for TiCo"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -202170,11 +202306,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://sugar-bytes.de/en/transfigure",
-      "versionVerifiedAt": "2026-09-10T09:54:31Z",
+      "versionVerifiedAt": "2026-11-18T17:28:52Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Sugar Bytes product page Downloads Version 1.0.1 label"
+        "Official Sugar Bytes product page Downloads label reads Version 1.0.1 (label governs per playbook)"
       ]
     },
     {
@@ -202273,11 +202409,11 @@
       "popularityTier": 3,
       "latestVersion": "1.11.3",
       "versionSourceUrl": "https://www.plugin-alliance.com/products/transient-designer-plus",
-      "versionVerifiedAt": "2026-09-10T05:16:07Z",
+      "versionVerifiedAt": "2026-11-18T17:28:27Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "installer-filename on official manufacturer domain (88)"
+        "Manufacturer product-page changelog tops at 1.11.3 (distributor twin of Transient Designer Plus)"
       ]
     },
     {
@@ -203872,13 +204008,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:04Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-19T05:37:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Manufacturer release notes page on vendor domain, version 2.6.48, 'All plug-ins' section covers this plugin",
+        "No newer release (2.6.49) found; 2.6.48 article re-read first-hand 2026-11-19 05:36 UTC"
       ]
     },
     {
@@ -203907,13 +204044,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:06Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-19T05:37:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Manufacturer release notes page on vendor domain, version 2.6.48, 'All plug-ins' section covers this plugin",
+        "No newer release (2.6.49) found; 2.6.48 article re-read first-hand 2026-11-19 05:36 UTC"
       ]
     },
     {
@@ -203936,13 +204074,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:08Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-19T05:37:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Manufacturer release notes page on vendor domain, version 2.6.48, 'All plug-ins' section covers this plugin",
+        "No newer release (2.6.49) found; 2.6.48 article re-read first-hand 2026-11-19 05:36 UTC"
       ]
     },
     {
@@ -203971,13 +204110,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:10Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-19T05:37:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Manufacturer release notes page on vendor domain, version 2.6.48, 'All plug-ins' section covers this plugin",
+        "No newer release (2.6.49) found; 2.6.48 article re-read first-hand 2026-11-19 05:36 UTC"
       ]
     },
     {
@@ -204000,13 +204140,14 @@
       "portalApp": "Softube Central",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "2.6.47",
-      "versionSourceUrl": "https://www.softube.com/eu/release-notes/release-notes-for-version-2-6-47-(released-on-november-3rd-2026)",
-      "versionVerifiedAt": "2026-11-12T05:23:12Z",
+      "latestVersion": "2.6.48",
+      "versionSourceUrl": "https://www.softube.com/us/release-notes/release-notes-for-version-2-6-48-(released-on-november-11th-2026)",
+      "versionVerifiedAt": "2026-11-19T05:37:40Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=90)"
+        "Manufacturer release notes page on vendor domain, version 2.6.48, 'All plug-ins' section covers this plugin",
+        "No newer release (2.6.49) found; 2.6.48 article re-read first-hand 2026-11-19 05:36 UTC"
       ]
     },
     {
@@ -214626,11 +214767,11 @@
       "popularityTier": 1,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://ujam.zendesk.com/hc/en-us/articles/28023878713500",
-      "versionVerifiedAt": "2026-10-22T17:53:33Z",
+      "versionVerifiedAt": "2026-11-18T17:26:48Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 88,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "Vendor article + Drive artifact filename agree on 1.5.0; bundle ID unverified"
+        "Official UJAM support article Standalone Installers lists Usynth v1.5.0 (host plugin, required)"
       ]
     },
     {
@@ -223187,11 +223328,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.4",
       "versionSourceUrl": "https://www.wedgeforce.com/hydro-synth-download/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -223249,11 +223390,11 @@
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/keemun-synth-download/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -223313,11 +223454,11 @@
       "popularityTier": 2,
       "latestVersion": "1.5.0",
       "versionSourceUrl": "https://www.wedgeforce.com/updates-matcha/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -223348,11 +223489,11 @@
       "popularityTier": 2,
       "latestVersion": "1.1.2",
       "versionSourceUrl": "https://www.wedgeforce.com/oolong-synth-download/",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:20Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 92,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer downloadsPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -223801,11 +223942,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://klevgrand.com/products/walls",
-      "versionVerifiedAt": "2026-09-10T04:02:35Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer productPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -224244,11 +224385,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.2",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.0.2 for waterstream demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -226040,11 +226181,11 @@
       "popularityTier": 3,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:19Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.2.0 for windchant demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -226934,13 +227075,13 @@
       },
       "identityKind": "hub_app",
       "popularityTier": 1,
-      "latestVersion": "5.0.2",
+      "latestVersion": "5.1.0",
       "versionSourceUrl": "https://www.xlnaudio.com/release_notes",
-      "versionVerifiedAt": "2026-10-18T20:18:03Z",
+      "versionVerifiedAt": "2026-11-18T17:26:13Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 95,
+      "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "XLN release-notes table: XLN Online Installer 5.0.2, Oct 14 2026."
+        "Official XLN release notes page, top XLN Online Installer entry 5.1.0 dated Nov 2, 2026"
       ]
     },
     {
@@ -229801,11 +229942,11 @@
       "popularityTier": 3,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "https://www.xhun-audio.com/site/xhun.php?page=download",
-      "versionVerifiedAt": "2026-09-10T09:23:37Z",
+      "versionVerifiedAt": "2026-11-19T05:29:18Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Xhun Audio download page VERSION 1.2.0 for zerobox demo/installer"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -233302,11 +233443,11 @@
       "popularityTier": 2,
       "latestVersion": "1.2.8",
       "versionSourceUrl": "https://www.accentize.com/dxrevive",
-      "versionVerifiedAt": "2026-09-10T04:23:24Z",
+      "versionVerifiedAt": "2026-11-19T05:29:21Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "page-confirmed manufacturer releaseNotesPage with clear version (92)"
+        "Manufacturer official page with clear version"
       ]
     },
     {
@@ -234298,13 +234439,13 @@
       "identityKind": "hub_app",
       "appleSilicon": "mixed",
       "popularityTier": 1,
-      "latestVersion": "1.40.0",
-      "versionSourceUrl": "https://cdn.inmusicbrands.com/SI04/1400/inMusic%20Software%20Center-darwin-universal-1.40.0.zip",
-      "versionVerifiedAt": "2026-10-26T00:02:50Z",
+      "latestVersion": "1.40.1",
+      "versionSourceUrl": "https://cdn.inmusicbrands.com/SI04/1401/inMusic%20Software%20Center-darwin-universal-1.40.1.zip",
+      "versionVerifiedAt": "2026-11-18T17:27:35Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 85,
+      "versionConfidence": 88,
       "versionConfidenceReasons": [
-        "manual accept via CLI (confidence=85)"
+        "Versioned installer filename on official inMusic CDN: 1.40.1 zip exists (213108549 B, distinct from 1.40.0 213108131 B); next patch 1.40.2 and 1.41.0 both 404"
       ]
     },
     {
