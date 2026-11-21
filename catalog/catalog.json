@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-11-20T14:00:55Z",
+  "updatedAt": "2026-11-21T14:03:26Z",
   "catalogSource": "store-export:v4",
   "manufacturers": [
     {
@@ -1541,6 +1541,13 @@
       "websiteUrl": "https://www.diegocapoccitti.it/"
     },
     {
+      "id": "digital-brain-instruments",
+      "name": "Digital Brain Instruments",
+      "updatePortalUrl": "https://www.digitalbrain-instruments.com",
+      "websiteUrl": "https://www.digitalbrain-instruments.com",
+      "notes": "Digital Brain Instruments — small developer of live-performance and audio tools (vPlayer, Transformer, Multiplex Vocoder, Talkie Box, Batch Pro, Oscar, CMixer, DSP Manager). No dedicated update portal; updates announced on the vendor site."
+    },
+    {
       "id": "oas--dimethoxy",
       "name": "Dimethoxy",
       "updatePortalUrl": "https://github.com/Dimethoxy/Disflux",
@@ -2111,6 +2118,13 @@
       "changelogUrl": "https://goodhertz.com/downloads/",
       "notes": "Goodhertz installer / account\nApple Silicon: NATIVE (verified 2026-09-15). goodhertz.com FAQ: \"Are Goodhertz plugins compatible with Apple silicon computers? Yes, our latest releases (>= v3.7.0) have native support for Apple silicon computers.\" version_example updated 3.7.5 -> 3.14.1 (\"Goodhertz 3.14.1 ... June 30, 2026\" on official downloads page).",
       "popularityTier": 1
+    },
+    {
+      "id": "gorilla-dsp",
+      "name": "Gorilla DSP",
+      "updatePortalUrl": "https://gorilladsp.com",
+      "websiteUrl": "https://gorilladsp.com",
+      "notes": "Gorilla DSP — reverb plugin developer (Lush Reverb). No dedicated update portal; updates announced on the vendor site."
     },
     {
       "id": "oas--greg-recco",
@@ -5587,6 +5601,13 @@
       "updatePortalUrl": "https://github.com/Wamphyre/DrumCraker",
       "websiteUrl": "https://github.com/Wamphyre/DrumCraker",
       "notes": "Open Audio Stack registry author (FOSS)"
+    },
+    {
+      "id": "warsaw-wave",
+      "name": "Warsaw Wave",
+      "updatePortalUrl": "https://warsaw-wave.com",
+      "websiteUrl": "https://warsaw-wave.com",
+      "notes": "Warsaw Wave — small team of producers/sound designers/programmers based in Warsaw, Poland (remote branch Portland, OR). First product: Revolt Patchable Synth. No dedicated update portal; updates announced on the vendor site."
     },
     {
       "id": "oas--wasted-audio",
@@ -16256,6 +16277,8 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amber-3-by-acustica-audio",
+      "successorPluginId": "acustica-audio--amber-4",
+      "supersededByPluginId": "acustica-audio--amber-4",
       "portalApp": "Aquarius",
       "notesForUser": "Installs and updates through Acustica's Aquarius app.",
       "identityKind": "suite_component",
@@ -16285,6 +16308,7 @@
       ],
       "updatePortalUrl": "https://www.acustica-audio.com/pages/aquarius",
       "notes": "KVR product https://www.kvraudio.com/product/amber-4-by-acustica-audio",
+      "predecessorPluginId": "acustica-audio--amber-3",
       "latestVersionMac": "3.0.1",
       "latestVersionWindows": "3.0.0",
       "portalApp": "Aquarius",
@@ -19368,12 +19392,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "1.0.1",
-      "versionSourceUrl": "https://www.kvraudio.com/product/analog-brass-and-winds-by-output/details",
-      "versionVerifiedAt": "2026-09-16T16:26:59Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/analog-brass-and-winds-by-output",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -19880,11 +19904,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/analog-strings-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:00Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -22056,11 +22080,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/arctic-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-06T05:25:10Z",
+      "versionVerifiedAt": "2026-11-21T05:24:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 2.3.5 (Win and Mac legs agree)"
       ]
     },
     {
@@ -22604,11 +22628,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/ash-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-06T05:25:10Z",
+      "versionVerifiedAt": "2026-11-21T05:24:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 3.0.5 (Win and Mac legs agree)"
       ]
     },
     {
@@ -22633,11 +22657,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/ash-2-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-06T05:25:10Z",
+      "versionVerifiedAt": "2026-11-21T05:24:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 3.0.5 (Win and Mac legs agree)"
       ]
     },
     {
@@ -23254,11 +23278,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/aubergine-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-06T05:25:10Z",
+      "versionVerifiedAt": "2026-11-21T05:24:02Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 3.0.4 (Win and Mac legs agree)"
       ]
     },
     {
@@ -25081,12 +25105,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/azure-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/azure-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-21T05:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline Latest Version Changes: Windows 2.3.5 and macOS 2.3.5"
       ]
     },
     {
@@ -25576,11 +25600,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/ba-31-by-antelope-audio",
-      "versionVerifiedAt": "2026-09-10T09:25:37Z",
+      "versionVerifiedAt": "2026-11-21T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.0 (exact match score=1.00)"
+        "KVR product page only — crowdsourced, skeptical default"
       ]
     },
     {
@@ -25787,11 +25811,11 @@
       "popularityTier": 2,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/basstard-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionVerifiedAt": "2026-11-21T05:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 1.0 (Win and Mac legs agree)"
       ]
     },
     {
@@ -31131,11 +31155,11 @@
       "popularityTier": 2,
       "latestVersion": "2.3.5",
       "versionSourceUrl": "https://www.kvraudio.com/product/big-ceil-by-acustica-audio",
-      "versionVerifiedAt": "2026-11-06T05:25:10Z",
+      "versionVerifiedAt": "2026-11-21T05:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR product page Product Version token 2.3.5 (Win and Mac legs agree)"
       ]
     },
     {
@@ -32356,13 +32380,11 @@
       "popularityTier": 2,
       "latestVersion": "3.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/black-by-acustica-audio/timeline",
-      "versionVerifiedAt": "2026-11-13T17:27:59Z",
+      "versionVerifiedAt": "2026-11-21T05:24:10Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR /timeline top entry names macOS 3.0.1, 11 May 2026",
-        "Windows leg stays 3.0.0 per timeline; per-OS columns mac 3.0.1 / win 3.0.0",
-        "KVR-only, no vendor corroboration (Acustica pages print no semver)"
+        "KVR timeline Latest Version Changes: macOS 3.0.1 (11 May 26); Windows leg tops at 3.0.0 — per-OS divergence logged, no split applied on KVR legs alone"
       ]
     },
     {
@@ -36695,12 +36717,12 @@
       "appleSilicon": "native",
       "popularityTier": 2,
       "latestVersion": "2.3.5",
-      "versionSourceUrl": "https://www.kvraudio.com/product/brown-by-acustica-audio",
-      "versionVerifiedAt": "2026-09-10T08:53:59Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/brown-by-acustica-audio/timeline",
+      "versionVerifiedAt": "2026-11-21T05:24:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page Product Version (crowdsourced)"
+        "KVR timeline Latest Version Changes: macOS 2.3.5 and Windows 2.3.5"
       ]
     },
     {
@@ -38371,12 +38393,12 @@
       "appleSilicon": "mixed",
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
-      "versionSourceUrl": "https://www.kvraudio.com/marketplace/cla-nx-by-waves",
-      "versionVerifiedAt": "2026-09-16T16:26:50Z",
+      "versionSourceUrl": "https://www.kvraudio.com/product/cla-nx-by-waves/timeline",
+      "versionVerifiedAt": "2026-11-21T05:25:08Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 62,
+      "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR); not on official V17 installer list; treat as version floor"
+        "KVR /timeline authoritative oracle: macOS and Windows both 17.1.42.50, changed 25 Jun 26; no newer entry; matches stored version"
       ]
     },
     {
@@ -42531,6 +42553,22 @@
       "isFreeware": true,
       "appleSilicon": "universal",
       "popularityTier": 2
+    },
+    {
+      "id": "fracture-sounds--chamber-strings",
+      "manufacturerId": "fracture-sounds",
+      "name": "Chamber Strings",
+      "matchPatterns": [
+        "Fracture Sounds Chamber Strings"
+      ],
+      "formats": [
+        "Kontakt",
+        "NKS"
+      ],
+      "updatePortalUrl": "https://fracturesounds.com/product/fracture-sounds-chamber-strings/",
+      "notes": "First dedicated orchestral strings library from Fracture Sounds and the first release in the Scoring Orchestra Series: a 20-piece ensemble recorded at Rottenbiller Studio in Budapest, with 80+ articulations and a new Melodic Legato technique. Runs in the free Kontakt Player (7.8.1 or later), NKS compatible. $279 intro (regular $399). Released November 17, 2026. Sample libraries carry no version number, so no version is shown here.",
+      "identityKind": "soundset",
+      "popularityTier": 3
     },
     {
       "id": "airwindows--chamber2",
@@ -49883,11 +49921,11 @@
       "popularityTier": 1,
       "latestVersion": "17.1.42.50",
       "versionSourceUrl": "https://www.waves.com/downloads/release-notes",
-      "versionVerifiedAt": "2026-09-15T11:34:39Z",
+      "versionVerifiedAt": "2026-11-20T17:29:23Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 80,
       "versionConfidenceReasons": [
-        "[\"Manufacturer official: waves.com release notes 'All Waves Plugins: Across-the-board software update to V17' (June 23, 2026)\", \"Manufacturer official: waves.com/v17 'The V17 update includes plugins and bundles only'\", \"KVR per-product current-version readings: 17.1.42.50 (multiple products)\", \"No newer build anywhere; hub-app version (Waves Central v17.0.4) explicitly excluded per zero-trust\", \"Member plugin Greg Wells VoiceCentric directly at 17.1.42.50 on KVR; release notes: WLM Plus ships in V17\"]"
+        "manual accept via CLI (confidence=80)"
       ]
     },
     {
@@ -50961,13 +50999,11 @@
       "popularityTier": 2,
       "latestVersion": "1.2.1.14",
       "versionSourceUrl": "https://inmusicsupport.freshdesk.com/en/support/solutions/articles/69000872796-air-music-tech-macos-26-tahoe-compatibility",
-      "versionVerifiedAt": "2026-11-13T05:33:38Z",
+      "versionVerifiedAt": "2026-11-21T05:24:16Z",
       "versionEvidence": "page-confirmed",
-      "versionConfidence": 60,
+      "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "AIR/inMusic official macOS 26 Tahoe compatibility matrix lists Creative FX Collection 2 at version 1.2.1.14",
-        "macOS 14 Sonoma compatibility matrix lists the same version 1.2.1.14",
-        "Matrix records the compatibility-tested version, not a release announcement; same 1.2.1.14 build appears across many AIR lines (shared inMusic build train) - capped at 60 per chip brief"
+        "inMusic official macOS 26 Tahoe compatibility matrix lists Creative FX Collection 2 at 1.2.1.14"
       ]
     },
     {
@@ -53994,11 +54030,11 @@
       "popularityTier": 3,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/dxdesser-by-antelope-audio",
-      "versionVerifiedAt": "2026-09-10T09:25:38Z",
+      "versionVerifiedAt": "2026-11-21T05:25:13Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "KVR product page verwin/verosx 1.0.1 (exact match score=1.00)"
+        "KVR product page only — crowdsourced, skeptical default"
       ]
     },
     {
@@ -66532,11 +66568,11 @@
       "popularityTier": 3,
       "latestVersion": "1.3.4",
       "versionSourceUrl": "https://www.kvraudio.com/product/aireq-by-eiosis",
-      "versionVerifiedAt": "2026-09-10T05:52:36Z",
+      "versionVerifiedAt": "2026-11-21T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page only — crowdsourced, skeptical default"
       ]
     },
     {
@@ -66574,11 +66610,11 @@
       "popularityTier": 3,
       "latestVersion": "1.2.2.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/e-deesser-by-eiosis",
-      "versionVerifiedAt": "2026-09-10T05:55:08Z",
+      "versionVerifiedAt": "2026-11-21T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page only — crowdsourced, skeptical default"
       ]
     },
     {
@@ -70273,11 +70309,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/exhale-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -75013,7 +75049,7 @@
       "popularityTier": 1,
       "latestVersion": "3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/filtershaper-core-by-cableguys/details",
-      "versionVerifiedAt": "2026-09-14T05:25:57Z",
+      "versionVerifiedAt": "2026-11-20 17:29:23",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 81,
       "versionConfidenceReasons": [
@@ -78344,6 +78380,22 @@
       ],
       "updatePortalUrl": "https://www.freqport.com/product/freqlift_saturation_dynamics_plugin/",
       "notes": "Multiband dynamics, FreqTube saturation and oversampled clipping in one plugin; works in software or with optional FreqTube FT1 hardware for real tube processing. $99, launch offer 25% off with code FreqLift25. Mac and Windows, VST3, AU and AAX."
+    },
+    {
+      "id": "freqport--freqtube-ft1-emu",
+      "manufacturerId": "freqport",
+      "name": "FreqTube FT1-EMU",
+      "matchPatterns": [
+        "FreqTube FT1-EMU",
+        "Freqport FreqTube FT1-EMU"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://www.freqport.com/product/freqtube-ft1-emu/",
+      "notes": "True analog tube saturation and harmonics plugin built on component-level SPICE modeling of the FreqTube FT1 hardware, with optional one-click switching to the real tube hardware when connected. $99. Mac and Windows, VST3, AU and AAX. Released March 2026 alongside the Tube Collection bundle with FreqLift. The vendor product page does not publish a version number yet, so no version is shown here."
     },
     {
       "id": "puremagnetik--frequencizer-a-914-filterbank-for-ableton-live",
@@ -85732,11 +85784,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T20:46:50Z",
+      "versionVerifiedAt": "2026-11-21T05:25:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official OT helpdesk ledger; no twin"
+        "Official Orchestral Tools 'Current Versions' helpdesk ledger: HAB Habitat February 2022 (1.0); ledger last updated 2026-09-18, unchanged since 2026-11-07 verification"
       ]
     },
     {
@@ -92525,11 +92577,11 @@
       "popularityTier": 1,
       "latestVersion": "1.2.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:31Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -95521,11 +95573,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0",
       "versionSourceUrl": "https://orchestraltools.helpscoutdocs.com/article/289-current-versions",
-      "versionVerifiedAt": "2026-09-16T20:46:50Z",
+      "versionVerifiedAt": "2026-11-21T05:25:07Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "Official OT helpdesk ledger; no twin"
+        "Official Orchestral Tools 'Current Versions' helpdesk ledger: ISV Igudesman Solo Violin January 2022 (1.0); ledger last updated 2026-09-18, unchanged since 2026-11-07 verification"
       ]
     },
     {
@@ -96127,11 +96179,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -110869,6 +110921,21 @@
       "versionConfidenceReasons": [
         "Official CDN installer filename (CONFIDENCE.md:88)"
       ]
+    },
+    {
+      "id": "gorilla-dsp--lush-reverb",
+      "manufacturerId": "gorilla-dsp",
+      "name": "Lush Reverb",
+      "matchPatterns": [
+        "Lush Reverb",
+        "Gorilla DSP Lush Reverb"
+      ],
+      "formats": [
+        "VST3",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://gorilladsp.com/lush-reverb/",
+      "notes": "Three-engine reverb (dense algorithmic, shimmer, modelled spring tank) with 12-band EQ and 93 factory presets. $49, 30-day free trial. Windows only, VST3 and AAX. Released Nov 16, 2026 (KVR). No version number on the vendor page — seeded versionless."
     },
     {
       "id": "liquidsonics--lustrous-plates",
@@ -128644,11 +128711,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/movement-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -134462,11 +134529,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -137462,11 +137529,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Chart also lists 'CineOrch (now Orchestral Chords) | 2.0.0'; the legacy CineOrch version was not transferred to the current Orchestral Chords product."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -137662,11 +137729,11 @@
       "popularityTier": 3,
       "latestVersion": "3.2.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/organ-3-by-linplug",
-      "versionVerifiedAt": "2026-09-10T06:05:49Z",
+      "versionVerifiedAt": "2026-11-21T05:25:12Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 60,
       "versionConfidenceReasons": [
-        "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
+        "KVR product page only — crowdsourced, skeptical default"
       ]
     },
     {
@@ -148289,11 +148356,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Chart separately lists 'Piano In Blue (Legacy) | 2.3.0'; the legacy version was not used for the current product."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -151439,11 +151506,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.0",
       "versionSourceUrl": "https://www.kvraudio.com/product/portal-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -152694,6 +152761,22 @@
         "Pro Knob Rack"
       ],
       "notes": "Free 10-bay host that chains the Pro Knob Series single-control mixing modules — up to ten modules in one window, chain presets saved and recalled in any DAW. Free with a Signal Tools Co account. Launched alongside 15 paid Pro Knob modules (intro $7.95 each / $79.95 bundle through Dec 4, 2026). macOS 10.13+ (native Apple Silicon and Intel) and Windows 10+ 64-bit. No version number on the vendor site — seeded versionless."
+    },
+    {
+      "id": "signal-tools-co--pro-knob-room",
+      "manufacturerId": "signal-tools-co",
+      "name": "Pro Knob Room",
+      "matchPatterns": [
+        "Pro Knob Room",
+        "Signal Tools Co Pro Knob Room"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "AAX"
+      ],
+      "updatePortalUrl": "https://signaltoolsco.com/store/",
+      "notes": "Single-control room reverb module in the Pro Knob Series: natural room sound from small to large, with a Room Aux send version. New in the Depth Bundle, launched November 20, 2026 ($29.95 bundle through December 4, 2026; $7.95 per module intro). Mac, Windows and Linux, VST3, AU and AAX. The vendor store page does not publish a version number yet, so no version is shown here."
     },
     {
       "id": "native-instruments--pro-percussion-leap-bundle",
@@ -163536,11 +163619,11 @@
       "popularityTier": 1,
       "latestVersion": "1.1.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/rev-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -163993,6 +164076,23 @@
       "versionConfidenceReasons": [
         "kvr-product-page (crowdsourced verwin) — skeptical default (60)"
       ]
+    },
+    {
+      "id": "warsaw-wave--revolt",
+      "manufacturerId": "warsaw-wave",
+      "name": "Revolt Patchable Synth",
+      "matchPatterns": [
+        "Revolt Patchable Synth",
+        "Warsaw Wave Revolt Patchable Synth"
+      ],
+      "formats": [
+        "VST3",
+        "AU",
+        "LV2"
+      ],
+      "updatePortalUrl": "https://warsaw-wave.com/",
+      "notes": "Patchable synth with four oscillator slots, eight modulators, two multimode filters and four reorderable effects. $59 intro (regular $89); free reduced-feature version available, 14-day full trial. Mac AU/VST3, Windows VST3, Linux VST3/LV2, plus standalone. Released Oct 29, 2026. Vendor FAQ confirms the version 1.x line (updates within 1.x free; 2.0 will be a paid upgrade); no exact version number printed on the vendor page, so seeded versionless.",
+      "generation": "1"
     },
     {
       "id": "wave-alchemy--revolution",
@@ -164977,10 +165077,11 @@
         "AAX"
       ],
       "updatePortalUrl": "https://sugar-bytes.de/en/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/robotronic-by-sugar-bytes",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.3",
+      "finalVersion": "1.3",
       "versionSourceUrl": "https://reverb.com/item/757146-sugar-bytes-robotronic-vocoder-download",
       "versionVerifiedAt": "2026-09-14T17:36:56Z",
       "versionEvidence": "page-confirmed",
@@ -174138,11 +174239,11 @@
       "popularityTier": 1,
       "latestVersion": "1.3.1",
       "versionSourceUrl": "https://www.kvraudio.com/product/signal-by-output",
-      "versionVerifiedAt": "2026-09-16T16:26:07Z",
+      "versionVerifiedAt": "2026-11-21T05:26:01Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 65,
       "versionConfidenceReasons": [
-        "Single third-party source (KVR), uncorroborated; treat as version floor"
+        "KVR product page re-check, chip 2026-11-20-2118: version unchanged, matches stored current; KVR-only source per Output playbook (no vendor-published versions for these engines)"
       ]
     },
     {
@@ -176170,14 +176271,14 @@
       "identityKind": "hub_app",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "3.0.5",
+      "latestVersion": "3.1.0",
       "versionSourceUrl": "https://www.softube.com/us/support/known-issues/softube-central-3-known-issues",
-      "versionVerifiedAt": "2026-09-20T05:25:37Z",
+      "versionVerifiedAt": "2026-11-20T17:23:44Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "vendor official support page lists 3.0.5 as latest update with direct download links",
-        "manufacturer CDN Mac+Win 3.0.5 installers both return HTTP 200"
+        "Official Softube support page names 3.1.0 installers for both platforms",
+        "Both installer files HEAD 200 on the manufacturer CDN with matching versioned filenames"
       ]
     },
     {
@@ -178287,11 +178388,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -192262,13 +192363,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-barricade-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.8.8",
+      "latestVersion": "4.8.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Barricade 4 build 4.8.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192366,13 +192467,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-compressor-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.7.8",
+      "latestVersion": "4.7.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Compressor 4 build 4.7.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192444,13 +192545,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-dual-vcf-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.9.8",
+      "latestVersion": "1.9.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"DualVCF build 1.9.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192496,13 +192597,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-enhancer-v1-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.6.8",
+      "latestVersion": "1.6.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Enhancer build 1.6.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192522,13 +192623,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-equalizer-pro-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.5.0",
+      "latestVersion": "1.5.1",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Equalizer Pro build 1.5.0\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192574,13 +192675,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-equalizer-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.9.0",
+      "latestVersion": "4.9.1",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Equalizer 4 build 4.9.0\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192678,13 +192779,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-flowtones-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.6.8",
+      "latestVersion": "1.7.0",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Flowtones build 1.6.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192730,13 +192831,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-goniometer-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.3.8",
+      "latestVersion": "1.3.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:33Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"GonioMeter build 1.3.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192782,13 +192883,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-lowtone-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.2.8",
+      "latestVersion": "1.3.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-21T05:23:34Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Lowtone build 1.2.8\""
+        "Official ToneBoosters changelog release notes page"
       ]
     },
     {
@@ -192808,13 +192909,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-mbc---multi-band-compressor-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.4.8",
+      "latestVersion": "1.4.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"MBC build 1.4.8\""
+        "Official ToneBoosters changelog lists MBC build 1.4.9 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 1.4.8"
       ]
     },
     {
@@ -192860,13 +192961,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-morphit-v1-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "2.1.9",
+      "latestVersion": "2.2.0",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Morphit build 2.1.9\""
+        "Official ToneBoosters changelog lists Morphit build 2.2.0 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 2.1.9"
       ]
     },
     {
@@ -192912,13 +193013,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-reelbus-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.8.9",
+      "latestVersion": "4.9.0",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"ReelBus 4 build 4.8.9\""
+        "Official ToneBoosters changelog lists ReelBus 4 build 4.9.0 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 4.8.9"
       ]
     },
     {
@@ -192964,13 +193065,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-reverb-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.8.8",
+      "latestVersion": "4.8.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:08Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Reverb 4 build 4.8.8\""
+        "Official ToneBoosters changelog lists Reverb 4 build 4.8.9 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 4.8.8"
       ]
     },
     {
@@ -193012,13 +193113,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-sibalance-v4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.3.8",
+      "latestVersion": "4.3.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Sibalance 4 build 4.3.8\""
+        "Official ToneBoosters changelog lists Sibalance 4 build 4.3.9 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 4.3.8"
       ]
     },
     {
@@ -193038,13 +193139,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-spectrogram-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "1.7.8",
+      "latestVersion": "1.7.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"Spectrogram build 1.7.8\""
+        "Official ToneBoosters changelog lists Spectrogram build 1.7.9 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 1.7.8"
       ]
     },
     {
@@ -193090,13 +193191,13 @@
       "updatePortalUrl": "https://www.toneboosters.com/account.html",
       "notes": "KVR product https://www.kvraudio.com/product/tb-voicepitcher-4-by-toneboosters",
       "popularityTier": 3,
-      "latestVersion": "4.3.8",
+      "latestVersion": "4.3.9",
       "versionSourceUrl": "https://www.toneboosters.com/changelog.html",
-      "versionVerifiedAt": "2026-09-10T09:20:52Z",
+      "versionVerifiedAt": "2026-11-20T17:24:09Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 92,
       "versionConfidenceReasons": [
-        "ToneBoosters changelog newest \"VoicePitcher 4 build 4.3.8\""
+        "Official ToneBoosters changelog lists VoicePitcher 4 build 4.3.9 in the November 14, 2026 entry (Installer v2.1.9 beta 2); supersedes stored 4.3.8"
       ]
     },
     {
@@ -214971,6 +215072,7 @@
         "AAX"
       ],
       "updatePortalUrl": "https://sugar-bytes.de/en/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/unique-le-by-sugar-bytes",
       "notesForUser": "Legacy/LE edition (Unique LE).",
       "identityKind": "discontinued",
@@ -220705,11 +220807,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.1",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:16Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -223298,11 +223400,11 @@
       "popularityTier": 1,
       "latestVersion": "1.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:31Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column; page updated March 22, 2023."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -223760,11 +223862,11 @@
       "popularityTier": 1,
       "latestVersion": "2.0.0",
       "versionSourceUrl": "http://support.cinesamples.com/hc/en-us/articles/4407380353175-Cinesamples-Product-Compatibility-Version-Chart",
-      "versionVerifiedAt": "2026-09-16T08:44:32Z",
+      "versionVerifiedAt": "2026-11-20T17:29:15Z",
       "versionEvidence": "page-confirmed",
       "versionConfidence": 90,
       "versionConfidenceReasons": [
-        "surge-0118 coordinator-verified: Official Cinesamples compatibility/version chart, 'Latest Version' column."
+        "manual accept via CLI (confidence=90)"
       ]
     },
     {
@@ -224177,10 +224279,11 @@
         "AAX"
       ],
       "updatePortalUrl": "https://sugar-bytes.de/en/account/",
+      "discontinued": true,
       "notes": "KVR product https://www.kvraudio.com/product/wow-by-sugar-bytes",
       "appleSilicon": "native",
       "popularityTier": 1,
-      "latestVersion": "1.2",
+      "finalVersion": "1.2",
       "versionSourceUrl": "https://reverb.com/en-pl/item/33269343-sugar-bytes-wow2-software-download",
       "versionVerifiedAt": "2026-09-14T17:36:56Z",
       "versionEvidence": "page-confirmed",
@@ -238700,6 +238803,20 @@
       "isFreeware": true,
       "appleSilicon": "universal",
       "popularityTier": 2
+    },
+    {
+      "id": "digital-brain-instruments--vplayer-pro",
+      "manufacturerId": "digital-brain-instruments",
+      "name": "vPlayer Pro",
+      "matchPatterns": [
+        "vPlayer Pro",
+        "Digital Brain Instruments vPlayer Pro",
+        "vPlayer 4"
+      ],
+      "updatePortalUrl": "https://www.digitalbrain-instruments.com/vplayer4",
+      "notes": "Standalone VST/AU plugin host for live performance and testing plugins: up to four instrument channels, audio/MIDI playback and recording, looper, tuner and master rack. Free Lite edition available. Mac and Windows. KVR Nov 18, 2026 announcement calls it vPlayer Pro ($19.99, 30% off code HELLO to Dec 1); vendor page titles it vPlayer 4 and shows $9.99 — price/name discrepancy noted, vendor page is the live product page. No version number printed on the vendor page — seeded versionless.",
+      "generation": "4",
+      "identityKind": "standalone_app"
     },
     {
       "id": "zplane--vielklang-instant-harmony",
