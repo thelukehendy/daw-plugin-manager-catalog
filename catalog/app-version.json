@@ -1,7 +1,7 @@
 {
   "feedVersion": 1,
-  "latestVersion": "1.0.2",
-  "publishedAt": "2026-10-01T05:03:49Z",
+  "latestVersion": "1.0.3",
+  "publishedAt": "2026-11-26T14:30:00Z",
   "downloadUrl": "https://www.productiononline.com",
-  "notes": "App binaries are hosted on productiononline.com. This file is version metadata only — bump latestVersion only when a new unique notarized build ships."
+  "notes": "App binaries are hosted on productiononline.com. This file is version metadata only — bump latestVersion only when a new unique notarized build ships. 1.0.3 includes exact-case bundle/AU matching, universal installedVersionRule, offline catalog warning, light-mode contrast fixes, native hub launching, and future-proof vendor/VST3 discovery."
 }
